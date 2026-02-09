@@ -1,0 +1,2860 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.401,
+                0.043,
+                0.596,
+                0.055
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.06,
+                0.075,
+                0.165,
+                0.165
+            ],
+            "angle": 0,
+            "content": "ELSEVIER"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.38,
+                0.076,
+                0.621,
+                0.089
+            ],
+            "angle": 0,
+            "content": "Contents lists available at ScienceDirect"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.418,
+                0.106,
+                0.584,
+                0.125
+            ],
+            "angle": 0,
+            "content": "Acta Materialia"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.33,
+                0.146,
+                0.673,
+                0.16
+            ],
+            "angle": 0,
+            "content": "journal homepage: www.elsevier.com/locate/actamat"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.84,
+                0.068,
+                0.939,
+                0.16
+            ],
+            "angle": 0,
+            "content": ""
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.207,
+                0.787,
+                0.25
+            ],
+            "angle": 0,
+            "content": "Pt Schwarz crystals stabilized by minimal-surface grain boundaries and twins at the grain size limit"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.839,
+                0.186,
+                0.891,
+                0.224
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.262,
+                0.611,
+                0.28
+            ],
+            "angle": 0,
+            "content": "H.L. Fu a,b,†, X. Zhou a,†, Z.P. Gao a,b, Z.H. Jin a,* , X.Y. Li a,* , K. Lu a,c"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.287,
+                0.782,
+                0.3
+            ],
+            "angle": 0,
+            "content": "Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, 72 Wenhua Road, Shenyang 110016, China"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.3,
+                0.61,
+                0.31
+            ],
+            "angle": 0,
+            "content": "b School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016, China"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.31,
+                0.437,
+                0.321
+            ],
+            "angle": 0,
+            "content": "\\(^{c}\\) Liaoning Academy of Materials, 280 Chuangxin Road, Shenyang 110167, China"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.058,
+                0.287,
+                0.782,
+                0.321
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.35,
+                0.195,
+                0.362
+            ],
+            "angle": 0,
+            "content": "ARTICLEINFO"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.375,
+                0.11,
+                0.386
+            ],
+            "angle": 0,
+            "content": "Keywords:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.387,
+                0.139,
+                0.396
+            ],
+            "angle": 0,
+            "content": "Schwarz crystal"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.397,
+                0.107,
+                0.407
+            ],
+            "angle": 0,
+            "content": "Platinum"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.408,
+                0.116,
+                0.418
+            ],
+            "angle": 0,
+            "content": "Polycrystal"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.419,
+                0.146,
+                0.428
+            ],
+            "angle": 0,
+            "content": "Grain boundaries"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.43,
+                0.164,
+                0.44
+            ],
+            "angle": 0,
+            "content": "Mechanical twinning"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.441,
+                0.151,
+                0.45
+            ],
+            "angle": 0,
+            "content": "Structural stability"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.451,
+                0.173,
+                0.461
+            ],
+            "angle": 0,
+            "content": "Hall-petch relationship"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.462,
+                0.16,
+                0.472
+            ],
+            "angle": 0,
+            "content": "Molecular dynamics"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.336,
+                0.35,
+                0.436,
+                0.362
+            ],
+            "angle": 0,
+            "content": "ABSTRACT"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.334,
+                0.375,
+                0.938,
+                0.508
+            ],
+            "angle": 0,
+            "content": "Schwarz crystals with uniformly distributed twins enclosed by general grain boundaries (GBs) resembling triply minimal-surfaces were observed in high stacking fault energy metal Pt which is believed not readily to twin. By refining the grains of pure Pt from \\(140~\\mu \\mathrm{m}\\) to several nanometers via plastic deformation technique, deformation twins were found to emerge numerously and the structural morphologies of Schwarz crystals can be identified at grain sizes below \\(4\\mathrm{nm}\\). Both experiments and atomistic simulations suggest that Pt Schwarz crystals are thermally stable at temperatures approaching the thermal equilibrium melting point. The measured room temperature microhardness as a function of grain size, on the other hand, may increase monotonically up to \\(12.9\\mathrm{GPa}\\), revealing a sustained Hall-Petch relationship. The observed outstanding mechanical stabilities can be attributed to that, regardless of the critical twin size and the stacking fault energy of the material, the plastic deformation at the grain size limit is solely limited by twinning and both the nucleation and bowing-out of twinning partial dislocations from GB sources are notoriously difficult according to simulations and theory."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.545,
+                0.166,
+                0.557
+            ],
+            "angle": 0,
+            "content": "1. Introduction"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.571,
+                0.486,
+                0.703
+            ],
+            "angle": 0,
+            "content": "Grain refinement induced by plastic deformation is an effective way to strengthen metals and their alloys. However, it remains challenging to thermally stabilize the refined microstructures because the process in general involves significant dislocation activities such as multiplication, accumulation, rearrangement, and annihilation, as well as grain boundary (GB) migration activities underlying grain growth and recrystallization [1-3]. Recent studies indicate that highly stable nanostructured metallic materials can be achieved through relaxing and optimizing GB structures to improve structural stability at grain sizes below \\(70~\\mathrm{nm}\\) for Cu, \\(43~\\mathrm{nm}\\) for Ni, and \\(77~\\mathrm{nm}\\) for Ag [4,5]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.703,
+                0.486,
+                0.795
+            ],
+            "angle": 0,
+            "content": "Most recently, with reduced grain sizes down to a few nanometers upon plastic deformation, a new kind of metastable structure called Schwarz crystal (SC) with GB structures assembling triply periodic minimal surface (TPMS) and densely embedded twins has been discovered. Those SCs were found to exhibit unusual thermal stabilities at temperatures close to the equilibrium melting point \\((T_{\\mathrm{E}})\\) as well as neartheoretical shear strength [6-8]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.079,
+                0.795,
+                0.486,
+                0.809
+            ],
+            "angle": 0,
+            "content": "Based on extensive experimental studies, molecular dynamic (MD)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.544,
+                0.938,
+                0.677
+            ],
+            "angle": 0,
+            "content": "simulations, and first-principles calculations, it is generally believed that stacking fault energies (SFEs) are closely relevant to deformation behaviors [9-14]. Previous studies also suggest that GB relaxation processes involving emitting of partial dislocations, stacking faults (SFs), and twins from GBs sites are strongly grain-size dependent [15-23]. For example, in metals such as Ni and Al [24-27], perfect lattice dislocations (extended) were found to dominate the deformation process at larger grain sizes (e.g. \\(20\\mathrm{nm}\\) for Ni and \\(18\\mathrm{nm}\\) for Al); whereas for smaller grain sizes, faulting and twinning led by Shockley-partialls may show up dominantly to contribute to plastic deformation."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.677,
+                0.939,
+                0.809
+            ],
+            "angle": 0,
+            "content": "Among face-centered-cubic (FCC) metals, Pt is a unique metal not only due to its high SFE \\((286 - 393\\mathrm{mJ} / \\mathrm{m}^2)\\) [10,11,28-30], but also because the SFE is very close to the so-called unstable fault energy, i.e. the energy barrier to produce the planar fault (Table 1), underlying that twinning in Pt should be more difficult to occur than that in Al [28,31, 32]. As confirmed through high pressure torsion experiments [33,34], in ultrafine grains of Pt which may show a saturated microhardness of 255 Hv or \\(2.5\\mathrm{GPa}\\), no trace of SF or deformation twin was noticeable. So far, deformation twins in Pt seemed only observed in thin film samples about \\(10\\mathrm{nm}\\) thick via in-situ tensile deformation technique under TEM [29,"
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.066,
+                0.832,
+                0.21,
+                0.844
+            ],
+            "angle": 0,
+            "content": "* Corresponding authors."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.081,
+                0.845,
+                0.458,
+                0.856
+            ],
+            "angle": 0,
+            "content": "E-mail addresses: zhjin@imr.ac.cn (Z.H. Jin), xyli@imr.ac.cn (X.Y. Li)."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.07,
+                0.857,
+                0.34,
+                0.868
+            ],
+            "angle": 0,
+            "content": "These authors contributed equally to this work."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.06,
+                0.878,
+                0.323,
+                0.889
+            ],
+            "angle": 0,
+            "content": "https://doi.org/10.1016/j.actamat.2024.120007"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.061,
+                0.89,
+                0.541,
+                0.902
+            ],
+            "angle": 0,
+            "content": "Received 7 March 2024; Received in revised form 11 May 2024; Accepted 12 May 2024"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.061,
+                0.903,
+                0.221,
+                0.912
+            ],
+            "angle": 0,
+            "content": "Available online 3 June 2024"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.061,
+                0.913,
+                0.938,
+                0.936
+            ],
+            "angle": 0,
+            "content": "1359-6454/© 2024 Acta Materialia Inc. Published by Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies."
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.06,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.941,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.059,
+                0.068,
+                0.486,
+                0.115
+            ],
+            "angle": 0,
+            "content": "Table 1 MD calculated elastic properties, planar faults energies (for both stable and unstable faults), GB energy and equilibrium melting point (MP) with COMB interatomic potentials for Pt."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.06,
+                0.117,
+                0.487,
+                0.294
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td>Elastic constants (GPa)</td><td>Stable fault energy (mJ/m2)</td><td>Unstable fault energy (mJ/m2)</td><td>Λ</td><td>GB energy (mJ/m2)</td><td>M.P. (K)</td></tr><tr><td></td><td>C11 C12 C44</td><td>γisf</td><td>γusf</td><td>γisf/γusf</td><td>γGB</td><td>TE</td></tr><tr><td rowspan=\"4\">COMB</td><td>281 198</td><td rowspan=\"4\">321</td><td rowspan=\"4\">367</td><td rowspan=\"4\">0.86</td><td rowspan=\"4\">1.56f</td><td>2450</td></tr><tr><td>81a</td><td rowspan=\"3\">(±50)</td></tr><tr><td>306 182</td></tr><tr><td>57a</td></tr><tr><td rowspan=\"2\">Expt.</td><td>338 261</td><td rowspan=\"2\">\\</td><td rowspan=\"2\">\\</td><td rowspan=\"2\">\\</td><td rowspan=\"2\">\\</td><td rowspan=\"2\">2000</td></tr><tr><td>73b</td></tr><tr><td rowspan=\"2\">DFT</td><td>303 220</td><td>286d</td><td>286d</td><td>1d</td><td rowspan=\"2\">1.16c,f</td><td rowspan=\"2\">\\</td></tr><tr><td>54e</td><td>302e</td><td>346e</td><td>0.87e</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.06,
+                0.295,
+                0.486,
+                0.319
+            ],
+            "angle": 0,
+            "content": "a MD calculated moduli for bulk FCC lattice (row above) and SC (row below) using COMB."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.07,
+                0.32,
+                0.248,
+                0.331
+            ],
+            "angle": 0,
+            "content": "Data taken from Refs. [62,63]."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.07,
+                0.332,
+                0.227,
+                0.342
+            ],
+            "angle": 0,
+            "content": "Data taken from Ref. [64]."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.07,
+                0.343,
+                0.226,
+                0.354
+            ],
+            "angle": 0,
+            "content": "Data taken from Ref. [28]."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.07,
+                0.355,
+                0.226,
+                0.366
+            ],
+            "angle": 0,
+            "content": "Data taken from Ref. [65]."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.061,
+                0.367,
+                0.486,
+                0.392
+            ],
+            "angle": 0,
+            "content": "Calculated for twist GBs in a bi-crystal configuration given that rotation axis is [110], rotation angle is \\(38.9^{\\circ}\\) and GB plane is [110]."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.06,
+                0.295,
+                0.486,
+                0.392
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.407,
+                0.107,
+                0.419
+            ],
+            "angle": 0,
+            "content": "35-38]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.42,
+                0.487,
+                0.538
+            ],
+            "angle": 0,
+            "content": "According to recent studies [6,8], twinning and consequently the formation of twin-boundary network are critical to achieving stable Schwarz crystals. Schwarz crystals in high SFE metals such as Al have also been reported recently [39], yet, the atomistic level mechanisms accounting for the structural stability remain to be addressed. Besides the high SFE and uneasiness to twin, Pt is also a metal of high melting point \\((T_{\\mathrm{E}} = 2041\\mathrm{K}\\) [40]) and large bulk modulus. It is therefore of fundamental interest to see whether twins and consequently stable Schwarz crystals can be produced at the grain size limit."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.552,
+                0.172,
+                0.565
+            ],
+            "angle": 0,
+            "content": "2. Experimental"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.579,
+                0.205,
+                0.592
+            ],
+            "angle": 0,
+            "content": "2.1. Sample preparation"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.605,
+                0.487,
+                0.764
+            ],
+            "angle": 0,
+            "content": "Polycrystalline pure Pt samples of various grain sizes were prepared using a two-step plastic deformation process. Pt bars with a purity of 99.99 wt.% were annealed at \\(1023\\mathrm{K}\\) for \\(1\\textrm{h}\\) before plastic deformation, forming fully recrystallized structures with grain size about \\(140~{\\mu\\mathrm{m}}\\). Bars with a diameter of \\(10\\mathrm{mm}\\) and a length of \\(7\\mathrm{mm}\\) were cut from the annealed Pt for further processing. In the first step, the coarse-grained Pt bar was processed by cold rolling. The total rolling reduction is about 98 % and the final thickness of the sheet was \\(0.15\\mathrm{mm}\\). Disk-shaped samples of \\(5\\mathrm{mm}\\) in diameter were cut from the sheet. In the second step, the disk samples on a rectangular flat die were deformed and processed differently by high pressure torsion under a pressure of about \\(10\\mathrm{GPa}\\) and a rotation speed of \\(30\\mathrm{rpm}\\) [6,7]."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.778,
+                0.255,
+                0.79
+            ],
+            "angle": 0,
+            "content": "2.2. Microhardness measurement"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.804,
+                0.487,
+                0.857
+            ],
+            "angle": 0,
+            "content": "Vickers microhardness of the samples was measured using a Qness \\(\\mathrm{Q10A + }\\) micro-hardness tester under a load of \\(50\\mathrm{g}\\) and a loading time of 10 s. Each microhardness value was averaged from at least 10 indentations with an error defined by the mean standard deviation."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.871,
+                0.215,
+                0.884
+            ],
+            "angle": 0,
+            "content": "2.3. Thermal stability test"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.897,
+                0.487,
+                0.937
+            ],
+            "angle": 0,
+            "content": "The thermal stability of Pt samples was determined by three kinds of annealing equipment to cover a wide temperature range from room temperature to \\(1923\\mathrm{K}\\). When the temperature range was between room"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.066,
+                0.939,
+                0.33
+            ],
+            "angle": 0,
+            "content": "temperature and \\(1273\\mathrm{K}\\), the samples were sealed in vacuum tubes to isolate gas during annealing and then annealed in a tube furnace (Thermo Scientific, HTF55035C-1) with a temperature control accuracy of \\(\\pm 2\\mathrm{K}\\). The heating rate was about \\(100\\mathrm{K / min}\\) and the annealing duration was \\(30\\mathrm{min}\\). Between \\(1373\\mathrm{K}\\) and \\(1873\\mathrm{K}\\), the samples were put in an alumina crucible and annealed in an alumina tube furnace (HFKejing, GSL-1700X). All experiments were carried out under a high purity argon atmosphere at a heating rate of \\(5\\mathrm{K / min}\\). Recorded temperature of the tube furnaces was calibrated and corrected to an accuracy of \\(\\pm 1.5\\mathrm{K}\\). Samples were heated directly to target temperatures and the annealing duration was \\(30\\mathrm{min}\\), then cooled down to room temperature at a rate of \\(10\\mathrm{K / min}\\). Above \\(1873\\mathrm{K}\\), the samples were placed in a graphite crucible and heat treated in a graphite resistance furnace (Shanghai Chenhua Electrical Furnace Inc., ZT-18-22). Shortly after raising the temperature to \\(1473\\mathrm{K}\\) at a heating rate of \\(10\\mathrm{K / min}\\), the samples were heated to target temperatures with a heating rate of \\(5\\mathrm{K / min}\\) and held the temperature for \\(30\\mathrm{min}\\). During the heating process, the dynamic vacuum in the furnace chamber was kept by a pump and the initial gas pressure was below \\(5\\mathrm{Pa}\\). The furnace was nature-cooled to room temperature afterward to anneal the samples."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.344,
+                0.693,
+                0.356
+            ],
+            "angle": 0,
+            "content": "2.4. Structure characterization"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.37,
+                0.939,
+                0.515
+            ],
+            "angle": 0,
+            "content": "Structure characterization of the as-prepared samples and the annealed samples was carried out on scanning electron microscopes (SEM, FEI Verios 460) and a transmission electron microscope (TEM, FEI Talos F200X) operated at \\(200\\mathrm{kV}\\). Atomic-resolution high angle annular dark field (HAADF) and bright field (BF) scanning transmission electron microscope (STEM) images were taken on an aberration-corrected environmental TEM, FEI Titan3 G2 60-300 Chemi STEM, operated at \\(300\\mathrm{kV}\\). Samples for SEM and TEM observations were prepared by means of cutting and mechanical grinding, followed by ion-milled on Leica RES101 and Gatan 695 precision ion polishing system at liquid nitrogen temperature."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.529,
+                0.635,
+                0.54
+            ],
+            "angle": 0,
+            "content": "2.5. MD simulations"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.555,
+                0.938,
+                0.7
+            ],
+            "angle": 0,
+            "content": "MD simulations were carried out to examine the structural stability of prototype Schwarz crystals with GBs resembling topologically the triply periodic minimal surface morphology of diamond, i.e. D-SC (see details provided in[6, 8]). Such D-SCs (SCs) can be built by considering two truncated-tetrahedra of cubic lattice orientations and four cylinder or disk shaped twins with respect to each \\(\\langle 111\\rangle\\) orientations to fill-up the 3D space for a given cubic unit cell, such that optimized SC configurations of different cell sizes can be obtained by tuning twin thickness and atomic density at GB. Planar GBs in bi-crystal configurations with specified lattice orientations [6,8] can be built straightforwardly with open-source software such as LAMMPS [41] or Atomsk [42]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.7,
+                0.938,
+                0.805
+            ],
+            "angle": 0,
+            "content": "To model properly the material force fields, we choose to use the third-generation charge optimized many body (COMB) potentials developed in Phillipot and Sinnott research groups [43,44]. By including charge electrostatic interactions and short-range bond order potentials, the adaptive force fields are capable to reproducing reasonably well structures and energies of various crystal defects such as dislocations, planar faults, GBs and surfaces, in particular for complex metallic systems."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.805,
+                0.939,
+                0.937
+            ],
+            "angle": 0,
+            "content": "All simulations were carried out with the MD code LAMMPS. Thermal relaxations were performed under zero pressure conditions with Nose-Hoover thermostat and Parinello-Rahman barostat (isotropic or triclinic). The time step \\((\\Delta t)\\) used was 2.5 fs. We followed a heating/ quenching procedure to approach a target temperature at a heating/ cooling rate of \\(40~\\mathrm{K / ns}\\). Mechanical strength of SC Pt was examined via uniaxial tensile loading tests performed at \\(273~\\mathrm{K}\\) by successively applying homogeneous strains in \\(x, y,\\) or \\(z\\) direction to the MD supercell at a constant strain rate of \\(10^{6} / \\mathrm{s}\\). Specifically, as one direction of the sample is loaded and held via NVT relaxations over a given period of MD"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.952,
+                0.505,
+                0.961
+            ],
+            "angle": 0,
+            "content": "2"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.059,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.941,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.066,
+                0.489,
+                0.104
+            ],
+            "angle": 0,
+            "content": "integration (typically, 10,000 to 50,000 \\(\\Delta t\\)), zero pressure conditions in perpendicular directions are simultaneously maintained with NPT relaxations."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.106,
+                0.486,
+                0.147
+            ],
+            "angle": 0,
+            "content": "With common neighbor and dislocation analysis tools, properties associated with point defects, planar faults, GBs, and dislocations are calculated and visualized using the software Ovito [45,46]."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.162,
+                0.132,
+                0.175
+            ],
+            "angle": 0,
+            "content": "3. Results"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.188,
+                0.411,
+                0.202
+            ],
+            "angle": 0,
+            "content": "3.1. The microstructures of as-prepared nanograined pure Pt"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.214,
+                0.486,
+                0.241
+            ],
+            "angle": 0,
+            "content": "Microstructures of samples with different grain sizes were observed by TEM. The microstructures of the as-prepared samples with grain sizes"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.066,
+                0.939,
+                0.158
+            ],
+            "angle": 0,
+            "content": "larger than \\(100\\mathrm{nm}\\) were featured by elongated grains and high-density dislocations (Figs. 1a and b), similar to previous observations in Cu [47]. Reducing the grain size to about \\(30\\mathrm{nm}\\), as seen in Fig. 1c, results in sharper GB structures and lower contrasts within grain, signals underlying less significant strain fields and reduced number of lattice dislocations, according to which the formation of a uniform nanograined structure can be justified."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.158,
+                0.939,
+                0.237
+            ],
+            "angle": 0,
+            "content": "Decreasing the average grain size down to \\(20\\mathrm{nm}\\) or below, however, significant changes in morphology were observed, in particular, twins showed up. As shown in Fig. 2a, the grains in the \\(17\\mathrm{nm}\\) samples were approximately equiaxed with an aspect ratio of about 1.4, with an almost random grain orientation distribution as evidenced by selected-area electron diffraction and even less dislocations than that in"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.078,
+                0.257,
+                0.499,
+                0.571
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.078,
+                0.572,
+                0.499,
+                0.887
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.501,
+                0.257,
+                0.92,
+                0.571
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.511,
+                0.574,
+                0.901,
+                0.904
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.912,
+                0.938,
+                0.937
+            ],
+            "angle": 0,
+            "content": "Fig. 1. The typical bright-field TEM image of the as prepared Pt samples with average grain size of (a) \\(114 \\pm 20 \\mathrm{~nm}\\), (c) \\(32 \\pm 5 \\mathrm{~nm}\\). (b). The typical HAADF-STEM image of nanograins in (a) and shows a large quantity of dislocations. (d) The grain size distribution of (a) and (c)."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.953,
+                0.505,
+                0.961
+            ],
+            "angle": 0,
+            "content": "3"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.061,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.941,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.081,
+                0.069,
+                0.371,
+                0.265
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.373,
+                0.069,
+                0.665,
+                0.264
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.666,
+                0.069,
+                0.915,
+                0.264
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.079,
+                0.265,
+                0.372,
+                0.462
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.373,
+                0.265,
+                0.646,
+                0.462
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.653,
+                0.265,
+                0.896,
+                0.466
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.475,
+                0.938,
+                0.511
+            ],
+            "angle": 0,
+            "content": "Fig. 2. (a) The typical bright-field TEM image of the as prepared Pt samples with average grain size of (a) \\(17 \\pm 3 \\mathrm{~nm}\\), (d) \\(7.5 \\pm 0.8 \\mathrm{~nm}\\). (b) The high-resolution TEM images of deformation twins and stacking faults (SFs) inside a nanograin and (c) a relaxed GB structure in high-angle GB by twins and SFs. (e) The high-resolution TEM image with high density deformation twins inside a nanograin in (d) which are circled with dashed lines. (f) The grain size distribution of (a) and (d)."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.095,
+                0.553,
+                0.497,
+                0.875
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.498,
+                0.553,
+                0.706,
+                0.723
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.706,
+                0.554,
+                0.902,
+                0.723
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.498,
+                0.724,
+                0.719,
+                0.875
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.719,
+                0.724,
+                0.904,
+                0.88
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.888,
+                0.94,
+                0.937
+            ],
+            "angle": 0,
+            "content": "Fig. 3. Structure characterization of Schwarz crystal (SC) with average grain size of \\(1.7 \\pm 0.5\\) nm in pure Pt. (a) The limiting grains show the characteristics of manifold structure. (b) A magnified image of a selected area in (a). Red dots show twin boundary (TB) and SFs, G1-G7 are different grains separated by TB or SFs. (c) High-resolution HAADF-STEM images of extremely fine twin thickness and SFs in the grains. (d) An individual grains with truncated octahedral geometries and TB, missing atoms at corner are indicated by circles. (e) The grain size distribution of SC."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.953,
+                0.505,
+                0.961
+            ],
+            "angle": 0,
+            "content": "4"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.059,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.941,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.066,
+                0.486,
+                0.145
+            ],
+            "angle": 0,
+            "content": "Fig. 1c. In some regions of the sample, grain-crossing twins and SFs are observable (Fig. 2b). The population of twin or SF-containing grains was statistically estimated to be about \\(3\\%\\). Closer look of GB planes indicates that twins or SFs are ended at high angle GBs (Fig. 2c), underlying that the sample has undergone significant GB activities or GB relaxations [15,22]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.145,
+                0.486,
+                0.264
+            ],
+            "angle": 0,
+            "content": "More twins show up when the average grain size is further reduced to about \\(8\\mathrm{nm}\\) (Fig. 2d). In such cases, grains distribute more uniformly with equiaxed aspect ratios close to 1 and also show more random lattice orientations (inset in Fig. 2d). Comparing to those in Fig. 2b, twin thickness became thinner in Fig. 2e. It has been shown that intensively relaxed GBs tend to increase twin fractions [48]. Meanwhile, GB mobility may also be suppressed by continuous generation of twins or SFs cutting-through grains such that further refined grains can be achieved."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.264,
+                0.486,
+                0.436
+            ],
+            "angle": 0,
+            "content": "The minimum grain size measured with high-resolution STEM is \\(1.7 \\pm 0.5 \\mathrm{~nm}\\). As can be seen in Fig. 3a, in contrast to Fig. 1 and Fig. 2, the microstructure morphology now appears as worm-like, percolated or seemingly manifold. The smoothly connected GBs characterize a structural morphology of minimal-surfaces, similar to that observed in pure Cu [6]. Increasing the magnification, both twins and SFs became visible in individual grains separated at a distance less than \\(3 \\mathrm{~nm}\\), as shown in Figs. 3b and 3c, where missing-corner grain projections are also noticeable as circled in Fig. 3(d). Grain shapes revealing truncated octahedra or tetrahedra with blurred boundary planes can also be identified, similar to those in Cu and Al-Mg [6,7]. Accordingly, structural morphology of SC crystals with vanishing mean curvature at GBs can be deduced in our \\(1.7 \\mathrm{~nm} \\mathrm{Pt}\\) samples."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.46,
+                0.305,
+                0.473
+            ],
+            "angle": 0,
+            "content": "3.2. Structural stability of nanograined Pt"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.487,
+                0.488,
+                0.581
+            ],
+            "angle": 0,
+            "content": "The Vickers microhardness was measured using samples of different grain sizes varying from several nanometers to \\(140~\\mu \\mathrm{m}\\). As shown in Fig. 4, the microhardness is \\(0.8\\mathrm{GPa}\\) for \\(140~\\mu \\mathrm{m}\\) samples, but increases to \\(8.4\\mathrm{GPa}\\) for samples with a grain size of \\(17~\\mathrm{nm}\\). Plotting our data together with those available in literature [49-55] as a function of grain size reveals a monotonically increasing Hall-Petch relationship applicable for all grain sizes considered, such that a microhardness as high as"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.061,
+                0.596,
+                0.494,
+                0.868
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.876,
+                0.489,
+                0.938
+            ],
+            "angle": 0,
+            "content": "Fig. 4. Experimentally measured microhardness as a function of grain size in pure Pt, together with those obtained from MD tension simulations in present studies. The retained Hall-Petch relationship is shown by the dash line. The Orowan-twinning stress predicted according to Eq. (3) is shown by the solid line. The literature data are added for comparison."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.511,
+                0.066,
+                0.689,
+                0.079
+            ],
+            "angle": 0,
+            "content": "12.9 GPa can be approached."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.079,
+                0.938,
+                0.237
+            ],
+            "angle": 0,
+            "content": "Thermal stability was examined by annealing samples of various initial grain sizes at different temperatures for \\(30\\mathrm{min}\\). Our results showed that the grain coarsening temperature increases with decreasing the grain size down to \\(20\\mathrm{nm}\\) (Fig. 5). The grain coarsening occurs at about \\(800\\mathrm{K}\\) for the 17-nm samples and \\(873\\mathrm{K}\\) for the 11-nm samples. For the 8-nm samples containing apparently more twins and high density of low index faceted boundaries, the grain size does not alter significantly when annealed at \\(1373\\mathrm{K}\\), underlying that the grain coarsen temperature is at least \\(500\\mathrm{K}\\) higher than that for the 11-nm samples. For SC samples with nominal grain sizes of \\(1\\mathrm{nm}\\) and \\(4\\mathrm{nm}\\), neither the typical manifold structure nor the grain size seems to change significantly at temperatures below \\(1923\\mathrm{K}(\\sim 0.94T_{\\mathrm{E}})\\), as can be seen in Fig. 6."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.238,
+                0.939,
+                0.318
+            ],
+            "angle": 0,
+            "content": "Comparing to the data in the literature [49,50,53,54,56-59], the thermal stability of Pt can be significantly improved in our experiments. In particular, the thermal stability of SC samples is close to the melting point of Pt in our measurements. In contrast, the \\(12\\mathrm{nm}\\) to \\(18\\mathrm{nm}\\) Pt samples prepared by inert gas condensation showed significant grain coarsening at temperatures of merely \\(463\\mathrm{K}(\\sim 0.23T_{\\mathrm{E}})\\) [57]."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.34,
+                0.635,
+                0.352
+            ],
+            "angle": 0,
+            "content": "3.3. MD simulations"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.367,
+                0.661,
+                0.379
+            ],
+            "angle": 0,
+            "content": "3.3.1. Thermal stabilities"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.38,
+                0.938,
+                0.5
+            ],
+            "angle": 0,
+            "content": "The MD measured thermostability \\((T_{\\mathrm{S}} / T_{\\mathrm{E}})\\), where \\(T_{\\mathrm{S}}\\) is the temperature at which SC structure tends to destabilize as a function of SC aperture sizes \\(D_{\\mathrm{SC}}\\) was shown in Fig. 7, suggesting a size-dependent thermostability similar to that observed for Cu [8]. The results show that for \\(D_{\\mathrm{SC}} > 3\\mathrm{nm}\\), the thermostability approaches to the experimentally measured data, which is above \\(0.9T_{\\mathrm{E}}\\). The aperture of a prototype D-SC in a cubic supercell of size \\(a\\) is defined by \\(D_{\\mathrm{SC}} = \\sqrt{2} /2a\\) [8], which also measures the closest spacing between TPMS GBs, or equivalently, the diameter of twins enclosed by GBs."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.5,
+                0.939,
+                0.62
+            ],
+            "angle": 0,
+            "content": "The thermal stability drops down from \\(0.94~T_{\\mathrm{E}}\\) to \\(0.52~T_{\\mathrm{E}}\\) as \\(D_{\\mathrm{SC}}\\) decreases from \\(5\\mathrm{nm}\\) to \\(1.75\\mathrm{nm}\\). Such a trend can be attributed to that, for a \\(D_{\\mathrm{SC}}\\) value of \\(2.2\\mathrm{nm}\\), the SC unit cell contains merely 2072 atoms such that nearly \\(35\\%\\) atoms can be identified as GB atoms. As a result, enhanced GBs interaction is expected under thermal fluctuations. Our MD observations suggest that deviations of GB location locally from the zero-mean curvature condition tends to develop significant stress concentrations for tiny SC cells so as to trigger twinning activities at lower temperatures upon which TPMS GBs may collapse (or recrystallize)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.514,
+                0.634,
+                0.946,
+                0.869
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.509,
+                0.876,
+                0.939,
+                0.938
+            ],
+            "angle": 0,
+            "content": "Fig. 5. Thermal stability of different grain sizes of pure Pt: Measured grain coarsening temperature (TGC) as a function of average grain size (GB relaxation, GBR; Schwarz crystal, SC). Literature data for Pt samples prepared through various processes are included. CR, cold rolling; PVD, physical vapor deposition; IGC, inert gas condensation [49,50,53,56,57,59]."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.952,
+                0.504,
+                0.961
+            ],
+            "angle": 0,
+            "content": "5"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.061,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.94,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.081,
+                0.069,
+                0.497,
+                0.381
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.502,
+                0.069,
+                0.918,
+                0.381
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.176,
+                0.39,
+                0.819,
+                0.403
+            ],
+            "angle": 0,
+            "content": "Fig. 6. Typical BF-STEM images of the SC samples. (a) The as-prepared samples. (b) Annealing at \\(1923\\mathrm{K}\\) for \\(30\\mathrm{min}\\)."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.061,
+                0.425,
+                0.492,
+                0.692
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.114,
+                0.699,
+                0.43,
+                0.712
+            ],
+            "angle": 0,
+            "content": "Fig. 7. Size dependence of SC thermostability in pure Pt."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.727,
+                0.124,
+                0.74
+            ],
+            "angle": 0,
+            "content": "promptly."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.753,
+                0.227,
+                0.765
+            ],
+            "angle": 0,
+            "content": "3.3.2. Mechanical stabilities"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.766,
+                0.486,
+                0.871
+            ],
+            "angle": 0,
+            "content": "In our MD simulations, the mechanical stabilities were tested through tension loading at \\(273\\mathrm{K}\\). Plots of tension stress as functions of applied strain were illustrated in Figs. 8a and 8b. Maximum yield strength between 3 GPa to 4.35 GPa can be achieved for different SCs of various aperture sizes \\(D_{SC}\\), i.e., from \\(2.5\\mathrm{nm}\\) to \\(5\\mathrm{nm}\\) (Fig. 8c). According to the MD, measured tensile yield stresses the equivalent microhardness data can be evaluated as a function of grain size, which are ranging from 9 GPa to 13 GPa (Fig. 4)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.871,
+                0.486,
+                0.925
+            ],
+            "angle": 0,
+            "content": "The plastic deformation in MD is dominated by emission and absorption of twinning partial dislocations at GB sites intersecting with twins (Figs. 8d-g). Both nucleation and bow out of twinning partial dislocation, therefore, contribute to the yield strength. Unlike thermal"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.418,
+                0.938,
+                0.536
+            ],
+            "angle": 0,
+            "content": "stability, the MD measured yield stress does not tend to drop down as a function of aperture sizes. This occurs because the critical stress required to force the twinning Shockley partial bowing out (see discussion) may exceed that required to nucleate the partial from GB sites, although a decrease in nucleation energy barrier can be expected as a consequence of enhanced line curvature effects for smaller aperture sizes. The stress levels do not differ much between the \\(7.4\\mathrm{nm}\\) and \\(10\\mathrm{nm}\\) sized SCs in later stages of deformation, indicating that the nucleation of twinning partials is not strongly size-dependent at such sizes (Fig. 8b)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.537,
+                0.938,
+                0.629
+            ],
+            "angle": 0,
+            "content": "According to our MD observations, a SC structure tends to destabilize or collapse when preexisting twins disappear due to twinning activities. GB activities such as sliding and migration are absent. Interactions between GBs are negligible under weak thermal fluctuations at \\(273\\mathrm{K}\\). Duplicating or triplicating the system size in each dimension does not alter much the observed yield stresses. Strain rate effects are also insignificant at such low temperatures."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.642,
+                0.604,
+                0.654
+            ],
+            "angle": 0,
+            "content": "4. Discussion"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.669,
+                0.796,
+                0.682
+            ],
+            "angle": 0,
+            "content": "4.1. Structural relaxation and adaptation of GBs"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.695,
+                0.938,
+                0.838
+            ],
+            "angle": 0,
+            "content": "According to our experiments (Figs. 1-3), structural evolutions by refining grain sizes down to limiting regimes were observed for polycrystalline Pt samples. That is, depending on the extent of HPT deformation, the microstructure may transform from that dominated by dislocations at grain size above \\(100\\mathrm{nm}\\) to a uniform nanograined structure containing sharp GBs and less dislocations at grain sizes of \\(30 - 100\\mathrm{nm}\\), then to a structure of grain size of about \\(20\\mathrm{nm}\\) below which twins emerge unusually and its proportion tends to increase with further decreasing the grain size. At a grain size limit of \\(4\\mathrm{nm}\\) and below, grain morphologies showing manifold GB morphologies with densely distributed twins were identified."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.839,
+                0.938,
+                0.905
+            ],
+            "angle": 0,
+            "content": "In analogy to dislocation multiplication from Frank-Read sources [16,60], a GB relaxation model for individual GBs of polycrystals was proposed. According to this model, the plastic deformation carried by perfect dislocations should give way to partial dislocation activities below a critical size \\((D^{*})\\)"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.953,
+                0.504,
+                0.961
+            ],
+            "angle": 0,
+            "content": "6"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.06,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.941,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.078,
+                0.067,
+                0.359,
+                0.237
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.081,
+                0.23,
+                0.359,
+                0.401
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.081,
+                0.392,
+                0.361,
+                0.564
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.377,
+                0.077,
+                0.648,
+                0.281
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.497,
+                0.283,
+                0.534,
+                0.308
+            ],
+            "angle": 0,
+            "content": "(d)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.648,
+                0.078,
+                0.919,
+                0.281
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.754,
+                0.283,
+                0.79,
+                0.308
+            ],
+            "angle": 0,
+            "content": "(e)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.377,
+                0.317,
+                0.648,
+                0.52
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.496,
+                0.523,
+                0.525,
+                0.547
+            ],
+            "angle": 0,
+            "content": "(f)"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.648,
+                0.317,
+                0.919,
+                0.521
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.747,
+                0.523,
+                0.782,
+                0.548
+            ],
+            "angle": 0,
+            "content": "(g)"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.573,
+                0.938,
+                0.622
+            ],
+            "angle": 0,
+            "content": "Fig. 8. (a), (b) MD simulated tension stress as function of applied strain for SCs of different sizes at \\(273\\mathrm{K}\\). Curves in different colors in (a) are corresponding to independent uniaxial tension tests in x, y, and z directions. (c) The yield stress as a function of SC supercell size according to MD tension tests. (d)-(e) MD snapshots demonstrating emission and bowing-out of a twinning partial from GBs encapsulating a twin in SCs of different sizes. The twinning partial gliding on a twin plane is pinned and dragged by GBs. A vacancy located on twin is also visible in plots (f) and (g)."
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.059,
+                0.638,
+                0.486,
+                0.667
+            ],
+            "angle": 0,
+            "content": "\\[\nD ^ {*} = \\frac {\\mu b}{\\sigma_ {y} \\left(D ^ {*}\\right) / m} \\tag {1}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.677,
+                0.486,
+                0.789
+            ],
+            "angle": 0,
+            "content": "where \\(\\mu\\) is the shear modulus, \\(b\\) is the Burgers vector of dislocation, \\(1 / m\\) is the average Schmid factor for polycrystals (\\(m = 3\\)). The critical yield stress can be deduced from the measured microhardness data (Fig. 4) according to \\(\\sigma_{y} = \\sigma_{0} + kD^{-\\frac{1}{2}} = H_{\\nu} / 3\\), where \\(\\sigma_0\\) is \\(0.25\\mathrm{GPa}\\) and \\(k\\) is about \\(8.0\\mathrm{GPa}\\cdot \\mathrm{nm}^{1 / 2}\\). The calculated critical size \\(D^{*}\\) turns out to be \\(29~\\mathrm{nm}\\) which roughly agrees with our observed grain size below which partial dislocation emissions and hence deformation twinning can be promoted significantly upon plastic deformations (Fig. 2)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.789,
+                0.486,
+                0.934
+            ],
+            "angle": 0,
+            "content": "We also provided evidence that transformation to SCs depends predominately on twin related GBs (in particular, asymmetric \\(\\Sigma 9\\)-type GBs), which seems to occur only for polycrystals of a few nm grain sizes. As shown in Figs. 2 and 3, we observed that the structural morphology changes from polygonal to manifold accompanied by densely distributed twins. Different from that of pure Cu, where high-density twins can be observed in grains of various sizes, high-density twins only show up in Pt at a grain size limit of \\(d < 10\\) nm (Fig. 9), indicating that twins and the formation of minimal-surface GBs are highly correlated. Note that in Pt samples prepared by magnetron sputtering, no trace of twins was found even in grains sized less than \\(10\\mathrm{nm}\\) [29,35,52,55]."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.511,
+                0.637,
+                0.698,
+                0.649
+            ],
+            "angle": 0,
+            "content": "4.2. Critical sizes of twins in Pt"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.664,
+                0.938,
+                0.703
+            ],
+            "angle": 0,
+            "content": "Based on our observations, the structural transformation to SC depends strongly on the density of twins and hence, the emergence of twins can be treated as a morphological precursory underlying SC formation."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.703,
+                0.938,
+                0.821
+            ],
+            "angle": 0,
+            "content": "As shown in Figs. 2, 3, and 5, when the grain size decreases below 20 nm, the proportion of grains containing twins may increase, resulting in enhanced structural stability. We counted the frequency of the grains containing twins and the statistical results were shown in Fig. 9. Interestingly, for grain sizes below 6 nm by which SCs can be formed, the frequency was found extremely high, which is \\(40\\% - 46\\%\\), nearly double that observed for larger grains. Since twins only show up usually with respect to specific zone axes, twins at such a high frequency are surprising."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.821,
+                0.938,
+                0.9
+            ],
+            "angle": 0,
+            "content": "To our knowledge, among all FCC metals, Pt appears to be the most difficult to twin according to the twinnability measure [28]. The observed twin thickness \\((\\lambda_T)\\) also depends on grain size. With a twin nucleation model, Meyers et al. proposed that the critical twin thickness of a nucleus of disk shape above which twin may form and readily to grow is measured by [61]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.51,
+                0.907,
+                0.938,
+                0.934
+            ],
+            "angle": 0,
+            "content": "\\[\n\\lambda_ {C} = \\frac {5 \\pi \\mu}{4} \\frac {\\gamma_ {\\mathrm {i s f}}}{\\sigma_ {T} ^ {2}} \\rho \\tag {2}\n\\]"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.952,
+                0.504,
+                0.961
+            ],
+            "angle": 0,
+            "content": "7"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.06,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.94,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.242,
+                0.068,
+                0.752,
+                0.602
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.611,
+                0.938,
+                0.624
+            ],
+            "angle": 0,
+            "content": "Fig. 9. The grain-size effect on the grains contained twins. (a) The size distribution of all examined grains. (b) The fraction distribution of grains contained twins."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.643,
+                0.486,
+                0.722
+            ],
+            "angle": 0,
+            "content": "where the aspect ratio \\(\\rho = \\lambda_c / r_c\\) is close to unity for a twin disk the thickness of which is comparable to the disk radius, \\(\\mu\\) is the shear modulus, \\(\\gamma_{isf}\\) is stable fault energy. Assuming that the Hall-Petch relationship approximated in Fig. 4 also held as a measure of the critical twinning stress \\((\\sigma_{\\mathrm{T}})\\), the measured twin thickness \\(\\lambda_T\\) in our samples observed by TEM can then be compared directly with Eq. (2)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.724,
+                0.486,
+                0.882
+            ],
+            "angle": 0,
+            "content": "As shown in Fig. 10, the critical twin thickness according to Eq. (2) locates well above our observed twin thickness and the agreement between the theoretical prediction and our experimental data is reasonably well for grain size below \\(6\\mathrm{nm}\\). No stress is actually applied to twins in our Pt samples. Instead, they are fully enclosed by minimal-surface GBs in SCs. Therefore, the comparison can be used as a measure to what extent a GB may stabilize a twin in terms of the critical size and the critical twinning stress (under which a twin will not shrink or grow) in Meyers model. For larger grain sizes, in particular for grain size above \\(6\\mathrm{nm}\\), the discrepancy between theory and experiments becomes larger. It is not surprising since no effect due to GBs has been ever included in Meyer's model."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.509,
+                0.639,
+                0.918,
+                0.664
+            ],
+            "angle": 0,
+            "content": "4.3. Nucleation and bowing-out of twinning partials from GBs and the retained H-P relation"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.678,
+                0.938,
+                0.77
+            ],
+            "angle": 0,
+            "content": "Based on the analyses above, an important conclusion can be drawn, intrinsically unstable twins in high-SFE metals such as Pt can be stabilized as long as their presence is in some unique form such as those shown in our MD simulations. As in Figs. 8d-g, when multiple twin embryos are enclosed and constrained by TPMS GBs in 3D space, both nucleation and bowing-out of twinning partial dislocation contribute to the yield strength."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.77,
+                0.938,
+                0.888
+            ],
+            "angle": 0,
+            "content": "With such scenarios, the retained Hall-Petch relationship at the grain size limit as indicated in Fig. 4 can be explained if the yield strength is treated as equivalent to the critical stress required for twinning. In particular, as a SC is deformed the yield strength is the stress necessary to expand the looped segment of a GB emitted twinning partial into a straight segment of length \\( D_{SC} \\), during which the double ends of the partial are always anchored at GB (Fig. 8). To force the dislocation passing the circular twin plane, the critical applied stress will be given by the Orowan stress"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.511,
+                0.897,
+                0.938,
+                0.922
+            ],
+            "angle": 0,
+            "content": "\\[\n\\tau = \\frac {\\alpha \\mu b _ {p}}{D _ {s c}} \\tag {3}\n\\]"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.953,
+                0.504,
+                0.961
+            ],
+            "angle": 0,
+            "content": "8"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.06,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.043,
+                0.94,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.062,
+                0.067,
+                0.49,
+                0.343
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.058,
+                0.35,
+                0.489,
+                0.4
+            ],
+            "angle": 0,
+            "content": "Fig. 10. The critical thickness of twin embryos as function of grain size predicted according to Eq. (2), against statistical twin thickness measured in present experiments. Red line is calculated by \\(\\gamma_{isf}\\) obtained by COMB. Green line is critical twin thickness of a nucleus of disk shape in SC structure."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.419,
+                0.487,
+                0.499
+            ],
+            "angle": 0,
+            "content": "where the parameter \\(\\alpha\\) should depend on GB dragging and Schmid factor, and \\(b_{p}\\) is the Burgers vector of partial dislocation. As seen in Fig. 4, plotting Eq. (3) with \\(\\alpha = 1.5\\), the microhardness agrees with the theoretical calculation value, indicating that the Orowan process to bow out a twinning partial as the most prevailing strengthening mechanism holds for grain sizes below \\(6\\mathrm{nm}\\)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.059,
+                0.512,
+                0.146,
+                0.525
+            ],
+            "angle": 0,
+            "content": "5. Summary"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.538,
+                0.486,
+                0.629
+            ],
+            "angle": 0,
+            "content": "In this study, Pt samples of different grain sizes were prepared by plastic deformation processing through which numerous deformation twins were generated below a grain size of \\(20\\mathrm{nm}\\) and Schwarz crystals were observed below a grain size limit of \\(4\\mathrm{nm}\\). The microhardness of Pt increases monotonically up to \\(12.9\\mathrm{GPa}\\), without breaking-down in terms of Hall-Petch relationship, and near melting point thermal stability is achievable for Schwarz crystals."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.631,
+                0.487,
+                0.773
+            ],
+            "angle": 0,
+            "content": "With both experiments and MD simulations, we showed that structurally stable Schwarz crystals can be obtained in Pt polycrystals at limiting grain sizes. The structural morphology changes from polygonal to manifold accompanied by high-density twins at a grain size limit indicating twins and the formation of minimal-surface GBs are highly correlated. Both the formation and the stability of GBs of vanishing mean curvature should depend strongly on the presence of densely distributed twins. According to MD observations, the Orowan stress required to bow out a twinning partial dislocation contributes significantly the retained Hall-Petch relationship at grain sizes smaller than 6 nm."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.058,
+                0.775,
+                0.487,
+                0.894
+            ],
+            "angle": 0,
+            "content": "Achieving desired stability of microstructure in metallic systems is key for materials engineering. Our results obtained for FCC metal Pt suggest that SC structures stabilized by minimal-surface GBs and twins should be achievable for all FCC metals, regardless of the critical twin size and the SFEs of the material. As one set of fundamental SCs units, the prototype SC structures revealed in MD simulations are useful to clarify the atomic level mechanisms and help to understand experimental observations. Formation of SCs in bulk form, nevertheless, remains experimentally challenging."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.511,
+                0.066,
+                0.789,
+                0.08
+            ],
+            "angle": 0,
+            "content": "CRediT authorship contribution statement"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.093,
+                0.939,
+                0.199
+            ],
+            "angle": 0,
+            "content": "H.L. Fu: Data curation, Investigation, Methodology, Validation, Writing - original draft. X. Zhou: Investigation, Validation. Z.P. Gao: Software. Z.H. Jin: Conceptualization, Formal analysis, Software, Visualization, Writing - review & editing. X.Y. Li: Conceptualization, Data curation, Formal analysis, Funding acquisition, Project administration, Writing - review & editing. K. Lu: Conceptualization, Formal analysis, Funding acquisition, Project administration, Supervision, Validation, Writing - review & editing."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.217,
+                0.733,
+                0.23
+            ],
+            "angle": 0,
+            "content": "Declaration of competing interest"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.243,
+                0.938,
+                0.283
+            ],
+            "angle": 0,
+            "content": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.302,
+                0.646,
+                0.314
+            ],
+            "angle": 0,
+            "content": "One sentence summary"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.327,
+                0.939,
+                0.421
+            ],
+            "angle": 0,
+            "content": "Schwarz crystals in 'not readily to twin' metal Pt are observed experimentally and the outstanding structural stability, such as sustained Hall-Petch relationship, can be attributed to that when densely distributed twins are enclosed by the minimal-surface grain boundaries, the plastic deformation is solely limited by nucleation and bowing-out of Shockley twinning partial dislocations which are energetically difficult according to both simulations and theory."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.439,
+                0.622,
+                0.452
+            ],
+            "angle": 0,
+            "content": "Acknowledgements"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.465,
+                0.939,
+                0.505
+            ],
+            "angle": 0,
+            "content": "We are grateful for the financial support of the National Natural Science Foundation of China (Grant No. 52225102) and the Chinese Academy of Sciences (XDB0510000)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.52,
+                0.586,
+                0.531
+            ],
+            "angle": 0,
+            "content": "References"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.517,
+                0.543,
+                0.935,
+                0.574
+            ],
+            "angle": 0,
+            "content": "[1] Y.L. Wang, R. Lapovok, J.T. Wang, Y.S. Qi, Y. Estrin, Thermal behavior of copper processed by ECAP with and without back pressure, Mater. Sci. Eng. A 628 (2015) 21-29."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.518,
+                0.575,
+                0.934,
+                0.605
+            ],
+            "angle": 0,
+            "content": "[2] Y. Huang, S. Sabbaghianrad, A.I. Almazrouee, K.J. Al-Fadhalah, S.N. Alhajeri, T. G. Langdon, The significance of self-annealing at room temperature in high purity copper processed by high-pressure torsion, Mater. Sci. Eng. A 656 (2016) 55-66."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.519,
+                0.606,
+                0.934,
+                0.635
+            ],
+            "angle": 0,
+            "content": "[3] Z. Horita, K. Kishikawa, K. Kimura, K. Tatsumi, T.G. Langdon, Grain refinement of high-purity FCC metals using equal-channel angular pressing, Mater. Sci. Forum (2007) 1273-1278, 558-559."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.519,
+                0.636,
+                0.921,
+                0.655
+            ],
+            "angle": 0,
+            "content": "[4] X. Zhou, X.Y. Li, K. Lu, 70 nm: the most unstable grain size in Cu prepared by surface mechanical grinding treatment, Nano Mater. Sci. 2 (1) (2020) 32-38."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.519,
+                0.656,
+                0.924,
+                0.675
+            ],
+            "angle": 0,
+            "content": "[5] X. Zhou, X.Y. Li, K. Lu, Size dependence of grain boundary migration in metals under mechanical loading, Phys. Rev. Lett. 122 (12) (2019) 126101."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.519,
+                0.676,
+                0.934,
+                0.695
+            ],
+            "angle": 0,
+            "content": "[6] X.Y. Li, Z.H. Jin, X. Zhou, K. Lu, Constrained minimal-interface structures in polycrystalline copper with extremely fine grains, Science 370 (6518) (2020) 831."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.519,
+                0.696,
+                0.934,
+                0.716
+            ],
+            "angle": 0,
+            "content": "[7] W. Xu, B. Zhang, X.Y. Li, K. Lu, Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al-Mg alloys, Science 373 (6555) (2021) 683."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.52,
+                0.717,
+                0.921,
+                0.735
+            ],
+            "angle": 0,
+            "content": "[8] Z.H. Jin, X.Y. Li, K. Lu, Formation of stable Schwarz crystals in polycrystalline copper at the grain size limit, Phys. Rev. Lett. 127 (13) (2021) 136101."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.519,
+                0.736,
+                0.934,
+                0.755
+            ],
+            "angle": 0,
+            "content": "[9] W. Li, S. Lu, Q.M. Hu, S.K. Kwon, B. Johansson, L. Vitos, Generalized stacking fault energies of alloys, J. Phys. Condens. Matter 26 (26) (2014) 265005."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.515,
+                0.756,
+                0.922,
+                0.785
+            ],
+            "angle": 0,
+            "content": "[10] S. Kibey, J.B. Liu, D.D. Johnson, H. Sehitoglu, Predicting twinning stress in fcc metals: linking twin-energy pathways to twin nucleation, Acta Mater. 55 (20) (2007) 6843-6851."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.786,
+                0.92,
+                0.805
+            ],
+            "angle": 0,
+            "content": "[11] N.M. Rosengaard, H.L. Skriver, Calculated stacking-fault energies of elemental metals, Phys. Rev. B 47 (19) (1993) 12865-12873."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.806,
+                0.934,
+                0.825
+            ],
+            "angle": 0,
+            "content": "[12] L.E. Murr, Twin boundary energetics in pure aluminium, Acta Metall. 21 (6) (1973) 791-797."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.826,
+                0.934,
+                0.845
+            ],
+            "angle": 0,
+            "content": "[13] S. Zheng, S.X. Mao, Advances in experimental mechanics at atomic scale, Extreme Mech. Lett. 45 (2021)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.846,
+                0.933,
+                0.876
+            ],
+            "angle": 0,
+            "content": "[14] X. Wang, S.X. Zheng, S. Shinzato, Z.W. Fang, Y. He, L. Zhong, C.M. Wang, S. Ogata, S.X. Mao, Atomistic processes of surface-diffusion-induced abnormal softening in nanoscale metallic crystals, Nat. Commun. 12 (1) (2021) 5237."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.876,
+                0.908,
+                0.896
+            ],
+            "angle": 0,
+            "content": "[15] J.D. Rittner, D.N. Seidman, K.L. Merkle, Grain-boundary dissociation by the emission of stacking faults, Phys. Rev. B 53 (8) (1996) R4241-R4244."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.896,
+                0.934,
+                0.916
+            ],
+            "angle": 0,
+            "content": "[16] X. Zhou, X.Y. Li, K. Lu, Enhanced thermal stability of nanograined metals below a critical grain size, Science 360 (6388) (2018) 526-530."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.917,
+                0.931,
+                0.936
+            ],
+            "angle": 0,
+            "content": "[17] X.Y. Li, X. Zhou, K. Lu, Rapid heating induced ultrahigh stability of nanograined copper, Sci. Adv. 6 (17) (2020) eaaz8003."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.514,
+                0.543,
+                0.935,
+                0.936
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.952,
+                0.505,
+                0.961
+            ],
+            "angle": 0,
+            "content": "9"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.06,
+                0.044,
+                0.124,
+                0.053
+            ],
+            "angle": 0,
+            "content": "H.L. Fu et al."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.769,
+                0.044,
+                0.94,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Acta Materialia 276 (2024) 120007"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.067,
+                0.47,
+                0.096
+            ],
+            "angle": 0,
+            "content": "[18] P.M. Derlet, H. Van Swygenhoven, A. Hasnaoui, Atomistic simulation of dislocation emission in nanosized grain boundaries, Philos. Mag. A 83 (31-34) (2003) 3569-3575."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.061,
+                0.098,
+                0.482,
+                0.118
+            ],
+            "angle": 0,
+            "content": "[19] W. Xu, B. Zhang, K. Du, X.Y. Li, K. Lu, Thermally stable nanostructured Al-Mg alloy with relaxed grain boundaries, Acta Mater. 226 (2022)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.118,
+                0.482,
+                0.147
+            ],
+            "angle": 0,
+            "content": "[20] Y.A. Sun, Z.P. Luo, X.Y. Li, K. Lu, Effects of stacking fault energy on deformation induced grain boundary relaxation in nanograined Cu alloys, Acta Mater. 239 (2022)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.148,
+                0.483,
+                0.167
+            ],
+            "angle": 0,
+            "content": "[21] B.B. Zhang, Y.G. Tang, Q.S. Mei, X.Y. Li, K. Lu, Inhibiting creep in nanograined alloys with stable grain boundary networks, Science 378 (6620) (2022) 659-663."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.168,
+                0.483,
+                0.188
+            ],
+            "angle": 0,
+            "content": "[22] K.L. Merkle, Atomic-scale grain boundary relaxation modes in metals and ceramics, Microsc. Microanal. 3 (4) (1997) 339-351."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.188,
+                0.462,
+                0.208
+            ],
+            "angle": 0,
+            "content": "[23] X. Zhou, X.Y. Li, K. Lu, Stabilizing nanograins in metals with grain boundary relaxation, Scr. Mater. 187 (2020) 345-349."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.208,
+                0.469,
+                0.237
+            ],
+            "angle": 0,
+            "content": "[24] V. Yamakov, D. Wolf, S.R. Phillpot, A.K. Mukherjee, H. Gleiter, Deformation-mechanism map for nanocrystalline metals by molecular-dynamics simulation, Nat. Mater. 3 (1) (2004) 43-47."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.239,
+                0.482,
+                0.268
+            ],
+            "angle": 0,
+            "content": "[25] V. Yamakov, D. Wolf, S.R. Phillpot, A.K. Mukherjee, H. Gleiter, Crossover in Hall-Petch behavior in nanocrystalline materials by molecular-dynamics simulation, Philos. Mag. Lett. 83 (2003) 385-393."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.269,
+                0.462,
+                0.287
+            ],
+            "angle": 0,
+            "content": "[26] H. Van Swygenhoven, Grain boundaries and dislocations, Science 296 (5565) (2002) 66-67."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.288,
+                0.482,
+                0.308
+            ],
+            "angle": 0,
+            "content": "[27] H. Van Swygenhoven, P.M. Derlet, A. Hasnaoui, Atomic mechanism for dislocation emission from nanosized grain boundaries, Phys. Rev. B 66 (2) (2002)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.309,
+                0.482,
+                0.338
+            ],
+            "angle": 0,
+            "content": "[28] Z.H. Jin, S.T. Dunham, H. Gleiter, H. Hahn, P. Gumbsch, A universal scaling of planar fault energy barriers in face-centered cubic metals, Scr. Mater. 64 (7) (2011) 605-608."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.339,
+                0.482,
+                0.369
+            ],
+            "angle": 0,
+            "content": "[29] X. Li, H. Long, J. Zhang, D. Ma, D. Kong, Y. Lu, S. Sun, J. Cai, X. Wang, L. Wang, S. Mao, Direct observation of the grain boundaries acting as dislocation sources in nanocrystalline platinum, Mater. Charact. 181 (2021)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.369,
+                0.482,
+                0.388
+            ],
+            "angle": 0,
+            "content": "[30] D.H. Warner, W.A. Curtin, S. Qu, Rate dependence of crack-tip processes predicts twinning trends in f.c.c. metals, Nat. Mater. 6 (11) (2007) 876-881."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.389,
+                0.482,
+                0.418
+            ],
+            "angle": 0,
+            "content": "[31] V. Yamakov, D. Wolf, S.R. Phillipot, A.K. Mukherjee, H. Gleiter, Dislocation processes in the deformation of nanocrystalline aluminium by molecular-dynamics simulation, Nat. Mater. 1 (1) (2002) 45-48."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.419,
+                0.482,
+                0.438
+            ],
+            "angle": 0,
+            "content": "[32] M. Chen, E. Ma, K.J. Hemker, H. Sheng, Y. Wang, X. Cheng, Deformation twinning in nanocrystalline aluminum, Science 300 (5623) (2003) 1275-1277."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.439,
+                0.482,
+                0.459
+            ],
+            "angle": 0,
+            "content": "[33] K. Edalati, Z. Horita, Universal plot for hardness variation in pure metals processed by high-pressure torsion, Mater. Trans. 51 (5) (2010) 1051-1054."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.46,
+                0.482,
+                0.489
+            ],
+            "angle": 0,
+            "content": "[34] K. Edalati, Y. Hashiguchi, H. Iwaoka, H. Matsunaga, R.Z. Valiev, Z. Horita, Long-time stability of metals after severe plastic deformation: softening and hardening by self-annealing versus thermal stability, Mater. Sci. Eng. A 729 (2018) 340-348."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.49,
+                0.482,
+                0.518
+            ],
+            "angle": 0,
+            "content": "[35] X. Shu, D. Kong, Y. Lu, H. Long, S. Sun, X. Sha, H. Zhou, Y. Chen, S. Mao, Y. Liu, Size effect on the deformation mechanisms of nanocrystalline platinum thin films, Sci. Rep. 7 (1) (2017) 13264."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.519,
+                0.482,
+                0.55
+            ],
+            "angle": 0,
+            "content": "[36] L. Wang, J. Teng, Y. Wu, X. Sha, S. Xiang, S. Mao, G. Yu, Z. Zhang, J. Zou, X. Han, In situ atomic scale mechanisms of strain-induced twin boundary shear to high angle grain boundary in nanocrystalline Pt, Ultramicroscopy 195 (2018) 69-73."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.55,
+                0.482,
+                0.58
+            ],
+            "angle": 0,
+            "content": "[37] L.H. Wang, K. Du, C.P. Yang, J. Teng, L.B. Fu, Y.Z. Guo, Z. Zhang, X.D. Han, In situ atomic-scale observation of grain size and twin thickness effect limit in twin-structural nanocrystalline platinum, Nat. Commun. 11 (1) (2020) 1167."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.58,
+                0.469,
+                0.61
+            ],
+            "angle": 0,
+            "content": "[38] L. Wang, P. Guan, J. Teng, P. Liu, D. Chen, W. Xie, D. Kong, S. Zhang, T. Zhu, Z. Zhang, E. Ma, M. Chen, X. Han, New twinning route in face-centered cubic nanocrystalline metals, Nat. Commun. 8 (1) (2017) 2142."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.611,
+                0.482,
+                0.63
+            ],
+            "angle": 0,
+            "content": "[39] L. Fang, Y. Zhong, B. Wang, W. Xu, X. Li, K. Lu, Ultrahard and super-stable pure aluminum with Schwarz crystal structure, Mater. Res. Lett. 11 (8) (2023) 662-669."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.63,
+                0.473,
+                0.649
+            ],
+            "angle": 0,
+            "content": "[40] A. Darling, Some properties and applications of the platinum-group metals, Int. Mater. Rev. 18 (3) (1973) 91-122."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.65,
+                0.443,
+                0.669
+            ],
+            "angle": 0,
+            "content": "[41] S. Plimpton, Fast parallel algorithms for short-range molecular dynamics, J. Comput. Phys. 117 (1) (1995) 1-19."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.062,
+                0.67,
+                0.482,
+                0.69
+            ],
+            "angle": 0,
+            "content": "[42] P. Hirel, Atomsk: a tool for manipulating and converting atomic data files, Comput. Phys. Commun. 197 (2015) 212-219."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.061,
+                0.067,
+                0.483,
+                0.69
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.067,
+                0.914,
+                0.107
+            ],
+            "angle": 0,
+            "content": "[43] T. Liang, T.-R. Shan, Y.-T. Cheng, B.D. Devine, M. Noordhoek, Y. Li, Z. Lu, S. R. Phillpot, S.B. Sinnott, Classical atomistic simulations of surfaces and heterogeneous interfaces with the charge-optimized many body (COMB) potentials, Mater. Sci. Eng. R Rep. 74 (9) (2013) 255–279."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.108,
+                0.934,
+                0.137
+            ],
+            "angle": 0,
+            "content": "[44] A.C. Antony, S.A. Akhade, Z. Lu, T. Liang, M.J. Janik, S.R. Phillpot, S.B. Sinnott, Charge optimized many body (COMB) potentials for Pt and Au, J. Phys. Condens. Matter. 29 (22) (2017) 225901."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.138,
+                0.934,
+                0.167
+            ],
+            "angle": 0,
+            "content": "[45] A. Stukowski, Visualization and analysis of atomistic simulation data with OVITO-the Open Visualization Tool, Modell. Simul. Mater. Sci. Eng. 18 (1) (2009) 015012."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.168,
+                0.935,
+                0.197
+            ],
+            "angle": 0,
+            "content": "[46] A. Stukowski, V.V. Bulatov, A. Arsenlis, Automated identification and indexing of dislocations in crystal interfaces, Modell. Simul. Mater. Sci. Eng. 20 (8) (2012) 085007."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.198,
+                0.934,
+                0.218
+            ],
+            "angle": 0,
+            "content": "[47] K. Wang, N.R. Tao, G. Liu, J. Lu, K. Lu, Plastic strain-induced grain refinement at the nanometer scale in copper, Acta Mater. 54 (19) (2006) 5281-5291."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.219,
+                0.934,
+                0.238
+            ],
+            "angle": 0,
+            "content": "[48] H.L. Fu, X. Zhou, H.T. Xue, X.Y. Li, K. Lu, Breaking the purity-stability dilemma in pure Cu with grain boundary relaxation, Mater. Today 55 (2022) 66-73."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.239,
+                0.932,
+                0.268
+            ],
+            "angle": 0,
+            "content": "[49] B.Y.N. Loginov, A.V. Yermakov, L.G. Grohovskaya, G.I. Studenok, Annealing characteristics and strain resistance of 99.93 wt.% platinum, Platin. Met. Rev. 51 (4) (2007) 178-184."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.269,
+                0.922,
+                0.298
+            ],
+            "angle": 0,
+            "content": "[50] Y. Xu, Y. Wang, J. Chen, J. Guo, M. Wen, C. Wang, Z. Tan, W. Guan, Study on microstructure evolution and mechanical properties of pure platinum during plastic processing, Precious Metals 40 (3) (2019) 11–16."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.299,
+                0.934,
+                0.318
+            ],
+            "angle": 0,
+            "content": "[51] W. Wu, Z. Chen, Preparation of strongly adherent platinum coating by double glow plasma technology, J. Adhes. Sci. Technol. 26 (10-11) (2012) 1705-1715."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.319,
+                0.933,
+                0.358
+            ],
+            "angle": 0,
+            "content": "[52] K. Abbas, S. Alaie, M. Ghasemi Baboly, M.M.M. Elahi, D.H. Anjum, S. Chaieb, Z. C. Leseman, Nanoscale size effects on the mechanical properties of platinum thin films and cross-sectional grain morphology, J. Micromech. Microeng. 26 (1) (2016)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.359,
+                0.934,
+                0.378
+            ],
+            "angle": 0,
+            "content": "[53] M.R. Maughan, H.M. Zbib, D.F. Bahr, Variation in the nanoindentation hardness of platinum, J. Mater. Res. 28 (20) (2013) 2819-2828."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.379,
+                0.934,
+                0.399
+            ],
+            "angle": 0,
+            "content": "[54] Q. Zhang, D. Zhang, S. Jia, W. Shong, Microstructure and properties of some dispersion strengthened platinum alloys, Platin. Met. Rev. 39 (4) (1995) 167-171."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.4,
+                0.934,
+                0.428
+            ],
+            "angle": 0,
+            "content": "[55] R.A. Meirom, D.H. Alsem, A.L. Romasco, T. Clark, R.G. Polcawich, J.S. Pulskamp, M. Dubey, R.O. Ritchie, C.L. Muhlstein, Fatigue-induced grain coarsening in nanocrystalline platinum films, Acta Mater. 59 (3) (2011) 1141-1149."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.429,
+                0.93,
+                0.459
+            ],
+            "angle": 0,
+            "content": "[56] B. Trumic, D. Stankovic, A. Ivanovic, The impact of cold deformation, annealing temperatures and chemical assays on the mechanical properties of platinum, J. Min. Metall. Sect. B. 46 (1) (2010) 51-57."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.46,
+                0.911,
+                0.479
+            ],
+            "angle": 0,
+            "content": "[57] A. Tschöpe, R. Birringer, Thermodynamics of nanocrystalline platinum, Acta Metall. Mater. 41 (9) (1993) 2791-2796."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.48,
+                0.93,
+                0.509
+            ],
+            "angle": 0,
+            "content": "[58] S. Kumar, M.T. Alam, Z. Connell, M.A. Haque, Electromigration stress induced deformation mechanisms in free-standing platinum thin films, Scr. Mater. 65 (4) (2011) 277-280."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.51,
+                0.934,
+                0.539
+            ],
+            "angle": 0,
+            "content": "[59] R.M. Tiggelaar, R.G.P. Sanders, A.W. Groenland, J.G.E. Gardeniers, Stability of thin platinum films implemented in high-temperature microdevices, Sens. Actuators A 152 (1) (2009) 39–47."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.54,
+                0.934,
+                0.559
+            ],
+            "angle": 0,
+            "content": "[60] E. Orowan, Symposium on internal stresses in metals and alloys, Institute of Metals, London, 1948, p. 451."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.56,
+                0.912,
+                0.58
+            ],
+            "angle": 0,
+            "content": "[61] M.A. Meyers, O. Vohringer, V.A. Lubarda, The onset of twinning in metals: a constitutive description, Acta Mater. 49 (19) (2001) 4025-4039."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.58,
+                0.919,
+                0.609
+            ],
+            "angle": 0,
+            "content": "[62] S.N. Biswas, M.J.P. Muringer, C.A. ten Seldam, Pressure dependence of shear modulusC44 of platinum from 77 to \\(298\\mathrm{K}\\) and up to \\(253\\mathrm{MPa}\\), Physica Status Solidi (a) 141 (2) (1994) 361-365."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.61,
+                0.919,
+                0.63
+            ],
+            "angle": 0,
+            "content": "[63] E. Menéndez-Proupin, A.K. Singh, Ab initio calculations of elastic properties of compressed Pt, Phys. Rev. B 76 (5) (2007)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.63,
+                0.934,
+                0.669
+            ],
+            "angle": 0,
+            "content": "[64] A. Jain, S.P. Ong, G. Hautier, W. Chen, W.D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, K.A. Persson, Commentary: the materials project: a materials genome approach to accelerating materials innovation, APL Mater. 1 (1) (2013)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.67,
+                0.934,
+                0.7
+            ],
+            "angle": 0,
+            "content": "[65] S. Schonecker, X. Li, M. Richter, L. Vitos, Lattice dynamics and metastability of fcc metals in the hcp structure and the crucial role of spin-orbit coupling in platinum, Phys. Rev. B 97 (22) (2018)."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.513,
+                0.067,
+                0.935,
+                0.7
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.493,
+                0.952,
+                0.508,
+                0.961
+            ],
+            "angle": 0,
+            "content": "10"
+        }
+    ]
+]

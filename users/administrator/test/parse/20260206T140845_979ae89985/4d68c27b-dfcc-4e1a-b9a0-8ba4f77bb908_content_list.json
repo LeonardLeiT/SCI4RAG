@@ -1,0 +1,1377 @@
+[
+    {
+        "type": "text",
+        "text": "Free Energy Criterion for Thermal Stability of Schwarz Nanocrystals ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            135,
+            915,
+            160
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ting Lei, Feng Liu, Xiaolei Wu,\\* and Yunjiang Wang\\* ",
+        "bbox": [
+            79,
+            165,
+            532,
+            185
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b2d8246ff08e9711410fcacb444009b5a135fae5a9e6470d74095e2400f2b1d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            190,
+            116,
+            220
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cite This: Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            120,
+            198,
+            362,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/47a66c26550045ea83ebc106e7ff04cb5891595639cd58001fc3de0981c91ef4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            514,
+            190,
+            550,
+            220
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Read Online ",
+        "bbox": [
+            553,
+            198,
+            635,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ACCESS ",
+        "bbox": [
+            80,
+            237,
+            172,
+            257
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c5cb452371944473cef051c15bb143b8c18f98292413ab4d27fddf70cfd1222.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            232,
+            241,
+            255,
+            257
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Metrics & More ",
+        "bbox": [
+            258,
+            242,
+            354,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f397dc21e377ce5e2854b4fbe8f367251f3744090ac2d2e72b25271127803999.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            449,
+            242,
+            472,
+            256
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article Recommendations ",
+        "bbox": [
+            474,
+            242,
+            630,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ae1745d9088e13432523d4e3d4313ea5bbfe779eb209898de19a6f06839b05.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            706,
+            241,
+            728,
+            256
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "bbox": [
+            731,
+            242,
+            871,
+            256
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: The discovery of Schwarz nanocrystals (SCs)—characterized by interpenetrating networks of minimal surface grain boundaries (GBs) stabilized by coherent twin boundaries (CTBs)—has pushed the boundaries of nanoscience and nanotechnology to length scales of only a few nanometers. However, the physical mechanisms governing the thermal stability remain unresolved. Here we establish a free energy criterion for thermal stability of SC using large-scale thermodynamic integration, benchmarking SCs against other nanostructures such as Voronoi and Kelvin nanocrystals. Surprisingly, the free energy of minimal surface GBs in SCs is higher than that of conventional GBs in the Voronoi nanocrystal. Therefore, the competition between decreasing the GB volume fraction and increasing the local GB energy imposes a fundamental size limit. Kinetic stabilization of SCs is accommodated by the topological interlock between the CTBs and GBs. The free energy-based criterion for stability of SCs provides a rule for selecting Schwarz-like nanostructures stable at extreme conditions. ",
+        "bbox": [
+            79,
+            272,
+            632,
+            465
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/63e746fa23c297c2b322918cb72e8192bea080fa19d280cbc532c52c7cc43136.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            642,
+            272,
+            915,
+            441
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: Schwarz nanocrystal, thermal stability, free energy, minimal surface grain boundary, coherent twin boundary ",
+        "bbox": [
+            79,
+            468,
+            843,
+            485
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Crystals typically exist in polycrystalline form, composed of crystallites separated by grain boundaries (GBs) with broken lattice symmetry. When the grain size shrinks to below $100\\mathrm{nm}$ , crystals enter the nanoscale regime, exhibiting a diverse range of exceptional mechanical and functional properties. $^{1,2}$ These superior properties primarily arise from the increased density of GBs, $^{3}$ which can constitute up to about $30\\%$ of the volume in nanocrystals with grain sizes as small as $10\\mathrm{nm}$ . Mechanically, GBs act as formidable barriers to dislocation motion, thereby enhancing the strength through the Hall-Petch relationship. $^{5,6}$ By reducing grain size to an optimal value, the strength of nanocrystals can approach the theoretical limit. $^{7-9}$ However, this strengthening mechanism ceases to operate at extremely small grain sizes because GBs, characterized by their high structural disorder, are prone to experience instability. $^{10,11}$ Consequently, metastable nanocrystals strive to minimize free energy by reducing total GBs area, $^{12}$ which promotes grain growth that degrades mechanical performances. $^{12-14}$ The mechanism of grain growth in materials parallels the coarsening of bubble junctions in foams during drainage, where the topology of the bubbles dictates the stabilization of junctions. Similarly, the topology of GBs in nanocrystals plays a crucial role in resisting coarsening by mitigating internal stresses, $^{15}$ influencing diffusion pathways, $^{16}$ and altering energy barriers. $^{17}$ Therefore, optimizing the GBs topology has emerged as a general strategy to enhance the thermal stability of nanoscale materials. $^{18,19}$ ",
+        "bbox": [
+            79,
+            510,
+            482,
+            891
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Building on this philosophy, a recent breakthrough in designing ultrastable nanocrystals has emerged with the discovery of Schwarz crystals (SCs). $^{20-23}$ Following severe ",
+        "bbox": [
+            79,
+            891,
+            481,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "deformation at low temperatures, nanocrystalline copper forms a network of triply periodic minimal surfaces (TPMS), resembling the periodic arrangement of grains in a diamond lattice. Among these structures, the Schwarz D-surface represents a prominent example, alongside related surfaces such as the Schwarz primitive surface (P-surface) with cubic symmetry and the more intricate gyroid surface (G-surface).22,24,25 As proposed by Schwarz,24 TPMS are minimal surfaces with zero-mean curvature everywhere, providing a solution to minimizing GBs area under specific geometric constraints.23 Concurrently, coherent twin boundaries (CTBs) kinetically lock the minimal surface GBs, conferring SCs to withstand equilibrium melting temperature.20-22,26 Additionally, SCs can achieve strength approaching the theoretical limit of single crystals.8,20 Therefore, SCs facilitate strengthening down to an unprecedented regime with grain sizes of $3\\mathrm{nm}$ .22,27 The universality of SCs has been demonstrated in various systems, including $\\mathrm{Al - Mg^{21}}$ and $\\mathrm{Al - Zn^{28}}$ alloys, as well as other face-centered cubic (FCC) metals like platinum.26,29 Beyond their application in metals, the concept of TPMS has also found relevance in additive manufacturing.30 ",
+        "bbox": [
+            512,
+            511,
+            915,
+            800
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although the thermal stability of SCs has been experimentally validated,[20-22,26,28] the underlying physical mecha ",
+        "bbox": [
+            512,
+            800,
+            915,
+            830
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: April 5, 2025 ",
+        "bbox": [
+            514,
+            847,
+            667,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Revised: April 24, 2025 ",
+        "bbox": [
+            515,
+            861,
+            673,
+            875
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: April 25, 2025 ",
+        "bbox": [
+            515,
+            875,
+            673,
+            888
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: April 30, 2025 ",
+        "bbox": [
+            515,
+            888,
+            673,
+            902
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/461b0265abda38e2bb937a59fdbcc96453e92924c2436559581a76459cfdaac4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            841,
+            841,
+            915,
+            918
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "Downloaded via CAOS NONCONSORTIA MBRS TRACKER on July 4, 2025 at 02:33:42 (UTC). See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles. ",
+        "bbox": [
+            0,
+            293,
+            34,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "NANOLETTERS ",
+        "bbox": [
+            80,
+            27,
+            350,
+            80
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "pubs.acs.org/NanoLett ",
+        "bbox": [
+            80,
+            103,
+            210,
+            116
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Letter ",
+        "bbox": [
+            866,
+            105,
+            904,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "A ",
+        "bbox": [
+            80,
+            946,
+            121,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "ACS Publications ",
+        "bbox": [
+            123,
+            951,
+            273,
+            968
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "© 2025 American Chemical Society ",
+        "bbox": [
+            304,
+            950,
+            462,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "8058 ",
+        "bbox": [
+            482,
+            957,
+            512,
+            967
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "https://doi.org/10.1021/acs.nanolett.5c02044 ",
+        "bbox": [
+            724,
+            948,
+            914,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            777,
+            958,
+            914,
+            966
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/acb0e0887438688826217615c2db8cab1e8658d3ec14d683b5bdf1a8f913be6c.jpg",
+        "image_caption": [
+            "Figure 1. Atomic configurations and defect structures in various nanocrystals. Panels (a)-(e) display the atomic structures of D-SC I, D-SC II, P-SC, Kelvin nanocrystal, and Voronoi nanocrystal, all with grain sizes of approximately $10\\mathrm{nm}$ . The upper panels show the atomic configurations, while the lower panels highlight the defect structures by removing the perfect FCC atoms. In these visualizations, FCC atoms are colored green, HCP atoms red, and disordered atoms gray, with the latter illustrating the morphology of the general GBs. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            187,
+            70,
+            808,
+            277
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/40646c2bf1fcb3c1f5b2ac387cc4298de4de7568f71138337d2dc519f61e24f8.jpg",
+        "image_caption": [
+            "Figure 2. Spring constants and free energy of various nanocrystals depicted in Figure 1. (a) Spring constants of the nanocrystals across the temperature range from 100 to $1350\\mathrm{K}$ . (b) Absolute free energies of the nanocrystals as a function of temperature. Symbols represent free energy values calculated via thermodynamic integration along the Frenkel-Ladd path, while lines correspond to interpolation using the reverse scaling technique. (c) Free energy differences between the five nanocrystals and the FCC lattice. All data points in the plots represent averages derived from five independent configurations, with error bars indicating the standard deviations. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            247,
+            350,
+            749,
+            640
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "nism remains unexplored. Molecular dynamics (MD) simulations can provide potential energy evolution during heating (Figure S1 in Supporting Information (SI)), revealing the path of transition from Kelvin crystal to SCs.[20,22] However, this approach does not directly rationalize the phase transition, leaving the physical driving force unresolved. Instead, free energy is critical for explaining why extremely fine grains preferentially adopt SCs structures over others. Accurately determining the absolute free energy of a condensed phase is a nontrivial task, as it cannot be directly extracted from MD trajectories.[31] Thus, a rigorous quantification of the free energy is an essential step toward understanding the thermodynamic stability of SCs. ",
+        "bbox": [
+            77,
+            725,
+            481,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, we establish a free energy criterion for the thermal stability of SCs using an efficient nonequilibrium ",
+        "bbox": [
+            79,
+            912,
+            481,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "thermodynamic integration technique. $^{31,32}$ We find that the critical prerequisite for stability is the small volume fraction of minimal surface GBs, rather than the degree of GB free energy per se. Kinetic stability involves the role of interlock between CTBs and GBs, which inhibits grain coarsening. ",
+        "bbox": [
+            512,
+            725,
+            915,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study focuses on quantifying the free energy of SCs in comparison to other nanocrystals, thereby establishing a thermodynamic criterion for phase stability. To this end, we have designed six nanocrystals for comparative analysis, i.e., SCs with diamond-lattice symmetry (D-SC I and D-SC II), SC with cubic symmetry (P-surface GBs without CTBs), Kelvin crystal with truncated octahedral grain seeds, conventional Voronoi nanocrystal, and a perfect FCC lattice (Bulk). Figures 1(a)-(c) illustrate the atomic configurations of SCs, where D-SC I and II are of both minimal surface GBs and CTBs, while ",
+        "bbox": [
+            512,
+            797,
+            915,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Nano Letters ",
+        "bbox": [
+            80,
+            46,
+            179,
+            60
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "pubs.acs.org/NanoLett ",
+        "bbox": [
+            449,
+            48,
+            584,
+            60
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Letter ",
+        "bbox": [
+            866,
+            48,
+            904,
+            60
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "8059 ",
+        "bbox": [
+            482,
+            952,
+            512,
+            961
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "https://doi.org/10.1021/acs.nanolett.5c02044 ",
+        "bbox": [
+            724,
+            952,
+            914,
+            962
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            777,
+            962,
+            914,
+            970
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/01b4adf20802932bbacfc945056e47d3ce3783884e17b13c3d75546885c072d2.jpg",
+        "image_caption": [
+            "(a) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            240,
+            85,
+            467,
+            223
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2136cfcbedfccaaa1f1e7cbb72baa21c336721b8a8cc97bf3e0a15a2d4c95863.jpg",
+        "image_caption": [
+            "(b) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            515,
+            85,
+            790,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f99136f015e2b3ee14d3f64864cd563f9d0cb3257c7601b949af51ab7fd11fa0.jpg",
+        "image_caption": [
+            "(c) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            205,
+            247,
+            515,
+            407
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/73dc2bdb6b05ef523237ff2159ac58f1b12bb715aaaf64d09542e0aa38c799c9.jpg",
+        "image_caption": [
+            "(d) ",
+            "Figure 3. Size-dependent thermal stability of D-SC I. (a) The unit cell of D-SC I. (b) Free energy of D-SC I over FCC lattice, with varying grain size from 1.57 to $9.57\\mathrm{nm}$ . (c) Critical temperature of thermal instability $T_{\\mathrm{c}}$ normalized by the experimental melting temperature $T_{\\mathrm{Exp}} = 1358\\mathrm{K}$ as a function of grain size. Experimental data $^{20}$ and MD simulations $^{22,27}$ are included for comparison. The reduction in free energy at $300\\mathrm{K}$ aligns with observed variations in the thermodynamic stability of D-SC I. (d) Volume fraction of GBs as a function of grain size in D-SC I and Voronoi structures, respectively. The Voronoi crystal consists of only two grains, setting up the lower bound of the GB volume fraction. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            245,
+            790,
+            408
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P-SC lacks CTBs embedded. Figure 1(d) presents the Kelvin crystal, characterized by its truncated-octahedral cell shape. This structure is often considered a favorable metastable configuration due to its analogy to the ideal foam. $^{33}$ The Voronoi crystal shown in Figure 1(e) represents a general form of nanocrystals with random oriented crystallites using the Voronoi tessellation algorithm. Since the Bulk structure is too simple and defect-free, it is not included in Figure 1, and more details are provided in the SI. ",
+        "bbox": [
+            77,
+            493,
+            481,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spring constant $k$ is a prerequisite for computing free energy, which not only serves as a measure of the atomic-scale stiffness but also provides a reference for the Einstein solid. As shown in Figure 2(a), $k$ reflects the equilibrium vibrational behaviors of these nanocrystals. According to the equipartition theorem, $k = 3k_{\\mathrm{B}}T / \\langle \\Delta \\vec{r}_i^2\\rangle$ , where $\\langle \\Delta \\vec{r}_i^2\\rangle$ represents the vibrational mean-squared displacement (vMSD) at thermodynamic equilibrium. Higher $k$ values correspond to reduced vibrational amplitudes, indicating stronger constraints. The system-averaged spring constants can be grouped into three categories: the highest values observed in FCC Bulk due to the absence of defects. Following this, the SCs exhibit intermediate stiffnesses with D-SC II exhibiting the highest $k$ value. Lastly, Kelvin and Voronoi nanocrystals display similar atomic stiffness, with the Voronoi nanocrystal being the softest. These results demonstrate the enhanced elastic stability of Schwarz nanocrystals. As temperature rises, vibrations intensify, enhancing oscillations of atoms which leads to a higher degree of disorder. Approaching the melting point ( $T_{\\mathrm{m}}$ , $1327\\mathrm{K}$ from empirical potential[34]), the vibrational disorder surpasses the structural disorder and atoms escape from constraints. At this stage, spring constants of all nanocrystals except the bulk approach negligible values, signaling the onset ",
+        "bbox": [
+            79,
+            620,
+            482,
+            942
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of melting. Interestingly, the varying rates in spring constants with an increasing temperature suggest that the nanocrystals respond differently to thermal fluctuation. SCs exhibit a slower decline in stiffness and greater resistance to temperature-induced softening, underscoring the superior thermal stability over extended time scale. ",
+        "bbox": [
+            512,
+            493,
+            915,
+            578
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The free energy of an Einstein crystal is analytically determined via $F_{\\mathrm{E}}(N,V,T) = 3Nk_{\\mathrm{B}}T\\ln \\left(\\frac{\\hbar\\omega}{k_{\\mathrm{B}}T}\\right)$ , where the vibrational frequency $\\omega = \\sqrt{k / m}$ depends on the spring constant $k$ and atomic mass $m$ . The free energy of interest is computed by the nonequilibrium thermodynamic integration along the Frenkel-Ladd (FL) path $F_{\\mathrm{i}}(N,V,T) = F_{\\mathrm{E}}(N,V,T) + \\frac{1}{2} [\\overline{W_{1\\rightarrow 2}^{\\mathrm{irr}}} -\\overline{W_{2\\rightarrow 1}^{\\mathrm{irr}}}]$ , where $\\overline{W^{\\mathrm{irr}}}$ accounts for the irreversible work from forward or reverse integration directions. This approach excludes energy dissipation from irreversible processes, enabling precise free energy evaluation. Details of calculations are further provided in SI. However, the FL method requires that the target configuration be temporarily stable at the current temperature. Since nanocrystals are metastable, accurately estimating free energy necessitates selecting a feasible temperature range, where the nanocrystals remain stable long enough to allow for reliable calculations using the FL path. To address this, the variations of vMSDs with time at different temperatures are shown in Figure S3 of the SI, ensuring temporary stability of configurations. Besides free energies at individual temperatures, the reversible scaling method enables extrapolation across the full temperature range, as summarized in Figure 2(b). The absolute free energies are not significantly distinct ",
+        "bbox": [
+            512,
+            580,
+            915,
+            942
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Nano Letters ",
+        "bbox": [
+            80,
+            46,
+            179,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "pubs.acs.org/NanoLett ",
+        "bbox": [
+            449,
+            48,
+            586,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Letter ",
+        "bbox": [
+            866,
+            48,
+            904,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "8060 ",
+        "bbox": [
+            482,
+            952,
+            512,
+            961
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "https://doi.org/10.1021/acs.nanolett.5c02044 ",
+        "bbox": [
+            724,
+            952,
+            914,
+            962
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            777,
+            962,
+            914,
+            970
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f8253082f54779bbc21f6ea54dcf6d3f2c7d1c52152e8093e2e07397aeb8f68.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            202,
+            75,
+            397,
+            250
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a12d001b06209c6e6dd36e4dfdf372747c01f9dd6ddeb0d73ae6d8b1481a8be.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            398,
+            75,
+            589,
+            250
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/12d0afb8f0059b3dc1461a62522d65003a04caab7f5736b1d12604852ce7ad59.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            591,
+            75,
+            794,
+            250
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eadfa54ea3a1cca88f172cf8090edd260c373ef153b579115fdc14eac397251f.jpg",
+        "image_caption": [
+            "Figure 4. Free energy in structural defects. (a) Spring constants associated with structural defects, with the yellow dashed line indicating the harmonic mean. (b) Free energy contributions of the structural defects, with the yellow dashed line denoting the arithmetic mean. (c) GB free energies in different nanocrystals. Error bars indicate the standard deviation derived from five independent calculations. ",
+            "Figure 5. Comparison of kinetic stability of in D-SC I, P-SC, and the Voronoi nanocrystals. (a) The MSD versus time at temperatures from 400 to $700\\mathrm{K}$ . (b)-(c) From left to right, the panels illustrate the atomic configurations of the D-SC I, P-SC, and Voronoi nanocrystal at temperatures of 100 and $700\\mathrm{K}$ , respectively. The dashed curves indicate the position of grain boundaries at $100\\mathrm{K}$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            189,
+            313,
+            810,
+            498
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "due to the dominance of perfect FCC atoms in number. Figure 2(c) presents the free energy differences over the FCC lattice. ",
+        "bbox": [
+            77,
+            557,
+            481,
+            586
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As depicted in Figure 2(c), the free energies of the SCs (D-SC I, D-SC II, and P-SC) are significantly lower than those of the Kelvin and Voronoi nanocrystals. Kelvin nanocrystal exhibits lower free energy than Voronoi nanocrystal, which indicates that the truncated-octahedral grain arrangement is energetically favorable, aligning with experimental observations.[20] This energetic preference also supports the role of the Kelvin nanocrystal as a precursor to SCs upon heating.[22] Across all crystals, a general decline in the free energy difference is observed with increasing temperature. This is reasonable due to the contribution of vibrational entropy to free energy. At $1300\\mathrm{K}$ , near the $T_{\\mathrm{m}}$ , the Kelvin and Voronoi nanocrystals exhibit higher free energies compared with the FCC lattice, reflecting their pronounced thermal instability and propensity for structural transitions to lower-free-energy states. In contrast, the free energies of SCs remain smaller and converge toward zero near the $T_{\\mathrm{m}}$ . The unique Schwarz topology contributes to strong resilience against entropy-driven disorder. This is further validated by quantifying the vibrational entropy, $S_{\\mathrm{vib}}(T) = -\\frac{\\partial F(T)}{\\partial T}$ , as shown in Figure S4 of SI. The vibrational entropy of SCs is notably lower than that of the Kelvin and Voronoi nanocrystals, corroborating the enhanced thermal stability of SCs in terms of vibrational disorder. ",
+        "bbox": [
+            77,
+            585,
+            482,
+            941
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In nanocrystalline metals, the size limit of grain refinement has garnered considerable attention. For D-SC, this limit is observed at approximately $3\\mathrm{nm}$ . From a thermodynamic perspective, the underlying mechanisms governing this size limitation can be examined through free energy analysis. As illustrated in Figure 3(a), the characteristic size of the D-SC is defined by the aperture diameter, expressed as $D_{\\mathrm{s}} = \\sqrt{2} /2L$ where $L$ denotes the cubic box length of the D-SC. Here we constructed 15 D-SC models with $D_{\\mathrm{s}}$ ranging from 1.57 to 9.57 nm, covering the typical size explored in both experiments[20] and simulations.[22,27] Their free energies are calculated from 100 to $400\\mathrm{K}$ , which are shown in Figure 3(b). The results reveal a pronounced increase in free energy as size decreases regardless of temperature, particularly in the size range from 1.57 to $2.76\\mathrm{nm}$ . Notably, Figure 3(c) shows that a sharp increase in $T_{\\mathrm{c}}$ (the critical instability temperature), coinciding with a rapid variation in free energy. The origin of this size limit can be further attributed to the increasing volume fraction of GBs in the nanocrystals. As shown in Figure 3(d), the disordered atoms in GBs decline remarkably within a narrow grain size window in both D-SC I and Voronoi crystal, mirroring the variation in free energy. This abrupt increase likely leads to a critical threshold, marking the refinement limit of the D-SC structure. ",
+        "bbox": [
+            512,
+            557,
+            915,
+            897
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To fully elucidate the effect of GBs, further analysis is required to decompose the contributions from different lattices and defective regions. The atomic structures in a prototypical ",
+        "bbox": [
+            512,
+            898,
+            917,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Nano Letters ",
+        "bbox": [
+            80,
+            46,
+            179,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "pubs.acs.org/NanoLett ",
+        "bbox": [
+            449,
+            48,
+            586,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Letter ",
+        "bbox": [
+            866,
+            48,
+            904,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "8061 ",
+        "bbox": [
+            482,
+            952,
+            512,
+            962
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "https://doi.org/10.1021/acs.nanolett.5c02044 ",
+        "bbox": [
+            724,
+            952,
+            914,
+            962
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            777,
+            962,
+            914,
+            970
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D-SC I are categorized into three groups, i.e., grain (FCC lattice in confined volume), CTB, and GB. Among them, GBs exhibit the lowest mechanical stability as characterized by the lowest spring constants in Figure 4(a). In contrast, CTBs and crystallites display spring constants comparable to the bulk value. In terms of free energy, Figure 4(b) shows that the CTBs and grains exhibit similar thermodynamic stability, with free energy profiles significantly lower than those of GBs. This suggests that the free energy of SCs is predominantly concentrated within the GBs regions. Consequently, optimizing the proportion of GBs and reducing GB energy density are likely critical strategies for enhancing the thermal stability of nanocrystals with extremely fine grain sizes. Figure 3(d) has confirmed that D-SC adopts the former strategy. ",
+        "bbox": [
+            77,
+            71,
+            481,
+            265
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the latter strategy, to evaluate whether TPMS reduces the local GB energy, we compare the GB free energy of SCs with that of Voronoi nanocrystals. As shown in Figure 4(c), the GB free energies in different nanocrystals reveal an intriguing result. The minimal surface GBs in SCs exhibit higher free energy per atom than those in the Voronoi nanocrystal. This discrepancy can be attributed to local curvature differences: while the GBs in Voronoi nanocrystals are nearly flat, the minimal surface GBs in SCs are highly curved locally, which may elevate their energy despite maintaining zero mean curvature overall. However, when considering the system holistically, Figure S5 reveals that the total excess energy from GBs in SCs remains lower than in conventional nanocrystals due to the reduced GB volume fraction. This trade-off between minimizing the total GB volume and increasing the local GB energy further explains the intrinsic size limitation of SCs. ",
+        "bbox": [
+            77,
+            265,
+            481,
+            486
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, the effect of locally elevated free energy in defects cannot be overlooked. We designed a new Voronoi crystal with the same GB volume fraction as that in the SCs to isolate the impact of the GB geometry. Figure 5(a) displays the MSD versus time at 400 and $700\\mathrm{K}$ for SCs and the Voronoi nanocrystal, respectively. Notably, the P-SC, despite possessing a TPMS surface, does not exhibit significant suppression in MSD, which is in stark contrast to D-SC I. ",
+        "bbox": [
+            79,
+            486,
+            481,
+            595
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 5(b-d) display snapshots of nanocrystals after heating from 100 to $700\\mathrm{K}$ at a rate of $80~\\mathrm{K / ns}$ . The curved profiles indicate the original positions of GBs before heating. The P-SC and the Voronoi crystal exhibit pronounced kinetic instability by $700\\mathrm{K}$ , characterized by significant GB migration and grain coarsening. As shown in Figure S6 of the SI, they will completely transform into a single crystal as temperature goes sufficiently high. Despite the P-SC being of TPMS GB structure, it does not demonstrate superior stability compared with the Voronoi nanocrystal. The failure of the P-SC underscores the limited capacity of the TPMS in SCs to retain structural integrity. This instability can be attributed to the high free energy concentrated at such unique GBs [Figure 4(c)]. Although the zero-mean-curvature property of TPMS minimizes the driving force for further GBs coarsening, thermal fluctuation can still disrupt the curvature, potentially leading to structural collapse. This observation aligns with experiments[20] and simulations,[22,27] in which the TPMS GBs are hardly found in nanocrystals. ",
+        "bbox": [
+            79,
+            595,
+            481,
+            858
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "What remains puzzling is that D-SC I, despite sharing the same TPMS GBs topology as P-SC, maintains structural integrity at significantly higher temperatures, as shown in the bottom panels of Figure 5(b). The observed instability in P-SC suggests that pure thermodynamics does not necessarily guarantee the kinetic stability criterion. As depicted in Figures ",
+        "bbox": [
+            79,
+            858,
+            481,
+            942
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1(a)-(c), the defining difference between D-SC and P-SC lies in the 3D intersecting configurations of CTBs and GBs. The enhanced kinetic stability of D-SCs arises from their interwoven networks of CTBs, which effectively immobilizes the minimal surface GBs.[20,22,27] To investigate this further, Figure S7 compares two D-SCs, differing only in the presence or absence of CTBs. GB migration readily occurs without suppression of CTBs. ",
+        "bbox": [
+            512,
+            71,
+            915,
+            181
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In sum, we computed the absolute free energy of Schwarz nanocrystals in comparison with other nanocrystal forms using nonequilibrium thermodynamic integration. Additionally, we investigated the size dependence of D-SC and decomposed the free energy contributions from specific crystalline defects. This comprehensive approach enables a thorough assessment of the SCs phase stability from a physical perspective. While lower free energy is conventionally associated with enhanced thermodynamic stability, it does not fully prevent grain coarsening in nanocrystals. In the absence of CTBs, GBs migration persists at high temperatures, because the GB free energy consistently exceeds that of a perfect lattice. The phase stability of SCs is governed by two critical factors. First, from a thermodynamic perspective, the free energy of SCs must be sufficiently low. This condition is met by minimizing the GBs volume fraction in SCs, although the GB free energy of minimal surfaces is not necessarily lower than that of conventional GBs in Voronoi nanocrystals. Second, from a kinetic perspective, the stability of SCs primarily depends on the role of CTBs in constraining GBs motion. This study provides fundamental insights into the physical mechanisms underpinning the thermal stability of SCs, highlighting the critical importance of the 3D interlocking topology formed by CTBs and GBs. The theoretical findings contribute to the design of thermally stable nanocrystals with unprecedentedly fine grains, potentially unlocking novel functionalities and properties of nanostructures at the atomic scale. ",
+        "bbox": [
+            512,
+            182,
+            915,
+            555
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATED CONTENT ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            565,
+            721,
+            578
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            585,
+            708,
+            598
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acs.nanolett.Sc02044. ",
+        "bbox": [
+            512,
+            600,
+            915,
+            627
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Details of molecular dynamics, thermodynamic integration, and other analysis pertinent to thermodynamics and kinetics of Schwarz nanocrystals (PDF) ",
+        "bbox": [
+            551,
+            631,
+            915,
+            675
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR INFORMATION ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            691,
+            726,
+            705
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            710,
+            680,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Xiaolei Wu - State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China; School of Engineering Science, University of Chinese Academy of Sciences, Beijing 101408, China; orcid.org/0000-0001-8270-7621; Email: xlwu@imech.ac.cn ",
+        "bbox": [
+            530,
+            725,
+            915,
+            806
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yunjiang Wang - State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China; School of Engineering Science, University of Chinese Academy of Sciences, Beijing 101408, China; $\\odot$ orcid.org/0000-0002-2969-3889; Email: yjwang@imech.ac.cn ",
+        "bbox": [
+            530,
+            807,
+            906,
+            890
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Authors ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            900,
+            573,
+            911
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ting Lei - State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing ",
+        "bbox": [
+            530,
+            913,
+            914,
+            942
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Nano Letters ",
+        "bbox": [
+            80,
+            46,
+            179,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "pubs.acs.org/NanoLett ",
+        "bbox": [
+            449,
+            48,
+            584,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Letter ",
+        "bbox": [
+            866,
+            48,
+            904,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "8062 ",
+        "bbox": [
+            482,
+            952,
+            512,
+            961
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "https://doi.org/10.1021/acs.nanolett.5c02044 ",
+        "bbox": [
+            724,
+            952,
+            914,
+            962
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            777,
+            962,
+            914,
+            970
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "ref_text",
+        "text": "100190, China; School of Engineering Science, University of Chinese Academy of Sciences, Beijing 101408, China ",
+        "bbox": [
+            110,
+            72,
+            481,
+            100
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "ref_text",
+        "text": "Feng Liu - State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China; School of Engineering Science, University of Chinese Academy of Sciences, Beijing 101408, China ",
+        "bbox": [
+            98,
+            100,
+            481,
+            155
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "ref_text",
+        "text": "Complete contact information is available at: https://pubs.acs.org/10.1021/acs.nanolett.Sc02044 ",
+        "bbox": [
+            80,
+            160,
+            408,
+            187
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            200,
+            230,
+            212
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "YJW and XLW conceived the research idea. TL performed the calculations. FL and YJW supervised the study. All authors contributed to data analysis, discussed the results, and participated in drafting and revising the manuscript. ",
+        "bbox": [
+            80,
+            215,
+            481,
+            270
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            272,
+            123,
+            283
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "bbox": [
+            80,
+            285,
+            418,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            310,
+            276,
+            325
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the Strategic Priority Research Program of Chinese Academy of Sciences (Grants No. XDB0510301 and No. XDB0620103), the National Key Research and Development Program of China (Grant No. 2024YFA1208003), and the National Natural Science Foundation of China (Grant No. 12472112). ",
+        "bbox": [
+            80,
+            330,
+            481,
+            411
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            423,
+            207,
+            436
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "(1) Lu, L.; Shen, Y.; Chen, X.; Qian, L.; Lu, K. Ultrahigh strength and high electrical conductivity in copper. Science 2004, 304, 422-6. ",
+            "(2) Lu, L.; Chen, X.; Huang, X.; Lu, K. Revealing the maximum strength in nanotwinned copper. Science 2009, 323, 607-10. ",
+            "(3) Hu, J.; Shi, Y. N.; Sauvage, X.; Sha, G.; Lu, K. Grain boundary stability governs hardening and softening in extremely fine nanograined metals. Science 2017, 355, 1292-1296. ",
+            "(4) Meyers, M. A.; Mishra, A.; Benson, D. J. Mechanical properties of nanocrystalline materials. Prog. Mater. Sci. 2006, S1, 427-556. ",
+            "(5) Hall, E. O. The Deformation and Ageing of Mild Steel: II Characteristics of the Lüders Deformation. Proceedings of the Physical Society. Section B 1951, 64, 742. ",
+            "(6) Petch, N. J. The cleavage strength of polycrystals. J. Iron Steel Inst. 1953, 174, 25-28. ",
+            "(7) Yip, S. Nanocrystals: The strongest size. Nature 1998, 391, 532-533. ",
+            "(8) Ogata, S.; Li, J.; Yip, S. Ideal pure shear strength of aluminum and copper. Science 2002, 298, 807-11. ",
+            "(9) Cao, P. The Strongest Size in Gradient Nanograined Metals. Nano Lett. 2020, 20, 1440-1446. ",
+            "(10) Shan, Z.; Stach, E. A.; Wiezorek, J. M. K.; Knapp, J. A.; Follstaedt, D. M.; Mao, S. X. Grain boundary-mediated plasticity in nanocrystalline nickel. Science 2004, 305, 654-657. ",
+            "(11) Zhu, T.; Li, J. Ultra-strength materials. Prog. Mater. Sci. 2010, 55, 710-757. ",
+            "(12) Peng, H.; Gong, M.; Chen, Y.; Liu, F. Thermal stability of nanocrystalline materials: thermodynamics and kinetics. International Materials Reviews 2017, 62, 303-333. ",
+            "(13) Zhou, X.; Li, X.; Lu, K. Enhanced thermal stability of nanograined metals below a critical grain size. Science 2018, 360, 526-530. ",
+            "(14) Gleiter, H. Nanostructured materials: basic concepts and microstructure. Acta Mater. 2000, 48, 1-29. ",
+            "(15) Han, J.; Thomas, S. L.; Srolovitz, D. J. Grain-boundary kinetics: A unified approach. Prog. Mater. Sci. 2018, 98, 386-476. ",
+            "(16) Wang, Y.-J.; Gao, G.-J. J.; Ogata, S. Atomistic understanding of diffusion kinetics in nanocrystals from molecular dynamics simulations. Phys. Rev. B 2013, 88, 115413. ",
+            "(17) Kurasch, S.; Kotakoski, J.; Lehtinen, O.; Skakalova, V.; Smet, J.; Krill III, C. E.; Krasheninnikov, A. V.; Kaiser, U. Atom-by-atom "
+        ],
+        "bbox": [
+            80,
+            441,
+            481,
+            941
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "observation of grain boundary migration in graphene. Nano Lett. 2012, 12, 3168-3173. ",
+            "(18) Andrievski, R. Review of thermal stability of nanomaterials. J. Mater. Sci. 2014, 49, 1449-1460. ",
+            "(19) Devulapalli, V.; Chen, E.; Brink, T.; Frolov, T.; Liebscher, C. H. Topological grain boundary segregation transitions. Science 2024, 386, 420-424. ",
+            "(20) Li, X.; Jin, Z.; Zhou, X.; Lu, K. Constrained minimal-interface structures in polycrystalline copper with extremely fine grains. Science 2020, 370, 831-836. ",
+            "(21) Xu, W.; Zhang, B.; Li, X.; Lu, K. Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al-Mg alloys. Science 2021, 373, 683-687. ",
+            "(22) Jin, Z.; Li, X.; Lu, K. Formation of Stable Schwarz Crystals in Polycrystalline Copper at the Grain Size Limit. Phys. Rev. Lett. 2021, 127, 136101. ",
+            "(23) Lu, K. A Novel Metastable Structure in Polycrystalline Metals With Extremely Fine Grains: Schwarz Crystal. Metallurgical and Materials Transactions A 2024, 55, 1-19. ",
+            "(24) Schwarz, H. A. Gesammelte mathematische abhandlungen, 2nd ed.; American Mathematical Soc., 1972; Vol. 260. ",
+            "(25) Schoen, A. H. Infinite periodic minimal surfaces without self-intersections; NASA-TN-D-5541; National Aeronautics and Space Administration, 1970. ",
+            "(26) Fu, H.; Zhou, X.; Gao, Z.; Jin, Z.; Li, X.; Lu, K. Pt Schwarz crystals stabilized by minimal-surface grain boundaries and twins at the grain size limit. Acta Mater. 2024, 276, 120007. ",
+            "(27) Xing, H.; Jiang, J.; Wang, Y.; Zeng, Y.; Li, X. Strengthening-softening transition and maximum strength in Schwarz nanocrystals. Nano Materials Science 2024, 6, 320-328. ",
+            "(28) Xu, W.; Zhong, Y.; Li, X.; Lu, K. Stabilizing supersaturation with extreme grain refinement in spinodal aluminum alloys. Adv. Mater. 2024, 36, 2303650. ",
+            "(29) Fu, H.; Zhou, X.; Gao, Z.; Jin, Z.; Li, X.; Lu, K. Effect of Grain Geometry on the Stability of Polycrystalline Pt at the Nanoscale. Phys. Rev. Lett. 2025, 134, 056101. ",
+            "(30) Feng, J.; Fu, J.; Yao, X.; He, Y. Triply periodic minimal surface (TPMS) porous structures: from multi-scale design, precise additive manufacturing to multidisciplinary applications. International Journal of Extreme Manufacturing 2022, 4, 022001. ",
+            "(31) Freitas, R.; Asta, M.; De Koning, M. Nonequilibrium free-energy calculation of solids using LAMMPS. Comput. Mater. Sci. 2016, 112, 333-341. ",
+            "(32) de Koning, M.; Antonelli, A.; Yip, S. Optimized free-energy evaluation using a single reversible-scaling simulation. Phys. Rev. Lett. 1999, 83, 3973. ",
+            "(33) Weaire, D. The Kelvin Problem; CRC Press, 1997. ",
+            "(34) Mishin, Y.; Mehl, M.; Papaconstantopoulos, D.; Voter, A.; Kress, J. Structural stability and lattice defects in copper: Ab initio, tight-binding, and embedded-atom calculations. Phys. Rev. B 2001, 63, 224106. "
+        ],
+        "bbox": [
+            514,
+            71,
+            914,
+            707
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Nano Letters ",
+        "bbox": [
+            80,
+            46,
+            179,
+            60
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "pubs.acs.org/NanoLett ",
+        "bbox": [
+            449,
+            48,
+            584,
+            60
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Letter ",
+        "bbox": [
+            866,
+            48,
+            904,
+            60
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "8063 ",
+        "bbox": [
+            482,
+            952,
+            512,
+            962
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "https://doi.org/10.1021/acs.nanolett.5c02044 ",
+        "bbox": [
+            724,
+            953,
+            914,
+            962
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "Nano Lett. 2025, 25, 8058-8063 ",
+        "bbox": [
+            777,
+            962,
+            914,
+            970
+        ],
+        "page_idx": 5
+    }
+]

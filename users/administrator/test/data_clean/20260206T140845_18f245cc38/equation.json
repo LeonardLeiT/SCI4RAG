@@ -1,0 +1,62 @@
+[
+  {
+    "equation": "$7 0 \\mu \\mathrm { m }$",
+    "description": "The symbol $70\\ \\mu\\mathrm{m}$ denotes the thickness of the foil samples prepared for the study, where $\\mu\\mathrm{m}$ represents the unit of length micrometers. This dimensional parameter specifies the macroscopic sample geometry, which is critical for the subsequent processing and mechanical testing of the nanograined nickel‑molybdenum alloys synthesized by direct‑current electrodeposition."
+  },
+  {
+    "equation": "${ \\sim } 1 4 \\%$",
+    "description": "The symbol '~' denotes an approximate value, and the expression '14 %' represents a percentage. In the context of the Ni-Mo system, the value of approximately 14% refers to the equilibrium solid solubility limit of molybdenum (Mo) in a nickel (Ni) matrix. This parameter is critical for interpreting the microstructural observations, as it defines the maximum concentration of Mo that can be dissolved in the Ni lattice under equilibrium conditions without forming a second phase. The observation of a single-phase, supersaturated solid solution in the high Mo-content samples directly contrasts with this equilibrium limit, indicating a metastable state resulting from the processing conditions."
+  },
+  {
+    "equation": "$2 0 0 ^ { \\circ } \\mathrm { C }$",
+    "description": "The expression $200^{\\circ}\\mathrm{C}$ denotes a specific temperature value, where the symbol $\\mathrm{C}$ represents the unit of measurement, degrees Celsius. This value defines a critical thermal threshold in the annealing process described. In the given context, it signifies the upper limit of a low-temperature annealing regime, below which grain boundary relaxation—a process leading to material hardening without significant grain growth—is the dominant microstructural evolution mechanism."
+  },
+  {
+    "equation": "$4 0 0 ^ { \\circ } \\mathrm { C }$",
+    "description": "The symbol $400^{\\circ}\\mathrm{C}$ denotes a specific annealing temperature, where the unit $\\mathrm{C}$ represents degrees on the Celsius scale. This temperature is a key parameter in the experimental investigation of annealing-induced microstructural evolution and mechanical property changes in Ni-Mo alloys. In the provided context, this value represents the condition at which significant grain coarsening occurs, leading to a measured drop in material hardness to 2.36 GPa. The equation thus specifies the thermal treatment condition that defines a distinct point in the property-versus-temperature relationship for the alloy system."
+  },
+  {
+    "equation": "$ Mo sample, hardness increases from the as-deposited $",
+    "description": "The expression describes a change in mechanical property within a specific material system. Here, the term \"Mo sample\" refers to a nickel-molybdenum alloy specimen, where the Mo concentration is a critical variable. The phrase \"hardness increases from the as-deposited\" denotes a material strengthening process, where the hardness value, a measure of resistance to plastic deformation, undergoes an enhancement relative to its initial, as-fabricated state. This relationship captures the annealing-induced hardening phenomenon, where post-deposition thermal treatment leads to an increase in hardness, with the magnitude of this increase being a function of the molybdenum content in the alloy."
+  },
+  {
+    "equation": "$ Mo with an initial grain size of $",
+    "description": "The expression denotes a material system, specifically a nickel-molybdenum alloy, where the molybdenum (Mo) content is specified as 21.5% by weight. The variable $d_0$ represents the initial average grain size of the alloy's microstructure, which in this instance is given as 3.4 nanometers (nm). This parameter is critical for describing the material's initial condition prior to a processing step, such as annealing. The relationship captured is that the initial grain size is a key microstructural variable that influences subsequent material properties, where, as indicated by the context, a smaller $d_0$ correlates with a more significant increase in hardness following thermal treatment."
+  },
+  {
+    "equation": "$\\mathbf { \\mathcal { D } } ^ { - 1 / 2 }$",
+    "description": "The expression $\\mathbf { \\mathcal { D } } ^ { - 1 / 2 }$ denotes the inverse square root of the average grain size, $D$, which is a key variable in the classical Hall-Petch relationship. In this context, the equation represents the grain-size-dependent term in the conventional scaling law for yield strength or hardness in polycrystalline metals, where hardness is typically proportional to $D^{-1/2}$. The negative exponent indicates an inverse relationship, such that hardness increases as grain size decreases, a phenomenon attributed to the hindrance of dislocation motion by grain boundaries. The provided manuscript context notes that the experimental data for peak-annealed Ni–Mo samples deviate from this $D^{-1/2}$ scaling, instead following a $D^{-1}$ variation."
+  },
+  {
+    "equation": "$D ^ { - 1 }$",
+    "description": "The equation \\( D^{-1} \\) describes the inverse of the average grain size, \\( D \\), where \\( D \\) denotes the mean linear intercept grain diameter. This functional form is used to characterize the grain-size dependence of material hardness. In the present context, the observed mechanical behavior, specifically the hardness of peak-annealed Ni–Mo alloys, scales with \\( D^{-1} \\), which contrasts with the classical Hall-Petch relationship that predicts a \\( D^{-1/2} \\) dependence. The \\( D^{-1} \\) variation suggests a dominant deformation mechanism different from dislocation pile-up, such as one governed by grain boundary-mediated processes."
+  },
+  {
+    "equation": "$5 0 0 ^ { \\circ } \\mathrm { C }$",
+    "description": "The expression \\(500^{\\circ}\\mathrm{C}\\) denotes a specific temperature value used in the experimental procedure, where the symbol \\(\\mathrm{C}\\) represents the unit of measurement, degrees Celsius. This temperature defines the peak annealing condition applied to the material. The relationship captured is that the sample was subjected to a thermal treatment at this constant temperature, which is a critical parameter influencing microstructural evolution, as evidenced by the subsequent appearance of nanometer-scale compositional fluctuations."
+  },
+  {
+    "equation": "$2 0 \\mathrm { n m }$",
+    "description": "The expression $2 0 \\mathrm { n m }$ denotes a specific length scale, where the numerical value 20 is multiplied by the unit $\\mathrm{nm}$, which is the abbreviation for nanometers. This term represents the upper bound of a measured spatial range for compositional fluctuations within a material. In the provided context, it quantifies the characteristic wavelength over which variations in molybdenum concentration occur following a thermal annealing process. The value is derived from experimental data analysis, specifically linear compositional measurements, and it establishes the maximum extent of the observed fluctuation periodicity alongside a lower bound of 10 nm."
+  },
+  {
+    "equation": "$ ) is slightly higher than the nominal concentration of the as-deposited state (14.2 at $",
+    "description": "The equation presents a comparison between two measured molybdenum concentrations in a nickel-molybdenum alloy. The symbol $C_{\\text{avg}}$ denotes the average molybdenum concentration, measured to be $18.0 \\pm 0.1 \\, \\text{at}\\%$. This value is directly compared to $C_{\\text{nom}}$, which represents the nominal, or target, molybdenum concentration of the as-deposited material, given as $14.2 \\, \\text{at}\\%$. The relationship $C_{\\text{avg}} > C_{\\text{nom}}$ indicates that the experimentally determined average concentration is greater than the intended nominal composition. This discrepancy is attributed to large-scale compositional inhomogeneities in the as-deposited sample that are not resolved by the atom probe tomography measurement volume."
+  },
+  {
+    "equation": "$5 0 0 ^ { \\circ } \\mathrm { C }$",
+    "description": "The expression \\(500^{\\circ}\\mathrm{C}\\) denotes a specific annealing temperature, where the symbol \\(\\mathrm{C}\\) represents the unit of temperature, degrees Celsius. In the context of the study, this temperature is a key parameter in the thermal processing of a Ni–Mo alloy. The annealing at \\(500^{\\circ}\\mathrm{C}\\) induces microstructural changes, specifically a measurable contraction in the lattice parameter of the Ni(Mo) solid solution, which corresponds to a depletion of Mo within the nickel grain lattice."
+  },
+  {
+    "equation": "$1 5 0 ~ \\mathrm { { n m } }$",
+    "description": "The expression $1 5 0 ~ \\mathrm { { n m } }$ denotes a specific grain size observed in the deformed microstructure, where the numerical value 150 is the magnitude and the unit $\\mathrm{nm}$ (nanometers) indicates the scale of measurement. In the context of the analysis, this value represents the maximum observed grain diameter within the plastically deformed region beneath an indentation, signifying a substantial degree of grain coarsening compared to the initial nanograined structure."
+  },
+  {
+    "equation": "$9 0 \\mathrm { m J } / \\mathrm { m ^ { 2 } }$",
+    "description": "The quantity $9 0 \\mathrm { m J } / \\mathrm { m ^ { 2 } }$ represents a specific value for the stacking fault energy (SFE) of a material, where the unit $\\mathrm{mJ/m^{2}}$ denotes millijoules per square meter. In this context, the SFE is a critical material property that quantifies the energy cost per unit area required to create a planar stacking fault defect within the crystal lattice. The given numerical value of 90 $\\mathrm{mJ/m^{2}}$ corresponds to the high stacking fault energy measured for a nanograined nickel-molybdenum solid solution alloy containing 12 atomic percent molybdenum. This elevated SFE value is significant because, contrary to conventional expectations for materials with high SFEs, it coexists with a high observed density of stacking faults in the alloy's microstructure. The relationship captured is that this specific energy magnitude is a key parameter influencing dislocation behavior—particularly the dissociation of dislocations into partials and the stability of resulting stacking faults—which directly affects mechanical properties such as hardness and deformation mechanisms."
+  },
+  {
+    "equation": "$( 1 / D )$",
+    "description": "The expression $(1/D)$ denotes the inverse of the grain size, $D$. In the context of deformation mechanisms in nanocrystalline materials, this term captures a fundamental scaling relationship where the critical stress required for dislocation nucleation at grain boundaries is inversely proportional to the grain size. This relationship arises because smaller grains provide a higher density of boundary sources and a reduced internal stress field, necessitating a higher applied stress to activate dislocation emission. Consequently, the $(1/D)$ dependence explains the observed strengthening behavior and the extremely high hardness in nanograined alloys."
+  }
+]

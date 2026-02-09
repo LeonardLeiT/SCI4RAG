@@ -1,0 +1,13 @@
+{
+  "chatmodel": {
+    "method": "api",   
+    "name": "deepseek",
+    "modelType": "deepseek-chat"
+  },
+
+  "embedmodel": {
+    "method": "api",
+    "name": "aliyun",
+    "modelType": "text-embedding-v1"
+  }
+}

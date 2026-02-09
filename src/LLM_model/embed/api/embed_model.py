@@ -17,7 +17,7 @@ def load_api_key(chatmodel="aliyun"):
         raise KeyError(f"API key for '{chatmodel}' not found")
 
     return data[chatmodel]
-    
+
 # Define provider-specific constructor functions
 def aliyun_embed_llm(modelType, apiKey):
     return DashScopeEmbeddings(

@@ -8,7 +8,7 @@ def quick_generate():
     print("正在生成 requirements.txt...")
     
     # 方法1: 使用 pip freeze（推荐）
-    with open('requirements.txt', 'w') as f:
+    with open('requires.txt', 'w') as f:
         # 添加 Python 版本
         f.write(f"# Python {sys.version}\n")
         f.write(f"python=={sys.version_info.major}.{sys.version_info.minor}.{sys.version_info.micro}\n\n")

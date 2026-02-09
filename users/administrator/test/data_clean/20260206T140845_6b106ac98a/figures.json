@@ -1,0 +1,42 @@
+[
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/bd56ab801f547d97cb31feacab506d458f48b10e5257ff95ec544477b12e393d.jpg",
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/4252d21b287a7e3ddb1c8938cf520de24ab57ef9394edeabc94b202fa38a5c1e.jpg",
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/511320621a9d998312e40f691e68fb5ac5abccc666a901aa18ceb62accc631f2.jpg",
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/3d07805f1f189c60cb2892df772ed18595bce42eb45c021722e8160605bde2b3.jpg",
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/f7aa970fc05881827d3ef15ae59b17fd07a8f6e4ef950ade0de31fcfdefc1ffd.jpg"
+    ],
+    "description": "Fig. 1. TEM observations of the typical microstructure in an as-deposited Cu sample. A bright-field TEM image (A) and the electron diffraction pattern (inset) show roughly equiaxed submicrometer-sized grains with random orientations separated by high-angle GBs. The statistical distributions for grain size (B) and for thickness of the twin/matrix lamellae (C) were obtained from the many TEM images of the same sample. Electron diffraction patterns [inset in (D)] indicate that the twins in each grain are parallel to each other in {111} planes (D), and high-resolution TEM images (E) show that the twins follow a sequence of ATATA. . ., with twinning elements, for example, A: (1\u0001 11\u0001 )/[1\u0001 12] and T: (1\u0001 11)/[11\u0001 2]."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/8e25a687a110e0ce3ac7677d7750870339af437008f36171c1870c2b9ba7579a.jpg"
+    ],
+    "description": "Fig. 2. (A) A typical tensile stress-strain curve for the as-deposited Cu sample with nano-twins in comparison with that for a coarse-grained polycrystalline Cu sample (with an average grain size larger than $1 0 0 ~  { \\mu \\mathrm { m } } )$ ) and a nanocrystalline (nc) Cu sample (mean grain size $\\sim 3 0 \\ : \\mathsf { n m }$ ) (11). The inset shows the geometry of the tensile sample for the as-deposited nano-twin sample (R, radius of curvature). (B) The measured temperature dependence of electrical resistivity (\u000e) for the as-deposited nano-twin Cu sample and the coarsegrained sample in a temperature range from 2 to 296 K. For comparison, electrical resistivity measurement results in a nanocrystalline Cu sample with a mean grain size of $1 5 \\mathsf { n m }$ are also included."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/da765736f24807012adad4b74f255b14ef2f1c1d5f536bd3dbafaef07e40d0e2.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/2692f310e801a66de78b470242ec60d836b1b496428d33da23cf5cd8b87d38bf.jpg"
+    ],
+    "description": "Fig. 3. A plot of measured tensile yield strength $( \\sigma _ { \\mathrm { y } } )$ and ultimate tensile stress $( \\sigma _ { \\mathsf { U T S } } )$ for the as-deposited Cu samples with different twin densities versus the total area of TBs in a unit of volume $( S _ { \\mathrm { T B } } )$ determined from TEM observations."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/8fc1558ff3afc262c1bdf826a6523a7a5ea0f418b13fba3d9ce0fb56af828cff.jpg"
+    ],
+    "description": "Fig. 4. A typical brightfield TEM image of the strained sample with nanoscale twins after tensile tests (A) and a close observation of the TBs with plenty of dislocations (B). (C) Shows a high-resolution TEM image of a TB with Frank dislocations (b, Burgers vector)."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_6b106ac98a/images/e9f90ca88bb1d55b416d670d345c3d5102d05ada0f67f6ce626f4768bace099f.jpg"
+    ],
+    "description": ""
+  }
+]

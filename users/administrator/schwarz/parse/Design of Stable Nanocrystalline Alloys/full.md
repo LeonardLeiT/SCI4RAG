@@ -1,0 +1,238 @@
+This copy is for your personal, non-commercial use only.
+
+colleagues, clients, or customers by clicking here.If you wish to distribute this article to others, you can order high-quality copies for your
+
+Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here.
+
+The following resources related to this article are available online at www.sciencemag.org (this information is current as of February 17, 2013 ):
+
+Updated information and services, including high-resolution figures, can be found in the online version of this article at: http://www.sciencemag.org/content/337/6097/951.full.html
+
+Supporting Online Material can be found at: http://www.sciencemag.org/content/suppl/2012/08/22/337.6097.951.DC1.html
+
+A list of selected additional articles on the Science Web sites related to this article can be found at: http://www.sciencemag.org/content/337/6097/951.full.html#related
+
+This article cites 45 articles, 8 of which can be accessed free: http://www.sciencemag.org/content/337/6097/951.full.html#ref-list-1
+
+This article has been cited by 1 articles hosted by HighWire Press; see: http://www.sciencemag.org/content/337/6097/951.full.html#related-urls
+
+This article appears in the following subject collections: Materials Science http://www.sciencemag.org/cgi/collection/mat_sci
+
+# References and Notes
+
+1. J. G. Hills, Nature 254, 295 (1975).   
+2. M. J. Rees, Nature 333, 523 (1988).   
+3. S. Komossa, J. Greiner, Astron. Astrophys. 349, L45 (1999).   
+4. J. Greiner, R. Schwarz, S. Zharikov, M. Orio, Astron. Astrophys. 362, L25 (2000).   
+5. S. Gezari et al., Astrophys. J. 653, L25 (2006).   
+6. S. Gezari et al., Astrophys. J. 676, 944 (2008).   
+7. S. van Velzen et al., Astrophys. J. 741, 73 (2011).   
+8. D. N. Burrows et al., Nature 476, 421 (2011).   
+9. A. J. Levan et al., Science 333, 199 (2011).   
+10. J. S. Bloom et al., Science 333, 203 (2011).   
+11. B. A. Zauderer et al., Nature 476, 425 (2011).   
+12. S. B. Cenko et al., Astrophys. J. 753, 77 (2012).   
+13. Materials and methods are available as supplementary materials on Science Online.   
+14. W. H. G. Lewin, J. van Paradijs, M. van der Klis, Space Sci. Rev. 46, 273 (1988).   
+15. M. van der Klis, Timing Neutron Stars, H. Ögelman & E. P. J. van den Heuvel, ed. (1989), p. 27.   
+16. P. Uttley, I. M. McHardy, I. E. Papadakis, Mon. Not. R. Astron. Soc. 332, 231 (2002).   
+17. M. Gierliński, M. Middleton, M. Ward, C. Done, Nature 455, 369 (2008).   
+18. T. E. Strohmayer, R. F. Mushotzky, Astrophys. J. 586, L61 (2003).   
+19. T. E. Strohmayer et al., Astrophys. J. 660, 580 (2007).
+
+20. M. A. Nowak, R. V. Wagoner, M. C. Begelman, D. E. Lehr, Astrophys. J. 477, L91 (1997).   
+21. W. Cui, S. N. Zhang, W. Chen, Astrophys. J. 492, L53 (1998).   
+22. D. Psaltis, T. Belloni, M. van der Klis, Astrophys. J. 520, 262 (1999).   
+23. L. Stella, M. Vietri, S. M. Morsink, Astrophys. J. 524, L63 (1999).   
+24. J. C. McKinney, A. Tchekhovskoy, R. D. Blandford, Mon. Not. R. Astron. Soc. 423, 3083 (2012).   
+25. L. E. Strubbe, E. Quataert, Mon. Not. R. Astron. Soc. 400, 2070 (2009).   
+26. J. M. Mïller, K. Gültekin, Astrophys. J. 738, L13 (2011).   
+27. T. E. Strohmayer, Astrophys. J. 552, L49 (2001).   
+28. A. Merloni, S. Heinz, T. di Matteo, Mon. Not. R. Astron. Soc. 345, 1057 (2003).   
+29. H. Falcke, E. Körding, S. Markoff, Astron. Astrophys. 414, 895 (2004).   
+30. I. M. McHardy, E. Koerding, C. Knigge, P. Uttley, R. P. Fender, Nature 444, 730 (2006).   
+31. K. Gültekin et al., Astrophys. J. 706, 404 (2009).   
+32. M. van der Klis, Rapid X-ray Variability (Cambridge Univ. Press, Cambridge, 2006), pp. 39–112.   
+33. M. Middleton, C. Done, Mon. Not. R. Astron. Soc. 403, 9 (2010).   
+34. R. A. Remillard, J. E. McClintock, Annu. Rev. Astron. Astrophys. 44, 49 (2006).   
+35. W.-H. Lei, B. Zhang, H. Gao, http://arxiv.org/abs/ 1202.4231 (2012).
+
+36. J. D. Schnittman, J. H. Krolik, J. F. Hawley, Astrophys. J. 651, 1031 (2006).   
+Acknowledgments: R.C.R. thanks the Michigan Society of Fellows and NASA for support through the Einstein Fellowship Program, grant PF1-120087. R.C.R. also thanks C. Reynolds and R. Mushotzky for comments on our early work. We all thank N. Schartel and the XMM-Newton staff for executing monitoring observations of Swift J164449.3+573451. This work is based on observations made with XMM-Newton, a European Space Agency (ESA) science mission with instruments and contributions directly funded by ESA member states and the United States (NASA), and the Suzaku satellite, a collaborative mission between the space agencies of Japan (Japan Aerospace Exploration Agency) and the USA (NASA). This work also made use of data supplied by the UK Swift Science Data Centre at the University of Leicester.
+
+# Supplementary Materials
+
+www.sciencemag.org/cgi/content/full/science.1223940/DC1 Materials and Methods
+
+Figs. S1 to S9
+
+Table S1
+
+References (37–56)
+
+27 April 2012; accepted 23 July 2012
+
+Published online 2 August 2012;
+
+10.1126/science.1223940
+
+# Design of Stable Nanocrystalline Alloys
+
+Tongjai Chookajorn, Heather A. Murdoch, Christopher A. Schuh*
+
+Nanostructured metals are generally unstable; their grains grow rapidly even at low temperatures, rendering them difficult to process and often unsuitable for usage. Alloying has been found to improve stability, but only in a few empirically discovered systems. We have developed a theoretical framework with which stable nanostructured alloys can be designed. A nanostructure stability map based on a thermodynamic model is applied to design stable nanostructured tungsten alloys. We identify a candidate alloy, W-Ti, and demonstrate substantially enhanced stability for the high-temperature, long-duration conditions amenable to powder-route production of bulk nanostructured tungsten. This nanostructured alloy adopts a heterogeneous chemical distribution that is anticipated by the present theoretical framework but unexpected on the basis of conventional bulk thermodynamics.
+
+When the grain, or crystallite, size in a poly-crystal is reduced below about 100 nm,grain boundary or interface physics begin crystal is reduced below about 100 nm, grain boundary or interface physics begin
+
+to dominate over conventional crystal physics (1–4). Avariety of interesting and useful properties emerge in such nanostructured materials (5–10),
+
+but their large volume fraction of grain boundaries also comes with an inherent instability. Many nanocrystalline materials of interest for both fundamental study and engineering application are now recognized as substantially out of equilibrium and undergo rapid evolution to coarser structures even at modest temperatures (11). Such coarsening tendencies impede the use of these materials at elevated temperatures, as well as the development of scalable processing routes, which would commonly involve at least one substantial thermal excursion, for example, to sinter processed powders into a dense nanocrystalline compact.
+
+Department of Materials Science and Engineering, Massachusetts Institute of Technology (MIT), Cambridge, MA 02139, USA. *To whom correspondence should be addressed. E-mail: schuh@mit.edu
+
+The nanostructure stability map for tungsten-Fig. 1.based alloys at ${ 1 1 0 0 ^ { \circ } } \mathsf C ,$ calculated on the basis of variation of the enthalpy parameters in Eq. 2 ( ). For Aeach combination of parameters, the free energy of nanocrystalline structures is compared to that of the bulk regular solution (for details of the comparison, see figs. S1 and S2). An example case for the nanocrystalline stable region is presented in ( ) for a specific Balloy of W-Sc. The free energy of the nanostructured phases is below that of the regular solution common tangent (dashed line). In ( ), a bulk stable case where Cthe nanostructured phases fall above the common tangent line is shown; the W-Ag system will then prefer to phase separate at bulk scales as dictated by the bulk regular solution thermodynamics. Particular binary tungsten alloys are placed on the map after calculating their enthalpies of mixing and segregation; for W-Ti, the typical ranges of uncertainty of these calculations are shown. (For details of this calculation, see tables S1 and S2.)
+
+![](images/8f8ce2b15954a3acbd0258dd4401da6716bb66891b8d6bea1f6e33f552a1e908.jpg)
+
+![](images/f0c92320f58a8ce617ea8e10ed0563c716776f94aa0bbdb8d8f056e077ca882d.jpg)
+
+![](images/cc19e1aa1534cee15f9395485ca17ca164bf6cdb3045ac426fb681a067e84cec.jpg)
+
+Over the past few years, attention has shifted to the problem of stabilizing nanocrystalline structures by alloying. Whereas one approach to the problem is a classical kinetic strategy, that is, including alloying elements to slow grain growth, there is increasing interest in the notion of genuine thermodynamic stabilization of grain boundaries (12–18). In analogy to microemulsions, in which the addition of surfactant is used to stabilize interfacial area (19), the concept of thermodynamic nanostructure stabilization is to add to a polycrystal an alloying element (solute) selected for its preference to occupy grain boundary sites vis-à-vis those in the crystal interiors to relieve the energy penalty of the interfaces. The grain boundary energy, , is lowered from that of a pure material, $\gamma _ { 0 } .$ g, through such segregation, gwhich in a simplified and linearized view can be written (12)
+
+$$
+\gamma = \gamma_ {0} - \Gamma \left(\Delta H ^ {\mathrm {s e g}} + k T \ln X\right) \tag {1}
+$$
+
+where the specific solute excess at the boundary, , lowers the enthalpy by $\Delta H ^ { \mathrm { s e g } }$ , the en-G Dthalpy of segregation, and raises the entropy via $\mathrm { k } T \mathrm { l n } X ,$ with $\mathrm { k } T$ the thermal energy and $X$ the composition.
+
+A few systems, both simulated and experimental, have provided evidence that this thermodynamic approach can suppress grain growth and stabilize nanostructured polycrystals (16, 20–28). Some authors have provided guidelines for estimating the grain boundary segregation strength given a base element by identifying preferred features of the solute, for example, atomic size mismatch with the solvent (16) or low bulk solid solubility (23, 24), both of which are presumed to correlate with a higher tendency for solute rejection into grain boundaries. By and large, these approaches amount to semi-empirical preferences for alloy systems that might exhibit grain boundary segregation and do not generally speak to true thermodynamic stability of nanostructures, which requires consideration of the relative stability of nanostructured phases to competing bulk phases. For example, existing approaches often suggest systems that experience other problematic structural instabilities beyond just normal grain growth, that is, abnormal grain growth or phase decomposition (21–24). We advance a thermodynamic model, with which nanostructure stability maps can be generated and used as a design tool. One newly predicted system, namely W with a minority addition of Ti, is evaluated and demonstrates stability at a length scale of around $2 0 ~ \mathrm { { n m } }$ over long durations at elevated temperatures.
+
+To assess the efficacy of solutes in stabilizing nanostructures, we describe the mixing free energy of a nanostructured binary system with separate energetic interactions in grain and intergranular regions. The two regions are not treated as separate phases, per se, but are geometrically connected to one another such that a reduction in grain size, $d _ { \cdot }$ , causes an increase in the grain boundary volume fraction, $f _ { \mathrm { g b } } ,$ which fol-
+
+lows the scaling $f _ { \mathrm { g b } } = 1 - ( \frac { d - t } { d } ) ^ { 3 }$ , where $t$ is the mean grain boundary thickness and $d \geq t$ . The model, presented in a preliminary form by Trelewicz and Schuh (29), reduces to a classical regular solution model in the limit of infinite grain size and also reproduces a grain boundary energy expression like that of Eq. 1 in the proper limit. The model thus essentially provides the form of Gibbs free energy surfaces for mixing, $\Delta G ^ { \mathrm { m i x } }$ , as a function of both $f _ { \mathrm { g b } }$ and $X$ as
+
+$$
+\begin{array}{l} \Delta G ^ {\mathrm {m i x}} = \left(1 - f _ {\mathrm {g b}}\right) \Delta G _ {\mathrm {c}} ^ {\mathrm {m i x}} + f _ {\mathrm {g b}} \Delta G _ {\mathrm {g b}} ^ {\mathrm {m i x}} + \\ z \mathrm {v} f _ {\mathrm {g b}} \left(X _ {\mathrm {g b}} - X _ {\mathrm {c}}\right) \left[ \left(2 X _ {\mathrm {g b}} - 1\right) \omega_ {\mathrm {g b}} - \right. \\ \left. \frac {1}{z t} \left(\Omega^ {\mathrm {B}} \gamma^ {\mathrm {B}} - \Omega^ {\mathrm {A}} \gamma^ {\mathrm {A}}\right) \right] \tag {2} \\ \end{array}
+$$
+
+where the subscripts denote the two regions, crystal (c) and grain boundary (gb), and the superscripts denote the two alloy components, A (solvent) and B (solute). The symbol $\Delta G ^ { \mathrm { m i x } }$
+
+denotes the Gibbs free energy for a regular solution model, written for the subscripted components: The first two terms in the equation thus amount to a weighted average of two regular solutions, one for the crystals and one for the grain boundary regions. The additional terms are associated with the geometrical way in which those two regions interact. The bond energies are collected in the usual way into an interaction parameter, , of which there are two (crystal and wgrain boundary); additional terms include the coordination number, z; transition bond fraction, n; and atomic volume, $\Omega$ . The most important Wpoint about this model is that it describes a free energy surface in composition–grain size space. We are interested in finding alloys where there are global minima in such a surface, that is, where there is a thermodynamically preferred grain size dictated by the grain boundary segregation state at a given composition.
+
+For the purposes of developing a design approach, it is useful to focus on two key thermo-
+
+![](images/faa0250fac54d3d50f12ee3e75f79b5e7af2a3722ff282d649b8d1ea3a61f6ed.jpg)  
+Pre- and postannealing grain structures of tungsten powders after one week at ${ 1 1 0 0 ^ { \circ } } \mathsf { C } .$ ( ) The Fig. 2.grain size histograms reveal only a minor change in the W–20 atomic $\%$ A Ti alloy after prolonged annealing and an almost two-orders-of-magnitude coarsening in unalloyed W. ( ) The bright-field transmission Belectron microscopy (TEM) image shows a uniform distribution of nanometer-sized grains in the as-milled structure of the W–20 atomic $\%$ Ti alloy, with the dark-field TEM image (inset) showing different diffracting crystallites. The postannealing structures vary with alloying: ( ) a coarsened grain structure in unalloyed $\mathsf { W } ,$ C presented in a focused ion beam image, and ( ) a retained nanocrystalline structure in W–20 atomic $\%$ D Ti, shown in a bright-field TEM image with a dark-field TEM (inset).
+
+dynamic parameters, which together contain all of the most relevant physics of the problem: the enthalpy of mixing in the crystalline state, $\Delta H ^ { \mathrm { m i x } } = z { \mathfrak { w } } _ { \mathrm { c } } X ( 1 - X )$ , to represent the grain D winterior and the dilute-limit enthalpy of segregation, $\Delta H ^ { \mathrm { s e g } } = z \Big [ { \omega } _ { \mathrm { c } } - { \frac { { \omega } _ { \mathrm { g b } } } { 2 } } - { \frac { ( \Omega ^ { \mathrm { B } } \gamma ^ { \mathrm { B } } - \Omega ^ { \mathrm { A } } \gamma ^ { \mathrm { A } } ) } { 2 z t } } \Big ]$ wgb − ðWBgB − WAgAÞzt i, to
+
+capture the thermodynamics of the grain boundary environment, which incorporates chemical interactions, elastic mismatch, and the mismatch in interfacial energies. These two parameters form the axes of a nanostructure stability map, as shown in Fig. 1A. By fixing other quantities (most notably temperature), we can iterate the values of these two parameters over physically plausible ranges and calculate the shape of the free energy surface given by Eq. 2. We identify the global minima that correspond to nanocrystalline grain sizes with a particular grain boundary segregation profile. These minima are then compared to the energies of other possible bulk states. Combinations of parameters that have stable nanocrystalline states are marked by green points; those without, red x’s. The conditions under which a nanocrystalline system would be stable or not are thus demarcated by the green and red regions of Fig. 1A.
+
+Examples of how nanocrystalline states are evaluated for stability with respect to bulk structures are shown in Fig. 1, B and C, for conditions in which the nanocrystalline structure is stable and unstable, respectively. In these panels, the blue curves represent local cuts of the free energy surface of Eq. 2 and the lowest energy state available for particular nanocrystalline grain sizes and segregation states. There are many such
+
+states across a range of composition, as reflected by the multiple distinct curves shown in the panels. The black curves are the bulk regular solution; the systems shown exhibit a miscibility gap denoted by the common-tangent dashed lines because they have positive $\Delta { \dot { H } } ^ { \mathrm { m i x } }$ . The difference Dbetween Fig. 1B and Fig. 1C lies in the position of the nanostructure free energy curves with respect to the bulk phase separation commontangent line. In Fig. 1B, the nanostructured states are stable, that is, have lower Gibbs free energy, than the competing bulk-phase separated state. In Fig. 1C, there are nanostructured states that could exist, but these are less stable than bulk-phase separation. The difference between the two systems in Fig. 1, B and C, is fundamental, and we specifically seek to identify alloys that fall into the first category rather than the second.
+
+To demonstrate the utility of the map in Fig. 1A, we consider one problem in nanostructured alloy design, namely the development of nanocrystalline tungsten, which is of interest for its anticipated high strength and unique capacity for shear localization (30, 31) but which has proven challenging to produce in bulk form because of its extremely high melting (and therefore processing) temperature. The finest grain sizes reported in a bulk tungsten material are about $4 0 \ \mathrm { n m }$ , and this required a complex processing route involving multiple severe deformation steps (32). In principle, tungsten could be made in bulk form through a powder route, but the requirement of high-temperature sintering is usually a debilitating roadblock to such routes because of nanostructure coarsening; tungsten can generally only be sintered at temper-
+
+![](images/a044119a2cd750a2db4dbfd98ad089055714f9b527fde12f7789f3c75f76f501.jpg)
+
+![](images/fc744abe9f20afea2a715756113dad0758c66dca50432969e73e3f314c071f0d.jpg)
+
+![](images/cf39593df247469010824cea2aa91283d032173e7409664f22dcd70883fa3bc4.jpg)  
+Chemical analysis of the annealed W–20 Fig. 3.atomic $\%$ Ti alloy. ( ) Scanning TEM imaging Ashows the darker contrast from a heavier element and the brighter contrast from a lighter element. ( ) The W-Ti elemental map confirms a nano-Bscale heterogeneous structure instead of a more homogeneous solute distribution expected from bulk thermodynamics. ( ) The Ti compositional Cline scan across the three larger W-rich regions indicated by the yellow line in (A) further illustrates Ti atoms being depleted at the W-rich grain centers. The entire volume is apparently a polycrystalline BCC structure, although with nanoscale composition gradients.
+
+atures above about $1 0 5 0 ^ { \circ } \mathrm { C }$ even with sintering aids (33, 34).
+
+We used Eq. 2 and Fig. 1A to develop a stable nanostructured W alloy by first placing particular alloying elements for W on the map. This requires estimates of both $\Delta H ^ { \mathrm { m i x } }$ and $\Delta H ^ { \mathrm { s e g } }$ for D Deach possible binary system. We have calculated these quantities and populated Fig. 1A with all of the alloys (35) that exhibit positive $\Delta H ^ { \mathrm { m i x } }$ Dwith W and for which reliable data are available (values listed in table S1, with more details on the calculations provided in the supplementary materials). There is, of course, some uncertainty in all of these estimates, generally of the magnitude illustrated for one of the represented alloys, W-Ti, on the map.
+
+Figure 1A identifies a variety of candidate stable nanostructured materials that lie in the green region. Closer consideration reveals some unexpected predictions. For example, the likelihood of nanostructure stability has often been estimated by solute segregation strength based on atomic size mismatch and/or solubility. However, in the present system, the solute with the highest size difference listed in table S1 (Sr, ${ \sim } 5 5 \%$ mismatch with W) and those with the lowest solubility (Ag and Cu, essentially zero solubility) lie decidedly in the red bulk stable region in Fig. 1A. Also counterintuitively, the element with the lowest value of $\Delta H ^ { \mathrm { s e g } }$ in the set, Ti, is actual-Dly one of the most suitable candidates, being safely within the nanocrystalline stable region. In fact, Ti would be counterindicated by conventional approaches, which would seek low bulk solubility [Ti has extremely high solubility in W of 48 atomic $\%$ at $1 1 0 0 ^ { \circ } \mathrm { C }$ (36)] and high atomic size mismatch (Ti has a low-to-moderate mismatch with W of only $\sim 6 \%$ ).
+
+On the basis of these results, we produced a W–20 atomic $\%$ Ti alloy with an average grain size around 20 nm (Fig. 2B) by high-energy ball milling (35); the output of this process is microscale powders, where each particle comprises many nanocrystalline grains. As a control, we also produced unalloyed nanocrystalline W with about the same grain size through the same process. The powders were then equilibrated at $1 1 0 0 ^ { \circ } \mathrm { C }$ in an argon atmosphere for one week; at this temperature, the dominant diffusion pathway is intergranular, and the mean diffusion distance is several micrometers, which is thousands of times greater than the grain size. Preand postannealing structures were characterized to explore the stability of the nanostructure, and Fig. 2 shows the most important results of such characterizations.
+
+After one week at $1 1 0 0 ^ { \circ } \mathrm { C }$ , the unalloyed nanocrystalline W exhibits the typical instability of such materials, with grain coarsening to the micrometer scale, as shown in Fig. 2C. On the other hand, the W–20 atomic $\%$ Ti alloy retains a uniform nanostructure with a nominally unchanged average grain size of about $2 0 \mathrm { n m }$ . This stability can be seen visually in Fig. 2D and quantitatively in the grain size distributions of
+
+Fig. 2A. With Ti present, the system adopts a complex alloy configuration where Ti and W are heterogeneously distributed on the nanoscale as a polycrystalline body-centered cubic (BCC) structure, with no signatures of any amorphous content. This heterogeneous distribution is illustrated by the chemical arrangement in the equilibrated alloy in Fig. 3, with Fig. 3A showing the atomic contrast between W and Ti and Fig. 3B showing a local chemical map based on energy dispersive spectroscopy (35). A compositional line scan in Fig. 3C reveals the magnitude of the Ti composition ranging from near 0 atomic $\%$ to about 50 atomic $\%$ .
+
+The nanoscale chemical distribution seen in Fig. 3 is not expected for a bulk equilibrium alloy, where Ti is soluble to 48 atomic $\%$ in W at the equilibration temperature, and a homogeneous chemical distribution should be observed. This solute distribution is a consequence of the nanostructure: The high volume fraction of grain boundaries creates different chemical configurations, and a lower energy state results from the heterogeneous solute distribution. In a nanoscale structure, a heterogeneous solute distribution is explicitly expected from Eq. 2.
+
+From a technological standpoint, the results in Figs. 2 and 3 suggest that nanocrystalline tungsten can, in principle, be made sufficiently stable to survive a typical consolidation thermal cycle. Given the exceptionally high strength of nanocrystalline BCC metals (37) and the unusual secondary properties (such as shear localization)
+
+that emerge at these grain sizes, the present results may speak to a new family of engineering tungsten alloys. At the same time, our experimental work on W-Ti is simply an example of a single alloy design exercise; the above approach may be applied again to a number of different base metals.
+
+# References and Notes
+
+1. K. Lu, L. Lu, S. Suresh, Science 324, 349 (2009).   
+2. J. R. Weertman et al., MRS Bull. 24, 44 (1999).   
+3. H. Van Swygenhoven, J. R. Weertman, Mater. Today 9, 24 (2006).   
+4. X. Z. Liao, F. Zhou, E. J. Lavernia, D. W. He, Y. T. Zhu, Appl. Phys. Lett. 83, 5062 (2003).   
+5. L. Lu, M. L. Sui, K. Lu, Science 287, 1463 (2000).   
+6. L. Lu, Y. Shen, X. Chen, L. Qian, K. Lu, Science 304, 422 (2004).   
+7. Y. Wang, M. Chen, F. Zhou, E. Ma, Nature 419, 912 (2002).   
+8. D. B. Witkin, E. J. Lavernia, Prog. Mater. Sci. 51, 1 (2006).   
+9. B. Poudel et al., Science 320, 634 (2008).   
+10. M. E. McHenry, M. A. Willard, D. E. Laughlin, Prog. Mater. Sci. 44, 291 (1999).   
+11. M. Ames et al., Acta Mater. 56, 4255 (2008).   
+12. J. Weissmüller, Nanostructured Mater. 3, 261 (1993).   
+13. R. Kirchheim, Acta Mater. 50, 413 (2002).   
+14. R. Kirchheim, Acta Mater. 55, 5129 (2007).   
+15. R. Kirchheim, Acta Mater. 55, 5139 (2007).   
+16. P. C. Millett, R. P. Selvam, A. Saxena, Acta Mater. 55, 2329 (2007).   
+17. J. Luo, H. Cheng, K. M. Asl, C. J. Kiely, M. P. Harmer, Science 333, 1730 (2011).   
+18. M. Baram, D. Chatain, W. D. Kaplan, Science 332, 206 (2011).   
+19. M. Kahlweit, Science 240, 617 (1988).   
+20. A. J. Detor, C. A. Schuh, Acta Mater. 55, 4221 (2007).   
+21. A. J. Detor, C. A. Schuh, J. Mater. Res. 22, 3233 (2007).   
+22. T. Hentschel, D. Isheim, R. Kirchheim, F. Muller, H. Kreye, Acta Mater. 48, 933 (2000).
+
+23. P. Choi, M. da Silva, U. Klement, T. Al-Kassab, R. Kirchheim, Acta Mater. 53, 4473 (2005).   
+24. K. A. Darling, B. K. VanLeeuwen, C. C. Koch, R. O. Scattergood, Mater. Sci. Eng. A 527, 3572 (2010).   
+25. F. Liu, R. Kirchheim, Scr. Mater. 51, 521 (2004).   
+26. C. E. Krill, H. Ehrhardt, R. Birringer, Z. Metallk. 96, 1134 (2005).   
+27. S. G. Mayr, D. Bedorf, Phys. Rev. B 76, 024111 (2007).   
+28. C. Koch, R. Scattergood, K. Darling, J. Semones, J. Mater. Sci. 43, 7264 (2008).   
+29. J. R. Trelewicz, C. A. Schuh, Phys. Rev. B 79, 094112 (2009).   
+30. D. Roundy, C. R. Krenn, M. L. Cohen, J. W. Morris Jr., Philos. Mag. A 81, 1725 (2001).   
+31. Q. Wei et al., Appl. Phys. Lett. 86, 101907 (2005).   
+32. L. J. Kecskes et al., Mater. Sci. Eng. A 467, 33 (2007).   
+33. H. W. Hayden, J. H. Brophy, J. Electrochem. Soc. 110, 805 (1963).   
+34. R. M. German, Z. A. Munir, Metall. Trans. A 7, 1873 (1976).   
+35. Materials and methods are available as supplementary materials on Science Online.   
+36. S. Jonsson, Z. Metallk. 87, 784 (1996).   
+37. C. R. Krenn, D. Roundy, J. W. Morris Jr., M. L. Cohen, Mater. Sci. Eng. A 319–321, 111 (2001).
+
+Acknowledgments: This work was supported by the U.S. Army Research Office under grant no. W911NF-09-1-0422. MIT has applied for a patent, application no. PCT/US12/28811, related to the design methods and materials produced in this work. Additional information and data used in this work can be found in the supplementary materials.
+
+# Supplementary Materials
+
+www.sciencemag.org/cgi/content/full/337/6097/951/DC1 Materials and Methods
+
+Figs. S1 and S2
+
+Tables S1 and S2
+
+References (38–50)
+
+15 May 2012; accepted 13 July 2012
+
+10.1126/science.1224737
+
+# Stepwise Evolution of Spherical Seeds into 20-Fold Twinned Icosahedra
+
+Mark R. Langille,1 Jian Zhang,1 Michelle L. Personick,1 Shuyou Li,2 Chad A. Mirkin1,2*
+
+Understanding the factors that influence the growth and final shape of noble metal nanostructures is important for controlling their properties. However, relative to their single-crystalline counterparts, the growth of nanoparticles that contain twin defects can be difficult to control because multiple competitive growth pathways can yield such structures. We used spherical, cubic, and octahedral single-crystalline gold nanoparticles as dual electron microscopy labels and plasmonic seeds to track the growth of multiply twinned silver nanostructures. As the bimetallic nanostructures grew, they successively developed twin planes to ultimately form multiply twinned nanoparticles from single-crystalline seeds. Collectively, these data demonstrate how a series of nanoparticles of different shapes and internal crystal structures are interrelated and develop from one another.
+
+omplicated reaction pathways and transformations can be studied in molecular materials by distinctly labeling starting materials and monitoring their evolution over time with techniques such as fluorescence and isotopic labeling. A comparable strategy for moni-
+
+1 Department of Chemistry and International Institute for Nanotechnology, Northwestern University, Evanston, IL 60208, USA. 2 Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA.
+
+*To whom correspondence should be addressed. E-mail: chadnano@northwestern.edu
+
+toring nanoparticle growth is to use a nanoparticle of one material (e.g., Au) as both a seed and an electron microscopy label to follow the growth of a second material type (e.g., Ag). (1) This method has provided insight into the role of particular reaction conditions in controlling nanoparticle growth $( l , 2 )$ . In the synthesis of noble metal nanoparticles, there is often a wide variety of conditions that can lead to different growth processes and create markedly different nanoparticle shapes (3). We report a method for following the growth of a nanoparticle from a single-crystalline,
+
+pseudo-spherical Au seed into a bimetallic Ag-Au icosahedron structure. We have identified eight intermediate structures formed along the way, as well as some of the key factors that control each of the stepwise growth processes.
+
+In the case of defect-free or single-crystalline noble metal nanoparticles, shape control can be achieved by directing the deposition preference onto specific crystallographic facets through the use of additives or capping agents (3–8). However, nanoparticle growth can be more difficult to control when multiply twinned structures such as decahedra and icosahedra are involved because these structures can grow from multiple competitive growth pathways (3, 9–12). Unlike their single-crystalline counterparts, twinned particles can grow from either twinned or single-crystalline seeds. One pathway involves the nucleation of a twinned nanoparticle seed and its subsequent growth in a layer-by-layer fashion (13). Alternatively, a single-crystalline nanoparticle seed can develop twin defects during its growth (or through a coalescence/fusion mechanism) to yield a twinned structure (14, 15). Understanding from which of these pathways twinned nanoparticles develop is important for controlling reaction conditions so as to selectively enhance or suppress their growth.
+
+Electron microscopy provides a way of monitoring certain aspects of particle growth,

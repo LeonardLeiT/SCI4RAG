@@ -1,0 +1,639 @@
+{
+  "X. Y. Li, Z. H. Jin, X. Zhou, and K. Lu, Constrained minimal–interface structures in polycrystalline copper with extremely fine grains, Science 370, 831 (2020).": {
+    "title": "Constrained minimal-interface structures in polycrystalline copper with extremely fine grains",
+    "author": [
+      "X. Y. Li",
+      "Z. H. Jin",
+      "X. Zhou",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.abe1267",
+    "url": "https://doi.org/10.1126/science.abe1267",
+    "year": 2020,
+    "volume": "370",
+    "number": "6518",
+    "pages": "831-836",
+    "bibkey": "Li2020Constrained"
+  },
+  "P. J. F. Gandy, D. Cvijović, A. L. Mackay, and J. Klinowski, Exact computation of the triply periodic D—(‘diamond’) minimal surface, Chem. Phys. Lett. 314, 543 (1999).": {
+    "title": "Exact computation of the triply periodic D (`diamond') minimal surface",
+    "author": [
+      "Paul J.F. Gandy",
+      "Djurdje Cvijović",
+      "Alan L. Mackay",
+      "Jacek Klinowski"
+    ],
+    "journal": "Chemical Physics Letters",
+    "doi": "10.1016/s0009-2614(99)01000-3",
+    "url": "https://doi.org/10.1016/s0009-2614(99)01000-3",
+    "year": 1999,
+    "volume": "314",
+    "number": "5-6",
+    "pages": "543-551",
+    "bibkey": "Gandy1999Exact"
+  },
+  "See Supplemental Material at http://link.aps.org/ supplemental/10.1103/PhysRevLett.127.136101 for methods and additional MD results, which includes Refs. [4–19].": {
+    "title": "Supplemental Information 4: Additional results",
+    "author": [],
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.10868/supp-4",
+    "url": "https://doi.org/10.7717/peerj.10868/supp-4",
+    "year": 2021,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "bibkey": "Unknown2021Supplemental"
+  },
+  "URL: https://science.sciencemag.org/content/suppl/2020/ 11/11/370.6518.831.DC1.": {
+    "title": "Constrained minimal-interface structures in polycrystalline copper with extremely fine grains",
+    "author": [
+      "X. Y. Li",
+      "Z. H. Jin",
+      "X. Zhou",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.abe1267",
+    "url": "https://doi.org/10.1126/science.abe1267",
+    "year": 2020,
+    "volume": "370",
+    "number": "6518",
+    "pages": "831-836",
+    "bibkey": "Li2020Constrained"
+  },
+  "D. H. Warrington and P. Bufalini, The coincidence site lattice and grain boundaries, Scr. Metall. 5, 771 (1971).": {
+    "title": "The coincidence site lattice and grain boundaries",
+    "author": [
+      "D.H. Warrington",
+      "P. Bufalini"
+    ],
+    "journal": "Scripta Metallurgica",
+    "doi": "10.1016/0036-9748(71)90161-x",
+    "url": "https://doi.org/10.1016/0036-9748(71)90161-x",
+    "year": 1971,
+    "volume": "5",
+    "number": "9",
+    "pages": "771-776",
+    "bibkey": "Warrington1971The"
+  },
+  "H. Grimmer, W. Bollmann, and D. H. Warrington, Coincidence–site lattices and complete pattern–shift in cubic crystals, Acta Cryst. A30, 197 (1974).": {
+    "title": "Coincidence-site lattices and complete pattern-shift in cubic crystals",
+    "author": [
+      "H. Grimmer",
+      "W. Bollmann",
+      "D. H. Warrington"
+    ],
+    "journal": "Acta Crystallographica Section A",
+    "doi": "10.1107/s056773947400043x",
+    "url": "https://doi.org/10.1107/s056773947400043x",
+    "year": 1974,
+    "volume": "30",
+    "number": "2",
+    "pages": "197-207",
+    "bibkey": "Grimmer1974Coincidencesite"
+  },
+  "R. W. Balluffi and A. P. Sutton, Interfaces in Crystalline Materials (Oxford, New York, 2007).": {
+    "title": "Interfaces in Crystalline Materials By A. P. Sutton (University of Oxford) and R. W. Balluffi (MIT). Oxford University Press:  New York. 1995. xxvii + 819 pp. $165. ISBN 0-19-851385-2.",
+    "author": [
+      "W. T. Reynolds"
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "doi": "10.1021/ja955377x",
+    "url": "https://doi.org/10.1021/ja955377x",
+    "year": 1997,
+    "volume": "119",
+    "number": "9",
+    "pages": "2343-2343",
+    "bibkey": "Reynolds1997Interfaces"
+  },
+  "S. Plimpton, Fast parallel algorithms for short-range molecular dynamics, J. Comput. Phys. 117, 1 (1995).": {
+    "title": "Fast parallel algorithms for short-range molecular dynamics",
+    "author": [
+      "S. Plimpton"
+    ],
+    "journal": "Office of Scientific and Technical Information (OSTI)",
+    "doi": "10.2172/10176421",
+    "url": "https://doi.org/10.2172/10176421",
+    "year": 1993,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "bibkey": "Plimpton1993Fast"
+  },
+  "V. Borovikov, M. I. Mendelev, A. H. King, and R. LeSar, Effect of stacking fault energy on mechanism of plastic deformation in nanotwinned FCC metals, Model. Simul. Mater. Sci. Eng. 23, 055003 (2015).": {
+    "title": "Effect of stacking fault energy on mechanism of plastic deformation in nanotwinned FCC metals",
+    "author": [
+      "Valery Borovikov",
+      "Mikhail I Mendelev",
+      "Alexander H King",
+      "Richard LeSar"
+    ],
+    "journal": "Modelling and Simulation in Materials Science and Engineering",
+    "doi": "10.1088/0965-0393/23/5/055003",
+    "url": "https://doi.org/10.1088/0965-0393/23/5/055003",
+    "year": 2015,
+    "volume": "23",
+    "number": "5",
+    "pages": "055003",
+    "bibkey": "Borovikov2015Effect"
+  },
+  "C. A. Becker, F. Tavazza, Z. T. Trautt, and R. A. Buarque de Macedoc, Considerations for choosing and using force fields and interatomic potentials in materials science and engineering, Curr. Opin. Solid State Mater. Sci. 17, 277 (2013).": {
+    "title": "Considerations for choosing and using force fields and interatomic potentials in materials science and engineering",
+    "author": [
+      "Chandler A. Becker",
+      "Francesca Tavazza",
+      "Zachary T. Trautt",
+      "Robert A. Buarque de Macedo"
+    ],
+    "journal": "Current Opinion in Solid State and Materials Science",
+    "doi": "10.1016/j.cossms.2013.10.001",
+    "url": "https://doi.org/10.1016/j.cossms.2013.10.001",
+    "year": 2013,
+    "volume": "17",
+    "number": "6",
+    "pages": "277-283",
+    "bibkey": "Becker2013Considerations"
+  },
+  "L. M. Hale, Z. T. Trautt, and C. A. Becker, Evaluating variability with atomistic simulations: The effect of potential and calculation methodology on the modeling of lattice and elastic constants, Model. Simul. Mater. Sci. Eng. 26, 055003 (2018).": {
+    "title": "Evaluating variability with atomistic simulations: the effect of potential and calculation methodology on the modeling of lattice and elastic constants",
+    "author": [
+      "Lucas M Hale",
+      "Zachary T Trautt",
+      "Chandler A Becker"
+    ],
+    "journal": "Modelling and Simulation in Materials Science and Engineering",
+    "doi": "10.1088/1361-651x/aabc05",
+    "url": "https://doi.org/10.1088/1361-651x/aabc05",
+    "year": 2018,
+    "volume": "26",
+    "number": "5",
+    "pages": "055003",
+    "bibkey": "Hale2018Evaluating"
+  },
+  "URL: https://www.ctcms.nist.gov/potentials.": {
+    "title": "NIST-CTCMS International Workshop on Optimal Design for Materials and Structures",
+    "author": [
+      "A. Cherkaev",
+      "B. Palais"
+    ],
+    "journal": "Structural Optimization",
+    "doi": "10.1007/bf01198368",
+    "url": "https://doi.org/10.1007/bf01198368",
+    "year": 1997,
+    "volume": "13",
+    "number": "1",
+    "pages": "1-3",
+    "bibkey": "Cherkaev1997NISTCTCMS"
+  },
+  "A. Hashibon, A. Y. Lozovoi, Y. Mishin, C. Elsässer, and P. Gumbsch, Interatomic potential for the Cu–Ta system and its application to surface wetting and dewetting, Phys. Rev. B 77, 094131 (2008).": {
+    "title": "Interatomic potential for the Cu-Ta system and its application to surface wetting and dewetting",
+    "author": [
+      "Adham Hashibon",
+      "Alexander Y. Lozovoi",
+      "Yuri Mishin",
+      "Christian Elsässer",
+      "Peter Gumbsch"
+    ],
+    "journal": "Physical Review B",
+    "doi": "10.1103/physrevb.77.094131",
+    "url": "https://doi.org/10.1103/physrevb.77.094131",
+    "year": 2008,
+    "volume": "77",
+    "number": "9",
+    "pages": "094131",
+    "bibkey": "Hashibon2008Interatomic"
+  },
+  "B.-J. Lee and J.-H. Shim, A modified embedded atom method interatomic potential for the Cu–Ni system, CALPHAD: Comput. Coupling Phase Diagrams Thermochem. 28, 125 (2004).": {
+    "title": "A modified embedded atom method interatomic potential for the Cu–Ni system",
+    "author": [
+      "Byeong-Joo Lee",
+      "Jae-Hyeok Shim"
+    ],
+    "journal": "Calphad",
+    "doi": "10.1016/j.calphad.2004.06.001",
+    "url": "https://doi.org/10.1016/j.calphad.2004.06.001",
+    "year": 2004,
+    "volume": "28",
+    "number": "2",
+    "pages": "125-132",
+    "bibkey": "Lee2004A"
+  },
+  "A. Stukowski, Visualization and analysis of atomistic simulation data with OVITO–the open visualization tool, Model. Simul. Mater. Sci. Eng. 18, 015012 (2010).": {
+    "title": "Visualization and analysis of atomistic simulation data with OVITO–the Open Visualization Tool",
+    "author": [
+      "Alexander Stukowski"
+    ],
+    "journal": "Modelling and Simulation in Materials Science and Engineering",
+    "doi": "10.1088/0965-0393/18/1/015012",
+    "url": "https://doi.org/10.1088/0965-0393/18/1/015012",
+    "year": 2010,
+    "volume": "18",
+    "number": "1",
+    "pages": "015012",
+    "bibkey": "Stukowski2010Visualization"
+  },
+  "A. Stukowski, V. V. Bulatov, and A. Arsenlis, Automated identification and indexing of dislocations in crystal interfaces, Model. Simul. Mater. Sci. Eng. 20, 085007 (2012).": {
+    "title": "Automated identification and indexing of dislocations in crystal interfaces",
+    "author": [
+      "Alexander Stukowski",
+      "Vasily V Bulatov",
+      "Athanasios Arsenlis"
+    ],
+    "journal": "Modelling and Simulation in Materials Science and Engineering",
+    "doi": "10.1088/0965-0393/20/8/085007",
+    "url": "https://doi.org/10.1088/0965-0393/20/8/085007",
+    "year": 2012,
+    "volume": "20",
+    "number": "8",
+    "pages": "085007",
+    "bibkey": "Stukowski2012Automated"
+  },
+  "C. Kittel, Introduction to Solid State Physics (Wiley, New York, 2005).": {
+    "title": "Solid State Physics over 13 Years:\n            <i>Introduction to Solid State Physics</i>\n            . Charles Kittel. Wiley, New York, ed. 3, 1966. 662 pp., illus. $12.50.",
+    "author": [
+      "Charles T. Walker"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.155.3765.991-b",
+    "url": "https://doi.org/10.1126/science.155.3765.991-b",
+    "year": 1967,
+    "volume": "155",
+    "number": "3765",
+    "pages": "991-991",
+    "bibkey": "Walker1967Solid"
+  },
+  "P. M. Anderson, J. P. Hirth, and J. Lothe, Theory of Dislocations, 3rd ed. (Cambridge University Press, Cambridge, England, 2017).": {
+    "title": "Theory of Dislocations (2nd ed.)",
+    "author": [
+      "J. P. Hirth",
+      "J. Lothe",
+      "T. Mura"
+    ],
+    "journal": "Journal of Applied Mechanics",
+    "doi": "10.1115/1.3167075",
+    "url": "https://doi.org/10.1115/1.3167075",
+    "year": 1983,
+    "volume": "50",
+    "number": "2",
+    "pages": "476-477",
+    "bibkey": "Hirth1983Theory"
+  },
+  "Z. H. Jin, P. Gumbsch, K. Lu, and E. Ma, Melting Mechanisms at the Limit of Superheating, Phys. Rev. Lett. 87, 055703 (2001).": {
+    "title": "Melting Mechanisms at the Limit of Superheating",
+    "author": [
+      "Z. H. Jin",
+      "P. Gumbsch",
+      "K. Lu",
+      "E. Ma"
+    ],
+    "journal": "Physical Review Letters",
+    "doi": "10.1103/physrevlett.87.055703",
+    "url": "https://doi.org/10.1103/physrevlett.87.055703",
+    "year": 2001,
+    "volume": "87",
+    "number": "5",
+    "pages": "055703",
+    "bibkey": "Jin2001Melting"
+  },
+  "W. Xu, B. Zhang, X. Y. Li, and K. Lu, Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al-Mg alloys, Science 373, 683 (2021).": {
+    "title": "Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al–Mg alloys",
+    "author": [
+      "W. Xu",
+      "B. Zhang",
+      "X. Y. Li",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.abh0700",
+    "url": "https://doi.org/10.1126/science.abh0700",
+    "year": 2021,
+    "volume": "373",
+    "number": "6555",
+    "pages": "683-687",
+    "bibkey": "Xu2021Suppressing"
+  },
+  "H. A. Schwarz, Ueber die Minimalfläche, deren Begrenzung als ein von vier Kanten eines regulären Tetraeders gebildetes räumliches Vierseit gegeben ist, Monatsberichte der Königlichen Akademie der Wissenschaften zu Berlin, 149 (1865); H. A. Schwarz, Gesammelte Mathematische Abhandlungen (Springer, Berlin, Heidelberg, 1890).": {
+    "title": "Ueber die Minimalfläche, deren Begrenzung als ein von vier Kanten eines regulären Tetraeders gebildetes räumliches Vierseit gegeben ist",
+    "author": [
+      "H. A. Schwarz"
+    ],
+    "journal": "Gesammelte Mathematische Abhandlungen",
+    "doi": "10.1007/978-3-642-50665-9_1",
+    "url": "https://doi.org/10.1007/978-3-642-50665-9_1",
+    "year": 1890,
+    "volume": null,
+    "number": null,
+    "pages": "1-5",
+    "bibkey": "Schwarz1890Ueber"
+  },
+  "B. Riemann, Über die Fläche vom kleinsten Inhalt bei gegebener Begrenzung, Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen 13, 3 (1867); B. Riemann, Bernhard Riemann Collected Papers (Kendrick Press, Heber City, 2004), pp. 287–337.": {
+    "title": "Ueber die Fläche vom kleinsten Inhalt bei gegebener Begrenzung",
+    "author": [],
+    "journal": "Bernard Riemann's gesammelte mathematische Werke und wissenschaftlicher Nachlass",
+    "doi": "10.1017/cbo9781139568050.018",
+    "url": "https://doi.org/10.1017/cbo9781139568050.018",
+    "year": 2013,
+    "volume": null,
+    "number": null,
+    "pages": "283-315",
+    "bibkey": "Unknown2013Ueber"
+  },
+  "A. H. Schoen, Infinite periodic minimal surfaces without self-intersections, NASA Technical Note TN D–5541, 1970.": {
+    "title": "Reflections concerning triply-periodic minimal surfaces",
+    "author": [
+      "Alan H. Schoen"
+    ],
+    "journal": "Interface Focus",
+    "doi": "10.1098/rsfs.2012.0023",
+    "url": "https://doi.org/10.1098/rsfs.2012.0023",
+    "year": 2012,
+    "volume": "2",
+    "number": "5",
+    "pages": "658-668",
+    "bibkey": "Schoen2012Reflections"
+  },
+  "J. C. C. Nitsche, Lectures on Minimal Surfaces I (Cambridge University Press, Cambridge, England, 1989).": {
+    "title": "The Early Modern Legacy of Medieval Canon Law - The Medieval Canon Law: Teaching, Literature, and Transmission. The Sandars Lectures in Bibliography. By Dorothy M. Owen. Cambridge: Cambridge University Press, 1990. Pp. xii + 82. $34.50. - Roman Canon Law in Reformation England. Cambridge Studies in English Legal History. By R. H. Helmholz. Cambridge: Cambridge University Press, 1990. Pp. xxiv + 209. $44.50. - Fundamental Authority in Late Medieval English Law. Cambridge Studies in English Legal History. By Norman Doe. Cambridge: Cambridge University Press, 1990. Pp. xxi + 197. $44.50. - God and the Moneylenders: Usury and Law in Early Modern England. By Norman Jones. Oxford: Basil Blackwell, 1989. Pp. viii + 217. $49.95.",
+    "author": [
+      "James A. Brundage"
+    ],
+    "journal": "Journal of British Studies",
+    "doi": "10.1086/386035",
+    "url": "https://doi.org/10.1086/386035",
+    "year": 1993,
+    "volume": "32",
+    "number": "3",
+    "pages": "285-290",
+    "bibkey": "Brundage1993The"
+  },
+  "P. J. F. Gandy and J. Klinowski, Exact computation of the triply periodic Schwarz P minimal surface, Chem. Phys. Lett. 322, 579 (2000).": {
+    "title": "Exact computation of the triply periodic Schwarz P minimal surface",
+    "author": [
+      "Paul J.F. Gandy",
+      "Jacek Klinowski"
+    ],
+    "journal": "Chemical Physics Letters",
+    "doi": "10.1016/s0009-2614(00)00453-x",
+    "url": "https://doi.org/10.1016/s0009-2614(00)00453-x",
+    "year": 2000,
+    "volume": "322",
+    "number": "6",
+    "pages": "579-586",
+    "bibkey": "Gandy2000Exact"
+  },
+  "W. Longley and T. J. McIntosh, A bicontinuous tetrahedral structure in a liquid–crystalline lipid, Nature (London) 303, 612 (1983).": {
+    "title": "A bicontinuous tetrahedral structure in a liquid-crystalline lipid",
+    "author": [
+      "William Longley",
+      "Thomas J. McIntosh"
+    ],
+    "journal": "Nature",
+    "doi": "10.1038/303612a0",
+    "url": "https://doi.org/10.1038/303612a0",
+    "year": 1983,
+    "volume": "303",
+    "number": "5918",
+    "pages": "612-614",
+    "bibkey": "Longley1983A"
+  },
+  "Alan L. Mackay, Periodic minimal surfaces, Physica (B+C) (Amsterdam) 131, 300 (1985).": {
+    "title": "Periodic minimal surfaces",
+    "author": [
+      "Alan L. Mackay"
+    ],
+    "journal": "Physica B+C",
+    "doi": "10.1016/0378-4363(85)90163-9",
+    "url": "https://doi.org/10.1016/0378-4363(85)90163-9",
+    "year": 1985,
+    "volume": "131",
+    "number": "1-3",
+    "pages": "300-305",
+    "bibkey": "Mackay1985Periodic"
+  },
+  "E. L. Thomas, D. M. Anderson, C. S. Henkee, and D. Hoffman, Periodic area–minimizing surfaces in block copolymers, Nature (London) 334, 598 (1988).": {
+    "title": "Periodic area-minimizing surfaces in block copolymers",
+    "author": [
+      "Edwin L. Thomas",
+      "David M. Anderson",
+      "Chris S. Henkee",
+      "David Hoffman"
+    ],
+    "journal": "Nature",
+    "doi": "10.1038/334598a0",
+    "url": "https://doi.org/10.1038/334598a0",
+    "year": 1988,
+    "volume": "334",
+    "number": "6183",
+    "pages": "598-601",
+    "bibkey": "Thomas1988Periodic"
+  },
+  "D. Hoffman, A new turn for Archimedes, Nature (London) 384, 28 (1996).": {
+    "title": "A new turn for Archimedes",
+    "author": [
+      "David Hoffman"
+    ],
+    "journal": "Nature",
+    "doi": "10.1038/384028a0",
+    "url": "https://doi.org/10.1038/384028a0",
+    "year": 1996,
+    "volume": "384",
+    "number": "6604",
+    "pages": "28-29",
+    "bibkey": "Hoffman1996A"
+  },
+  "L. Kelvin (Sir William Thomson), On the division of space with minimum partitional area, Philos. Mag. 24, 503 (1887).": {
+    "title": "On the division of space with minimum partitional area",
+    "author": [
+      "William Thomson"
+    ],
+    "journal": "Acta Mathematica",
+    "doi": "10.1007/bf02612322",
+    "url": "https://doi.org/10.1007/bf02612322",
+    "year": 1887,
+    "volume": "11",
+    "number": "0",
+    "pages": "121-134",
+    "bibkey": "Thomson1887On"
+  },
+  "X. Zhou, X. Y. Li, and K. Lu, Enhanced thermal stability of nanograined metals below a critical grain size, Science 360, 526 (2018).": {
+    "title": "Enhanced thermal stability of nanograined metals below a critical grain size",
+    "author": [
+      "X. Zhou",
+      "X. Y. Li",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.aar6941",
+    "url": "https://doi.org/10.1126/science.aar6941",
+    "year": 2018,
+    "volume": "360",
+    "number": "6388",
+    "pages": "526-530",
+    "bibkey": "Zhou2018Enhanced"
+  },
+  "X. Zhou, X. Y. Li, and K. Lu, Size Dependence of Grain Boundary Migration in Metals under Mechanical Loading, Phys. Rev. Lett. 122, 126101 (2019).": {
+    "title": "Size Dependence of Grain Boundary Migration in Metals under Mechanical Loading",
+    "author": [
+      "Xin Zhou",
+      "Xiuyan Li",
+      "K. Lu"
+    ],
+    "journal": "Physical Review Letters",
+    "doi": "10.1103/physrevlett.122.126101",
+    "url": "https://doi.org/10.1103/physrevlett.122.126101",
+    "year": 2019,
+    "volume": "122",
+    "number": "12",
+    "pages": "126101",
+    "bibkey": "Zhou2019Size"
+  },
+  "C. A. Lambert, L. H. Radzilowski, and E. L. Thomas, Triply periodic level surfaces as models for cubic tricontinuous block copolymer morphologies, Phil. Trans. R. Soc. A 354, 2009 (1996).": {
+    "title": "Triply periodic level surfaces as models for cubic tricontinuous block copolymer morphologies",
+    "author": [],
+    "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
+    "doi": "10.1098/rsta.1996.0089",
+    "url": "https://doi.org/10.1098/rsta.1996.0089",
+    "year": 1996,
+    "volume": "354",
+    "number": "1715",
+    "pages": "2009-2023",
+    "bibkey": "Unknown1996Triply"
+  },
+  "V. Y. Gertsman and B. W. Reed, On the three–dimensional twin–limited Microstructure, Z. Metallkd. 96, 1106 (2005).": {
+    "title": "On the three-dimensional twin-limited microstructure",
+    "author": [
+      "Valéry Y. Gertsman",
+      "Bryan W. Reed"
+    ],
+    "journal": "Zeitschrift für Metallkunde",
+    "doi": "10.3139/146.101147",
+    "url": "https://doi.org/10.3139/146.101147",
+    "year": 2005,
+    "volume": "96",
+    "number": "10",
+    "pages": "1106-1111",
+    "bibkey": "Gertsman2005On"
+  },
+  "K. Miyazawa, Y. Iwasaki, K. Ito, and Y. Ishida, Combination rule of $\\Sigma$ values at triple junctions in cubic polycrystals, Acta Cryst. A52, 787 (1996).": {
+    "title": "Combination Rule of Σ Values at Triple Junctions in Cubic Polycrystals",
+    "author": [
+      "K. Miyazawa",
+      "Y. Iwasaki",
+      "K. Ito",
+      "Y. Ishida"
+    ],
+    "journal": "Acta Crystallographica Section A Foundations of Crystallography",
+    "doi": "10.1107/s0108767396005934",
+    "url": "https://doi.org/10.1107/s0108767396005934",
+    "year": 1996,
+    "volume": "52",
+    "number": "6",
+    "pages": "787-796",
+    "bibkey": "Miyazawa1996Combination"
+  },
+  "V. Randle, Y. Hu, and M. Coleman, Grain boundary reorientation in copper, J. Mater. Sci. 43, 3782 (2008).": {
+    "title": "Grain boundary reorientation in copper",
+    "author": [
+      "V. Randle",
+      "Y. Hu",
+      "M. Coleman"
+    ],
+    "journal": "Journal of Materials Science",
+    "doi": "10.1007/s10853-007-2128-2",
+    "url": "https://doi.org/10.1007/s10853-007-2128-2",
+    "year": 2008,
+    "volume": "43",
+    "number": "11",
+    "pages": "3782-3791",
+    "bibkey": "Randle2008Grain"
+  },
+  "G. Gottstein and L. S. Shvindlerman, Grain Boundary Migration in Metals: Thermodynamics, Kinetics, Applications, 2nd ed. (CRC Press, Boca Raton, 2010).": {
+    "title": "Grain Boundary Migration in Metals",
+    "author": [
+      "Gunter Gottstein",
+      "Lasar S. Shvindlerman"
+    ],
+    "journal": "CRC Press",
+    "doi": "10.1201/9781420054361",
+    "url": "https://doi.org/10.1201/9781420054361",
+    "year": 2009,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "bibkey": "Gottstein2009Grain"
+  },
+  "J. W. Cahn and J. E. Taylor, A unified approach to motion of grain boundaries, relative tangential translation along grain boundaries and grain rotation, Acta Mater. 52, 4887 (2004).": {
+    "title": "A unified approach to motion of grain boundaries, relative tangential translation along grain boundaries, and grain rotation",
+    "author": [
+      "John W. Cahn",
+      "Jean E. Taylor"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2004.02.048",
+    "url": "https://doi.org/10.1016/j.actamat.2004.02.048",
+    "year": 2004,
+    "volume": "52",
+    "number": "16",
+    "pages": "4887-4898",
+    "bibkey": "Cahn2004A"
+  },
+  "R. W. Cahn, Topology of crystal grains, Nature (London) 250, 702 (1974).": {
+    "title": "Topology of crystal grains",
+    "author": [
+      "Robert W. Cahn"
+    ],
+    "journal": "Nature",
+    "doi": "10.1038/250702b0",
+    "url": "https://doi.org/10.1038/250702b0",
+    "year": 1974,
+    "volume": "250",
+    "number": "5469",
+    "pages": "702-703",
+    "bibkey": "Cahn1974Topology"
+  },
+  "F. N. Rhines, K. R. Craig, and R. T. Dehoff, Mechanism of steady-state grain growth in aluminum, Metall. Trans. 5, 413 (1974).": {
+    "title": "Mechanism of steady-state grain growth in aluminum",
+    "author": [
+      "Frederick N. Rhines",
+      "Kenneth R. Craig",
+      "Robert T. DeHoff"
+    ],
+    "journal": "Metallurgical transactions",
+    "doi": "10.1007/bf02644109",
+    "url": "https://doi.org/10.1007/bf02644109",
+    "year": 1974,
+    "volume": "5",
+    "number": "2",
+    "pages": "413-425",
+    "bibkey": "Rhines1974Mechanism"
+  },
+  "H. Gleiter, Nanostructured materials: Basic concepts and microstructure, Acta Mater. 48, 1 (2000).": {
+    "title": "Nanostructured materials: basic concepts and microstructure",
+    "author": [
+      "H. Gleiter"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(99)00285-2",
+    "url": "https://doi.org/10.1016/s1359-6454(99)00285-2",
+    "year": 2000,
+    "volume": "48",
+    "number": "1",
+    "pages": "1-29",
+    "bibkey": "Gleiter2000Nanostructured"
+  },
+  "K. Lu, Stabilizing nanostructures in metals using grain, and twin boundary architectures. Nat. Rev. Mater. 1, 16019 (2016).": {
+    "title": "Stabilizing nanostructures in metals using grain and twin boundary architectures",
+    "author": [
+      "K. Lu"
+    ],
+    "journal": "Nature Reviews Materials",
+    "doi": "10.1038/natrevmats.2016.19",
+    "url": "https://doi.org/10.1038/natrevmats.2016.19",
+    "year": 2016,
+    "volume": "1",
+    "number": "5",
+    "pages": "16019",
+    "bibkey": "Lu2016Stabilizing"
+  }
+}

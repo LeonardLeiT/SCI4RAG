@@ -1,0 +1,81 @@
+[
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/cad05ace3d44a68495b6210ace7e18ecd2f1ca1bd4295e96a261159445c0334d.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/b09bcbbf87e961b09d51fe43109b65d5e8e0c0d0781500036bf3e85bebf006f9.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/a610d72889c5c43fef1f5546996285ad4585850c7d69dc62d818959dffb98d1b.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/a5f33cdf1f7ec3cd34241b7b3f2fd3edf04d662aade0e997324229cea9ed844c.jpg"
+    ],
+    "description": "Fig. 1. The typical bright-field TEM image of the as prepared Pt samples with average grain size of (a) $114 \\pm 20 \\mathrm{~nm}$ , (c) $32 \\pm 5 \\mathrm{~nm}$ . (b). The typical HAADF-STEM image of nanograins in (a) and shows a large quantity of dislocations. (d) The grain size distribution of (a) and (c)."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/e8c60391097d412e28c7bf6327c1e2d260d9e193610cf074f29c19324d67dff0.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/73794c08122250606f030802c18969f38bfb48f0b502bee4696b452c03d40adf.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/626918e6211c1a3735f356e8efce94969cfd918b3a932d20faab0bda68c99d7a.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/7b2cad3db45949dcd06c257bc00b75385340f3aca9c81c768a3fa12337311b47.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/4bc7f77144e5d2ed831372a984f85d81eff7de2fe4ab09cd54bd2f965d5db9cb.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/7077a0dd6835d57ae4ea4e1615b9506a8b4194aebd14ab992342f7eb8d8f1057.jpg"
+    ],
+    "description": "Fig. 2. (a) The typical bright-field TEM image of the as prepared Pt samples with average grain size of (a) $17 \\pm 3 \\mathrm{~nm}$ , (d) $7.5 \\pm 0.8 \\mathrm{~nm}$ . (b) The high-resolution TEM images of deformation twins and stacking faults (SFs) inside a nanograin and (c) a relaxed GB structure in high-angle GB by twins and SFs. (e) The high-resolution TEM image with high density deformation twins inside a nanograin in (d) which are circled with dashed lines. (f) The grain size distribution of (a) and (d)."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/39390d3ab4d1800214dc56d10a0db0a21c4228a57b64a778c1e89b6bb8e02f4c.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/37c7b8ce7c9d6f949885b03adf40877b1df3efc2c18fdec30d2707e1c1e11db3.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/654eb148825530a2976789f1b9d64e6ee255554e7b045cec9a26aadcd59ec69a.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/1d7aacae52416b6301630bee8052ef6ed178cae5bf6e32fa22b198830e6f033c.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/c02c6720ff9bc823acfa9d76c1fda9db4baf2ba771db88cd7dde9fc50b0af74e.jpg"
+    ],
+    "description": "Fig. 3. Structure characterization of Schwarz crystal (SC) with average grain size of $1.7 \\pm 0.5$ nm in pure Pt. (a) The limiting grains show the characteristics of manifold structure. (b) A magnified image of a selected area in (a). Red dots show twin boundary (TB) and SFs, G1-G7 are different grains separated by TB or SFs. (c) High-resolution HAADF-STEM images of extremely fine twin thickness and SFs in the grains. (d) An individual grains with truncated octahedral geometries and TB, missing atoms at corner are indicated by circles. (e) The grain size distribution of SC."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/4cbd5de648030a10a2087c394c97638eb6e8cdeac720c3d50b2991fe8be02541.jpg"
+    ],
+    "description": "Fig. 4. Experimentally measured microhardness as a function of grain size in pure Pt, together with those obtained from MD tension simulations in present studies. The retained Hall-Petch relationship is shown by the dash line. The Orowan-twinning stress predicted according to Eq. (3) is shown by the solid line. The literature data are added for comparison."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/1d7a1a960e5c9a51ff2ca7e072db3c68bf4cd4b496297bcfe1278984f2bb523e.jpg"
+    ],
+    "description": "Fig. 5. Thermal stability of different grain sizes of pure Pt: Measured grain coarsening temperature (TGC) as a function of average grain size (GB relaxation, GBR; Schwarz crystal, SC). Literature data for Pt samples prepared through various processes are included. CR, cold rolling; PVD, physical vapor deposition; IGC, inert gas condensation [49,50,53,56,57,59]."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/a723e74d3cd47cb25b18701c5963adddf11113e37df469bcda5bca93f7f29b8d.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/19c0164b2ddf80f1c82889b96cfd84ffc6b5ef0eb3ac5ae1769658ec6f94c07d.jpg"
+    ],
+    "description": "Fig. 6. Typical BF-STEM images of the SC samples. (a) The as-prepared samples. (b) Annealing at $1923\\mathrm{K}$ for $30\\mathrm{min}$ ."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/c80fba59930625f75dff7acc7095b53ed9c7f4a4ce58fb5e98dd685cc6b23853.jpg"
+    ],
+    "description": "Fig. 7. Size dependence of SC thermostability in pure Pt."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/7c38e0d14bc6bf1d35ac0da215d2a64b42490df8db144aa38a1460b838fb77f6.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/a3412ef1239a45503d65f4fd8e1f7857a2c9b8d9c4feb4b95d7f81e9d226cfce.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/d7cc37067e4da381cf1e75c9479dc31129ac4236e26b623c982c52a6c2a3ccbe.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/784df27acc6e0ed0e06cc49daeff980130adc36ae005d02277c79f531c105c8e.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/8877b5743c628bb7dd59e2b3521a6eab5c8bf77fef4e1508d33d18b5b11fced9.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/f4f1e05069f14da7d41b133821db6a061adcf83054e60b21652fbfe5203ef5c2.jpg",
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/c030f652e86b1fc1b8b4086e5db73982e829c9ffb2492bec2ab4e336ad863c1f.jpg"
+    ],
+    "description": "Fig. 8. (a), (b) MD simulated tension stress as function of applied strain for SCs of different sizes at $273\\mathrm{K}$ . Curves in different colors in (a) are corresponding to independent uniaxial tension tests in x, y, and z directions. (c) The yield stress as a function of SC supercell size according to MD tension tests. (d)-(e) MD snapshots demonstrating emission and bowing-out of a twinning partial from GBs encapsulating a twin in SCs of different sizes. The twinning partial gliding on a twin plane is pinned and dragged by GBs. A vacancy located on twin is also visible in plots (f) and (g)."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/a53c21cc57a3f61cc4fbca80d148eb484a727497861f7882003dda59fd6df262.jpg"
+    ],
+    "description": "Fig. 9. The grain-size effect on the grains contained twins. (a) The size distribution of all examined grains. (b) The fraction distribution of grains contained twins."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_1ec461368f/images/38529452188f9affba1f034430adfdfce280d3ecf5fbd1bad13aa1dcb39fb425.jpg"
+    ],
+    "description": "Fig. 10. The critical thickness of twin embryos as function of grain size predicted according to Eq. (2), against statistical twin thickness measured in present experiments. Red line is calculated by $\\gamma_{isf}$ obtained by COMB. Green line is critical twin thickness of a nucleus of disk shape in SC structure."
+  }
+]

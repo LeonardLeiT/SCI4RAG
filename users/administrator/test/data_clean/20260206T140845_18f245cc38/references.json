@@ -1,0 +1,597 @@
+{
+  "E. O. Hall, Proc. Phys. Soc. London B 64, 747–753 (1951).": {
+    "title": "The Deformation and Ageing of Mild Steel: III Discussion of Results",
+    "author": [
+      "Hall, E O"
+    ],
+    "journal": "Proceedings of the Physical Society. Section B",
+    "doi": "10.1088/0370-1301/64/9/303",
+    "url": "https://doi.org/10.1088/0370-1301/64/9/303",
+    "year": 1951,
+    "volume": "64",
+    "number": "9",
+    "pages": "747-753",
+    "bibkey": "Hall1951The"
+  },
+  "N. J. Petch, J. Iron Steel Inst. 174, 25–28 (1953).": {
+    "title": "",
+    "author": [],
+    "journal": "Journal of the Society of Mechanical Engineers",
+    "doi": "10.1299/jsmemag.57.421_159_1",
+    "url": "https://doi.org/10.1299/jsmemag.57.421_159_1",
+    "year": 1954,
+    "volume": "57",
+    "number": "421",
+    "pages": "159",
+    "bibkey": "Unknown1954NoTitle"
+  },
+  "J. A. Knapp, D. M. Follstaedt, J. Mater. Res. 19, 218–227 (2004).": {
+    "title": "Hall–Petch relationship in pulsed-laser deposited nickel films",
+    "author": [
+      "Knapp, J.A.",
+      "Follstaedt, D.M."
+    ],
+    "journal": "Journal of Materials Research",
+    "doi": "10.1557/jmr.2004.19.1.218",
+    "url": "https://doi.org/10.1557/jmr.2004.19.1.218",
+    "year": 2004,
+    "volume": "19",
+    "number": "1",
+    "pages": "218-227",
+    "bibkey": "Knapp2004HallPetch"
+  },
+  "J. Chen, L. Lu, K. Lu, Scr. Mater. 54, 1913–1918 (2006).": {
+    "title": "Hardness and strain rate sensitivity of nanocrystalline Cu",
+    "author": [
+      "Chen, J.",
+      "Lu, L.",
+      "Lu, K."
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/j.scriptamat.2006.02.022",
+    "url": "https://doi.org/10.1016/j.scriptamat.2006.02.022",
+    "year": 2006,
+    "volume": "54",
+    "number": "11",
+    "pages": "1913-1918",
+    "bibkey": "Chen2006Hardness"
+  },
+  "D. A. Hughes, N. Hansen, Phys. Rev. Lett. 112, 135504 (2014).": {
+    "title": "Exploring the Limit of Dislocation Based Plasticity in Nanostructured Metals",
+    "author": [
+      "Hughes, D. A.",
+      "Hansen, N."
+    ],
+    "journal": "Physical Review Letters",
+    "doi": "10.1103/physrevlett.112.135504",
+    "url": "https://doi.org/10.1103/physrevlett.112.135504",
+    "year": 2014,
+    "volume": "112",
+    "number": "13",
+    "pages": "135504",
+    "bibkey": "Hughes2014Exploring"
+  },
+  "B. Chen et al., Science 338, 1448–1451 (2012).": {
+    "title": "Texture of Nanocrystalline Nickel: Probing the Lower Size Limit of Dislocation Activity",
+    "author": [
+      "Chen, Bin",
+      "Lutker, Katie",
+      "Raju, Selva Vennila",
+      "Yan, Jinyuan",
+      "Kanitpanyacharoen, Waruntorn",
+      "Lei, Jialin",
+      "Yang, Shizhong",
+      "Wenk, Hans-Rudolf",
+      "Mao, Ho-kwang",
+      "Williams, Quentin"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1228211",
+    "url": "https://doi.org/10.1126/science.1228211",
+    "year": 2012,
+    "volume": "338",
+    "number": "6113",
+    "pages": "1448-1451",
+    "bibkey": "Chen2012Texture"
+  },
+  "A. J. Detor, C. A. Schuh, Acta Mater. 55, 371–379 (2007).": {
+    "title": "Tailoring and patterning the grain size of nanocrystalline alloys",
+    "author": [
+      "DETOR, A",
+      "SCHUH, C"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2006.08.032",
+    "url": "https://doi.org/10.1016/j.actamat.2006.08.032",
+    "year": 2007,
+    "volume": "55",
+    "number": "1",
+    "pages": "371-379",
+    "bibkey": "DETOR2007Tailoring"
+  },
+  "M. A. Meyers, A. Mishra, D. J. Benson, Prog. Mater. Sci. 51, 427–556 (2006).": {
+    "title": "Mechanical properties of nanocrystalline materials",
+    "author": [
+      "Meyers, M.A.",
+      "Mishra, A.",
+      "Benson, D.J."
+    ],
+    "journal": "Progress in Materials Science",
+    "doi": "10.1016/j.pmatsci.2005.08.003",
+    "url": "https://doi.org/10.1016/j.pmatsci.2005.08.003",
+    "year": 2006,
+    "volume": "51",
+    "number": "4",
+    "pages": "427-556",
+    "bibkey": "Meyers2006Mechanical"
+  },
+  "Z. Shan et al., Science 305, 654–657 (2004).": {
+    "title": "Grain Boundary-Mediated Plasticity in Nanocrystalline Nickel",
+    "author": [
+      "Shan, Zhiwei",
+      "Stach, E. A.",
+      "Wiezorek, J. M. K.",
+      "Knapp, J. A.",
+      "Follstaedt, D. M.",
+      "Mao, S. X."
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1098741",
+    "url": "https://doi.org/10.1126/science.1098741",
+    "year": 2004,
+    "volume": "305",
+    "number": "5684",
+    "pages": "654-657",
+    "bibkey": "Shan2004Grain"
+  },
+  "L. Wang et al., Nat. Commun. 5, 1–7 (2014).": {
+    "title": "Figure 3: Subgroup analysis based on matching showing impact of paternal HBV infection on clinical pregnancy rate (per women) (Bu et al., 2014; Kong et al., 2017; Lubis et al., 2018; Meng et al., 2024; Shi et al., 2014; Wang et al., 2021; Ye et al., 2014; Zhao et al., 2007; Zheng et al., 2016; Zhu et al., 2024).",
+    "author": [],
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.19824/fig-3",
+    "url": "https://doi.org/10.7717/peerj.19824/fig-3",
+    "year": 2025,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "bibkey": "Unknown2025Figure"
+  },
+  "T. J. Rupert, D. S. Gianola, Y. Gan, K. J. Hemker, Science 326, 1686–1690 (2009).": {
+    "title": "Experimental Observations of Stress-Driven Grain Boundary Migration",
+    "author": [
+      "Rupert, T. J.",
+      "Gianola, D. S.",
+      "Gan, Y.",
+      "Hemker, K. J."
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1178226",
+    "url": "https://doi.org/10.1126/science.1178226",
+    "year": 2009,
+    "volume": "326",
+    "number": "5960",
+    "pages": "1686-1690",
+    "bibkey": "Rupert2009Experimental"
+  },
+  "J. Schiøtz, K. W. Jacobsen, Science 301, 1357–1359 (2003).": {
+    "title": "A Maximum in the Strength of Nanocrystalline Copper",
+    "author": [
+      "Schiøtz, Jakob",
+      "Jacobsen, Karsten W."
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1086636",
+    "url": "https://doi.org/10.1126/science.1086636",
+    "year": 2003,
+    "volume": "301",
+    "number": "5638",
+    "pages": "1357-1359",
+    "bibkey": "Schiøtz2003A"
+  },
+  "T. H. Fang, W. L. Li, N. R. Tao, K. Lu, Science 331, 1587–1590 (2011).": {
+    "title": "Revealing Extraordinary Intrinsic Tensile Plasticity in Gradient Nano-Grained Copper",
+    "author": [
+      "Fang, T. H.",
+      "Li, W. L.",
+      "Tao, N. R.",
+      "Lu, K."
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1200177",
+    "url": "https://doi.org/10.1126/science.1200177",
+    "year": 2011,
+    "volume": "331",
+    "number": "6024",
+    "pages": "1587-1590",
+    "bibkey": "Fang2011Revealing"
+  },
+  "D. Pan, S. Kuwano, T. Fujita, M. W. Chen, Nano Lett. 7, 2108–2111 (2007).": {
+    "title": "Ultra-Large Room-Temperature Compressive Plasticity of a Nanocrystalline Metal",
+    "author": [
+      "Pan, D.",
+      "Kuwano, S.",
+      "Fujita, T.",
+      "Chen, M. W."
+    ],
+    "journal": "Nano Letters",
+    "doi": "10.1021/nl071093m",
+    "url": "https://doi.org/10.1021/nl071093m",
+    "year": 2007,
+    "volume": "7",
+    "number": "7",
+    "pages": "2108-2111",
+    "bibkey": "Pan2007UltraLarge"
+  },
+  "K. Zhang, J. R. Weertman, J. A. Eastman, Appl. Phys. Lett. 85, 5197–5199 (2004).": {
+    "title": "The influence of time, temperature, and grain size on indentation creep in high-purity nanocrystalline and ultrafine grain copper",
+    "author": [
+      "Zhang, Kai",
+      "Weertman, J. R.",
+      "Eastman, J. A."
+    ],
+    "journal": "Applied Physics Letters",
+    "doi": "10.1063/1.1828213",
+    "url": "https://doi.org/10.1063/1.1828213",
+    "year": 2004,
+    "volume": "85",
+    "number": "22",
+    "pages": "5197-5199",
+    "bibkey": "Zhang2004The"
+  },
+  "K. Lu, Nat. Rev. Mater. 1, 16019 (2016).": {
+    "title": "Bioresponsive materials",
+    "author": [
+      "Lu, Yue",
+      "Aimetti, Alex A.",
+      "Langer, Robert",
+      "Gu, Zhen"
+    ],
+    "journal": "Nature Reviews Materials",
+    "doi": "10.1038/natrevmats.2016.75",
+    "url": "https://doi.org/10.1038/natrevmats.2016.75",
+    "year": 2016,
+    "volume": "2",
+    "number": "1",
+    "pages": "16075",
+    "bibkey": "Lu2016Bioresponsive"
+  },
+  "A. Hasnaoui, H. Van Swygenhoven, P. M. Derlet, Acta Mater. 50, 3927–3939 (2002).": {
+    "title": "On non-equilibrium grain boundaries and their effect on thermal and mechanical behaviour: a molecular dynamics computer simulation",
+    "author": [
+      "Hasnaoui, A",
+      "Van Swygenhoven, H",
+      "Derlet, P.M"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(02)00195-7",
+    "url": "https://doi.org/10.1016/s1359-6454(02)00195-7",
+    "year": 2002,
+    "volume": "50",
+    "number": "15",
+    "pages": "3927-3939",
+    "bibkey": "Hasnaoui2002On"
+  },
+  "J. Weissmüller, Nanostruct. Mater. 3, 261–272 (1993).": {
+    "title": "Alloy effects in nanostructures",
+    "author": [
+      "Weissmüller, J."
+    ],
+    "journal": "Nanostructured Materials",
+    "doi": "10.1016/0965-9773(93)90088-s",
+    "url": "https://doi.org/10.1016/0965-9773(93)90088-s",
+    "year": 1993,
+    "volume": "3",
+    "number": "1-6",
+    "pages": "261-272",
+    "bibkey": "Weissmüller1993Alloy"
+  },
+  "R. Kirchheim, Acta Mater. 50, 413–419 (2002).": {
+    "title": "Grain coarsening inhibited by solute segregation",
+    "author": [
+      "Kirchheim, Reiner"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(01)00338-x",
+    "url": "https://doi.org/10.1016/s1359-6454(01)00338-x",
+    "year": 2002,
+    "volume": "50",
+    "number": "2",
+    "pages": "413-419",
+    "bibkey": "Kirchheim2002Grain"
+  },
+  "Materials and methods are available as supplementary materials.": {
+    "title": "Supplementary file 1.",
+    "author": [],
+    "journal": "eLife Sciences Publications, Ltd",
+    "doi": "10.7554/elife.02523.016",
+    "url": "https://doi.org/10.7554/elife.02523.016",
+    "year": 2014,
+    "volume": null,
+    "number": null,
+    "pages": null,
+    "bibkey": "Unknown2014Supplementary"
+  },
+  "G. D. Hughes, S. D. Smith, C. S. Pande, H. R. Johnson, R. W. Armstrong, Scr. Metall. Mater. 20, 93–97 (1986).": {
+    "title": "Hall-petch strengthening for the microhardness of twelve nanometer grain diameter electrodeposited nickel",
+    "author": [
+      "Hughes, G.D.",
+      "Smith, S.D.",
+      "Pande, C.S.",
+      "Johnson, H.R.",
+      "Armstrong, R.W."
+    ],
+    "journal": "Scripta Metallurgica",
+    "doi": "10.1016/0036-9748(86)90219-x",
+    "url": "https://doi.org/10.1016/0036-9748(86)90219-x",
+    "year": 1986,
+    "volume": "20",
+    "number": "1",
+    "pages": "93-97",
+    "bibkey": "Hughes1986Hallpetch"
+  },
+  "F. Dalla Torre, H. Van Swygenhoven, M. Victoria, Acta Mater. 50, 3957–3970 (2002).": {
+    "title": "Nanocrystalline electrodeposited Ni: microstructure and tensile properties",
+    "author": [
+      "Dalla Torre, F.",
+      "Van Swygenhoven, H.",
+      "Victoria, M."
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(02)00198-2",
+    "url": "https://doi.org/10.1016/s1359-6454(02)00198-2",
+    "year": 2002,
+    "volume": "50",
+    "number": "15",
+    "pages": "3957-3970",
+    "bibkey": "Dalla Torre2002Nanocrystalline"
+  },
+  "A. M. El-Sherik, U. Erb, G. Palumbo, K. T. Aust, Scr. Metall. Mater. 27, 1185–1188 (1992).": {
+    "title": "Deviations from hall-petch behaviour in as-prepared nanocrystalline nickel",
+    "author": [
+      "El-Sherik, A.M.",
+      "Erb, U.",
+      "Palumbo, G.",
+      "Aust, K.T."
+    ],
+    "journal": "Scripta Metallurgica et Materialia",
+    "doi": "10.1016/0956-716x(92)90596-7",
+    "url": "https://doi.org/10.1016/0956-716x(92)90596-7",
+    "year": 1992,
+    "volume": "27",
+    "number": "9",
+    "pages": "1185-1188",
+    "bibkey": "El-Sherik1992Deviations"
+  },
+  "F. Ebrahimi, G. R. Bourne, M. S. Kelly, T. E. Matthews, Nanostruct. Mater. 11, 343–350 (1999).": {
+    "title": "Mechanical properties of nanocrystalline nickel produced by electrodeposition",
+    "author": [
+      "Ebrahimi, F",
+      "Bourne, G.R",
+      "Kelly, M.S",
+      "Matthews, T.E"
+    ],
+    "journal": "Nanostructured Materials",
+    "doi": "10.1016/s0965-9773(99)00050-1",
+    "url": "https://doi.org/10.1016/s0965-9773(99)00050-1",
+    "year": 1999,
+    "volume": "11",
+    "number": "3",
+    "pages": "343-350",
+    "bibkey": "Ebrahimi1999Mechanical"
+  },
+  "C. A. Schuh, T. G. Nieh, T. Yamasaki, Scr. Mater. 46, 735–740 (2002).": {
+    "title": "Hall–Petch breakdown manifested in abrasive wear resistance of nanocrystalline nickel",
+    "author": [
+      "Schuh, C.A.",
+      "Nieh, T.G.",
+      "Yamasaki, T."
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/s1359-6462(02)00062-3",
+    "url": "https://doi.org/10.1016/s1359-6462(02)00062-3",
+    "year": 2002,
+    "volume": "46",
+    "number": "10",
+    "pages": "735-740",
+    "bibkey": "Schuh2002HallPetch"
+  },
+  "S. Yip, Nature 391, 532–533 (1998).": {
+    "title": "The strongest size",
+    "author": [
+      "Yip, Sidney"
+    ],
+    "journal": "Nature",
+    "doi": "10.1038/35254",
+    "url": "https://doi.org/10.1038/35254",
+    "year": 1998,
+    "volume": "391",
+    "number": "6667",
+    "pages": "532-533",
+    "bibkey": "Yip1998The"
+  },
+  "Y. M. Wang et al., Scr. Mater. 51, 1023–1028 (2004).": {
+    "title": "Effects of annealing and impurities on tensile properties of electrodeposited nanocrystalline Ni",
+    "author": [
+      "Wang, Y.M.",
+      "Cheng, S.",
+      "Wei, Q.M.",
+      "Ma, E.",
+      "Nieh, T.G.",
+      "Hamza, A."
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/j.scriptamat.2004.08.015",
+    "url": "https://doi.org/10.1016/j.scriptamat.2004.08.015",
+    "year": 2004,
+    "volume": "51",
+    "number": "11",
+    "pages": "1023-1028",
+    "bibkey": "Wang2004Effects"
+  },
+  "J. R. Weertman, P. G. Sanders, Diffus. Defect Data Solid State Data Pt. B Solid State Phenom. 35-36, 249–262 (1994).": {
+    "title": "Plastic Deformation of Nanocrystalline Metals",
+    "author": [
+      "Weertman, J.R.",
+      "Sanders, P.G."
+    ],
+    "journal": "Solid State Phenomena",
+    "doi": "10.4028/www.scientific.net/ssp.35-36.249",
+    "url": "https://doi.org/10.4028/www.scientific.net/ssp.35-36.249",
+    "year": 1993,
+    "volume": "35-36",
+    "number": null,
+    "pages": "249-262",
+    "bibkey": "Weertman1993Plastic"
+  },
+  "X. Huang, N. Hansen, N. Tsuji, Science 312, 249–251 (2006).": {
+    "title": "Hardening by Annealing and Softening by Deformation in Nanostructured Metals",
+    "author": [
+      "Huang, Xiaoxu",
+      "Hansen, Niels",
+      "Tsuji, Nobuhiro"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1124268",
+    "url": "https://doi.org/10.1126/science.1124268",
+    "year": 2006,
+    "volume": "312",
+    "number": "5771",
+    "pages": "249-251",
+    "bibkey": "Huang2006Hardening"
+  },
+  "T. J. Rupert, J. R. Trelewicz, C. A. Schuh, J. Mater. Res. 27, 1285–1294 (2012).": {
+    "title": "Grain boundary relaxation strengthening of nanocrystalline Ni–W alloys",
+    "author": [
+      "Rupert, Timothy J.",
+      "Trelewicz, Jason R.",
+      "Schuh, Christopher A."
+    ],
+    "journal": "Journal of Materials Research",
+    "doi": "10.1557/jmr.2012.55",
+    "url": "https://doi.org/10.1557/jmr.2012.55",
+    "year": 2012,
+    "volume": "27",
+    "number": "9",
+    "pages": "1285-1294",
+    "bibkey": "Rupert2012Grain"
+  },
+  "L. Chang, P. W. Kao, C. H. Chen, Scr. Mater. 56, 713–716 (2007).": {
+    "title": "Strengthening mechanisms in electrodeposited Ni–P alloys with nanocrystalline grains",
+    "author": [
+      "Chang, L.",
+      "Kao, P.W.",
+      "Chen, C.-H."
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/j.scriptamat.2006.12.036",
+    "url": "https://doi.org/10.1016/j.scriptamat.2006.12.036",
+    "year": 2007,
+    "volume": "56",
+    "number": "8",
+    "pages": "713-716",
+    "bibkey": "Chang2007Strengthening"
+  },
+  "V. Yamakov, D. Wolf, S. R. Phillpot, A. K. Mukherjee, H. Gleiter, Nat. Mater. 3, 43–47 (2004).": {
+    "title": "Deformation-mechanism map for nanocrystalline metals by molecular-dynamics simulation",
+    "author": [
+      "Yamakov, V.",
+      "Wolf, D.",
+      "Phillpot, S. R.",
+      "Mukherjee, A. K.",
+      "Gleiter, H."
+    ],
+    "journal": "Nature Materials",
+    "doi": "10.1038/nmat1035",
+    "url": "https://doi.org/10.1038/nmat1035",
+    "year": 2004,
+    "volume": "3",
+    "number": "1",
+    "pages": "43-47",
+    "bibkey": "Yamakov2004Deformationmechanism"
+  },
+  "C. C. Koch, R. O. Scattergood, M. Saber, H. Kotan, J. Mater. Res. 28, 1785–1791 (2013).": {
+    "title": "High temperature stabilization of nanocrystalline grain size: Thermodynamic versus kinetic strategies",
+    "author": [
+      "Koch, Carl C.",
+      "Scattergood, Ronald O.",
+      "Saber, Mostafa",
+      "Kotan, Hasan"
+    ],
+    "journal": "Journal of Materials Research",
+    "doi": "10.1557/jmr.2012.429",
+    "url": "https://doi.org/10.1557/jmr.2012.429",
+    "year": 2013,
+    "volume": "28",
+    "number": "13",
+    "pages": "1785-1791",
+    "bibkey": "Koch2013High"
+  },
+  "H. Van Swygenhoven, P. M. Derlet, A. G. Frøseth, Nat. Mater. 3, 399–403 (2004).": {
+    "title": "Stacking fault energies and slip in nanocrystalline metals",
+    "author": [
+      "Van Swygenhoven, H.",
+      "Derlet, P. M.",
+      "Frøseth, A. G."
+    ],
+    "journal": "Nature Materials",
+    "doi": "10.1038/nmat1136",
+    "url": "https://doi.org/10.1038/nmat1136",
+    "year": 2004,
+    "volume": "3",
+    "number": "6",
+    "pages": "399-403",
+    "bibkey": "Van Swygenhoven2004Stacking"
+  },
+  "V. Yamakov, D. Wolf, S. R. Phillpot, A. K. Mukherjee, H. Gleiter, Philos. Mag. Lett. 83, 385–393 (2003).": {
+    "title": "Deformation mechanism crossover and mechanical behaviour in nanocrystalline materials",
+    "author": [
+      "Yamakov, V.",
+      "Wolf, D.",
+      "Phillpot, S. R.",
+      "Mukherjee, A. K.",
+      "Gleiter, H."
+    ],
+    "journal": "Philosophical Magazine Letters",
+    "doi": "10.1080/09500830031000120891",
+    "url": "https://doi.org/10.1080/09500830031000120891",
+    "year": 2003,
+    "volume": "83",
+    "number": "6",
+    "pages": "385-393",
+    "bibkey": "Yamakov2003Deformation"
+  },
+  "T. C. Tiearney, N. J. Grant, Metall. Trans. A Phys. Metall. Mater. Sci. 13, 1827–1836 (1982).": {
+    "title": "Measurement of Structural Parameters Important in Creep of Ni-Mo and Ni-W Solid Solutions",
+    "author": [
+      "Tiearney, T. C.",
+      "Grant, N. J."
+    ],
+    "journal": "Metallurgical Transactions A",
+    "doi": "10.1007/bf02647839",
+    "url": "https://doi.org/10.1007/bf02647839",
+    "year": 1982,
+    "volume": "13",
+    "number": "10",
+    "pages": "1827-1836",
+    "bibkey": "Tiearney1982Measurement"
+  },
+  "M. Chen et al., Science 300, 1275–1277 (2003).": {
+    "title": "Deformation Twinning in Nanocrystalline Aluminum",
+    "author": [
+      "Chen, Mingwei",
+      "Ma, En",
+      "Hemker, Kevin J.",
+      "Sheng, Hongwei",
+      "Wang, Yinmin",
+      "Cheng, Xuemei"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1083727",
+    "url": "https://doi.org/10.1126/science.1083727",
+    "year": 2003,
+    "volume": "300",
+    "number": "5623",
+    "pages": "1275-1277",
+    "bibkey": "Chen2003Deformation"
+  }
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/63e746fa23c297c2b322918cb72e8192bea080fa19d280cbc532c52c7cc43136.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/461b0265abda38e2bb937a59fdbcc96453e92924c2436559581a76459cfdaac4.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/acb0e0887438688826217615c2db8cab1e8658d3ec14d683b5bdf1a8f913be6c.jpg"
+    ],
+    "description": "Figure 1. Atomic configurations and defect structures in various nanocrystals. Panels (a)-(e) display the atomic structures of D-SC I, D-SC II, P-SC, Kelvin nanocrystal, and Voronoi nanocrystal, all with grain sizes of approximately $10\\mathrm{nm}$ . The upper panels show the atomic configurations, while the lower panels highlight the defect structures by removing the perfect FCC atoms. In these visualizations, FCC atoms are colored green, HCP atoms red, and disordered atoms gray, with the latter illustrating the morphology of the general GBs."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/40646c2bf1fcb3c1f5b2ac387cc4298de4de7568f71138337d2dc519f61e24f8.jpg"
+    ],
+    "description": "Figure 2. Spring constants and free energy of various nanocrystals depicted in Figure 1. (a) Spring constants of the nanocrystals across the temperature range from 100 to $1350\\mathrm{K}$ . (b) Absolute free energies of the nanocrystals as a function of temperature. Symbols represent free energy values calculated via thermodynamic integration along the Frenkel-Ladd path, while lines correspond to interpolation using the reverse scaling technique. (c) Free energy differences between the five nanocrystals and the FCC lattice. All data points in the plots represent averages derived from five independent configurations, with error bars indicating the standard deviations."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/01b4adf20802932bbacfc945056e47d3ce3783884e17b13c3d75546885c072d2.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/2136cfcbedfccaaa1f1e7cbb72baa21c336721b8a8cc97bf3e0a15a2d4c95863.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/f99136f015e2b3ee14d3f64864cd563f9d0cb3257c7601b949af51ab7fd11fa0.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/73dc2bdb6b05ef523237ff2159ac58f1b12bb715aaaf64d09542e0aa38c799c9.jpg"
+    ],
+    "description": "Figure 3. Size-dependent thermal stability of D-SC I. (a) The unit cell of D-SC I. (b) Free energy of D-SC I over FCC lattice, with varying grain size from 1.57 to $9.57\\mathrm{nm}$ . (c) Critical temperature of thermal instability $T_{\\mathrm{c}}$ normalized by the experimental melting temperature $T_{\\mathrm{Exp}} = 1358\\mathrm{K}$ as a function of grain size. Experimental data $^{20}$ and MD simulations $^{22,27}$ are included for comparison. The reduction in free energy at $300\\mathrm{K}$ aligns with observed variations in the thermodynamic stability of D-SC I. (d) Volume fraction of GBs as a function of grain size in D-SC I and Voronoi structures, respectively. The Voronoi crystal consists of only two grains, setting up the lower bound of the GB volume fraction."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/6f8253082f54779bbc21f6ea54dcf6d3f2c7d1c52152e8093e2e07397aeb8f68.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/9a12d001b06209c6e6dd36e4dfdf372747c01f9dd6ddeb0d73ae6d8b1481a8be.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/12d0afb8f0059b3dc1461a62522d65003a04caab7f5736b1d12604852ce7ad59.jpg",
+      "users/administrator/test/parse/20260206T140845_979ae89985/images/eadfa54ea3a1cca88f172cf8090edd260c373ef153b579115fdc14eac397251f.jpg"
+    ],
+    "description": "Figure 4. Free energy in structural defects. (a) Spring constants associated with structural defects, with the yellow dashed line indicating the harmonic mean. (b) Free energy contributions of the structural defects, with the yellow dashed line denoting the arithmetic mean. (c) GB free energies in different nanocrystals. Error bars indicate the standard deviation derived from five independent calculations."
+  }
+]

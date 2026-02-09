@@ -1,0 +1,10 @@
+[
+  {
+    "equation": "$( \\alpha = \\gamma _ { \\mathrm { T B } } / \\gamma _ { \\mathrm { G B } } )$",
+    "description": "The equation defines a dimensionless parameter, \\(\\alpha\\), which represents the ratio of two specific interfacial energies. Here, \\(\\gamma_{\\mathrm{TB}}\\) denotes the twin boundary energy, and \\(\\gamma_{\\mathrm{GB}}\\) denotes the grain boundary energy. This ratio is a critical materials parameter that governs the thermodynamic propensity for twin formation during microstructural evolution. A smaller value of \\(\\alpha\\) indicates that the energy cost of forming a twin boundary is low relative to that of a general grain boundary, thereby favoring the nucleation of twins to reduce the total interfacial energy of the system. Consequently, \\(\\alpha\\) is a key factor in predicting and understanding twin density in polycrystalline materials."
+  },
+  {
+    "equation": "$\\boldsymbol { \\rho } _ { \\mathrm { t o t a l } } = \\boldsymbol { \\rho } _ { \\mathrm { t } } + \\boldsymbol { \\rho } _ { \\mathrm { i } } + \\boldsymbol { \\rho } _ { \\mathrm { d } } .$",
+    "description": "The equation represents Matthiessen's rule, which states that the total electrical resistivity of a metal, denoted by \\(\\boldsymbol{\\rho}_{\\mathrm{total}}\\), is the sum of independent contributions arising from different scattering mechanisms. Here, \\(\\boldsymbol{\\rho}_{\\mathrm{t}}\\) is the resistivity due to thermal vibrations of the lattice (phonons), \\(\\boldsymbol{\\rho}_{\\mathrm{i}}\\) is the resistivity caused by impurity atoms, and \\(\\boldsymbol{\\rho}_{\\mathrm{d}}\\) is the resistivity originating from crystalline defects such as dislocations, grain boundaries, and twin boundaries. The additive relationship implies that these scattering processes act independently, allowing the overall resistivity to be decomposed into distinct components for analysis."
+  }
+]

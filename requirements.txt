@@ -1,5 +1,6 @@
-python==3.10.19
+# python==3.10.19
 langgraph==1.0.7
-langchain-openai==1.1.7
-langchain-community==0.4.1
+langchain_openai==1.1.7
+langchain_community==0.4.1
 dashscope==1.25.10
+bs4==0.0.2

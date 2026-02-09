@@ -1,0 +1,46 @@
+[
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/c5fb7e31305f9e40bc3bd866853a756fef22bf4b3b940342d8b6bf59a75c612b.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/506d5a3319f0fa69a67c743957d9f583e39022146fa12a0112f927eb1c3f8939.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/b2dc1376d89945178f2cdf8506e1cd7e1f3bd581fb89c45e9e08d9975c476e49.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/c1e8dc0196608277dede9d8c451272a1e1da132a9352312e94c4fd9c4709158d.jpg"
+    ],
+    "description": "FIG. 1. (a) Schwarz $D$ -TPMS based on exact mathematical solution [2]. The unit cell contains 6 primitive patches around [111] axis, each enclosed by a tetrahedron such as “ ” or “ ”. The aperture of a $D - S C$ is defined as $D _ { S } = \\sqrt { 2 } / 2 a$ . (b) Schwarz crystal (SC) of type–I $D$ ADgq-surface morphology ( –SC I, $a \\sim 1 3 ~ \\mathrm { n m }$ D SC DS = a) observed in MD simulations of Cu. GB atoms colored in gray are recolored D D ain blue if locating within a surface layer of 1 nm thick according to Eq. (1). Atoms at CTB sites are colored in orange. Atoms in fcc lattice sites are filtered out. (c) The two MD-obtained thermal profiles (atomic volume vs temperature) indicate that the transformations from twin-limited Kelvin crystal (KC, denoted as ‘KC0’ in the Supplemental Material [3]) occur at 1172 K to –SC I or at $1 2 5 0 \\mathrm { K }$ to –SC II well below the $T _ { E }$ (1358 K) of Cu. (d) The same KC may transform into a –SC II $a \\sim 1 3 ~ \\mathrm { n m }$ D) with a different partition of $D$ Dsurface TE[Eq. (1) with a spatial translation of $\\pi / 2 ]$ D a, depending on intergranular interactions and thermal activations."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/e7d0568dbb6e50acf6dd99d39e746158047c32ce6d81d36473a6e81981343461.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/32f18207224237a6e557563c0e3c3c6a1f61004aafb4bed430ebc1057dea238d.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/51617b032ba29995b4a1850f8e27094c68586ef7db90cb29d787a42ab1043c2c.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/5f4282e954d47edcd88959fe15186efc4dd2b58c5ef247d53420e17de0f0bb94.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/b52b5a46ae8f7db8520be7da82c5f5fa905a21524c01444798f73eb4c1e8b59c.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/e4cee8cbd64e3828c4805ac6aadf9badbda44813936a9d893c8df9fc3cc026c3.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/4b8f16244d061ce5e1785b140906ff50096af4e6a567a294d5c8becf461c621a.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/3cd592dfe1109fce8bbe61199cc63ad7fa595c01b5d3616b80d165524a5793e1.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/47c06ba3333aa4a9300bf85007a8537c0c7014c2d43ab751c1f322610e8b512c.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/832d93721bfd9476c86d24fa811ddd5a537bd1004515dc3f37a42a80e492e76c.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/b0a8661497be61827e433f3ff87fdb0152789b2131edb715b23191a1e4262411.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/2b49c926f380beaa78b312eb9e1f289bcc100a147c057c5661b851feba5ba339.jpg"
+    ],
+    "description": "FIG. 2. Transformations from KC to $D$ –SC corresponding to Fig. 1(c). (A) KC to $D$ –SC I via ‘longitudinal’ constriction of GBs. (a)– D D(f) Snapshots of MD configurations at different temperatures. Thermal noises are eliminated from MD configurations via energy minimizations (indicated by $Q$ as “quenched” state). Frames of initial Kelvin cells are drawn in (b), (d) and (f) to reveal the structural Qevolution, where atoms in fcc lattice sites colored in blue in (a), (c) and (e) are removed. (B) KC to –SC II via ‘transverse’ constriction Dof GBs. (g)–(l) Quenched states of MD configurations at different temperatures. To reveal GB activities, the [111] foils $( \\sim 1 . 5 \\ \\mathrm { n m }$ thick) are shown in (h), (j) and (i). For KC, both O1 and O2 locate in the [111] orientation but sit apart from each other at a distance of $a { \\sqrt { 3 } } / 2$ as explicitly shown in Fig. S1 of the Supplemental Material [3]."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/2904790b02676e88222718fce5dae0d6c701e4177ce661596f50715eb8711e80.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/183f51f900cea55492122c02a219d5f3c46900a6623311fdf13cb23da60d566d.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/aba59dcebd97d08eecfb1c0e3a0ca57fa198708ce70048c67af1bd6f4eaa8f64.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/2d88867d6edd959db7f662f5bf30cf6f3945442f640660225ca68cf00fe7be49.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/3286cdec53342f161940544d8048522a25f86550986a4d91884826177217c48d.jpg"
+    ],
+    "description": "FIG. 3. (a)  GBs of a twin-free primitive Schwarz crystal ( –SC, constructed using two Kelvin cells of equal size) in a fully TPMSrelaxed MD configuration at 0 K. More than $80 \\%$ P of GB atoms (colored in blue) are within the surface layer of ${ \\sim } 1 . 5$ nm thick according to Eq. (2). (b) MD-obtained thermal profile of atomic volume as a function of temperature. Upon heating, the $P _ { - }$ -SC remains stable up to 685 K $( 0 . 5 T _ { E } )$ P at which opposite GBs shrink toward each other and annihilate abruptly. (c) ADFs calculated for GB atoms and lattice atoms in $P$ TE-SC and $D$ -SC. Similar GB structures and certain degree of disorders typical for general GBs are well expected for both SCs. P D(d) The [110] cross section view of the -SC at 573 K. Atoms in red mark the trace of $P$ surface according to Eq. (2). (e) The [110] cross section view of a -SC at $1 0 0 0 \\ \\mathrm { K }$ P. Atoms in red mark the trace of the $D$ Psurface according to Eq. (1). CTB constraining effects are D Dschematically represented by arrows underlying counterbalanced and hence vanishing GB tension forces for GB motion."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/738be4c683ca1293d023143e662006319f81a6fdb20c5cd9bf2fe5f0e96e2f79.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/47e98dcc7c4bf85bf7e562b88fcffe82679ddbeb449a0b1a9fb6cf05650169ec.jpg",
+      "users/administrator/test/parse/20260206T140845_24126d3a8c/images/a6b9a4cd229fedf53ab171da164be6785b0ab1ffad0b0e28a9a5c8cb6f951bb8.jpg"
+    ],
+    "description": "FIG. 4. (a) Size dependence of $D$ -SC thermostability, $T _ { S } / T _ { E }$ vs $D _ { S }$ D TS=TE. The temperature range of KC–to–SC transformation is DSmarked by the dashed line and error bars. Here, S0, S1, S2, S3, and S4 stand for D-SC structures obtained upon transformations from KCs of various supercell sizes, i.e., $a \\cong$ 13 nm (KC0), $6 . 5 \\ \\mathrm { n m }$ a (KC1), 5.7 nm (KC2), 4.3 nm (KC3), and 3.3 nm (KC4), see additional details in the Supplemental Material [3]. (b) MD snapshot of a –SC I at 473 K, containing 8 $( 2 \\times 2 \\times 2 )$ unit cells of $a \\sim 6 . 5 ~ \\mathrm { n m }$ and $D _ { S } \\sim 4 . 6 ~ \\mathrm { n m }$ . (c) A a DSHRTEM image of an as-prepared sample of Schwarz crystal Cu, from which a –SC morphology can be deduced $( D _ { S } \\sim 5 ~ \\mathrm { n m } )$ ). D DSAlso similar to MD observations, the structure is thermally stable up to nearly $1 3 5 0 \\mathrm { K }$ according to experimental measurements [1]."
+  }
+]

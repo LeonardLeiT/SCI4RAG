@@ -32,6 +32,28 @@ SchwarzRAG is an intelligent retrieval system built on deep document understandi
 - 2024-03-22 Implemented Windows-based Ollama+DeepSeek+Ragflow local deployment solution
 - 2024-03-21 Completed Linux deployment of DeepSeek-R1-Distill-Qwen-7B model via FastAPI with Langchain integration and WebDemo
 
+## 🌟 Quick Start
+
+Need to install Python 3.10+, recommended to use Anaconda or Miniconda
+
+```bash
+conda create -n scirag python=3.10.19
+```
+
+The above command will create a new environment named scirag.
+
+Then activate the environment:
+
+```bash
+conda activate scirag
+```
+
+Install dependencies ``requirements.txt``:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🌟 Key Features
 
 ### 🍭 Precision Input & Output

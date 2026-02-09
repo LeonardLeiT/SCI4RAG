@@ -1,0 +1,36 @@
+[
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/c2652ede41557e100be3581ca10471c2cabadc19bc375a78ae151f8e42ad37f5.jpg"
+    ],
+    "description": "Fig. 1. Microstructure of the as-deposited nanograined Ni–Mo alloy. (A) Bright-field and (B) dark-field images of the as-deposited $N i { - } 2 1 . 5 \\%$ Mo sample. (Inset) A corresponding selected area diffraction pattern. (C) A HRTEM image of the same sample showing individual grains outlined by dashed lines."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/26079e7305e0327e37c1b8a19967ba6a59a40de668a3778226c33be753f31fe0.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/04a3d3e3478bf259c72833f2da18da858c2f952d09593750c7d1710dfce09a08.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/d098a3999b151420661f2da5691601c3bfd7c2efa7a497278bf7d715004d3019.jpg"
+    ],
+    "description": "Fig. 2. Softening and hardening in the nanograined Ni–Mo alloys. (A) Variations of microhardness with grain size for the as-deposited (open symbols) and the as-annealed (solid symbols) Ni and Ni–Mo samples. Literature data of electrodeposited Ni and Ni–W alloys are included for comparison.The blue solid line is a Hall-Petch plot $( H _ { \\mathrm { v } } \\sim 1 / \\sqrt { D } )$ for pure Ni extrapolated in terms of literature data.The solid red line is a fitting line by using $H _ { \\mathrm { v } } \\sim \\mathcal { V } D$ for the nanograined Ni and Ni–Mo samples after annealing at peak temperatures. (B) Microhardness variations as a function of annealing temperature (with a duration of 1 hour) for the nanograined Ni and Ni–Mo alloys with different Mo concentrations. (C) Variation of the maximum microhardness increment induced by annealing $( \\Delta H _ { \\mathrm { v } } / H _ { \\mathrm { v 0 } } ; H _ { \\mathrm { v 0 } }$ is the initial hardness) as a function of initial grain size for the Ni and Ni–Mo samples (solid symbols). Data reported in other nanograined materials are presented for comparison (open symbols)."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/163472262c6e10483d6fd2ec1a9540fc6db26e3b4e310c1468d75b5b6b385e16.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/1b0f31038248b7992c7208967ff612c91e90bbc5a9ddecc8cb9dcc376920c426.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/7e2ed1c9c77765cde281ead9fe3766019e38e6df321ce1280f4060ec12999670.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/6ca712db22cc7f79d78c6096e2b78abb99af510b23e7d3d8eb0700246e0bec57.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/5f595799d63d712d0f2e6faf13e05051b7bb37ecc34216923724c15f075ef944.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/8925d84539dc1fbb4383e09a2471c600f87c6d00078cbe204973384d45defbf1.jpg"
+    ],
+    "description": "Fig. 3. Annealing-induced Mo segregation. (A to D) Three-dimensional APTreconstruction of the nanograined Ni–14.2% Mo samples.; distributions of Ni and Mo in the as-deposited state [(A) and (B)] and in the sample annealed at $5 0 0 ^ { \\circ } \\mathrm { C }$ [(C) and (D)]. (E) The composition profile of Ni and Mo in the annealed sample. (F) Variation of lattice parameters in the sample $N i { - } 1 4 . 2 \\%$ Mo, with annealing temperature determined from quantitative XRD analysis (open circles). The calculated lattice parameter for the as-deposited sample from the energy-dispersive x-ray spectroscopy compositional analysis following Vegard’s law is included for comparison (solid circle). $a _ { 0 } ,$ lattice parameter of pure nickel."
+  },
+  {
+    "figure": [
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/cd6c15851b35d2ce98c4b7a42f6dfd0c54f2c830e2713454f232667363249d7a.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/8698de6e4185dab9a8690c87b67233ee289cab67c71bc8a66291b1b67fe53a97.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/6ac54efb64e72332f7140fc68e6a6913d33a056b70ab8a4fada69927da23d7fb.jpg",
+      "users/administrator/test/parse/20260206T140845_18f245cc38/images/6e6fdcd22ec80f898b1a7065cbd7009e5eb8abd4b8eb60b8d3358d28111cd312.jpg"
+    ],
+    "description": "Fig. 4. Deformation mechanisms in the as-deposited and the as-annealed nanograined Ni–Mo samples. (A) A typical bright-field TEM image taken underneath the indented surface (indicated by dashed line) in the as-deposited $N i { - } 1 4 . 2 \\%$ Mo sample after microhardness test, with (B to D) corresponding darkfield images at different depths from the surface (indicated by arrows) (E) The cumulative fraction of grains area versus grain size in the subsurface layer of the as-deposited and the as-annealed $N i { - } 1 4 . 2 \\%$ Mo sample before and after microhardness test, respectively. For the as-deposited sample,two sets of data at depths of ~300 and ${ \\sim } 6 0 0 \\mathsf { n m }$ from the indented surface are included. (F and G) Typical bright-field TEM images taken at ${ < } 2 0 0 \\mathsf { n m }$ deep below the (indented) surface in the annealed $N i { - } 1 4 . 2 \\%$ Mo sample before and after microhardness test, respectively. (H) A HRTEM image of a grain in (G)."
+  }
+]
