@@ -1,0 +1,22 @@
+[
+  {
+    "equation": "$$\n\\varepsilon = l n \\left[ 1 + (\\frac {\\theta \\times r}{h}) ^ {2} \\right] ^ {1 / 2} + l n \\frac {h _ {0}}{h}\n$$",
+    "description": "The equation defines the true shear strain, \\(\\varepsilon\\), for a disk-shaped sample deformed under high-pressure torsion. The first logarithmic term accounts for the shear strain induced by torsional deformation, where \\(\\theta\\) is the rotation angle, \\(r\\) is the radial distance from the center of the disk, and \\(h\\) is the instantaneous sample thickness. The second logarithmic term, \\(\\ln(h_0/h)\\), represents the contribution from the compressive strain, with \\(h_0\\) and \\(h\\) denoting the initial and final thicknesses, respectively. The overall expression thus combines the effects of both shear and thickness reduction to yield the total equivalent strain."
+  },
+  {
+    "equation": "$d = 6 \\mathrm { n m }$",
+    "description": "The equation \\(d = 6 \\mathrm { n m }\\) defines a specific grain size, where \\(d\\) denotes the average grain diameter. This value represents a critical microstructural dimension at which the yield strength of the material was measured in the present study. The context indicates that this grain size lies within the sub-10 nm regime, where the classical Hall-Petch extrapolation fails and the \"smaller is stronger\" principle dominates due to the suppression of grain-boundary-mediated mechanisms. The equation thus specifies the precise scale at which an exceptionally high yield strength of approximately 837 MPa was achieved, highlighting the continued strength increase with grain refinement down to the nanometer scale."
+  },
+  {
+    "equation": "$$\n\\sigma_ {y} = \\sigma_ {0} + k _ {0} d ^ {- 1 / 2} + k _ {1} d ^ {- 1}\n$$",
+    "description": "The equation presents a modified Hall–Petch relationship that describes the yield strength of a polycrystalline material as a function of its average grain size. In this expression, \\(\\sigma_y\\) denotes the yield strength, \\(\\sigma_0\\) represents the lattice friction stress in the pure material, and \\(d\\) is the average grain diameter. The constants \\(k_0\\) and \\(k_1\\) are material-specific parameters. The formulation extends the classical Hall–Petch dependence by incorporating an additional term proportional to \\(d^{-1}\\), which captures contributions from deformation mechanisms—such as partial dislocation activity—that become significant at very fine grain sizes under high pressure. Thus, the equation models the combined influence of both conventional dislocation pile-up and grain-boundary-mediated mechanisms on the macroscopic yield strength."
+  },
+  {
+    "equation": "$\\sigma _ { y } = \\mathrm { H v } / 3 $",
+    "description": "The equation $\\sigma _ { y } = \\mathrm { H v } / 3 $ provides a conversion between hardness and yield strength for the material under consideration. In this expression, $\\sigma _ { y }$ denotes the yield strength of the material, while $\\mathrm { H v }$ represents its Vickers hardness. The relationship states that the yield strength is equal to one-third of the measured hardness value. This empirical proportionality is commonly employed in materials science to estimate the flow stress from indentation hardness data, based on the constraint factor associated with plastic deformation beneath an indenter."
+  },
+  {
+    "equation": "$\\nu = M P = M _ { 0 } e x p ( - Q _ { m } / R T ) \\ C \\gamma / r ,$",
+    "description": "The equation models the grain boundary (GB) migration velocity, denoted by \\(\\nu\\), as the product of the GB mobility, \\(M\\), and the driving force for boundary migration, \\(P\\). The mobility is expressed in an Arrhenius form, where \\(M_0\\) is the pre-exponential factor, \\(Q_m\\) is the activation energy for GB migration, \\(R\\) is the gas constant, and \\(T\\) is the absolute temperature. The driving force is given by the term \\(C \\gamma / r\\), where \\(C\\) is a dimensionless constant, \\(\\gamma\\) is the excess energy of the grain boundary, and \\(r\\) is the radius of curvature, which is proportional to the grain size. Consequently, the equation captures the kinetic dependence of boundary migration on thermally activated atomic mobility and a capillary driving force that is inversely proportional to the grain size."
+  }
+]

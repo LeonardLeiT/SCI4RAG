@@ -74,6 +74,7 @@ def chunk_markdown_by_blank_lines(md_text: str) -> list[str]:
         chunks.append("\n".join(buffer).strip())
 
     return chunks
+
 def chunk_identify_main_section(
     query: str,
     CATEGORIES = {
@@ -157,7 +158,6 @@ def chunk_identify_main_section(
 
     return response
 
-
 # 1. First identify main section-> clean_state = "identified_main_section"
 def identify_main_section(file_data: dict, reidentify = False) -> str:
     """ 
@@ -227,7 +227,7 @@ def identify_main_section(file_data: dict, reidentify = False) -> str:
 
     with tqdm(
         total=len(chunks),
-        desc=f"Identifying sections [{file_data['file_name'][:5]}..]",
+        desc=f"Identifying sections [{file_data['file_name'][:8]}.]",
         unit="chunk",
         ncols=100,
         position=0,
@@ -272,7 +272,7 @@ def identify_main_section(file_data: dict, reidentify = False) -> str:
                 CATEGORIES.discard("main_letter")
                 CATEGORIES.add("other")
             pbar.update(1)
-    save_json(structured_chunks, label_path)
+    save_json(structured_chunks, label_path, info=False)
     
     if "main_letter" in CATEGORIES:
         file_data["clean_state"] = "identified_main_section"
@@ -340,8 +340,9 @@ def identify_detail(file_data: dict, reidentify = False) -> str:
         if cat == "references" and ref_id is None:
             ref_id = idx
 
-    if ref_id < end_id: 
-        end_id = ref_id
+    if ref_id:
+        if ref_id < end_id: 
+            end_id = ref_id
 
     for idx, chunk_json in enumerate(label_structure):
         if start_id < idx < end_id:
@@ -372,7 +373,7 @@ def identify_detail(file_data: dict, reidentify = False) -> str:
     # )    
     save_json(new_label_structure, label_path)
     file_data["clean_state"] = "identified"
-    updata_document_metadata(username, dataset_name, file_data)
+    updata_document_metadata(username, dataset_name, file_data, info=False)
     return file_data
 
 # 3. Third combine label structure and delete other info -> clean_state = "cleaned"

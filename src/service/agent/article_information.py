@@ -1,6 +1,5 @@
 import re
 import time
-import shutil
 import requests
 from pathlib import Path
 from src.service.document.load_document import load_json, save_json, parse_path_info, updata_document_metadata, load_document_metadata, delete_file
@@ -192,7 +191,20 @@ def make_citation_key(data: dict) -> str:
         str: The citation key.
     """
     authors = data.get("author", [])
-    first_author = authors[0]["family"] if authors else "Unknown"
+    if not authors:
+        first_author = "Unknown"
+    else:
+        first_author_data = authors[0]
+        # Check if it's a person (has family name) or organization (has name)
+        if "family" in first_author_data:
+            first_author = first_author_data["family"]
+        elif "name" in first_author_data:
+            # For organizations/committees, use the name
+            first_author = first_author_data["name"]
+        else:
+            first_author = "Unknown"
+    # Clean up the author name (remove special characters, spaces)
+    first_author = re.sub(r'[^a-zA-Z0-9]', '', first_author)
 
     year = extract_year(data)
 

@@ -1,0 +1,32 @@
+[
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/76dc93e8e942f7c27b16289e57a7bb4d7c1e3728ab452766eb3aa1b3ed1bbfeb.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/9334df92afb893c12ec5d2795a9c75412143527b6f4c8919ba8df15ef037a672.jpg"
+    ],
+    "description": "Fig. 1. Processing and microstructure overview of the Ni sample. (A) A schematic illustration of the SMGT setup. (B) A cross-sectional scanning electron microscope image of the SMGT Ni sample. The treated surface is outlined by a yellow dashed line. (C) An EBSD image of the region outlined by dashed blue line in B. (D and E) Typical bright-field cross-sectional (SD-ND) and longitude-sectional (TD-ND) TEM images of the UFG structures $( 1 1 0 ~ { \\mu \\mathrm { m } }$ deep from the surface) and NL structures (40 to $5 0 ~ { \\mu \\mathrm { m } }$ deep from the surface) [indicated in (B)], respectively. Insets in (D) and (E) are the corresponding distribution of boundary spacing (left) and the SAED pattern (right).The sample coordinates in (D) and (E) are identical to that in (A). (F) A dark-field longitude-sectional TEM image corresponding to that in (E)."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/667e279a6ffa7569fc19ca84fcf613d360e7f9ec0b99a80e43ca5aa908210544.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/d4b5964e2f16a7c9ec6e38c6b5a16b3968a73038848bd4865adfd01c8fa26026.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/0d2cd67bfc371409dc65643e5b5aaf37bc61c6b803e3498a86cc115ce5fffa03.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/299e579b76bc12366087bcacd9521d99f558edadada776d61f2ca67380e91d72.jpg"
+    ],
+    "description": "Fig. 2. Boundary structure, texture, and hardness of the NL structures. (A) A HRTEM image of the NL structures containing four lamellae (labeled as I, II, III, and IV). (Inset) A FFT image of lamellae II and III. (B) A Fourier-filtered image shows a contiguity of (11-1) atomic plane in lamella “II” to (111) in lamella $\" | | , \"$ with a misorientation angle of $3 ^ { \\circ }$ across the II/III boundary (yellow dashed line). (Inset) The FFT image also shows superimposition of two {111} planes, with a small misorientation angle. (C and D) Lattice images of lamella “II” and “III,” showing that one of the closely packed {111} planes of II (2C) is inclined by $7 ^ { \\circ }$ to III (2D). (E) {111} Pole figure of the NL structures after annealing at $5 4 0 ^ { \\circ } \\mathsf { C }$ for 1 hour. The idea orientations of two main shear texture components are indicated with solid squares, $\\{ 1 0 0 \\} { < } 0 1 1 { > } ;$ ; and solid circles, $\\{ 1 1 1 \\} { < } 1 1 2 { > }$ . (F) Hall-Petch plot for the UFG and NG structures in Ni samples processed via different techniques reported in the literature (10, 18, 22). The measured hardness of the NL structures (red star) is included for comparison by taking the lamellar thickness equivalent to grain size."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/12f69f965249d31b30ca3dada5fffa03c061b639feb566d1e6435431b85df369.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/d4acdaa35896580ab0c8d77973b1016120988e60f7b48aeabe06700b35192712.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/1cc25f8c174a3d8f725167f80b4d0dafca10547e1ace41b0a9bd444c352d4fc3.jpg"
+    ],
+    "description": "Fig. 3. Thermal stability of the NL structure. (A) Variations of boundary spacing of the UFG, NG, and NL structures as a function of annealing temperature (for 1 hour). (B) A bright-field TEM image of the alternative NG/NL structures at a depth of $\\sim 8 0 \\mu \\mathrm { m }$ in the SMGT Ni sample. (C) A bright-field TEM image of the alternative NG/NL structures in the SMGT Ni sample after annealing at $5 0 0 \\%$ for 1 hour. (Inset) SAED patterns obtained from the respective dashed-line circled regions."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d23b3a9a0c/images/a931b448c957ddba9d421250aa8c68ac76daaf4449dda8f22e4813f2910b85ec.jpg"
+    ],
+    "description": "Fig. 4. Correlation of thermal stability and hardness. The onset temperature $( \\bar { I } _ { \\mathrm { o n } } )$ versus hardness for various microstructures [UFG, NG, and dislocation boundaries (DBs)] in the SMGT Ni at different depths. Solid triangles denote DBs at depths of ~150, 200, and $3 0 0 ~ { \\mu \\mathsf { m } }$ from the treated surface."
+  }
+]

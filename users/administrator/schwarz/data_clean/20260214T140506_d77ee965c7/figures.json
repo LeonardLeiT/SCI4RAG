@@ -1,0 +1,75 @@
+[
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/b3bff51a64fbc6a8cba5543d62009e3c2b1f7d9174482054c1bc4d6bb51aa698.jpg"
+    ],
+    "description": "Fig. 1 HAADF-STEM images of two GB phases separated by phase junctions in a nearly symmetric Σ37c 〈111〉 {1 10 11} GB. The GB plane remains unchanged by the phase transition and no faceting is observed. a, b Shows these junctions at two different positions on the same film. The scale bars represent 2 nm."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/2891786e60e5ca6c35b77db75c1013d89764868bcf3f4d7cdde704a0a0f6048b.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/ad94d39fbf6d2d8b5f89cc5e6d436094657802b8ebc7abc55a424e8510173da5.jpg"
+    ],
+    "description": "Fig. 2 Overviews of two, more than 300 nm long, GB segments assembled from multiple HAADF-STEM images of near-symmetric areas of a Σ37c 〈111〉 GB. a, b The GBs consist of multiple, alternating domino (red) and pearl (blue) segments. The lengths of each segment are indicated as well as the deviation off the symmetric GB plane (green line). c Magnified view of the orange region in (a). The domino segments in symmetric areas $: < 5 ^ { \\circ }$ off the symmetric case) are between 40 and 60 nm long, whereas the pearl segments are shorter with 10–40 nm. A high-resultion version of this image can be found in Supplementary Fig. 2."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/e4dc9a6d9d38cedc906d401d241ac700d2124cfbb1d4da8c2a6f1a81a1523d6d.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/2ee0ec664381e30b84bdf3faa3e60dac41cea61df84b28cb0af4d56b5ec31be9.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/e66ca7492f60cb754cfd23ea6dae192495990c8b22c2e2ecd3b231c82a09b2c3.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/020da3e70644be22d674c5e7b1c069bece1e6d9e288491b5aaad4eab91e8ca8b.jpg"
+    ],
+    "description": "Fig. 3 The two GB phases in a nearly symmetric Σ37c 〈111〉 {1 10 11} GB in Cu as observed by HAADF-STEM. The sub-atomic structures of the domino phase (a) and the pearl phase (c) are indicated by the colouring. The scale bars represent 2 nm. b, d Corresponding structures obtained from atomistic simulations with the EAM potential by Mishin et al.34. The motifs are the same as in the experiment. The black lines indicate the unit cell of the GB structure."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/476f1517a55b081a70e85a8bbaead26843022da8508e09ee65069675c7945537.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/ca94228ad3d00491ac1a28a77604194308d0be28f4b2633cec3cb994c17d2293.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/0a2b4a8ebf4296962e9eab3126c12ffca0eb321ea3f179e1b95f3712c0126de3.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/25869ffcdd489ee5f7061b54093399f54cb1f57498dc1ffe65a44486336432c5.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/d609528ac35aa14516e8571095f946e33b18e8d09c7abb1b266bd42b972c080f.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/79b3dc8ee844d2c42d162bfffeb58f47bb4657502253d5dd48d6de8378dcf283.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/56f616cf266d9153e6324f2f4586a9c40c31ef181555d990bb1836df2bdd1157.jpg"
+    ],
+    "description": "Fig. 4 Grain boundary phases predicted by the EAM potential discovered with phase-space sampling by an evolutionary algorithm. a–c Pair plots of different GB excess properties that make the separation into two main clusters of data points visible. The color coding is according to a clustering algorithm that takes several excess properties into account. Many of the structures that were discovered are simply defective, i.e., they contain disconnections or other defects. Three defect-free base structures are highlighted by the triangle, diamond, and square symbols, in which two are microstates of the pearl phase (the triangle and diamond) and one refers to the domino phase (the square). The best predictor to separate the clusters is $[ \\tau _ { 2 2 } ] ,$ , but the excess shear also provides a good indicator. d When plotting the GB energy over this predictor, a clear separation between low-energy domino-like and pearl-like structures can be seen. The low-energy pearl variants consist of either pearl #1 or #2, or a mixture of the two (indicated by the line connecting the data points and explored in more detail in Supplementary Fig. 4). e–g Snapshots of the low-energy structures from two directions. The unit cells are marked by black lines."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/c5bff819ca355641cb2cc031b21e80845c9b322b5000c7e699a3b7d95e9006ef.jpg"
+    ],
+    "description": "Fig. 5 Free energy calculation with the EAM potential using the quasiharmonic approximation. a Plot of the GB free energies $\\gamma$ for the three lowenergy structures we discovered. The dashed lines indicate an approximation with quantum-mechanical effects, the solid lines represent a purely classical approximation. The classical approximation yields equivalent results above 100 K. b The free energy differences show that the domino phase is stable below $\\sim 4 6 0 \\mathsf { K } ,$ while pearl #2 is stable above that temperature."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/318272d42501d47606a7eec0567e773e79fef2a869aeaf27d45a945d2aec4699.jpg"
+    ],
+    "description": "Fig. 6 Phase transition simulations. a We start from the domino structure with periodic boundary conditions (PBC) in the GB plane and open boundaries normal to it. b The pearl phase nucleates at 800 K and c keeps growing after reducing the temperature to 550 K (snapshot after 4 ns). The pearl structures contain many defects (disconnections, black). For a slowly cooled pearl sample with less defects see Supplementary Fig. 7. d Regrowth of the domino phase at $3 0 0 1$ observed after 2 ns for a system thickness of three atomic layers in tilt direction. All pearl phase disappeared after an additional 0.2 ns. The initial state was extracted from (b). All images are slices of width 1 nm."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/4365c3d8ba6505a3eedd9f61597d58e532dff56d6b778e06328aad7ac5ad988d.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/2432c304d49621a90cec7f31324b442429b42a887b3537aa114cd5fb8774e55b.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/aed1d9eef2e70e9ede27ce5ad5abe9e0d9ed68f8180047447392e5b0bf6ea659.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/afef012f8c637cded8e3be2da3071215eec941abba3791570ea64a46a0f3d009.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/7a904211bb5ac1ee85d1f63a91f12228ae7a2e95cf77bf96b85e7c25cfe971f5.jpg"
+    ],
+    "description": "Fig. 7 Burgers vector of the phase junctions. a, b Microscopic translations B between the crystallites for the different phases. The differences in B correspond to the Burgers vector $b _ { \\mathrm { j u n c t i o n } }$ ½ -. Different possible B vectors are equivalent, since they are connected by DSC vectors $d ^ { \\mathsf { S C } }$ ½ -. c Burgers circuit on an ½ -actual junction in the simulation. The black lines were chosen to be parallel, so that ${ \\overline { { \\mathsf { A B } } } } + { \\overline { { \\mathsf { C D } } } } = \\mathbf { 0 }$ . The green lines of the circuit were measured in ideal unit þ ¼cells of the GB phases to avoid elastic distortions near the junction. d Burgers circuit on the experimental image from Fig. 1a using the same method. e, f The lines crossing the GB were translated to reference segments far away from phase junctions before measuring in order to reduce elastic distortions. The same images as in Fig. 3 were used. The components parallel and normal to the GB were measured to be $b _ { \\parallel } = - 0 . 2 8$ to $- 0 . 4 5 \\textrm { \\AA }$ and $b _ { \\perp } = - 0 . 1$ to $+ 0 . 1 4 \\textrm { \\AA }$ . For more circuits at different phase junctions see Supplementary Fig. 11."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/d64713385358da51123ad24fb703d341ad3928e339c2d6444dda2e95c8c1b5eb.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d77ee965c7/images/717c6d9ceb88585a73150eb519441e512f5b35189862d17a1eae4711a122a394.jpg"
+    ],
+    "description": ""
+  }
+]

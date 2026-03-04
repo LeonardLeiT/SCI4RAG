@@ -1,0 +1,1581 @@
+[
+    {
+        "type": "text",
+        "text": "Computational self-assembly of a one-component icosahedral quasicrystal ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            116,
+            915,
+            186
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Michael Engel1 *, Pablo F. Damasceno2 , Carolyn L. Phillips3 and Sharon C. Glotzer1,2,4* ",
+        "bbox": [
+            60,
+            204,
+            781,
+            223
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Icosahedral quasicrystals (IQCs) are a form of matter that is ordered but not periodic in any direction. All reported IQCs are intermetallic compounds and either of face-centred-icosahedral or primitive-icosahedral type, and the positions of their atoms have been resolved from di\u001braction data. However, unlike axially symmetric quasicrystals, IQCs have not been observed in non-atomic (that is, micellar or nanoparticle) systems, where real-space information would be directly available. Here, we show that an IQC can be assembled by means of molecular dynamics simulations from a one-component system of particles interacting via a tunable, isotropic pair potential extending only to the third-neighbour shell. The IQC is body-centred, selfassembles from a fluid phase, and in parameter space neighbours clathrates and other tetrahedrally bonded crystals. Our findings elucidate the structure and dynamics of the IQC, and suggest routes to search for it and design it in soft matter and nanoscale systems. ",
+        "bbox": [
+            60,
+            249,
+            924,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "cosahedral symmetry is abundant in nature. For virus capsids and fullerenes, the icosahedral point group generates the closed shell with the maximal number of subunits in identical environments1. Short-range icosahedral order dominates in metallic glasses2,3 because it minimizes the energy and maximizes packing density in small atomic clusters4 and facilitates twinning5. Although often favoured locally and under spherical confinement6, icosahedral symmetry is incompatible with periodicity and, therefore, rarely observed in bulk materials. An exception is in icosahedral quasicrystals7,8 (IQCs), which achieve long-range icosahedral order by sacrificing periodicity. IQCs are aperiodically ordered in three dimensions, and, owing to their high symmetry, have almost orientationally uniform properties, which makes them candidates for materials with a complete photonic bandgap9 or as specialized alloys10. ",
+        "bbox": [
+            60,
+            393,
+            485,
+            594
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nearly defect-free, macroscopic grains of IQCs are available in binary, ternary and multinary intermetallic compounds with conventional growth techniques11, and IQCs have even been discovered in nature12. In some cases the structural quality is high enough such that models can be proposed from the intensity of the Bragg peaks using higher-dimensional crystallography13, where the quasicrystal is described as a three-dimensional cutand-projection through a six-dimensional periodic crystal. Solving the structure of IQCs requires the identification of decorations of the six-dimensional unit cell by three-dimensional objects known as occupation domains14,15 (or atomic surfaces16), which are the quasicrystallographic equivalent of lattice sites in a periodic three-dimensional crystal. Interestingly, of the three possible crystallographic types of IQCs (ref. 17), only two have been reported15. A prediction of the theory of quasicrystals, confirmed by experiments18,19, is the existence of phason flips, coherent discrete rearrangements of atoms that leave the free energy of the system unchanged. ",
+        "bbox": [
+            60,
+            595,
+            485,
+            835
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yet, despite the abundance of IQCs in intermetallic compounds, quasicrystals observed in non-atomic (for example, micellar20, ",
+        "bbox": [
+            60,
+            836,
+            485,
+            864
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nanoparticle21, or mesoporous22) three-dimensional systems do not exhibit icosahedral symmetry; instead, dodecagonal and other axially symmetric quasicrystals, which are aperiodic only in two dimensions and periodic in the third dimension, are increasingly seen. The same is true for simulations, where dodecagonal quasicrystals are also the norm23–25, and IQCs have only been grown imperfectly from a seed using lattice models26,27. Indeed, computational self-assembly studies of quasicrystals are often conducted with identical particles interacting via short-range23,28,29 or even hard24 potentials—conditions quite different from those in intermetallics, where different atomic elements can cooperate, interactions are longer ranged and of quantum-mechanical origin, and Hume-Rothery stabilization of the valence electrons plays a central role30. ",
+        "bbox": [
+            495,
+            393,
+            922,
+            580
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on this status quo, one might expect to find an IQC via computer simulation only in a multicomponent system requiring complicated atomic interactions. However, here we show that, in fact, robust self-assembly of IQCs is possible in a system of identical particles interacting via an isotropic pair potential, and over an extended region in potential parameter space. We provide a crystallographic structure model by determining the occupation domain, and show the presence of phason flips. ",
+        "bbox": [
+            495,
+            581,
+            922,
+            690
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Discovery and dynamics of the icosahedral quasicrystal ",
+        "text_level": 1,
+        "bbox": [
+            497,
+            700,
+            897,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We carry out molecular dynamics simulations of particles interacting with an effective pair potential with three wells. The shape of the potential is inspired by Friedel oscillations23,26,28,31, which are equivalent to the Hume-Rothery mechanism. The oscillating pair potential32 (OPP) with six parameters mimics the atomic interactions of many metallic systems and, as shown in Supplementary Information, can be simplified to the functional form ",
+        "bbox": [
+            495,
+            716,
+            922,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV (r) = \\frac {1}{r ^ {1 5}} + \\frac {1}{r ^ {3}} \\cos (k (r - 1. 2 5) - \\phi)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            576,
+            832,
+            810,
+            861
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "nature materials ",
+        "bbox": [
+            63,
+            3,
+            231,
+            49
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "FOCUS | ARTICLES ",
+        "bbox": [
+            650,
+            2,
+            922,
+            30
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "PUBLISHED ONLINE: 8 DECEMBER 2014 | DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            531,
+            35,
+            922,
+            49
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "1Department of Chemical Engineering, University of Michigan, Ann Arbor, Michigan 48109, USA. 2Applied Physics Program, University of Michigan, Ann Arbor, Michigan 48109, USA. 3Argonne National Laboratory, Argonne, Illinois 60439, USA. 4Department of Materials Science and Engineering, University of Michigan, Ann Arbor, Michigan 48109, USA. *e-mail: engelmm@umich.edu; sglotzer@umich.edu ",
+        "bbox": [
+            60,
+            904,
+            919,
+            943
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            62,
+            962,
+            470,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "109 ",
+        "bbox": [
+            897,
+            962,
+            919,
+            974
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            640,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2001bb1e9d16ce29cc281b57d0d7f6e4497b28e1df8ce4b1f4f1aa2f25a7f12f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            70,
+            673,
+            476
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e50f3bab0149dfd92d3884ebddf3b2223fea4db7680550ac6447a7fbbff008b.jpg",
+        "image_caption": [
+            "Figure 1 | Self-assembly of a one-component icosahedral quasicrystal. a, Isotropic particles (shown in red, green and blue) form a roughly spherical solid that coexists with the gas phase. The central particles (green) align into rows and show ordered tiling (red with grey bonds). b–d, Di\u001braction patterns along five-fold (b), three-fold (c) and two-fold (d) axes exhibit Bragg peaks and weak di\u001buse scattering. The Bragg peaks align well along two-fold sections, demonstrating the absence of phason strain. Potential parameters for this figure are in the LD subregion: $( k , \\phi ) = ( 6 . 2 5 ,$ 0.62). The system contains 20,000 particles. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            690,
+            66,
+            910,
+            475
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which combines a short-range repulsion with a damped oscillation of frequency $k$ and phase shift $\\phi$ that induces an attraction at specific interparticle distances $r$ . Our potential is achieved by terminating the OPP after three wells (at the third maximum) and shifting the potential smoothly to zero to obtain an (in principle) experimentally feasible effective interaction potential; we note possible synthesis routes in our discussion at the end. Oscillatory potentials33, convex repulsive potentials34, and non-diverging potentials35 have been proposed for stabilizing complex (quasi-)crystals. A strength of our approach is that the three-well OPP (3w-OPP) is net attractive. This means that the particles will spontaneously cluster together at low enough temperature even in the absence of external pressure. Using the 3w-OPP, we report distinct variants of an IQC—a highly ordered low-density variant and an intermediate-density variant dominated by icosahedral clusters—as well as a high-density approximant crystal (a periodic crystal structurally similar locally to a quasicrystal). A two-well OPP was not found to stabilize the IQC robustly. The quasicrystal occurs in the vicinity, in parameter space, of several other crystal structures, most of which have not been observed in simulation before. ",
+        "bbox": [
+            70,
+            586,
+            495,
+            852
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Computer simulations of IQCs should account for the observation that they can form on short timescales via rapid solidification7. Fast growth is possible only if there is an efficient way to add particles to the nucleus36–38 and if the periodic boundary conditions of the simulation do not impose constraints on the growing crystal and inhibit the relaxation of defects. For a specific choice of the potential parameters $( k , \\phi )$ , we initialize the particles ",
+        "bbox": [
+            70,
+            854,
+            495,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in a random arrangement at a low density and slowly decrease the temperature until a roughly spherical solid forms directly from the gas phase (Fig. 1a). The solid is crystallographically ordered, as confirmed in cross-section by the alignment of the particles into columns and layers. Diffraction reveals two-fold, three-fold and five-fold symmetry axes (Fig. 1b–d). A detailed analysis reveals the absence of detectable phason strain in this sample, as well as a larger sample obtained with seed-assisted growth (Supplementary Information), which allows us to rule out the presence of the 5/3 and smaller cubic approximants, and to identify the solid as indistinguishable from an IQC. The diffraction patterns exhibit many well-aligned Bragg peaks, with intensities spanning about four orders of magnitude, and pronounced rotational regularity. The peak width and its radial dependence are dominated by the spherical geometry of the solid. Overall, the IQC we obtain has little disorder and is of similar structural quality to IQCs found in experiments, albeit of much smaller size. ",
+        "bbox": [
+            507,
+            586,
+            932,
+            813
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By projecting the particles in the solid along the symmetry axes, we can confirm the telltale feature of an IQC: a characteristic quasiperiodic tiling (Fig. 2a), in this case a Penrose tiling comprised of pentagons in two orientations (shown in orange and blue). The separation of layers follows a Fibonacci sequence (Fig. 2b), and we observe self-similar patches (Fig. 2c). Particles are highly mobile, as visible by rearrangements in the Penrose tiling during the simulation run (Fig. 2d–g). We analyse the individual particle dynamics via the van Hove autocorrelation function $G _ { \\mathrm { a } }$ (r, t ), which is the probability density function for the motion of a particle ",
+        "bbox": [
+            507,
+            813,
+            932,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "ARTICLES | FOCUS ",
+        "bbox": [
+            72,
+            17,
+            321,
+            38
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            594,
+            21,
+            932,
+            37
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "110 ",
+        "bbox": [
+            75,
+            962,
+            95,
+            973
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            524,
+            962,
+            931,
+            974
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            359,
+            982,
+            638,
+            993
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cf1649f91816fdc33c1f718c41ca8a80b02e65bfa66164213b95c778f6db327.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            97,
+            67,
+            519,
+            377
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a86ff0a67ec81f1d9588165cd44e06a8cf6e1a96a08f51cf8b826c0e7e041ce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            526,
+            67,
+            699,
+            205
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/517535a8dc17114815f8b7fa54d06e1223d920877737583a704c328e360cd426.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            712,
+            69,
+            882,
+            205
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e7d8a1b2a5af121f78ce7c05ad68fb011a62f59ca5ee924dbc5a4acba7b4abc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            527,
+            216,
+            702,
+            343
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1eb716783b50169092e75fb593cc1a39c9a1a146ecaf789c19b5cc247405d0e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            710,
+            217,
+            877,
+            342
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1216ef2ca052b49f571b8bc290ef7af27600ea87a8c09638fa71462472016e38.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            87,
+            379,
+            357,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab1335e7764b4b2282cb14b1d57b8cdce0ae6900aaf38046c96b3636cfe47f16.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            368,
+            379,
+            636,
+            528
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d04d744abb05ab7eefe1893bec2154e69434ce3ac2463dd9d12ff8d75073fd47.jpg",
+        "image_caption": [
+            "Figure 2 | Characterization and dynamics of the quasicrystal. a, Particles projected along a five-fold axis are arranged into a pentagonal Penrose tiling. b, Projection of the particles along a two-fold symmetry axis reveals orthogonal layers that are separated by long (L) and short (S) intervals arranged into a Fibonacci sequence. c, Self-similar triangular patches related by the golden mean τ appear in projection along a three-fold axis. d–g, The particles are highly mobile, as confirmed by changes in the Penrose tiling. We show snapshots after 10 (d), 20 (e), 50 (f) and 100 (g) million simulation time steps. a and f show the same time step. h, The particles are highly mobile, as confirmed by the van Hove autocorrelation function $G _ { a }$ projected along a five-fold axis. The observed phason flips allow the quasicrystal to equilibrate e\u001eciently. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            650,
+            375,
+            890,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "over a distance r in time t (Fig. 2h). A central peak originating from the local vibrational motion of the particles around their equilibrium positions is accompanied by satellite peaks arranged with icosahedral symmetry. The satellite peaks confirm the presence of phason flips in the quasicrystal. As visible in the figure, particles can move as far as two particle diameters within one million molecular dynamics time steps. Over longer times, a series of subsequent, correlated phason flips provides a diffusion mechanism that is not available in periodically ordered solids. ",
+        "bbox": [
+            60,
+            652,
+            485,
+            774
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Assembly map summarizes the phase behaviour ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            785,
+            410,
+            799
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Why does the IQC appear in this relatively simple system of isotropically interacting particles? To understand this and to analyse the sensitivity of the formation of the quasicrystal on the particular shape of the potential, we investigate the range in parameter space over which the IQC is observed and examine its relation to neighbouring crystalline phases assembled with the 3w-OPP (Fig. 3). An extended central region (shaded in red) exhibits icosahedral order. Besides intermediate $k$ and high $\\phi$ , where only disordered configurations are found (shaded in grey), particles robustly and reproducibly self-assemble into either aperiodic or periodic crystals on cooling. ",
+        "bbox": [
+            60,
+            800,
+            485,
+            948
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We observe eight distinct crystal structures competing with the icosahedral region, which we discuss in anticlockwise order, starting after the disordered region. The hP2 crystal (Pearson symbol; prototype Mg; structure report symbol A3) is related to hexagonal close packing of spheres as well as to the WC (tungsten carbide) structure, but compressed to a c/a axes ratio of 2/3 along the hexagonal axis. BC8 is a tetrahedrally bonded crystal found experimentally and in first-principles calculations of silicon39. The structure of BC8 can be understood as a periodic tiling of interpenetrating prolate and oblate Penrose rhombohedra. cP8 $\\mathrm { C r } _ { 3 } \\mathrm { S i }$ or $\\beta$ -W; A15) is a Frank–Kasper phase and corresponds to a body-centred packing of edge-sharing icosahedra. Clathrates occur at intermediate $k$ and low $\\phi$ . We observe a dominance of dodecahedral cages (inset, dark green). Although we distinguish three variants, Cla I (clathrate type I, the topological dual to cP8), Cla IV (type IV) and Cla II (type II) in the figure, they often mix in simulation to form complex tilings—just like their duals, tetrahedrally close-packed phases40. Our observations suggest a dominance of Cla I towards lower $k$ and a dominance of Cla II towards higher $k$ . All large cages of the clathrates are filled with a particle at their centre. Monatomic guest-free clathrates have recently been found as an allotrope of silicon41 and in ",
+        "bbox": [
+            497,
+            652,
+            922,
+            948
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            63,
+            21,
+            401,
+            37
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "FOCUS | ARTICLES ",
+        "bbox": [
+            675,
+            16,
+            922,
+            39
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            62,
+            962,
+            470,
+            974
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "111 ",
+        "bbox": [
+            902,
+            964,
+            919,
+            973
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            359,
+            982,
+            638,
+            993
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4d1256032a8b36d049c972c0b836ef49daf9f3746fb1ef2ce8ba6786544d13a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            105,
+            69,
+            354,
+            235
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d827ca4efef0b52b1a2a54bd6921522f2d9233f78eb263001a876638737bbdb8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            383,
+            67,
+            635,
+            235
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/935f7270b8000b1cf855ecdf70c3b9e556a57e0699ff4d88111f6b4b6ef7d880.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            643,
+            66,
+            894,
+            235
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c0faa45d4fa6a3228cd8fefc39642950bacdffd8276c6038661dd09ab26bc37.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            102,
+            249,
+            363,
+            425
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dddb6c62887ba8d8cfd8e1ef0214857a0579a804c8f3c35c994186999c7eb5d2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            368,
+            241,
+            655,
+            423
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/76151a59f98c73be81a28f073a1724a1bc9fdb50fa2ab86e88c46deff0c89462.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            645,
+            257,
+            885,
+            425
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e940592ef1ddcbd446c599c60e44cba435245f01c3f03d6310257852c59a506.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            102,
+            434,
+            373,
+            612
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/050acdd43b5d63685f7b835e9b57c5bf5bfeea8c6aa4ca569d2790de6976382e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            379,
+            434,
+            633,
+            612
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/97d37b0249409b8a3f43f6791a9b6c15e42e2278b40bd97dcbdb52318755ba21.jpg",
+        "image_caption": [
+            "Figure 3 | Crystalline phases competing with the quasicrystal. Crystal structures found in slow-cooling simulations from the gas phase as a function of the potential parameters $( k , \\phi )$ are summarized in an assembly map (central part of the figure). Eight crystalline phases (arranged around the assembly map) compete with a region where spontaneous ordering was not observed (shaded in grey) and with a region of icosahedral order (shaded in red). The icosahedral region is further divided into a low-density (LD) subregion, an intermediate-density (ID) subregion and a high-density (HD) subregion. For each crystal structure the radial pair correlation function at elevated temperature $g ( r )$ (red curve) and the pair potential $V ( r )$ (blue curve) are plotted at the parameters $( k , \\phi )$ of $V ( r )$ indicated by the corresponding brown triangular arrow. A bond orientational order diagram and a representative part of the crystal structure are shown above each plot. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            643,
+            436,
+            889,
+            612
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "coarse-grained simulations42. In a few cases we observe small patches of clathrates that resemble axially symmetric random tiling quasicrystals. The structure cP4 is unknown in experiment, but was proposed theoretically as a high-pressure lithium phase43. cP4 has the rare chiral space group $P 4 _ { 1 } 3 2$ or $P 4 _ { 3 } 3 2$ ; either handedness appears spontaneously. Apparently, the spontaneous breaking of inversion symmetry is not different from the breaking of other point symmetries. Finally, hP10 is a hexagonal arrangement of stacked alternating octahedra and has not been reported in the literature, but has some similarity to the hexagonal perovskite $\\mathrm { B a N i O } _ { 3 }$ (ref. 44). Further details about the crystal structures and simulation snapshots are contained in Supplementary Information. ",
+        "bbox": [
+            72,
+            746,
+            495,
+            907
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each crystal, the radial pair correlation function $g ( r )$ at a representative point in the assembly map and the corresponding interaction potential $V ( r )$ are plotted together in Fig. 3. Peaks in ",
+        "bbox": [
+            72,
+            907,
+            495,
+            948
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$g ( r )$ align with the minima in $V ( r )$ . Tuning the potential parameters has two effects. First, it changes the positions of the minima of $V ( r )$ . The ratio of the positions of the first two wells is generally close to the golden mean $\\tau = ( \\sqrt { 5 } + 1 ) / 2 { \\approx } 1 . 6 2$ , favouring local pentagonal order, and ranges from 1.5 in the hP2 region to 1.75 in the cP4 region. Second, it changes the depth of the first well. The number density $\\rho$ in the solid depends primarily on the depth of the first well and increases as we move diagonally from the cP8 region to the hP10 region. A density increase is also observed in the icosahedral region (dashed lines in Fig. 3). As we will see, the density increase is not caused by a scaling of the lattice, but by a structural change within the quasicrystal. We can divide the icosahedral region into a low-density subregion (LD, $\\rho < 6 2 \\%$ ), an intermediate-density subregion (ID, $6 2 \\% < \\rho < 7 6 \\%$ ) and a high-density subregion (HD, $\\rho > 7 6 \\%$ ). ",
+        "bbox": [
+            507,
+            746,
+            932,
+            948
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "ARTICLES | FOCUS ",
+        "bbox": [
+            73,
+            17,
+            319,
+            37
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            594,
+            21,
+            932,
+            37
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "112 ",
+        "bbox": [
+            75,
+            962,
+            95,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            524,
+            962,
+            931,
+            974
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            359,
+            982,
+            638,
+            993
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ec3dfc39b99cd5f67db843cf0cbf06123c022cbe805ef873b204a92b183c33f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            121,
+            69,
+            352,
+            200
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c04af68eaf9cea8ba5d99c58c5e47edc1c4ac866940614066acea1873a26c11.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            371,
+            67,
+            601,
+            200
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f935609e60efa6d7adc723254a1871bc19a95e357a9a2529a303662f7e52c6c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            616,
+            69,
+            845,
+            200
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3899a0223a59dcd7fc9a16c13b8a03778433e280cf42779de548ba72f79a366c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            119,
+            209,
+            354,
+            324
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/19f2c130079e97682b9ca1ff136f59d9fc8a47cae162c2f1ff57d669d12249ab.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            371,
+            208,
+            598,
+            329
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d850ed12414f8166430f4a58c6a8e4bcdc509e2e2ad7cc3797e15e1632ba05b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            616,
+            209,
+            858,
+            328
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/976890f9f32b382bcfa0c62239db3979bfbafa3a689d566f59680b7a8ab2268a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            119,
+            343,
+            406,
+            554
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/39ec835bfee8fe84f4f02cc6be0a30bcb7b7ff70194c7597c1af7cc4463ed9df.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            413,
+            343,
+            564,
+            450
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2158a22f303b98d1b40589e570594d9246bf170cefc6cac319cd44d4555957b5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            416,
+            451,
+            561,
+            552
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/152a0beae44c3c4ccecb568c0ead15b3666d44c929d8cb8d142f95fef0be2afb.jpg",
+        "image_caption": [
+            "Figure 4 | Appearance of high-symmetry clusters in the icosahedral quasicrystal. a–c, Pair potential $V ( r )$ , radial pair correlation function $g ( r )$ and bond orientational order diagram in the LD (a), ID (b) and HD (c) subregions. d,f, Two-shell clusters are found in the ID quasicrystal (d) and the HD approximant crystal (f). Icosahedral symmetry is broken in the approximant. e, As the density $\\rho$ increases, the coordination number increases from predominantly four-fold coordinated (LD) to predominantly seven-fold coordinated (HD). g,j, Simulation snapshots in the ID (g) and HD (j) subregions. Prolate and oblate Penrose rhombohedra are obtained in projection by connecting the cluster centres. h,i, The di\u001braction pattern of the ID quasicrystal along the five-fold axis (h) has ten-fold symmetry, whereas the Bragg peak positions in the di\u001braction pattern of the HD approximant along the pseudo-five-fold axis form a lattice (i) demonstrating the periodicity of the approximant. Potential parameters are for LD: $( k , \\phi ) = ( 6 . 2 5 , 0 . 6 2 )$ ), ID: $( k , \\phi ) = ( 7 . 5 , 0 . 5 3 )$ , HD: $( k , \\phi ) = ( 8 . 5 , 0 . 6 8 )$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            574,
+            345,
+            858,
+            553
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three subregions in the icosahedral region ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            705,
+            368,
+            719
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is instructive to analyse the structure of the quasicrystal and its dependence on density in more detail. The radial pair correlation function in the icosahedral region (Fig. 4a–c) is qualitatively most similar to the radial pair correlation function of BC8 and the clathrate phases. The bond orientational order diagram demonstrates that nearest-neighbour bonds point exclusively in two-fold, three-fold and five-fold symmetry directions. A clear change driven by the decrease of the height of the first well of the interaction potential (Fig. 4a–c) and correlated with the increase in density is visible in the coordination number statistics (Fig. 4e), demonstrating that the structure of the quasicrystal is not the same everywhere in the icosahedral region of Fig. 3. Whereas the LD subregion has predominantly tetrahedral coordination, comparable to the coordination in BC8 and the clathrates, the HD subregion has a peak at coordination number seven. The coordination statistics in the ID subregion shows a mix of both situations. ",
+        "bbox": [
+            60,
+            719,
+            485,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Each of the three icosahedral subregions contains a distinct solid structure. The IQC found in the LD subregion (discussed in Fig. 1) is structurally uniform, has fast dynamics and the least amount of phason disorder. It also competes with the BC8 phase, which is apparent in Fig. 3 by the observation that BC8 splits the LD subregion into two parts. The LD quasicrystal is related to a hypothetical tetracoordinated quasicrystal45,46, which was proposed as an extension of BC8 and is related to a body-centred sixdimensional lattice47. However, in the hypothetical quasicrystal, the requirement of perfect tetrahedral coordination leads to order at unphysically large distances47. In contrast, the LD quasicrystal achieves long-range order by relaxing the strict requirement of perfect tetrahedral coordination. ",
+        "bbox": [
+            497,
+            705,
+            922,
+            879
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the ID subregion, the quasicrystal is less uniform. The projection of a slab perpendicular to the five-fold axis shows well-defined icosahedral clusters (Fig. 4g) consisting of two shells (Fig. 4d), which are often not fully occupied. The inner shell corresponds to a rhombic triacontahedron (up to 32 particles) ",
+        "bbox": [
+            497,
+            879,
+            921,
+            948
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            63,
+            21,
+            401,
+            37
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "FOCUS | ARTICLES ",
+        "bbox": [
+            675,
+            16,
+            922,
+            39
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            62,
+            962,
+            470,
+            974
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "113 ",
+        "bbox": [
+            900,
+            962,
+            919,
+            973
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            359,
+            982,
+            638,
+            993
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/afe666f4dc8b8fcf2d77f1149897184fd498e690bdb35ca965b88fb2a5844c85.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            112,
+            70,
+            566,
+            214
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2502c1dfc481fd7c7f13b065a4bbfa59294a3ebb3a387ad2d4e18e59e7ec94b6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            122,
+            225,
+            559,
+            383
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/64ddb4777fb24da0485ceea1b9eca4064f1601cf06cc9b00a06a755d87467dee.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            579,
+            65,
+            880,
+            222
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/998822010431109fc49ce050cae3b1a5d39a7c44b55c885cb8d506f34e230677.jpg",
+        "image_caption": [
+            "Figure 5 | Geometric modelling and structure solution of the icosahedral quasicrystal using higher-dimensional crystallography. a, Occupation domains are reconstructed by lifting the particle positions obtained in simulation onto a six-dimensional body-centred hypercubic lattice. The occupation domain for the LD quasicrystal and the ID quasicrystal are distinct in geometry. Both have icosahedral symmetry and can be modelled in a first approximation as a dodecahedron. b, The comparison of radial density profiles of the occupation domains obtained from simulation with the scaled dodecahedron model reveals thermal broadening of the occupation domain via phason flips. c, The icosahedral quasicrystal can be reconstructed from the model via projection from six dimensions. The peaks of the model (red) point in the direction of the vertices of a dodecahedron (label ‘D’, 3-fold axes), an icosahedron (‘I’, 5-fold), a rhombic triacontahedron (‘T’, 2-fold) and a truncated icosahedron (‘TI’). Primes in the label distinguish higher shells related to another by scaling with the golden mean $\\tau$ . After relaxation (energy minimization) the radial pair correlation function $g ( \\boldsymbol { r } )$ of the LD quasicrystal is well reproduced. d, The potential energy of a particle in the LD quasicrystal is correlated to its position within the occupation domain. Particles close to the centre of the occupation domain have lowest potential energy. The potential energy decreases towards the surface of the occupation domain. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            581,
+            223,
+            878,
+            384
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with radius $\\tau$ . The outer shell consists of a scaled triacontahedron and an icosidodecahedron (together up to 62 particles), both with a radius close to $\\tau ^ { 2 }$ . Particles in the inner shell of a complete cluster have coordination number six or seven, which explains the second peak in the coordination number plot (Fig. 4e). Compared to the LD quasicrystal, the ID quasicrystal has slower dynamics and shows significantly stronger phason disorder, as visible in the slight misalignment of the Bragg peaks in the diffraction pattern (Fig. 4h). We cannot fully equilibrate the phason disorder in the ID quasicrystal on the timescale of our simulations, but we do observe an improvement (that is, decrease) over time, which suggests the stability of the ID quasicrystal over an approximant crystal. ",
+        "bbox": [
+            70,
+            558,
+            495,
+            719
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In contrast, phason disorder increases over time in the HD subregion. Although the initial (rapid) self-assembly produces a solid with icosahedral symmetry (presumably a random tiling with low correlation between the tiles) a transformation to a 1/1 approximant crystal occurs during prolonged annealing at high temperature (Fig. 4i,j). The approximant corresponds to a body-centred cubic arrangement of two-shell clusters (similar to the clusters in the ID subregion, but with the icosahedral symmetry broken in the outer shell (Fig. 4f)), which happens to be the densest possible cluster packing. Interestingly, the structure of the approximant is closely related to the $\\mathrm { M g } _ { 3 2 } ( \\mathrm { A l } , \\mathrm { Z n } ) _ { 4 9 }$ Bergman phase48, a well-known ternary complex intermetallic compound. The 78 particles in the unit cell of the approximant represent a subset of the Bergman phase, which has 162 crystallographic sites. All $7 2 \\ 7 \\mathrm { n }$ atom sites as well as $1 2 ~ \\mathrm { M g }$ atom sites of the 162 sites are unoccupied in the approximant, which suggests that the approximant is, effectively, a one-component ‘coarse-grained’ variant of the Bergman phase. ",
+        "bbox": [
+            72,
+            721,
+            495,
+            948
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Structure solution via higher-dimensional crystallography ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            558,
+            921,
+            572
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The structure of an IQC can be solved using higher-dimensional crystallography by lifting its particles onto the six-dimensional hypercubic lattice. Occupation domains are determined by projecting the hyperlattice points on the three-dimensional complementary space, complementing the three-dimensional physical space (Supplementary Information). We find that the LD quasicrystal and the ID quasicrystal each have two identical occupation domains in the hyperlattice unit cell at (000000) and at 1/2(111111). This allows us to identify the quasicrystal as being of the body-centred-icosahedral type. The numerically determined occupation domains (Fig. 5a) have icosahedral symmetry, as expected. Clear geometric features (facets, spikes and dimples) again confirm the high structural quality of the quasicrystals and the presence of long-range order. The similarity between the two occupation domains suggests that the LD quasicrystal and the ID quasicrystal can be understood as variants of the other. Our discovery of a body-centred IQC is surprising because all IQCs reported to date are of either primitive-icosahedral or facecentred-icosahedral type. Whether one-component quasicrystals of those two types are possible is an interesting open question for future study. ",
+        "bbox": [
+            507,
+            574,
+            932,
+            840
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As a simple model we approximate the occupation domain by a dodecahedron (Fig. 5a), which is identical in shape to the canonical occupation domain of a body-centred IQC, which is also a dodecahedron. However, in comparison our occupation domain is scaled by a factor $3 - \\tau \\approx 1 . 3 8 2$ , which increases the density close to that observed in simulation. Indeed, the radial density of the model approximates the radial density of the numerically determined occupation domains, although the boundary of the ",
+        "bbox": [
+            507,
+            841,
+            932,
+            948
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "ARTICLES | FOCUS ",
+        "bbox": [
+            72,
+            17,
+            321,
+            38
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            594,
+            21,
+            932,
+            37
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "114 ",
+        "bbox": [
+            75,
+            962,
+            95,
+            973
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            524,
+            962,
+            931,
+            974
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            640,
+            993
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "latter is less sharp (Fig. 5b). A possible explanation of the broadening is thermal fluctuations at the occupation domain surface by phason flips. The discrete peaks in the radial pair correlation function of the quasicrystal constructed from the scaled dodecahedron model trace the broad peaks of the simulation data (Fig. 5c), confirming the similarity of their structure. During a quench of the model to zero temperature, the particles slide into their local equilibrium positions as dictated by the 3w-OPP, reproducing the simulation data almost perfectly. Interestingly, small local rearrangements occurring in simulation are able to combine the first shell of the hypothesized model into a single sharp peak. This demonstrates that the particles do not sit exactly at their ideal geometric sites, but slightly deviate from them by an average of less than $1 0 \\%$ of the nearest-neighbour distance. Finally, we analyse the potential energy as a function of the position of the particles inside the occupation domain. Particles close to the centre of the occupation domain have lower energy and are found to be more stable than particles towards the outside of the occupation domain (Fig. 5d). This behaviour is in agreement with expectations from the theory of quasicrystals15. ",
+        "bbox": [
+            60,
+            63,
+            485,
+            319
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion and conclusion ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            329,
+            253,
+            343
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The discovery of a one-component IQC via molecular dynamics simulation is an important step towards addressing a central remaining question in the theory of quasicrystals: how do atoms (or other elementary building blocks) arrange themselves rapidly, and with near structural perfection, into a long-range ordered configuration without the guidance of a unit cell? In particular, how does the higher-dimensional crystallographic description relate to an atomistic mechanism for continuous growth? The ability to quickly and reproducibly assemble IQCs in the computer paves the way for studies to begin to address these challenging questions. Already, we can state definitively that neither a multicomponent system nor long-range, quantum mechanical interactions are strictly necessary to stabilize an IQC, although both can be essential for IQCs on the atomic scale. Note that although metallic quasicrystals occur exclusively in binary and higher intermetallic compounds, they are often understood as comprised of identical clusters. An effective cluster interaction could be modelled with a potential similar to the one employed here37. ",
+        "bbox": [
+            60,
+            345,
+            485,
+            586
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The IQC forms robustly and reproducibly. In the central part of the ID subregion all simulations self-assemble the IQC without exception. Nucleation and growth are fast, only slightly slower than crystal growth with the Lennard-Jones potential. Prolonged annealing at any temperature below the melting (or sublimation) temperature dampens phason fluctuations, improving quasiperiodic order. Our observations do not prove thermodynamic stability, but demonstrate at least high practical stability. Whether the IQC is stable, and a refinement of the potential to improve stability, are left for follow-up work. ",
+        "bbox": [
+            60,
+            586,
+            484,
+            719
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Finally, our results narrow the gap between atomic and non-atomic quasicrystals. Our findings demonstrate long-range icosahedral order—which was thought to be unique to intermetallic compounds—using simulations with a relatively simple classical isotropic pair potential. Although it will be difficult to reproduce the 3w-OPP in the lab, based on our observations we hypothesize that IQCs could be found in molecular systems or suitably designed nanoscale experiments. We discuss two potential routes. First, IQCs can be targeted by setting competing distances for the interaction as dictated by the minima of the 3w-OPP, with the aim of inducing, first local, and then global icosahedral order. Such control should be possible with, for example, DNA-tethered nanoparticles, which can be engineered with fine precision over interparticle distances into complex lattices49,50. A second promising route is a search in the vicinity of clathrates and other tetrahedral network-forming systems, including covalent semiconductors and hydrates. Recent work has suggested dodecagonal quasicrystals in bilayer water51, ",
+        "bbox": [
+            60,
+            719,
+            485,
+            948
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "silicon52 and mesoporous silica22. If it is possible to relax the strict requirement of tetrahedral bonding, then we hypothesize that the local icosahedral character of the coordination cages may give rise to global icosahedral order. ",
+        "bbox": [
+            497,
+            63,
+            922,
+            118
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "bbox": [
+            499,
+            132,
+            568,
+            145
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Computer simulations. We employ graphics processing unit (GPU) accelerated molecular dynamics simulations using the popular, open-source ",
+        "bbox": [
+            497,
+            147,
+            919,
+            170
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HOOMD-blue simulation package53,54 The code may be downloaded at http://codeblue.umich.edu/hoomd-blue/. Systems with 4,096 particles (Fig. 3), 20,000 particles (remainder of the work) and 100,000 particles (Supplementary Information) are initialized in a random starting configuration at low density, corresponding effectively to zero pressure. The temperature is slowly reduced in the NVT ensemble over $1 0 ^ { 8 }$ molecular dynamics steps to induce nucleation of the solid phase. We temper systems at selected potential parameter choices for up to $1 0 ^ { 9 }$ molecular dynamics steps to heal defects and equilibrate phason strain. At the end of the simulation, the system is quenched to zero temperature to obtain simulation snapshots. In total, all simulations conducted during this study required about $5 0 , 0 0 0 \\mathrm { h }$ on NVIDIA GPUs with Fermi and Kepler microarchitecture. For comparison, this equates to roughly three million hours on fast central processing units (CPUs) with highly optimized code. A simple HOOMD-blue script that allows the reader to reproduce our simulations is included in the Supplementary Information. ",
+        "bbox": [
+            497,
+            170,
+            921,
+            343
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Analysis. To correct for rotation and translation of the (quasi-)crystals forming during the simulation, (quasi-)crystals are centred in the middle of the simulation box and oriented along high-symmetry axes. Unit cells of crystals are determined semi-automatically by searching for translational and rotational symmetries. Unit cell decorations, static simulation snapshots, and an interactive computer visualization that can be opened in a web browser are included in Supplementary Information. Particles in the oriented quasicrystal are lifted into six-dimensional space using a standard icosahedral basis. Diffraction patterns are obtained by projecting the central particles into a plane along high-symmetry axes and then applying a fast Fourier transform. Bond orientational order diagrams are calculated using the first peak in the radial pair correlation function and shown in stereographic projection. We employ temporal averaging at about $9 0 \\%$ of the melting (or sublimation) temperature over a long simulation trajectory to eliminate noise in the calculation of diffraction patterns (speckle pattern), van Hove autocorrelation functions, radial pair correlation functions, coordination numbers, bond-orientational-order diagrams, and the numerical determination of the occupation domain. ",
+        "bbox": [
+            497,
+            352,
+            922,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Received 2 June 2014; accepted 29 October 2014; ",
+        "bbox": [
+            497,
+            560,
+            815,
+            574
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "published online 8 December 2014 ",
+        "bbox": [
+            499,
+            575,
+            721,
+            588
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            500,
+            599,
+            581,
+            612
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Caspar, D. L. D. & Klug, A. Physical principles in the construction of regular viruses. Cold Spring Harb. Symp. Quant. Biol. 27, 1–24 (1962). ",
+            "2. Schenk, T., Holland-Moritz, D., Simonet, V., Bellissent, R. & Herlach, D. M. Icosahedral short-range order in deeply undercooled metallic melts. Phys. Rev. Lett. 89, 075507 (2002). ",
+            "3. Hirata, A. et al. Geometric frustration of icosahedron in metallic glasses. Science 341, 376–379 (2013). ",
+            "4. Wales, D. J. & Doye, J. P. K. Global optimization by basin-hopping and the lowest energy structures of Lennard-Jones clusters containing up to 110 atoms. J. Phys. Chem. A 101, 5111–5116 (1997). ",
+            "5. Hubert, H. et al. Icosahedral packing of B12 icosahedra in boron suboxide (B6O). Nature 391, 376–378 (1998). ",
+            "6. de Nijs, B. et al. Entropy-driven formation of large icosahedral colloidal clusters by spherical confinement. Nature Mater. http://dx.doi.org/ 10.1038/nmat4072 (2014). ",
+            "7. Shechtman, D., Blech, I., Gratias, D. & Cahn, J. W. Metallic phase with long-range orientational order and no translational symmetry. Phys. Rev. Lett. 53, 1951–1953 (1984). ",
+            "8. Levine, D. & Steinhardt, P. J. Quasicrystals: A new class of ordered structures. Phys. Rev. Lett. 53, 2477–2480 (1984). ",
+            "9. Man, W., Megens, M., Steinhardt, P. J. & Chaikin, P. M. Experimental measurement of the photonic properties of icosahedral quasicrystals. Nature 436, 993–996 (2005). ",
+            "10. Dubois, J-M. Properties and applications of quasicrystals and complex metallic alloys. Chem. Soc. Rev. 41, 6760–6777 (2012). ",
+            "11. Tsai, A-P. Discovery of stable icosahedral quasicrystals: Progress in understanding structure and properties. Chem. Soc. Rev. 42, 5352–5365 (2013). ",
+            "12. Bindi, L., Steinhardt, P. J., Yao, N. & Lu, P. J. Natural quasicrystals. Science 324, 1306–1309 (2009). "
+        ],
+        "bbox": [
+            500,
+            615,
+            917,
+            947
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            63,
+            21,
+            401,
+            37
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "FOCUS | ARTICLES ",
+        "bbox": [
+            675,
+            16,
+            922,
+            39
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            62,
+            962,
+            470,
+            974
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            900,
+            964,
+            919,
+            973
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            359,
+            982,
+            638,
+            993
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "13. Takakura, H., Gómez, C. P., Yamamoto, A., De Boissieu, M. & Tsai, A. P. Atomic structure of the binary icosahedral Yb–Cd quasicrystal. Nature Mater. 6, 58–63 (2007). ",
+            "14. Yamamoto, A. Crystallography of quasiperiodic crystals. Acta Crystallogr. A 52, 509–560 (1996). ",
+            "15. Steurer, W. & Deloudi, S. Crystallography of Quasicrystals: Concepts, Methods and Structures (Springer Series in Materials Science, 2009). ",
+            "16. Quiquandon, M. & Gratias, D. About the atomic structures of icosahedral quasicrystals. C. R. Phys. 15, 18–29 (2014). ",
+            "17. Rokhsar, D. S., Mermin, N. D. & Wright, D. C. Rudimentary quasicrystallography: The icosahedral and decagonal reciprocal lattices. Phys. Rev. B 35, 5487–5495 (1987). ",
+            "18. Edagawa, K., Suzuki, K. & Takeuchi, S. High resolution transmission electron microscopy observation of thermally fluctuating phasons in decagonal Al–Cu–Co. Phys. Rev. Lett. 85, 1674–1677 (2000). ",
+            "19. De Boissieu, M., Francoual, S., Kaneko, Y. & Ishimasa, T. Diffuse scattering and phason fluctuations in the Zn–Mg–Sc icosahedral quasicrystal and its Zn–Sc periodic approximant. Phys. Rev. Lett. 95, 105503 (2005). ",
+            "20. Zeng, X. et al. Supramolecular dendritic liquid quasicrystals. Nature 428, 157–160 (2004). ",
+            "21. Talapin, D. V. et al. Quasicrystalline order in self-assembled binary nanoparticle superlattices. Nature 461, 964–967 (2009). ",
+            "22. Xiao, C., Fujita, N., Miyasaka, K., Sakamoto, Y. & Terasaki, O. Dodecagonal tiling in mesoporous silica. Nature 487, 349–353 (2012). ",
+            "23. Dzugutov, M. Formation of a dodecagonal quasicrystalline phase in a simple monatomic liquid. Phys. Rev. Lett. 70, 2924–2927 (1993). ",
+            "24. Haji-Akbari, A. et al. Disordered, quasicrystalline and crystalline phases of densely packed tetrahedra. Nature 462, 773–777 (2009). ",
+            "25. Iacovella, C. R., Keys, A. S. & Glotzer, S. C. Self-assembly of soft-matter quasicrystals and their approximants. Proc. Natl Acad. Sci. USA 108, 20935–20940 (2011). ",
+            "26. Dmitrienko, V. E. & Astaf ’ev, S. B. Oscillating interatomic potentials and growth of icosahedral quasicrystals. Phys. Rev. Lett. 75, 1538–1541 (1995). ",
+            "27. Dmitrienko, V. E., Astaf ’ev, S. B. & Kléman, M. Monte Carlo simulations of icosahedral quasicrystal growth and melting. Phys. Rev. B 59, 286–293 (1999). ",
+            "28. Engel, M. & Trebin, H-R. Self-assembly of monatomic complex crystals and quasicrystals with a double-well interaction potential. Phys. Rev. Lett. 98, 225505 (2007). ",
+            "29. Dotera, T., Oshiro, T. & Ziherl, P. Mosaic two-lengthscale quasicrystals. Nature 506, 208–211 (2014). ",
+            "30. Trambly de Laissardière, G., Nguyen-Manh, D. & Mayou, D. Electronic structure of complex Hume-Rothery phases and quasicrystals in transition metal aluminides. Prog. Mater. Sci. 50, 679–788 (2005). ",
+            "31. Elenius, M., Zetterling, F. H. M., Dzugutov, M., Fredrickson, D. C. & Lidin, S. Structural model for octagonal quasicrystals derived from octagonal symmetry elements arising in $\\beta$ -Mn crystallization of a simple monatomic liquid. Phys. Rev. B 79, 144201 (2009). ",
+            "32. Mihalkovič, M. & Henley, C. L. Empirical oscillating potentials for alloys from ab initio fits and the prediction of quasicrystal-related structures in the Al–Cu–Sc system. Phys. Rev. B 85, 092102 (2012). ",
+            "33. Rechtsman, M. C., Stillinger, F. H. & Torquato, S. Synthetic diamond and wurtzite structures self-assemble with isotropic pair interactions. Phys. Rev. E 75, 1–7 (2007). ",
+            "34. Jain, A., Errington, J. R. & Truskett, T. M. Inverse design of simple pairwise interactions with low-coordinated 3D lattice ground states. Soft Matter 9, 3866–3870 (2013). ",
+            "35. Barkan, K., Engel, M. & Lifshitz, R. Controlled self-assembly of periodic and aperiodic cluster crystals. Phys. Rev. Lett. 113, 098304 (2014). ",
+            "36. Keys, A. S. & Glotzer, S. C. How do quasicrystals grow? Phys. Rev. Lett. 99, 235503 (2007). ",
+            "37. Steurer, W. On a realistic growth mechanism for quasicrystals. Z. Anorg. Allg. Chem. 637, 1943–1947 (2011). ",
+            "38. Achim, C. V., Schmiedeberg, M. & Löwen, H. Growth modes of quasicrystals. Phys. Rev. Lett. 112, 255501 (2014). ",
+            "39. Crain, J. et al. Theoretical study of high-density phases of covalent semiconductors. I. Ab initio treatment. Phys. Rev. B 49, 5329–5340 (1994). "
+        ],
+        "bbox": [
+            75,
+            66,
+            495,
+            835
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "40. Shoemaker, D. P. & Shoemaker, C. B. Concerning the relative numbers of atomic coordination types in tetrahedrally close packed metal structures. Acta Crystallogr. B 42, 3–11 (1986). ",
+            "41. Gryko, J. et al. Low-density framework form of crystalline silicon with a wide optical band gap. Phys. Rev. B 62, R7707–R7710 (2000). ",
+            "42. Jacobson, L. C., Hujo, W. & Molinero, V. Thermodynamic stability and growth of guest-free clathrate hydrates: A low-density crystal phase of water. J. Phys. Chem. B 113, 10298–10307 (2009). ",
+            "43. Ma, Y., Oganov, A. R. & Xie, Y. High-pressure structures of lithium, potassium, and rubidium predicted by an ab initio evolutionary algorithm. Phys. Rev. B 78, 014102 (2008). ",
+            "44. Takeda, Y., Kanamura, F., Shimada, M. & Koizumi, M. The crystal structure of BaNiO . Acta Crystallogr. B 32, 2464–2466 (1976). ",
+            "45. Ishii, Y. Propagating local positional order in tetrahedrally bonded systems. Acta Crystallogr. A 44, 987–998 (1988). ",
+            "46. Peters, J. & Trebin, H-R. Tetracoordinated quasicrystals. Phys. Rev. B 43, 1820–1823 (1991). ",
+            "47. Dmitrienko, V. E. & Kléman, M. Tetrahedral structures with icosahedral order and their relation to quasicrystals. Crystallogr. Rep. 46, 527–533 (2001). ",
+            "48. Bergman, G., Waugh, J. L. T. & Pauling, L. The crystal structure of the metallic phase Mg32(Al, Zn)49. Acta Crystallogr. 10, 254–259 (1957). ",
+            "49. Macfarlane, R. J., Jones, M. R., Lee, B., Auyeung, E. & Mirkin, C. A. Topotactic interconversion of nanoparticle superlattices. Science 341, 1222–1225 (2013). ",
+            "50. Auyeung, E. et al. DNA-mediated nanoparticle crystallization into Wulff polyhedra. Nature 505, 73–77 (2014). ",
+            "51. Johnston, J. C., Kastelowitz, N. & Molinero, V. Liquid to quasicrystal transition in bilayer water. J. Chem. Phys. 133, 154516 (2010). ",
+            "52. Johnston, J. C., Phippen, S. & Molinero, V. A single-component silicon quasicrystal. J. Phys. Chem. Lett. 2, 384–388 (2011). ",
+            "53. Anderson, J. A., Lorenz, C. D. & Travesset, A. General purpose molecular dynamics simulations fully implemented on graphics processing units. J. Comput. Phys. 227, 5342–5359 (2008). ",
+            "54. Anderson, J. A. & Glotzer, S. C. The development and expansion of HOOMD-blue through six years of GPU proliferation. Preprint at http://arXiv.org/abs/1308.5587 (2013). "
+        ],
+        "bbox": [
+            512,
+            66,
+            929,
+            466
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            483,
+            655,
+            497
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This material is based on work supported in part by the DOD/ASD(R&E) under Award No. N00244-09-1-0062 (M.E. and S.C.G.), by the US Army Research Office under Grant Award No. W911NF-10-1-0518 (S.C.G.), by the University of Michigan CEMRI for Photonics and Multiscale Nanomaterials (C-PHOM) funded by the National Science Foundation Materials Research Science and Engineering Center program DMR 1120923 (P.F.D.), and by a Simons Investigator award from the Simons Foundation to S.C.G. Simulations were performed on a GPU cluster managed by the University of Michigan’s Center for advanced computing and also on resources of the Argonne Leadership Computing Facility at Argonne National Laboratory, which is supported by the Office of Science of the US Department of Energy under contract DE-AC02-06CH11357 (C.L.P.). C.L.P. was funded by the Office of the Director through the Named Postdoctoral Fellowship Program (Aneesur Rahman Postdoctoral Fellowship), Argonne National Laboratory. Any opinions, findings, and conclusions or recommendations expressed in this publication are those of the authors and do not necessarily reflect the views of the DOD/ASD(R&E). ",
+        "bbox": [
+            510,
+            498,
+            929,
+            650
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            667,
+            663,
+            679
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All authors participated in the interaction potential design and the simulation set-up. M.E. performed data analysis of simulation results and studies of the larger configurations. P.F.D. and C.L.P. carried out numerical explorations of parameter space. S.C.G. coordinated and supervised the work. All authors contributed to the preparation of the manuscript. ",
+        "bbox": [
+            510,
+            681,
+            922,
+            732
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            748,
+            675,
+            760
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information is available in the online version of the paper. Reprints and permissions information is available online at www.nature.com/reprints. Correspondence and requests for materials should be addressed to M.E. or S.C.G. ",
+        "bbox": [
+            510,
+            762,
+            922,
+            792
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            809,
+            722,
+            823
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interests. ",
+        "bbox": [
+            510,
+            824,
+            761,
+            835
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "ARTICLES | FOCUS ",
+        "bbox": [
+            73,
+            16,
+            321,
+            39
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "NATURE MATERIALS DOI: 10.1038/NMAT4152 ",
+        "bbox": [
+            594,
+            21,
+            932,
+            38
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "116 ",
+        "bbox": [
+            75,
+            962,
+            95,
+            973
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "NATURE MATERIALS | VOL 14 | JANUARY 2015 | www.nature.com/naturematerials ",
+        "bbox": [
+            524,
+            962,
+            932,
+            974
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2014 Macmillan Publishers Limited. All rights reserved ",
+        "bbox": [
+            359,
+            982,
+            638,
+            993
+        ],
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "equation": "$\\Delta H { = } \\Delta S { \\cdot } \\gamma$",
+    "description": "The equation \\(\\Delta H = \\Delta S \\cdot \\gamma\\) relates the exothermic enthalpy change associated with grain coarsening to the corresponding change in grain boundary area and the specific grain boundary energy. In this expression, \\(\\Delta H\\) denotes the measured exothermic enthalpy released per unit mass during microstructural evolution, \\(\\Delta S\\) represents the change in total grain boundary area per unit mass resulting from grain growth, and \\(\\gamma\\) is the grain boundary excess energy per unit area. The equation thus expresses that the total enthalpy release is the product of the reduction in interfacial area and the energy density stored within those boundaries, providing a fundamental link between calorimetric measurements and microstructural parameters."
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/569f2077eec1df6627345fc6f88d8bf7cf520c8fda5c4f8a37689b523fbb68df.jpg"
+    ],
+    "description": "Fig. 1. Nanograins stabilized by rapidly heating in Cu. (A) Typical cross-sectional SEM images of the gradient nanograined surface layer in the as-prepared Cu sample and that heated to 523 K at different rates (1, 80, and 160 K/min, respectively). (B to D) Typical TEM bright-field images of the nanostructures at a depth of ${ \\sim } 2 5 \\mu \\mathrm { m }$ from the surface [as indicated in (A), with an average grain size about ${ 8 0 } \\mathsf { n m }$ in the as-prepared sample] in the as-prepared and the heated samples with different heating rates. Insets are corresponding selected area electron diffraction patterns. (E) The corresponding as-prepared grain size range in the stabilized surface layer of the gradient nanograined samples after heating to 523 K at different rates. Solid and hollow circles represent the upper and the lower limits of stable grain sizes observed, respectively. The dashed line represents the average grain size in the as-prepared sample $( D ^ { * } \\sim 6 0 \\mathsf { n m }$ ) upon annealing at 523 K from (10). Error bars are standard errors of the average grain size."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/e9c53e91d4bda8f5e702800ef495cba9614c7df7dcf1423e01958b81046f8bfc.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/d3405901292e76a25229368fb0f9da785fa314c9c36e991683440c577323a0ad.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/6a2f33fa784f25568e42fa4c446439bd205613b93378efdd5636b7ef45b03a95.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/ba5df3222ca166bb94ba6447905623ea0d694c6ae0801f64dd4cdad07a0760e0.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/f2433cdcc30729221e531bbc3d307e076dd304c3dc3d529a1abbda55e4435a31.jpg"
+    ],
+    "description": "Fig. 2. Formation of copious nanotwins and faceted GBs in nanograins after rapid heating. (A) High-resolution TEM image of a typical nanograin in Fig. 1D with an atomic image of nanotwins in the nanograin (inset). (B and C) Typical distribution maps of the GB character of the as-prepared (B) and the rapidly heated [(C) at a rate of $1 6 0 ~ { \\mathsf { K / m i n } } ]$ samples. Colored lines stand for different boundaries including twin boundaries (red), low-angle GBs (gray), ordinary high-angle GBs (black), and other special boundaries $( \\Sigma < 2 9 _ { i }$ , other colors). (D and E) High-resolution TEM images of typical boundaries between nanograins in Fig. 1D; insets are magnified images of the red-outlined regions."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/3556048a56a3b6f9362b6f8a9a4a5ea9649a6b31dc4f319858a65b5ca314132b.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/6835d22364b1804f4f916f58be8fce04ca6d7f90fd13cd3a9690a86f009134dd.jpg"
+    ],
+    "description": "Fig. 3. Thermal stability comparison for nanograins before and after rapid heating. (A) Grain size distributions from statistical TEM measurements for the as-prepared and the rapidly heated samples with thermally induced GB relaxation (T-GBR) with an average as-prepared grain size ${ \\sim } 8 0 \\mathsf { n m }$ annealed at different temperatures from 673 to $8 2 3 \\mathbb { K } .$ (B) Variations of measured grain size with annealing temperature for two nanograined structures with the as-prepared average grain size of 80 and $5 0 \\mathsf { n m }$ , respectively. Blue symbols and lines represent the as-prepared samples and red ones represent the T-GBR samples after rapid heating. Measured nanohardness data of the ${ 8 0 - } \\mathsf { n m }$ samples after annealing at various temperatures are also included. Error bars indicate the SDs of the average grain size."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_ba61f19e4e/images/1476feab8dd4042ce4c91537405dca7d098ffef42a6fa2de1d602ae1c87b6f9d.jpg"
+    ],
+    "description": "Fig. 4. Ultrahigh thermal stability of nanograined Cu with thermally induced GB relaxation. Measured grain coarsening (instability) temperatures as a function of initial average grain size in Cu. Literature data (gray symbols and line) are included for pure Cu processed from various techniques including strain machining, equal channel angle pressing, dynamic plastic deformation, high-pressure torsion, cold rolling, SMGT, and inert gas condensation. Blue circles represent the nanograins after the mechanically induced GB relaxation (M-GBR) during SMGT process (34–40). Red stars represent the nanograins after the T-GBR from the present study. Error bars indicate the variation range of measured instability temperatures within a grain size span."
+  }
+]

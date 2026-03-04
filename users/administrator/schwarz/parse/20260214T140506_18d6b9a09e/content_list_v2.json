@@ -1,0 +1,4349 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Stabilizing Supersaturation with Extreme Grain Refinement in Spinodal Aluminum Alloys "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                90,
+                907,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wei Xu, Yiming Zhong, Xiuyan Li,* and K. Lu* "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                170,
+                517,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supersaturated solid solutions can be formed in alloys from various non-equilibrium processes, but stabilizing the metastable phases against decomposition is challenging, particularly the spinodal decomposition that occurs via chemical fluctuations without energy barriers to nucleation. In this work, it is found that spinodal decomposition in supersaturated Al(Zn) solid solutions can be inhibited with straining-induced extreme grain refinement. For the refined supersaturated grains at the nanoscale, their spinodal decomposition is obviously resisted by the relaxed grain boundaries and reduced lattice defects. As grains are refined below  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " the decomposition is completely inhibited, in which atomic diffusion is blocked by the stable Schwarz crystal structure with vacancy-free grains. Extreme grain refinement offers a general approach to stabilize supersaturated phases with broadened compositional windows for property modulation of alloys. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                232,
+                608,
+                450
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                492,
+                205,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloying with foreign components to form solid solutions is a vital approach to modulating the properties of metals, as being practiced since the Bronze Age. Indeed, most solid solutions of metals have solubility limits in equilibrium phase diagrams except for a few isomorphous systems with elements completely miscible.[1,2] Supersaturated solid solutions may be formed as excess amounts of solute atoms are trapped beyond the solubility limit through various non-equilibrium processes, such as rapidly quenching from high temperatures,[2] physical or chemical vapor depositions,[3,4] electrodeposition,[5] ball milling,[6] and so on. While supersaturation may broaden the property spectrums of alloys, solutions with excess solute atoms are thermodynamically "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                516,
+                492,
+                687
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "W. Xu, Y. Zhong, X. Li, K. Lu "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                710,
+                238,
+                723
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Shenyang National Laboratory for Materials Science "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                723,
+                373,
+                735
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Institute of Metal Research "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                735,
+                233,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Chinese Academy of Sciences "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                746,
+                248,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "72 Wenhua Road, Shenyang 110016, China "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                758,
+                321,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: xyli@imr.ac.cn; lu@imr.ac.cn "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                769,
+                287,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Y.Zhong "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                783,
+                132,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "School of Materials Science and Engineering "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                795,
+                326,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "University of Science and Technology of China "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                806,
+                332,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Shenyang 110016, China "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                818,
+                218,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "K.Lu "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                832,
+                112,
+                843
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Liaoning Academy of Materials "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                843,
+                252,
+                855
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Shenyang 110004, China "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                855,
+                218,
+                867
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8c9ce38b46d5ce637c60f3c0d6a906d1d20e9c95727b378dc015a258a81b2640.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                879,
+                107,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adma.202303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                878,
+                489,
+                902
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1002/adma.202303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                906,
+                282,
+                921
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "unstable and prone to decompose into stable phases for minimizing free energy upon heating or straining, or even aging under ambient conditions.[7-9] "
+                    }
+                ]
+            },
+            "bbox": [
+                638,
+                223,
+                919,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stabilizing supersaturated phases against decomposition is a long-standing challenge. In general, the decomposition of the supersaturated solid solutions takes place by either a nucleation-growth mechanism or spinodal decomposition mechanism according to the derivation of Gibbs.[10] For the nucleation-growth mechanism, the formation of phase involves large composition fluctuation over a small space and therefore long-range diffusion is required. Retarding decomposition in such alloys can be accomplished by slowing down diffusion by eliminating fast diffusion channels, grain boundaries "
+                    }
+                ]
+            },
+            "bbox": [
+                638,
+                278,
+                919,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(GBs), or placing barriers in GB through the segregation of foreign elements.[11-14] However, it is particularly difficult to resist the spinodal decomposition in alloys with a miscibility gap, in which composition fluctuations may result in a reduction in free energy.[2,15-17] The spontaneous decomposition of the supersaturated phase starts from small composition fluctuation through local \"uphill\" diffusion without an energy barrier to nucleation, forming compositional modulations composed of two conjugate phases with the same lattice symmetry but different compositions until the eventual development of interface at the late stage.[18-20] In fact, spinodal decomposition takes place in the very initial stage of many precipitation processes and eutectoid transformations, such as the formation of G.P. zones in Al or Cu alloys and of cementite in steels.[2,21-23] In stabilizing supersaturations in alloys, spinodal decomposition kinetically controlled by atomic diffusion only is a benchmark process to suppress, in which resisting atomic diffusion is essential. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                489,
+                919,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In common wisdom, grain refinement is never considered to resist diffusion in alloys. On the contrary, refining grains of metals through plastic deformation may greatly enhance (rather than resist) atomic diffusion as more GBs and lattice defects like vacancies and dislocations are introduced that are diffusion facilitators. Various diffusion-controlled processes including grain coarsening, phase precipitation, as well as spinodal decompositions are remarkably promoted in metals and alloys with heavily-refined grains, typically in the sub-micrometer scales.[8,24-26] Nevertheless, new opportunities may emerge when grains are refined to extremely fine nanoscales. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                728,
+                919,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Both experimental and simulation studies revealed a transition in the dominant plastic deformation mechanism from full "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                882,
+                919,
+                911
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "# "
+                    }
+                ]
+            },
+            "bbox": [
+                872,
+                0,
+                892,
+                16
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Check for updates "
+                    }
+                ]
+            },
+            "bbox": [
+                897,
+                3,
+                996,
+                12
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH ARTICLE "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                31,
+                297,
+                49
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                26,
+                917,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                816,
+                61,
+                919,
+                72
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                948,
+                231,
+                960
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (1 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                946,
+                552,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                948,
+                917,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "dislocation slip to partial dislocation activity in metals with grains below a critical size ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D^{*}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", usually tens of nanometers).[27,28] The dominant partial activities lead to the formation of copious twins and stacking faults in nano-sized grains, in which full dislocations become seldom, as seen in different metals including Al with a very high stacking fault energy.[27,29] In fact, the presence of vacancies is also unlikely in very fine nanograins. Taking Al as an example, the equilibrium vacancy concentration is  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 10^{-7}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0.5~T_{\\mathrm{m}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{\\mathrm{m}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": the melting point),[24,30,31] namely, only one vacancy can stay stable in a grain of about ten million atoms (or an equiaxed grain of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 30~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in diameter). In other words, grains smaller than  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " may become vacancy-free as the presence of a vacancy would be thermodynamically unstable. As the substitutional diffusion is the primary diffusion mechanism in most spinodal alloys,[2] which takes place through the diffusion of vacancies, atomic diffusion would then be inhibited in the fine grains free of vacancy and dislocation. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                93,
+                487,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The altered deformation mechanism in nanograined metals also leads to a substantial change in GB structure. Recent investigations unraveled that GB structures may autonomously evolve into low-energy states in metals as grains are refined below the critical size  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D^{\\times}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " through deformation.[32,33] The relaxation process of GBs is triggered by their interactions with partial dislocations that are predominant strain carriers in the nanograin. With the relaxed GBs, grain coarsening becomes more reluctant at elevated temperatures,[32] and the creep process, in which atomic diffusion plays a key role, is also resisted in a single-phased NiCoCr alloy.[34] With intensified GB relaxation in extremely refined grains (a few nanometers in size), a novel Schwarz crystal structure characterized by the 3D minimal interface structure with zero mean curvature is adopted.[35] The term \"Schwarz crystal\" is named after mathematician Hermann Schwarz who established 3D structures with diamond-lattice symmetry (Schwarz-D), cubic symmetry (Schwarz-P), or gyroid with more complex form (Schwarz-G) by assembling saddle-like shaped minimal surfaces.[36] Among these surface topologies, apparent Schwarz-D-type surface morphology that is constrained by twin boundary networks is experimentally seen, in which the absence of a triple junction or quadra-pole is confirmed.[35] Such a metastable structure can significantly inhibit GB migration and nucleation of intermetallic phases from supersaturated Al(Mg) solid solutions at high temperatures.[37] "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                331,
+                487,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This evidence points to that refined grains to the extreme nanoscales may bring us a probable approach to suppressing spinodal decomposition in alloys. In this work, we explored this probability in a typical spinodal Al-Zn alloy with a wide miscibility gap, in which spinodal decomposition normally occurs around ambient temperature. Experimental evidence showed that extreme grain refinement can inhibit spinodal decomposition and stabilize the supersaturated solution in the entire dual-phase temperature range. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                682,
+                487,
+                809
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Results and Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                826,
+                287,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A single-phase face-centered-cubic (fcc) supersaturated  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al solid solution with a composition of Al-21.7 at% Zn was prepared by rapidly quenching from the single  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al phase at 683 K. The quenched sample has a coarse-grained (CG) structure with an average size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50~{\\mu\\mathrm{m}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and a uniform distribution of Zn atoms. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                850,
+                487,
+                921
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Structural modulations with domain sizes of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 - 2\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " were developed upon annealing at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "313~\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\textrm{h}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Figure S1, Supporting Information), a typical feature for the beginning stage of spinodal decomposition.[38,39] Apparent spinodal decomposition at a relatively macroscopic scale was found to start as annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "343\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\textrm{h}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (consistent with the documented data[40]), forming compositional modulations with hexagonal-close-packed (hcp) Zn-rich phase lamellae ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 70.6"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at% Zn in average) embedded periodically in fcc Al-rich matrix ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 8.2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at% Zn) (Figure 1a and Figure S2, Supporting Information). Energy dispersive spectroscopy (EDS) line scans showed composition waves in a sinusoidal-like shape with large wave amplitudes, typical for spinodal decomposition toward later stages (Figure 1e,i). "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                93,
+                915,
+                276
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By using high-pressure torsion in liquid nitrogen, grains of the alloy are progressively refined to smaller scales with increasing strains, ultimately to a few nanometers. The as-deformed samples with different grain sizes are also single-phased and distributions of Zn atoms remain as homogeneous as that in the CG state with a mean Zn concentration very close to the nominal (within  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 1.0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at%). No segregation of Zn atoms was detected at GBs in the deformed samples. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                276,
+                915,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The as-deformed samples at strains in a range of 2-15 consist of randomly oriented sub-micrometer-sized grains with high-angle GBs and a high density of dislocations, similar to that frequently observed in the severely deformed metals.[41,42] When the sample of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "320~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " grains was stored at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "273\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\textrm{h}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", decomposition occurred with a visible Zn-rich phase in X-ray diffraction (Figure S3, Supporting Information). Some dislocations can be seen in the sub-micrometer-sized a-Al grains, as marked by white arrows in Figure 1b. Most Zn-rich grains locate at high-angle GBs or triple junctions of the matrix (Figure 1b,f and Figure S4, Supporting Information), in which Zn concentrations dropped to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 2.7"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at% (Figure 1i), close to the equilibrium solubility, suggesting a completed decomposition. The process onsets at even lower temperatures (below  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "253\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") as grains are refined to around  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The lowered decomposition temperatures in the submicrometer-grained samples are not surprising, in agreement with the literature, due to the higher densities of non-equilibrium GBs[8,43] and dislocations that provide fast diffusion channels and consequently shift the decomposition to these defects.[17,26] From the measured sizes and spacing of Zn-rich phases, we estimated the apparent Zn diffusion coefficient in the samples, being  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.8\\times 10^{-17}\\mathrm{m}^2\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "298\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is comparable to the reported data[8] and diffusivity of Zn at Al GBs  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(7.9\\times 10^{-16}\\mathrm{m}^2\\mathrm{s}^{-1})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " [44] and is several orders of magnitude above the lattice diffusivity.[8,44] It suggests the decomposition process is controlled by the GB diffusion. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                388,
+                915,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As the torsion strains increased to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 100"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the supersaturated a-Al grains with random orientations are refined to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "16 \\pm 3 \\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in size (Figure 2a,b,d). In terms of the GB relaxation mechanism,[32] we calculated the critical grain size  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D^{*}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in the Al-Zn alloy, being about  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "40 \\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". As the grains are evidently below the critical size, GB relaxation is anticipated during the straining-induced refinement. This is verified by quantitative analyses of the boundary characters using precession electron diffraction. About  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "27\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of grains were found containing coincidence site lattice (CSL) boundaries, much larger than that in sub-micrometer-grained samples. This result is in accordance with previous reports about strain-induced GB relaxation in pure Al[45,46] and Al-Mg alloy.[47] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                751,
+                915,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCE NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                26,
+                230,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                61,
+                282,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                779,
+                26,
+                914,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                811,
+                61,
+                914,
+                72
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "15214095, 2024, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.202303650 by University Of British Columbia, Wiley Online Library on [03/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License "
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                19,
+                981,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                948,
+                226,
+                959
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (2 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                946,
+                547,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                948,
+                914,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/27e9938ee38232c9d5e174cce9ac6395667c1f1658411cb4cde27ef0ed7fa7d6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                97,
+                324,
+                214
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1add18f5b0d627173eff841a4bfd5a252a427e7b4583746333ba159ce2540dc7.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                326,
+                98,
+                519,
+                216
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b65e5429d3b82f05dae3d85d3219fdeffba9a5090eacee989c47724e67b2565c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                521,
+                98,
+                717,
+                216
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1d4dcb2dbe23dbb679f463556b8226068f2919fbc0fa7316d567da3ecf3a7b5c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                719,
+                98,
+                915,
+                216
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/96f43035c688e5fa53c82ef678a5d4db83352dbf1fbcd1c31fd4d3e5566d3cdf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                217,
+                324,
+                333
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ad4a370b93f15831c49008df2e517bff08842b61b59850c52166564e8318832b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                324,
+                217,
+                519,
+                333
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f323a6626ac0710526aa63cc15bbd9a4b04ab4c0e4806bb6866fdcb3144edcbe.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                521,
+                217,
+                717,
+                333
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/17f99cdf406dbd0b334f23817eb840a328c4f60faf23260078eda02786266b2b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                719,
+                217,
+                915,
+                333
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9a11f5a3c18ea607818b3f43411bcf76c36cb5474d74c197beea34e490e84adb.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                82,
+                333,
+                324,
+                471
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/02988cb81a538a3e248b0f3e0f940017a34e0555169f4b1a297e1a76beec1c9b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                324,
+                333,
+                519,
+                471
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/493393548c08245037c4fa0a060f1dbc5f2ed12abfecace97e3ad9556c2a2a35.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                521,
+                333,
+                717,
+                471
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/302cfa659492d8e2aed0e44400efe85c03e1781c043df2ff766b35d82a21b843.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Distance (nm) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Figure 1. Spinodal decomposition after heat treatment in supersaturated Al(Zn) solution with different grain sizes. a-c) Bright-field TEM images and e-g) the corresponding elemental mappings of Zn of the spinodal microstructures in different samples: a,e) CG sample annealed at 343 K; b,f): 320 nm-grained sample stored at 298 K; c,g) 16 nm-grained sample annealed at 423 K). d) Typical bright-field TEM image with SAED pattern (inset) and h) elemental mapping of Zn of 9 nm-grained sample annealed at 494 K. i) EDS line scans of Zn concentration in the as-prepared (gray lines) and the annealed samples (colored lines). The gray dashed line indicates the nominal Zn concentration of the alloy. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                717,
+                333,
+                915,
+                471
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Copious twin boundaries were detected in the a-Al nanograins without full dislocations (Figure 2c), another signature of the structural relaxation of GBs.[32,33] As deformation twinning is difficult in Al due to its high stacking fault energy,[27,48] the formation of twins originates from the high shear stress during the cryogenic high-pressure torsion.[37] "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                583,
+                490,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As strains exceeded 120, extremely fine grains of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 \\pm 2 \\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in size were formed in the as-torsioned sample (Figure 2e-h). The progressive GBs relaxation upon larger strain accordingly induced further structure evolution. Under bright-field transmission electron microscopy (TEM), topological manifold structures of continuous networks consisting of irregularly-shaped aggregates were observed. The aggregates with curved boundaries were made up of individual grains of a few nanometers in size, among which twin relationships were often identified. High-resolution TEM images showed the tiny grains are arranged in symbolic honeycombed configurations of the D-type Schwarz crystals[49] (Figure 2f). Plenty of individual grains exhibit truncated octahedron geometries with multiple faceted {111} and {100} boundary planes (Figure 2g). Statistical analyses along the [110] axis showed that  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 30\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of grains contain one or more through-grain twins with {111} coherent TBs. These features indicated the Schwarz crystal structure is formed in these extremely refined samples, analogous to that in Cu and Al-Mg alloys.[35,37] "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                668,
+                492,
+                921
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In brief, the formation of the Schwarz crystal structure is an energetically more favorable GB relaxation process that is thermodynamically driven by minimizing the total boundary area after mechanical stimuli.[50] Only the fcc  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al phase was noticed from selected area electron diffraction (Figure 2e) and X-ray diffraction (XRD) analysis. EDS measurements displayed a homogeneous distribution of Zn atoms with a concentration of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20.2\\mathrm{at}\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Figure 1i and Figure S5, Supporting Information), close to the alloy nominal composition and that calculated from the lattice parameter according to the Vegard's law ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20.8\\mathrm{at}\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") from X-ray diffraction experiments. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                583,
+                919,
+                737
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The thermal stability of the nanograined samples was examined by isothermal annealing at different temperatures for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{h}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In the samples of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "16~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-grains, the single-phased structure is preserved after annealing at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "408\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Figure S6, Supporting Information). After annealing at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "423\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", some sporadic Zn-rich  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\approx 30"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at% Zn) grains of few tens nanometers in size were found in the nanograined matrix of which grain sizes remain unchanged (Figure 1c,g) but with lower Zn concentrations  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\approx 13.5"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at% Zn) (Figure 1i). The compositions in both phases deviate evidently from the equilibrium values at the temperature. It means the spinodal decomposition occurred, but the process is sluggish even at a temperature  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "80\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " above that in the CG sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                737,
+                921,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCE NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                26,
+                236,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                61,
+                287,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                26,
+                917,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                816,
+                61,
+                919,
+                72
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "15214095, 2024, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.202303650 by University Of British Columbia, Wiley Online Library on [03/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License "
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                19,
+                981,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                948,
+                231,
+                959
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (3 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                946,
+                552,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                948,
+                917,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0409b6b7ae5eda6c638a84929b8dbc007515c8b8c50eeb31772ed84c13567b6a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                95,
+                386,
+                314
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/df12ec8b1c87959964224a3ce73a51bda8261899d9a03eda29043401a5d92a13.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                389,
+                95,
+                699,
+                314
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7270f1aafd300158e0e9711babf7d7a2db03e8eeae42dd1de066f85cd4b50105.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                702,
+                95,
+                910,
+                214
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9633e12630d2de59b3c7a1a9375629de6a4df7881ec27594146bf792392fbe8d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                702,
+                214,
+                910,
+                314
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eeb8221b3d7b137272077267d261e3929a886f24ac30564399593a42ff0f9119.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                315,
+                332,
+                592
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5471da1c088e114ef27a16ba94ad79a121286317e2db9b4c94a7770eb95e4de9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                334,
+                315,
+                697,
+                592
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6559a0eeefc476811afbdba3d84b3a25d9c463a62dc2d18285368346f39acf55.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                700,
+                315,
+                910,
+                453
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2bc9b1538db99d41b89963d4110a5a18835fa92b92816014b6adec6f9e0d6499.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2. Microstructure characterization of the as-prepared nanograined samples. a–d) 16 nm-grained samples. a) An inverse pole figure (IPF) map and b) the corresponding distribution map of GB characters. The colored lines indicate different boundaries including twin boundaries (red), low-angle GBs (gray), ordinary high-angle GBs (black), and other special boundaries ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Sigma < 30"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", other colors). c) High-resolution HAADF-STEM image of grains containing coherent twin boundaries (CTBs, red solid lines). The orange dashed lines represent {111} planes. d) Grain size distribution. e–h) 9 nm-grained samples. e) A typical bright-field TEM image with SAED pattern (inset). f) High-resolution TEM image of individual grains arranged in a symmetrical configuration. g) High-resolution HAADF-STEM image of a tiny grain containing a CTB. h) Grain size distribution. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                700,
+                453,
+                910,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We did not detect visible grain coarsening and any precipitate under TEM observation and electron diffraction in the sample with  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " grains after annealing at temperatures within the entire coherent miscibility gap (Figure 1d). As in Figure 1d and 1h, microstructures and the EDS mapping of Zn atoms in the samples annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "494\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (2 K below the upper limit) remained the same as that in the as-prepared state. The EDS line scans overlapped in the samples before and after annealing (Figure 1i). High-resolution high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) observations revealed tiny a-Al grains with faceted  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{111\\}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{200\\}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " boundaries, akin to that before annealing (Figure 3a). The atomic images are not uniform in contrast, in which the brighter ones (arrowed) scattering in the grain may be attributed to atomic columns containing more Zn atoms (Figure 3a,b), suggesting Zn atoms locate randomly in the a-Al grains. The remarkable thermal stabil "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                696,
+                485,
+                921
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ity of the 9 nm-grained sample originates from its unique GB network with minimal surface topology that interlocked with coherent twin boundaries, which featured zero mean surface curvature and the absence of highly mobile triple junctions or quadrapoles.[50,51] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                696,
+                914,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The structure and Zn concentrations in the 9 nm-grained sample remained unchanged as the annealing duration was prolonged to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{h}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "494\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Figure 3c). Increasing the annealing temperature to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "523\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", above the miscibility gap in the dual-phase region, we did not find any change in structure and composition (Figure 3c and Figure S7, Supporting Information). Apparently, the decomposition processes, either the spinodal type or the nucleation-growth type, are inhibited in the extremely fine-grained samples in the dual-phase regime. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                765,
+                914,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Summarizing the measured results in the equilibrium Al-Zn phase diagram (Figure 4a), we found that spinodal "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                892,
+                914,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCE NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                26,
+                230,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                61,
+                282,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                779,
+                26,
+                912,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                811,
+                61,
+                914,
+                72
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "15214095, 2024, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.202303650 by University Of British Columbia, Wiley Online Library on [03/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License "
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                19,
+                981,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                948,
+                226,
+                959
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (4 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                946,
+                547,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                948,
+                914,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4fe555798d4d32dd9fa79fe6e4ea8957f48ead1d0f9e9389504d9a686ba4f0c6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                97,
+                349,
+                297
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b497438b7a164208b3c94433d0a99698f5bcc8c1180232202d1fc0e856e5a9a1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                352,
+                95,
+                623,
+                297
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ce5a1af1baf8e847eb56d6d339b25bd9413ce906e3e25c2f0e94b9fbaea08d29.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3. Zn atom distribution in Al lattice in the 9 nm-grained sample. a) A High-resolution HAADF-STEM image of the sample annealed at 494 K for 1 h. b) Line intensity profiles from the blue rectangle region marked in (a). c) Variation of Zn concentration in the sample with annealing time at 494 and 523 K. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                628,
+                95,
+                915,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "decomposition behavior is sensitive to grain size. The measured onset temperatures for spinodal decomposition as a function of the average grain size (Figure 4b) show a variation trend similar to that of the grain coarsening temperature in Cu and Ni.[32] The decreasing onset temperature for spinodal decomposition from coarse grains to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "<100\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is consistent with the previous results.[8,40] For grains below the critical size  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D^{*}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", smaller nanograins become more stable and the decomposition temperature rises up to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "423\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "16\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The extremely fine-grained samples are so stable that the decomposition is completely inhibited in the entire dual-phase range, standing out from any counterpart of the alloy. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                359,
+                490,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The increased resistance to spinodal decomposition observed in the nanograined samples may be attributed to reduced atomic diffusion. As grains are refined below  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D^{*}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", GB structures are relaxed so that the excess energy of GBs diminishes as verified by calorimetric measurements.[32] Meanwhile, dislocation density in grain interiors decreases as well, as supported by TEM observations. Both effects may reduce atomic diffusivity along GBs and in the lattice relative to the samples with larger grains with "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                528,
+                490,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "out GB relaxation. The reduced atomic diffusion is also consistent with the reluctant grain coarsening observed in the 16 nm-grained samples. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                359,
+                919,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The completely suppressed spinodal decomposition in the sample with extremely-fine grains means that transportation of Zn atoms is inhibited across the GBs and within grain interiors as well. As well as stabilizing the GB structure in pure metal, our recent studies in alloy systems further revealed the extremely low atomic diffusivity in the Schwarz crystal structure. With a robust GB network of minimal surface topology, the thermal diffusion of alloying elements across the GBs may be effectively suppressed, thereby preventing precipitation of intermetallic phase and even melting processes in Al-Mg alloy[37] and inhibiting diffusional creep processes in NiCoCr alloy.[34] Suppression of the lattice diffusion inside grains of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in size is also not surprising as the presence of dislocations and vacancies are unlikely in the lattice. The \"uphill\" diffusion of Zn atoms in the tiny  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}(\\mathrm{Zn})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " grains becomes very difficult as the substitutional diffusion mechanism ceases to operate in the vacancy-free lattice, despite the enhanced atomic vibration frequencies at elevated temperatures. In terms "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                402,
+                921,
+                641
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8a4b564ac59249b6fda5472ac7ad7433164409ac7596214939253c5d6e0586ae.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                194,
+                668,
+                524,
+                855
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/66a8356824b26fc3df2746f5a4522b258f68ecba99864c4674193a5573a3856a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4. Suppression of spinodal decomposition with extreme grain refinement. a) Compositions of Al-rich and Zn-rich phases from spinodal decomposition in the supersaturated Al(Zn) samples with different grain sizes after annealing at various temperatures (as indicated) plotted in the equilibrium phase diagram of binary Al-Zn alloys. b) Measured onset temperature of spinodal decomposition as a function of grain size of the supersaturated Al(Zn) samples. Note that no spinodal decomposition was detected in the 9 nm-grained sample below the upper limit temperature. The critical grain size for GB relaxation  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(D^{*} = 40\\mathrm{nm})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is indicated and data from refs. [8,40] are included for comparison. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                526,
+                668,
+                806,
+                855
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCE NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                26,
+                236,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                61,
+                289,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                26,
+                917,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                816,
+                61,
+                919,
+                72
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "15214095, 2024, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.202303650 by University Of British Columbia, Wiley Online Library on [03/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License "
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                19,
+                981,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                948,
+                231,
+                960
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (5 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                946,
+                552,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                948,
+                917,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "of the grain growth kinetics model,[2,37] we estimated the apparent across-boundary diffusivity in the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-grained sample, being about  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7.8\\times 10^{-22}\\mathrm{m}^2\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "494\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is about 10 orders of magnitude lower than the calculated diffusion coefficient of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Zn}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at GBs of Al ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 10^{-11}\\mathrm{m}^2\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The much lower diffusivity agrees with that in the Schwarz crystal Al-Mg alloy,[37] implying the GBs with the minimal interface topology are so stable that atomic transportation across them is inhibited. Nonetheless, further in-depth investigations with more direct evidence are needed for solidifying the mechanisms behind the nontrivial phenomena. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                93,
+                487,
+                235
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Conclusion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                254,
+                189,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The present work shows an unprecedented finding that refined grains to the extreme nanoscales are capable of inhibiting spinodal decomposition in supersaturated Al(Zn) solutions. With a successful inhibition of this nucleation-less phase transformation, one may anticipate that various diffusion-controlled phase transformations in alloys can be possibly suppressed with this approach. Grain refinement is routinely utilized to tailor the properties of materials. The processing techniques of extreme grain refinement are currently available in the laboratory, with which extremely refined nanostructures have been produced in a number of metals and alloys. Scaling-up of the techniques for industrial processing is practically feasible. Therefore, we believed the strategy, with its general applicability in different material families, is of significance in developing advanced alloys with greatly broadened compositional windows for property modulations. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                278,
+                485,
+                489
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Experimental Section "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                519,
+                268,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Sample Preparation: An Al-21.7 at% Zn (Al-40wt% Zn) alloy was cast and hot-extruded at 673 K into bars as raw materials in the present work. Disc-shaped alloy samples with a diameter of 4 mm and a thickness of 1 mm were solution-treated at 683 K for 2 h followed by water quenching to obtain coarse grains (50 μm in average size). In the high-pressure torsion (HPT) treatment, a disk sample was pressed between the rectangular flat dies under a pressure of 10 GPa and strained with a rotation speed of 30 rpm. Both dies and samples were fully immersed in liquid nitrogen at 77 K during the entire HPT process. The true shear strain in each cycle was estimated as follows[35,37] "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                542,
+                487,
+                664
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\varepsilon = \\ln \\left[ 1 + \\left(\\frac {\\theta \\times r}{h}\\right) ^ {2} \\right] ^ {1 / 2} + \\ln \\frac {h _ {0}}{h} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b3a6216d6204712ed3d706a14a281eb502b3354ac433d23e5cb757c85ad9e96f.jpg"
+                }
+            },
+            "bbox": [
+                75,
+                673,
+                485,
+                704
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the rotation angle imposed by shear straining,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the radius of the disk, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "h_0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "h"
+                    },
+                    {
+                        "type": "text",
+                        "content": " are the initial and the final disk thickness. Multiple cycles (up to 30 cycles) were applied to the disk for achieving high accumulative plastic strains. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                714,
+                485,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Annealing Treatment: The as-prepared samples were sealed in vacuum quartz tubes and annealed in a vacuum furnace at temperatures ranging from 313 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "523\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{h}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in protecting the Ar atmosphere. Long-duration annealing  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(10\\mathrm{h})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " was performed as well at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "494\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-grained sample. The temperature accuracy was  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 2\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                762,
+                485,
+                823
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Microstructure Characterization: Detailed microstructure characterizations and elemental analysis by using bright-field TEM, scanning transmission electron microscopy (STEM), and EDS mapping were performed on an FEI Talos F200X TEM at a voltage of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "200\\mathrm{kV}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " equipped with a four-quadrant SuperX EDS detector. Quantitative information on elemental composition was acquired and processed using VELOX software. The HAADF-STEM images with atomic resolution were taken using Cs-corrected TEM FEI Titan Themis G2 60-300 at a voltage of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "300\\mathrm{kV}"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                823,
+                485,
+                921
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "equipped with two aberration correctors. The average grain sizes in the samples were determined by the linear intercept method on TEM images with more than 300 grains being counted for each sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                95,
+                914,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Orientations of grains and GB characteristics were determined by using electron backscattered diffraction (EBSD), transmission Kikuchi diffraction (TKD), and precession electron diffraction (PED), respectively, depending on the grain size. EBSD was employed on an FEI NanoSEM Nova 430 scanning electron microscope at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20\\mathrm{kV}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " with a step size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.2\\mu \\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". TKD was conducted on FEI Helios PFIB CXe operated at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30\\mathrm{kV}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " with a step size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". PED scan was acquired using a NanoMEGAS ASTAR system on FEI Tecnai F20 TEM operating at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "200\\mathrm{kV}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " with a scanning step size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.4\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and a precession angle of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0.7^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                131,
+                915,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Samples for SEM, TEM, and TKD were prepared via cutting and subsequent mechanical grinding followed by electropolishing or twin-jet thinning in a solution of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " perchloric acid and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "90\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at a voltage of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20\\mathrm{V}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at about  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-25^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The TEM and TKD thin foil samples were ion-milled on a Gatan 695 ion miller with a cooling system. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                239,
+                915,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XRD Analysis: Quantitative XRD analysis for the samples was conducted on a D2 phaser diffractometer with Cu-  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf{K}\\alpha 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " radiation  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\lambda = 0.15405\\mathrm{nm})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "40\\mathrm{kV}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "40\\mathrm{mA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The XRD spectra were acquired in a  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " range of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "35 - 90^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " with a scanning step of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0.02^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for CG and 9 nm-grained samples, and a large scanning step of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0.65^{\\circ}\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " was selected for the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "320\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-grained sample to prevent phase decomposition during testing. The lattice parameter of the fcc Al solution was calculated by Bragg's law:  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda = 2d\\sin \\theta_{hkl}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", where  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the X-ray wavelength,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the interplanar distance, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{hkl}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the diffraction angle of the crystallographic planes (hkl). Diffraction peaks of (220), (311), and (222) were used to calculate the average lattice parameters, of which the measurement error was  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 0.0001\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                301,
+                915,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Estimation of Diffusion Coefficients: According to the diffusion kinetics of Zn in polycrystalline fcc Al, the diffusion coefficient could be written as follows.[44] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                434,
+                914,
+                469
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D = D _ {0} \\exp (- Q / R T) \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8bc3b72ce92acec0c43fd32acf45aa8628785fff3a07e80145cefe3253ec7d44.jpg"
+                }
+            },
+            "bbox": [
+                504,
+                483,
+                914,
+                497
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D_0 = 2.6 \\times 10^{-5} \\, \\mathrm{m}^2 \\, \\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the activation energy (60 kJ mol "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for GB diffusion),  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is gas constant, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is temperature. The calculated diffusion coefficient of Zn in polycrystalline Al GBs at 298 and 494 K was about  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7.9 \\times 10^{-16}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.2 \\times 10^{-11} \\, \\mathrm{m}^2 \\, \\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                508,
+                914,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the 320 nm-grained sample, the relation between the diffusion distance  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\lambda)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and diffusion coefficient was described for a given period of time  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(t)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " as follows.[2] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                558,
+                914,
+                595
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\lambda = \\sqrt {D t} \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f5ac795c1f2e23c5d6057d30d570b228d72144146ee64898072e89979caed1bc.jpg"
+                }
+            },
+            "bbox": [
+                504,
+                608,
+                914,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The estimated apparent Zn diffusion coefficient in the 320 nm-grained sample at 298 K was about  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.8 \\times 10^{-17} \\, \\mathrm{m}^2 \\, \\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is approximated as the mean grain size (320 nm) and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t"
+                    },
+                    {
+                        "type": "text",
+                        "content": " the holding time, 3600 s). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                638,
+                914,
+                673
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The apparent across-boundary diffusion coefficient  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(D)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " during grain growth could be determined in terms of the grain growth kinetics.[2,37] "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                673,
+                914,
+                699
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D = \\frac {\\left(d ^ {2} - d _ {0} ^ {2}\\right) z N R T a ^ {2}}{2 4 \\gamma t A n V _ {m} ^ {2}} \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/527b389f884b7dc2f4af40b12dbec66d90db5778525d31850c183d9adbd2ad86.jpg"
+                }
+            },
+            "bbox": [
+                504,
+                710,
+                914,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d_0"
+                    },
+                    {
+                        "type": "text",
+                        "content": " are the initial and the final grain sizes,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the coordination number,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is Avogadro's constant,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is gas constant,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the distance of an atomic jump,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is atoms per unit area,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the time,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the probability of atoms being accommodated in grain,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{\\mathrm{m}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is molar volume, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is GB energy (taken as  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0.19\\mathrm{J}\\mathrm{m}^{-2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for the 9 nm-grained sample), we obtained the apparent across-boundary diffusion coefficient of the 9 nm-grained sample, being  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 7.8\\times 10^{-22}\\mathrm{m}^2\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "494\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                755,
+                915,
+                842
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Supporting Information "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                502,
+                872,
+                697,
+                888
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supporting Information is available from the Wiley Online Library or from the author. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                895,
+                914,
+                920
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCE NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                26,
+                230,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                61,
+                282,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                779,
+                26,
+                914,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                811,
+                61,
+                914,
+                72
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "15214095, 2024, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.202303650 by University Of British Columbia, Wiley Online Library on [03/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License "
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                19,
+                981,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                948,
+                226,
+                959
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (6 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                946,
+                547,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                948,
+                914,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                93,
+                240,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This research was supported by the Ministry of Science and Technology of China (grant numbers 2017YFA0700700), the National Natural Science Foundation of China (grant numbers 52101161 and 52225102), and the Young Elite Scientists Sponsorship Program by CAST (grant number 2022QNRC001). The authors thank L. Fang and J. J. Chen for help with sample preparation and Z. H. Jin and B. Zhang for discussion. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                117,
+                490,
+                191
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of Interest "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                221,
+                233,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors declare no conflict of interest. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                244,
+                319,
+                257
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Author Contributions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                287,
+                253,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "W.X. and Y.Z. contributed equally to this work. X.Y.L. and K.L. developed the concept, designed the experiments, and supervised the projects. W.X. and Y.M.Z. prepared the samples, characterized structures, and performed the measurements. All authors discussed and analyzed the results. X.Y.L. and K.L. wrote the paper. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                310,
+                490,
+                374
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data Availability Statement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                402,
+                302,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The data that support the findings of this study are available from the corresponding author upon reasonable request. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                427,
+                489,
+                453
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                482,
+                163,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "aluminum alloys, grain boundary relaxation, grain refinement, Schwarz crystal structure, spinodal decomposition "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                505,
+                490,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: April 19, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                354,
+                544,
+                489,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Revised: June 1, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                369,
+                558,
+                489,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published online: August 4, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                305,
+                570,
+                489,
+                583
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] H. Okamoto, T. Massalski, P. R. Subramanian, L. Kacprzak, Binary Alloy Phase Aiagrams, ASM International, Materials Park, OH, USA, 1990. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] D. A. Porter, K. E. Easterling, Phase Transformations in Metals and aAlloys (Revised Reprint), CRC Press, Boca Raton, FL, USA 2009. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] Q. Li, S. Xue, J. Wang, S. Shao, A. H. Kwong, A. Giwa, Z. Fan, Y. Liu, Z. Qi, J. Ding, H. Wang, J. R. Greer, H. Wang, X. Zhang, Adv. Mater. 2018, 30, 1704629. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] K. Choy, Prog. Mater. Sci. 2003, 48, 57. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] C. A. Schuh, T. G. Nieh, H. Iwasaki, Acta Mater. 2003, 51, 431. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] C. Suryanarayana, Prog. Mater. Sci. 2001, 46, 1. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] F. Otto, A. Dlouhy, K. G. Pradeep, M. Kuběnová, D. Raabe, G. Eggeler, E. P. George, Acta Mater. 2016, 112, 40. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] B. B. Straumal, B. Baretzky, A. A. Mazilkin, F. Phillipp, O. A. Kogtenkova, M. N. Volkov, R. Z. Valiev, Acta Mater. 2004, 52, 4469. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] M. Werinos, H. Antrekowitsch, T. Ebner, R. Prillhofer, W. A. Curtin, P. J. Uggowitz, S. Pogatscher, Acta Mater. 2016, 118, 296. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] J. W. Gibbs, The Collected Works of J. Willard Gibbs: Thermodynamics, Yale University Press, New Haven, CT, USA 1948. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] R. Kirchheim, Acta Mater. 2002, 50, 413. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                618,
+                490,
+                873
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] C. C. Koch, R. O. Scattergood, K. A. Darling, J. E. Semones, J. Mater. Sci. 2008, 43, 7264. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] R. Reed, The Superalloys: Foundations and Applications, Cambridge University Press, Cambridge, UK 2006. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] J. Weissmüller, Nanostruct. Mater. 1993, 3, 261. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] J. W. Cahn, Acta Metall. 1961, 9, 795. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] M. Hillert, Acta Metall. 1961, 9, 525. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] A. Kwiatkowski da Silva, D. Ponge, Z. Peng, G. Inden, Y. Lu, A. Breen, B. Gault, D. Raabe, Nat. Commun. 2018, 9, 1137. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] Z. Rao, B. Dutta, F. Körmann, W. Lu, X. Zhou, C. Liu, A. K. Silva, U. Wiedwald, M. Spasova, M. Farle, D. Ponge, B. Gault, J. Neugebauer, D. Raabe, Z. Li, Adv. Funct. Mater. 2020, 31, 2007668. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] R. Gao, H. S. Ku, H. Deng, W. Yu, T. Xia, F. Wu, Z. Song, M. Wang, X. Miao, C. Zhang, Y. Lin, Y. Shi, H. H. Zhao, C. Deng, Adv. Mater. 2022, 34, 2201268. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] F. Findik, Mater. Des. 2012, 42, 131. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] K. Moore, W. Johnson, J. Howe, H. Aaronson, D. Veblen, Acta Mater. 2002, 50, 943. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] B. Ditchek, L. Schwartz, Acta Metall. 1980, 28, 807. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] E. P. Butler, G. Thomas, Acta Metall. 1970, 18, 347. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[24] X. Sauvage, N. Enikeev, R. Valiev, Y. Nasedkina, M. Murashkin, Acta Mater. 2014, 72, 125. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[25] K. Lu, Nat. Rev. Mater. 2016, 1, 16019. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[26] X. Zhou, R. Darvishi Kamachali, B. L. Boyce, B. G. Clark, D. Raabe, G. B. Thompson, Acta Mater. 2021, 215, 117054. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[27] M. W. Chen, E. Ma, K. J. Hemker, H. W. Sheng, Y. M. Wang, X. M. Cheng, Science 2003, 300, 1275. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[28] V. Yamakov, D. Wolf, S. Phillipot, A. Mukherjee, H. Gleiter, Nat. Mater. 2004, 3, 43. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[29] X. Liao, Y. Zhao, S. Srinivasan, Y. Zhu, R. Valiev, D. Gunderov, Appl. Phys. Lett. 2004, 84, 592. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[30] R. Simmons, R. Balluffi, Phys. Rev. 1960, 117, 52. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[31] K. M. Carling, G. Wahnström, T. R. Mattsson, N. Sandberg, G. Grimvall, Phys. Rev. B 2003, 67, 054101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[32] X. Zhou, X. Li, K. Lu, Science 2018, 360, 526. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[33] X. Zhou, X. Li, K. Lu, Phys. Rev. Lett. 2019, 122, 126101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[34] B. B. Zhang, Y. G. Tang, Q. S. Mei, X. Y. Li, K. Lu, Science 2022, 378, 659. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[35] X. Y. Li, Z. H. Jin, X. Zhou, K. Lu, Science 2020, 370, 831. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[36] H. Schwarz, Gesammelte Mathematische Abhandlungen, Springer, Berlin, Germany 1890. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[37] W. Xu, B. Zhang, X. Y. Li, K. Lu, Science 2021, 373, 683. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[38] J. W. Cahn, J. Chem. Phys. 1965, 42, 93. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[39] A. R. Forouhi, D. de Fontaine, Acta Metall. 1987, 35, 1863. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[40] K. Rundman, J. Hilliard, Acta Metall. 1967, 15, 1025. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[41] T. Hebesberger, H. P. Stuwe, A. Vorhauer, F. Wetscher, R. Pippan, Acta Mater. 2005, 53, 393. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[42] A. P. Zhilyaev, T. G. Langdon, Prog. Mater. Sci. 2008, 53, 893. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[43] A. Alhamidi, K. Edalati, Z. Horita, S. Hirosawa, K. Matsuda, D. Terada, Mater. Sci. Eng., A 2014, 610, 17. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[44] D. Beke, I. Gödény, G. Erdelyi, F. Kedves, Philos. Mag. A 1987, 56, 659. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[45] B. Wang, W. Xu, X. Zhou, X. Y. Li, J. S. Qiao, Scr. Mater. 2021, 203, 114054. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[46] L. Fang, Y. Zhong, B. Wang, W. Xu, X. Li, K. Lu, Mater. Res. Lett. 2023, 11, 662. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[47] W. Xu, B. Zhang, K. Du, X. Y. Li, K. Lu, Acta Mater. 2022, 226, 117640. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[48] V. Yamakov, D. Wolf, S. R. Phillpot, A. K. Mukherjee, H. Gleiter, Nat. Mater. 2002, 1, 45. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[49] Z. H. Jin, X. Y. Li, K. Lu, Phys. Rev. Lett. 2021, 127, 136101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[50] X. Li, K. Lu, IOP Conf. Ser.: Mater. Sci. Eng. 2022, 1249, 012013. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[51] P. Ball, Nat. Mater. 2021, 20, 1452. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                94,
+                919,
+                870
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED SCIENCE NEWS "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                26,
+                233,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advancedsciencenews.com "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                61,
+                287,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ADVANCED MATERIALS "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                26,
+                917,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.advmat.de "
+                    }
+                ]
+            },
+            "bbox": [
+                816,
+                61,
+                919,
+                72
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "15214095, 2024, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.202303650 by University Of British Columbia, Wiley Online Library on [03/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License "
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                19,
+                981,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Adv.Mater.2024,36,2303650 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                948,
+                231,
+                960
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2303650 (7 of 7) "
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                946,
+                552,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2023 Wiley-VCH GmbH "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                948,
+                917,
+                960
+            ]
+        }
+    ]
+]

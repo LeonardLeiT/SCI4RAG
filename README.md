@@ -10,6 +10,7 @@
 
 - 💡 [Project Overview](#-project-overview)
 - 🔥 [Latest Updates](#-latest-updates)
+- 🌟 [Quick Start](#-quick-start) 
 - 🌟 [Key Features](#-key-features)
 - 🔎 [System Architecture](#-system-architecture)
 - 🎬 [Technical Roadmap](#-technical-roadmap)

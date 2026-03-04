@@ -1,0 +1,187 @@
+[
+  {
+    "id": 0,
+    "category": "other",
+    "content": "# PERSPECTIVES"
+  },
+  {
+    "id": 1,
+    "category": "other",
+    "content": "# METALLURGY"
+  },
+  {
+    "id": 2,
+    "category": "title",
+    "content": "# Improving sustainability with simpler alloys"
+  },
+  {
+    "id": 3,
+    "category": "other",
+    "content": "The high performance of alloy materials can be maintained with compositional \"plainification\""
+  },
+  {
+    "id": 4,
+    "category": "other",
+    "content": "# By Xiuyan $\\mathbf{L}\\mathbf{i}^{1,2}$ and K. Lu"
+  },
+  {
+    "id": 5,
+    "category": "abstract",
+    "content": "The hardening of copper by alloying with tin and lead in the Early Bronze Age (~4000 BCE) is one of the earliest recorded examples of improving material performance by tailoring composition. Today, many high-performance applications, from jet engines to computer chips, use alloys that may contain almost any element in the periodic table. However, increasing the number of components in alloyed materials makes their production and recycling more difficult and comes at the risk of resource exhaustion of scarce or rare-to-source elements. The associated increase in material costs may lead to only modest property enhancements. The sustainability of alloying-based strategies is part of a general problem for"
+  },
+  {
+    "id": 6,
+    "category": "main_letter",
+    "content": "many materials systems (1). Substantial efforts have focused on reducing alloying, especially substituting toxic and rare-to-source elements in materials, as examples by initiatives such as the Element Strategy Initiative in Japan, started in 2008, and the \"plainification of materials\" in China, effective in 2018."
+  },
+  {
+    "id": 7,
+    "category": "main_letter",
+    "content": "Alloying changes material properties by modifying the microstructures of the host element. For example, steel is routinely strengthened by alloying with elements like chromium and nickel. In this case, alloying strengthens steel by forming structures that resist dislocation slip, a process that lets the steel bend more easily as it allows metal atoms to move through"
+  },
+  {
+    "id": 8,
+    "category": "main_letter",
+    "content": "internal sites in the crystallites (grains) that make up the material. Alloying can create strong phases with robust interfaces to block dislocation motion, solid solutions with internal stress to make dislocation slip more sluggish, or both kinds of microstructures (see the figure)."
+  },
+  {
+    "id": 9,
+    "category": "main_letter",
+    "content": "However, tailored microstructures can be created without changing the chemical composition of a material (2), often by processing the material to alter the regions between crystallites—the grain boundaries (GBs). Because GBs impede dislocation motion, decreasing the crystallite size (grain refinement) can harden both metals and alloys. This effect is described quantitatively by the Hall-Petch relation (3). Modifying GB structures, for example, by forming more GBs where the crystal lattices are in registry (low-sigma coincidence-site lattice boundaries),"
+  },
+  {
+    "id": 10,
+    "category": "main_letter",
+    "content": "increases the resistance to corrosion of metals (4). Tailoring the spatial distribution of GBs can enhance mechanical and tribological properties by delocalizing built-up strains in engineering materials (5)."
+  },
+  {
+    "id": 11,
+    "category": "main_letter",
+    "content": "Widespread applications of these nonalloying approaches in advanced materials are limited by the types and extent of properties that can be tuned. Grain-refinement strengthening of metals ceases and softening occurs if the grain sizes drop below the submicrometer scale (6). Nanoscale GBs may become mobile at ambient temperatures or even at liquid-nitrogen temperature if the material is stressed (7). This inherent instability of GBs, either at increased temperatures or under mechanical loading, means that processing cannot control the quantity, structures, and distributions of GBs. More importantly, GB structures can vary dramatically during processing or in service (especially at high GB density) when they interact with dislocations and other defects, not only deteriorating material properties but also complicating structure-property relationships."
+  },
+  {
+    "id": 12,
+    "category": "main_letter",
+    "content": "Intensive investigations on nanograined materials initiated by Gleiter in the 1980s (8) revealed size-dependent deformation mechanisms. For grains below a threshold size, nucleation of full dislocations is suppressed, and deformation, which moves atoms in the structure, occurs by emission of stacking faults (resulting in the creation of disordered regions between crystal planes) (9). The development of various physical and chemical"
+  },
+  {
+    "id": 13,
+    "category": "main_letter",
+    "content": "processing techniques that can operate under extreme conditions has enabled the generation of very fine nanostructures in different materials. For example, high-rate and high-gradient deformation refined micrometerscale grains of silver into grains only a few nanometers in size (10). This process increased the density of GBs by two orders of magnitude above the conventional strain-induced limit."
+  },
+  {
+    "id": 14,
+    "category": "main_letter",
+    "content": "Many efforts now focus on stabilizing nanoscale grains to take advantage of their ability to suppress dislocation nucleation, providing a strengthening mechanism that is distinct from the resistance of dislocation slip in an alloy. Nanostructures in metals can be thermodynamically stabilized by creating low-energy interfaces, such as twin boundaries or low-angle boundaries, or kinetically stabilized through proper GB segregation (7, 11)."
+  },
+  {
+    "id": 15,
+    "category": "main_letter",
+    "content": "More recently, an experimental study (12) revealed that the"
+  },
+  {
+    "id": 16,
+    "category": "other",
+    "content": "$^{1}$ Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, China. $^{2}$ State Key Laboratory of Advanced Processing and Recycling of Non-ferrous Metals, Lanzhou University of Technology, Lanzhou 730050, China. Email: xyli@imr.ac.cn; lu@imr.ac.cn"
+  },
+  {
+    "id": 17,
+    "category": "other",
+    "content": "# Doing more with less"
+  },
+  {
+    "id": 18,
+    "category": "main_letter",
+    "content": "The performance of materials is often improved by stabilizing interfaces between grains by alloying with other elements. Plainified materials accomplish this goal by tailoring stable interfaces with fewer or no alloying elements, which can improve resource sustainability."
+  },
+  {
+    "id": 19,
+    "category": "figure_url",
+    "content": "![](images/48e58e815c6722abb9ec6762670000937ffaeaea86e77e63c16503307f032c8c.jpg)"
+  },
+  {
+    "id": 20,
+    "category": "main_letter",
+    "content": "strainings of grains below a critical size (about $70~\\mathrm{nm}$ for copper) triggers autonomous GB relaxation in metals. This process is accompanied by a large reduction of GB energy. The authors inferred GB relaxation from GB dissociation into lower-energy states by the emission of partial dislocations, leading to stacking faults or twins in neighboring grains. An earlier report showed that atomic diffusion along GBs is notably retarded as nanometer-scale twin grains are emitted from the GB (13). The autonomous GB relaxation can substantially increase stability of nanograins in pure metals under thermal or mechanical activation (12, 14)."
+  },
+  {
+    "id": 21,
+    "category": "main_letter",
+    "content": "These breakthroughs highlight new opportunities for advancing material properties by plainification, in which unprecedented properties in traditional or new materials are achieved with less alloying content or even with pure elements by tailoring stable interfaces at different length scales (see the figure). For example, the high electrical and thermal conductivity of pure metals, which are traded off in making high-strength alloys, can be maintained with plainification. Plainification should lower the cost of materials while increasing their resource-independence and recyclability, and, hence, sustainability."
+  },
+  {
+    "id": 22,
+    "category": "main_letter",
+    "content": "With new strengthening principles and much amplified interface effects, plainified materials may exhibit superior properties and performance compared with traditional alloys. The property variation windows of a material can be greatly broadened by tuning quantity, structure, and distributions of stable interfaces (2). Adjusting properties after fixing the material chemistry, geometry, or both may allow the local properties of materials to be modified (such as in a surface layer) or to produce property-on-demand components. Interface effects are magnified as the structural length scale is reduced toward the crystallinity limit and will require insights from solid-state physics."
+  },
+  {
+    "id": 23,
+    "category": "references",
+    "content": "# REFERENCES AND NOTES"
+  },
+  {
+    "id": 24,
+    "category": "references",
+    "content": "1. E.A.Olivetti, J.M.Cullen, Science 360, 1396 (2018).   \n2. X.Li, K.Lu, Nat. Mater. 16, 700 (2017).   \n3. E.O.Hall,Proc.Phys.Soc.64,747 (1951).   \n4. T.Watanabe, Res. Mech 11, 47 (1984)   \n5. T.H.Fang, W.L. Li, N.R. Tao, K.Lu, Science 331, 1587 (2011)   \n6. J. Schiötz, K.W. Jacobsen, Science 301, 1357 (2003).   \n7. K.Lu, Nat. Rev. Mater. 1, 16019 (2016).   \n8. H. Gleiter, Prog. Mater. Sci. 33, 223 (1989).   \n9. V. Yamakov, D. Wolf, S. R. Phillpot, A. K. Mukherjee, H. Gleiter, Nat. Mater. 3, 43 (2004).   \n10. R. Thevamaran et al., Science 354, 312 (2016).   \n11. T. Chookajorn, H. A. Murdoch, C. A. Schuh, Science 337, 951 (2012).   \n12. X.Zhou, X.Y.Li, K.Lu, Science 360, 526 (2018).   \n13. K.C.Chen, W.-W.Wu, C.-N. Liao, L.-J. Chen, K.N. Tu, Science 321,1066 (2008).   \n14. X.Zhou, X.Li, K.Lu, Phys. Rev. Lett. 122, 126101 (2019)."
+  },
+  {
+    "id": 25,
+    "category": "other",
+    "content": "# ACKNOWLEDGMENTS"
+  },
+  {
+    "id": 26,
+    "category": "other",
+    "content": "We acknowledge the Ministry of Science and Technology of China for financial support (grant nos. 2017YFA0700700 and 2017YFA0204401)."
+  },
+  {
+    "id": 27,
+    "category": "other",
+    "content": "10.1126/science.aaw9905"
+  },
+  {
+    "id": 28,
+    "category": "other",
+    "content": "![](images/195f0c0aa9297450f434c2cf5c0ff4748167999c7b10790d3d35a382f650e688.jpg)"
+  },
+  {
+    "id": 29,
+    "category": "other",
+    "content": "# CHEMISTRY"
+  },
+  {
+    "id": 30,
+    "category": "other",
+    "content": "# Making chemicals with electricity"
+  },
+  {
+    "id": 31,
+    "category": "other",
+    "content": "Hydrogen can be produced in electrically heated reactors, reducing $\\mathrm{CO}_{2}$ emissions"
+  },
+  {
+    "id": 32,
+    "category": "other",
+    "content": "# By Kevin M. Van Geem, Vladimir V. Galvita, Guy B. Marin"
+  },
+  {
+    "id": 33,
+    "category": "other",
+    "content": "Vast amounts of energy are needed to synthesize the hundreds of millions of tons of chemicals used in everyday life each year. To meet that demand, the chemical industry uses the energy released during fuel combustion, thereby producing a seventh of the anthropogenic emissions of greenhouse gases. Climate change makes it mandatory to replace fossil fuels in chemical production processes and reduce their climate impact (1-3). On page 756 of this issue, Wismann et al. (4) focus on reducing the $\\mathrm{CO}_{2}$ emissions created during the production of molecular hydrogen $(\\mathrm{H}_{2})$ , a key building block for ammonia-derived fertilizers,"
+  },
+  {
+    "id": 34,
+    "category": "other",
+    "content": "Laboratory for Chemical Technology and Center for Sustainable Chemistry, Ghent, Belgium. Email: guy.marin@ugent.be"
+  },
+  {
+    "id": 35,
+    "category": "other",
+    "content": "through steam reforming of methane. This industrial process releases $9\\mathrm{kg}$ of $\\mathrm{CO}_{2}$ per kg of $\\mathrm{H}_{2}$ , a quarter of which comes from fuel combustion."
+  },
+  {
+    "id": 36,
+    "category": "other",
+    "content": "Wismann et al. show that gas-fired steam-reforming reactors (see the photo) can be substituted by electrically heated ones, thereby potentially circumventing emissions from fuel combustion (see the figure). In the electrically heated reactor, heating is based on the Joule effect (the heating that occurs when an electric current flows through a resistance). The reactor wall, which is coated with a catalytic layer, is the main electric resistance. This makes it possible to take advantage of the intimate contact between the electric heating source and the reaction site, driving the reaction close to thermal equilibrium and improving selectivity and yield. The study points the way to the possible electrification of the chemical industry."
+  }
+]

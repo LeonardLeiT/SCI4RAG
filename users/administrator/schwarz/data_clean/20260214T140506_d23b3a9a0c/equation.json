@@ -1,0 +1,10 @@
+[
+  {
+    "equation": "${ \\mathsf { p } } _ { \\mathrm { { L A B } } } =$",
+    "description": "The equation defines the dislocation density associated with low-angle boundaries, denoted as $\\rho_{\\mathrm{LAB}}$. This quantity is calculated as the product of three key microstructural parameters: $f_{\\mathrm{LAB}}$, which represents the area fraction of boundaries classified as low-angle; $S_{\\mathrm{v}}$, denoting the total boundary area per unit volume; and $\\rho_{\\mathrm{A}}$, which is the dislocation density per unit area of boundary. The relationship expresses that the total volumetric dislocation density stored in low-angle boundaries is obtained by scaling the areal dislocation density of these boundaries by their specific area fraction and total interfacial area density within the material."
+  },
+  {
+    "equation": "$$\nH _ {v} = 3 \\left(\\sigma_ {0} + M \\alpha G b \\sqrt {\\rho_ {L A B}}\\right) \\tag {1}\n$$",
+    "description": "The Vickers hardness \\( H_v \\) is expressed as three times the sum of a frictional stress term and a dislocation strengthening contribution, following the Taylor hardening model. In Eq. (1), \\( \\sigma_0 \\) denotes the intrinsic frictional stress, \\( M \\) is the Taylor factor relating shear stress to tensile stress, \\( \\alpha \\) is a dimensionless constant, \\( G \\) is the shear modulus, \\( b \\) is the magnitude of the Burgers vector, and \\( \\rho_{LAB} \\) represents the dislocation density associated with low-angle boundaries. The equation captures the linear superposition of athermal strengthening from dislocation forests, where the strengthening scales with the square root of the dislocation density, multiplied by the Taylor factor and elastic constants. The factor of 3 arises from the conventional conversion between yield stress and hardness in polycrystalline materials."
+  }
+]

@@ -1,0 +1,680 @@
+{
+  "K. Lu, Stabilizing nanostructures in metals using grain and twin boundary architectures. Nat. Rev. Mater. 1, 16019": {
+    "title": "Stabilizing nanostructures in metals using grain and twin boundary architectures",
+    "author": [
+      "K. Lu"
+    ],
+    "journal": "Nature Reviews Materials",
+    "doi": "10.1038/natrevmats.2016.19",
+    "url": "https://doi.org/10.1038/natrevmats.2016.19",
+    "year": 2016,
+    "volume": "1",
+    "number": "5",
+    "pages": "16019",
+    "bibkey": "Lu2016Stabilizing"
+  },
+  "C. C. Koch, Structural nanocrystalline materials: An overview. J. Mater. Sci. 42, 1403–1414": {
+    "title": "Structural nanocrystalline materials: an overview",
+    "author": [
+      "Carl C. Koch"
+    ],
+    "journal": "Journal of Materials Science",
+    "doi": "10.1007/s10853-006-0609-3",
+    "url": "https://doi.org/10.1007/s10853-006-0609-3",
+    "year": 2007,
+    "volume": "42",
+    "number": "5",
+    "pages": "1403-1414",
+    "bibkey": "Koch2007Structural"
+  },
+  "Y. Zhang, J. T. Wang, C. Cheng, J. Q. Liu, Stored energy and recrystallization temperature in high purity copper after equal channel angular pressing. J. Mater. Sci. 43, 7326–7330": {
+    "title": "Stored energy and recrystallization temperature in high purity copper after equal channel angular pressing",
+    "author": [
+      "Yue Zhang",
+      "Jing Tao Wang",
+      "Chang Cheng",
+      "Jinqiang Liu"
+    ],
+    "journal": "Journal of Materials Science",
+    "doi": "10.1007/s10853-008-2903-8",
+    "url": "https://doi.org/10.1007/s10853-008-2903-8",
+    "year": 2008,
+    "volume": "43",
+    "number": "23-24",
+    "pages": "7326-7330",
+    "bibkey": "Zhang2008Stored"
+  },
+  "Y. Huang, S. Sabbaghianrad, A. I. Almazrouee, K. J. Al-Fadhalah, S. N. Alhajeri, T. G. Langdon, The significance of self-annealing at room temperature in high purity copper processed by high-pressure torsion. Mater. Sci. Eng. A 656, 55–66": {
+    "title": "The significance of self-annealing at room temperature in high purity copper processed by high-pressure torsion",
+    "author": [
+      "Yi Huang",
+      "Shima Sabbaghianrad",
+      "Abdulla I. Almazrouee",
+      "Khaled J. Al-Fadhalah",
+      "Saleh N. Alhajeri",
+      "Terence G. Langdon"
+    ],
+    "journal": "Materials Science and Engineering: A",
+    "doi": "10.1016/j.msea.2016.01.027",
+    "url": "https://doi.org/10.1016/j.msea.2016.01.027",
+    "year": 2016,
+    "volume": "656",
+    "number": null,
+    "pages": "55-66",
+    "bibkey": "Huang2016The"
+  },
+  "J. Weissmüller, Alloy effects in nanostructures. Nanostruct. Mater. 3, 261–272": {
+    "title": "Alloy effects in nanostructures",
+    "author": [
+      "J. Weissmüller"
+    ],
+    "journal": "Nanostructured Materials",
+    "doi": "10.1016/0965-9773(93)90088-s",
+    "url": "https://doi.org/10.1016/0965-9773(93)90088-s",
+    "year": 1993,
+    "volume": "3",
+    "number": "1-6",
+    "pages": "261-272",
+    "bibkey": "Weissmller1993Alloy"
+  },
+  "R. Kirchheim, Grain coarsening inhibited by solute segregation. Acta Mater. 50, 413–419": {
+    "title": "Grain coarsening inhibited by solute segregation",
+    "author": [
+      "Reiner Kirchheim"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(01)00338-x",
+    "url": "https://doi.org/10.1016/s1359-6454(01)00338-x",
+    "year": 2002,
+    "volume": "50",
+    "number": "2",
+    "pages": "413-419",
+    "bibkey": "Kirchheim2002Grain"
+  },
+  "T. Chookajorn, H. A. Murdoch, C. A. Schuh, Design of stable nanocrystalline alloys. Science 337, 951–954": {
+    "title": "Design of Stable Nanocrystalline Alloys",
+    "author": [
+      "Tongjai Chookajorn",
+      "Heather A. Murdoch",
+      "Christopher A. Schuh"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1224737",
+    "url": "https://doi.org/10.1126/science.1224737",
+    "year": 2012,
+    "volume": "337",
+    "number": "6097",
+    "pages": "951-954",
+    "bibkey": "Chookajorn2012Design"
+  },
+  "X. Zhang, A. Misra, Superior thermal stability of coherent twin boundaries in nanotwinned metals. Scr. Mater. 66, 860–865": {
+    "title": "Superior thermal stability of coherent twin boundaries in nanotwinned metals",
+    "author": [
+      "X. Zhang",
+      "A. Misra"
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/j.scriptamat.2012.01.026",
+    "url": "https://doi.org/10.1016/j.scriptamat.2012.01.026",
+    "year": 2012,
+    "volume": "66",
+    "number": "11",
+    "pages": "860-865",
+    "bibkey": "Zhang2012Superior"
+  },
+  "Q. Li, J. Cho, S. Xue, X. Sun, Y. Zhang, Z. Shang, H. Wang, X. Zhang, High temperature thermal and mechanical stability of high-strength nanotwinned Al alloys. Acta Mater. 165, 142–152": {
+    "title": "High temperature thermal and mechanical stability of high-strength nanotwinned Al alloys",
+    "author": [
+      "Qiang Li",
+      "Jaehun Cho",
+      "Sichuang Xue",
+      "Xing Sun",
+      "Yifan Zhang",
+      "Zhongxia Shang",
+      "Haiyan Wang",
+      "Xinghang Zhang"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2018.11.011",
+    "url": "https://doi.org/10.1016/j.actamat.2018.11.011",
+    "year": 2019,
+    "volume": "165",
+    "number": null,
+    "pages": "142-152",
+    "bibkey": "Li2019High"
+  },
+  "X. C. Liu, H. W. Zhang, K. Lu, Strain-induced ultrahard and ultrastable nanolaminated structure in nickel. Science 342, 337–340": {
+    "title": "Strain-Induced Ultrahard and Ultrastable Nanolaminated Structure in Nickel",
+    "author": [
+      "X. C. Liu",
+      "H. W. Zhang",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1242578",
+    "url": "https://doi.org/10.1126/science.1242578",
+    "year": 2013,
+    "volume": "342",
+    "number": "6156",
+    "pages": "337-340",
+    "bibkey": "Liu2013StrainInduced"
+  },
+  "X. Zhou, X. Y. Li, K. Lu, Enhanced thermal stability of nanograined metals below a critical grain size. Science 360, 526–530": {
+    "title": "Enhanced thermal stability of nanograined metals below a critical grain size",
+    "author": [
+      "X. Zhou",
+      "X. Y. Li",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.aar6941",
+    "url": "https://doi.org/10.1126/science.aar6941",
+    "year": 2018,
+    "volume": "360",
+    "number": "6388",
+    "pages": "526-530",
+    "bibkey": "Zhou2018Enhanced"
+  },
+  "X. Zhou, X. Y. Li, K. Lu, Size dependence of grain boundary migration in metals under mechanical loading. Phys. Rev. Lett. 122, 126101": {
+    "title": "Size Dependence of Grain Boundary Migration in Metals under Mechanical Loading",
+    "author": [
+      "Xin Zhou",
+      "Xiuyan Li",
+      "K. Lu"
+    ],
+    "journal": "Physical Review Letters",
+    "doi": "10.1103/physrevlett.122.126101",
+    "url": "https://doi.org/10.1103/physrevlett.122.126101",
+    "year": 2019,
+    "volume": "122",
+    "number": "12",
+    "pages": "126101",
+    "bibkey": "Zhou2019Size"
+  },
+  "X. Li, K. Lu, Improving sustainability with simpler alloys. Science 364, 733–734": {
+    "title": "Improving sustainability with simpler alloys",
+    "author": [
+      "Xiuyan Li",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.aaw9905",
+    "url": "https://doi.org/10.1126/science.aaw9905",
+    "year": 2019,
+    "volume": "364",
+    "number": "6442",
+    "pages": "733-734",
+    "bibkey": "Li2019Improving"
+  },
+  "D. P. Field, L. T. Bradford, M. M. Nowell, T. M. Lillo, The role of annealing twins during recrystallization of Cu. Acta Mater. 55, 4233–4241": {
+    "title": "The role of annealing twins during recrystallization of Cu",
+    "author": [
+      "D FIELD",
+      "L BRADFORD",
+      "M NOWELL",
+      "T LILLO"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2007.03.021",
+    "url": "https://doi.org/10.1016/j.actamat.2007.03.021",
+    "year": 2007,
+    "volume": "55",
+    "number": "12",
+    "pages": "4233-4241",
+    "bibkey": "FIELD2007The"
+  },
+  "A. Belyakov, T. Sakai, H. Miura, R. Kaibyshev, K. Tsuzaki, Continuous recrystallization in austenitic stainless steel after large strain deformation. Acta Mater. 50, 1547–1557": {
+    "title": "Continuous recrystallization in austenitic stainless steel after large strain deformation",
+    "author": [
+      "A Belyakov",
+      "T Sakai",
+      "H Miura",
+      "R Kaibyshev",
+      "K Tsuzaki"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(02)00013-7",
+    "url": "https://doi.org/10.1016/s1359-6454(02)00013-7",
+    "year": 2002,
+    "volume": "50",
+    "number": "6",
+    "pages": "1547-1557",
+    "bibkey": "Belyakov2002Continuous"
+  },
+  "Y. C. Lin, X.-Y. Wu, X.-M. Chen, J. Chen, D.-X. Wen, J.-L. Zhang, L.-T. Li, EBSD study of a hot deformed nickel-based superalloy. J. Alloys Compd. 640, 101–113": {
+    "title": "EBSD study of a hot deformed nickel-based superalloy",
+    "author": [
+      "Y.C. Lin",
+      "Xian-Yang Wu",
+      "Xiao-Min Chen",
+      "Jian Chen",
+      "Dong-Xu Wen",
+      "Jin-Long Zhang",
+      "Lei-Ting Li"
+    ],
+    "journal": "Journal of Alloys and Compounds",
+    "doi": "10.1016/j.jallcom.2015.04.008",
+    "url": "https://doi.org/10.1016/j.jallcom.2015.04.008",
+    "year": 2015,
+    "volume": "640",
+    "number": null,
+    "pages": "101-113",
+    "bibkey": "Lin2015EBSD"
+  },
+  "M. Michiuchi, H. Kokawa, Z. J. Wang, Y. S. Sato, K. Sakai, Twin-induced grain boundary engineering for 316 austenitic stainless steel. Acta Mater. 54, 5179–5187": {
+    "title": "Twin-induced grain boundary engineering for 316 austenitic stainless steel",
+    "author": [
+      "M. Michiuchi",
+      "H. Kokawa",
+      "Z.J. Wang",
+      "Y.S. Sato",
+      "K. Sakai"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2006.06.030",
+    "url": "https://doi.org/10.1016/j.actamat.2006.06.030",
+    "year": 2006,
+    "volume": "54",
+    "number": "19",
+    "pages": "5179-5184",
+    "bibkey": "Michiuchi2006Twininduced"
+  },
+  "M. Kumar, A. J. Schwartz, W. E. King, Microstructural evolution during grain boundary engineering of low to medium stacking fault energy fcc materials. Acta Mater. 50, 2599–2612": {
+    "title": "Microstructural evolution during grain boundary engineering of low to medium stacking fault energy fcc materials",
+    "author": [
+      "Mukul Kumar",
+      "Adam J. Schwartz",
+      "Wayne E. King"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/s1359-6454(02)00090-3",
+    "url": "https://doi.org/10.1016/s1359-6454(02)00090-3",
+    "year": 2002,
+    "volume": "50",
+    "number": "10",
+    "pages": "2599-2612",
+    "bibkey": "Kumar2002Microstructural"
+  },
+  "G. Anand, K. Barai, R. Madhavan, P. P. Chattopadhyay, Evolution of annealing texture in cryo-rolled copper. Mater. Sci. Eng. A 638, 114–120": {
+    "title": "Evolution of annealing texture in cryo-rolled copper",
+    "author": [
+      "G. Anand",
+      "K. Barai",
+      "R. Madhavan",
+      "P.P. Chattopadhyay"
+    ],
+    "journal": "Materials Science and Engineering: A",
+    "doi": "10.1016/j.msea.2015.04.034",
+    "url": "https://doi.org/10.1016/j.msea.2015.04.034",
+    "year": 2015,
+    "volume": "638",
+    "number": null,
+    "pages": "114-120",
+    "bibkey": "Anand2015Evolution"
+  },
+  "A. Nye, A. C. Leff, C. M. Barr, M. L. Taheri, Direct observation of recrystallization mechanisms during annealing of Cu in low and high strain conditions. Scr. Mater. 146, 308–311": {
+    "title": "Direct observation of recrystallization mechanisms during annealing of Cu in low and high strain conditions",
+    "author": [
+      "A. Nye",
+      "A.C. Leff",
+      "Christopher M. Barr",
+      "M.L. Taheri"
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/j.scriptamat.2017.12.011",
+    "url": "https://doi.org/10.1016/j.scriptamat.2017.12.011",
+    "year": 2018,
+    "volume": "146",
+    "number": null,
+    "pages": "308-311",
+    "bibkey": "Nye2018Direct"
+  },
+  "B. Oberdorfer, E. M. Steyskal, W. Sprengel, R. Pippan, M. Zehetbauer, W. Puff, R. Würschum, Recrystallization kinetics of ultrafine-grained Ni studied by dilatometry. J. Alloys Compd. 509, S309–S311": {
+    "title": "Recrystallization kinetics of ultrafine-grained Ni studied by dilatometry",
+    "author": [
+      "Bernd Oberdorfer",
+      "Eva-Maria Steyskal",
+      "Wolfgang Sprengel",
+      "Reinhard Pippan",
+      "Michael Zehetbauer",
+      "Werner Puff",
+      "Roland Würschum"
+    ],
+    "journal": "Journal of Alloys and Compounds",
+    "doi": "10.1016/j.jallcom.2010.12.130",
+    "url": "https://doi.org/10.1016/j.jallcom.2010.12.130",
+    "year": 2011,
+    "volume": "509",
+    "number": null,
+    "pages": "S309-S311",
+    "bibkey": "Oberdorfer2011Recrystallization"
+  },
+  "A. Mishra, B. K. Kad, F. Gregori, M. A. Meyers, Microstructural evolution in copper subjected to severe plastic deformation: Experiments and analysis. Acta Mater. 55, 13–28": {
+    "title": "Microstructural evolution in copper subjected to severe plastic deformation: Experiments and analysis",
+    "author": [
+      "A MISHRA",
+      "B KAD",
+      "F GREGORI",
+      "M MEYERS"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2006.07.008",
+    "url": "https://doi.org/10.1016/j.actamat.2006.07.008",
+    "year": 2007,
+    "volume": "55",
+    "number": "1",
+    "pages": "13-28",
+    "bibkey": "MISHRA2007Microstructural"
+  },
+  "Y. Jin, B. Lin, A. D. Rollett, G. S. Rohrer, M. Bernacki, N. Bozzolo, Thermo-mechanical factors influencing annealing twin development in nickel during recrystallization. J. Mater. Sci. 50, 5191–5203": {
+    "title": "Thermo-mechanical factors influencing annealing twin development in nickel during recrystallization",
+    "author": [
+      "Y. Jin",
+      "B. Lin",
+      "A. D. Rollett",
+      "G. S. Rohrer",
+      "M. Bernacki",
+      "N. Bozzolo"
+    ],
+    "journal": "Journal of Materials Science",
+    "doi": "10.1007/s10853-015-9067-0",
+    "url": "https://doi.org/10.1007/s10853-015-9067-0",
+    "year": 2015,
+    "volume": "50",
+    "number": "15",
+    "pages": "5191-5203",
+    "bibkey": "Jin2015Thermomechanical"
+  },
+  "H. Gleiter, The formation of annealing twins. Acta Metall. 17, 1421–1428": {
+    "title": "The formation of annealing twins",
+    "author": [
+      "H Gleiter"
+    ],
+    "journal": "Acta Metallurgica",
+    "doi": "10.1016/0001-6160(69)90004-2",
+    "url": "https://doi.org/10.1016/0001-6160(69)90004-2",
+    "year": 1969,
+    "volume": "17",
+    "number": "12",
+    "pages": "1421-1428",
+    "bibkey": "Gleiter1969The"
+  },
+  "W. Wang, F. Brisset, A. L. Helbert, D. Solas, I. Drouelle, M. H. Mathon, T. Baudin, Influence of stored energy on twin formation during primary recrystallization. Mater. Sci. Eng. A 589, 112–118": {
+    "title": "Influence of stored energy on twin formation during primary recrystallization",
+    "author": [
+      "W. Wang",
+      "F. Brisset",
+      "A.L. Helbert",
+      "D. Solas",
+      "I. Drouelle",
+      "M.H. Mathon",
+      "T. Baudin"
+    ],
+    "journal": "Materials Science and Engineering: A",
+    "doi": "10.1016/j.msea.2013.09.071",
+    "url": "https://doi.org/10.1016/j.msea.2013.09.071",
+    "year": 2014,
+    "volume": "589",
+    "number": null,
+    "pages": "112-118",
+    "bibkey": "Wang2014Influence"
+  },
+  "M. A. Meyers, L. E. Murr, A model for the formation of annealing twins in F.C.C. metals and alloys. Acta Metall. 26, 951–962": {
+    "title": "A model for the formation of annealing twins in F.C.C. metals and alloys",
+    "author": [
+      "Marc A. Meyers",
+      "Lawrence E. Murr"
+    ],
+    "journal": "Acta Metallurgica",
+    "doi": "10.1016/0001-6160(78)90046-9",
+    "url": "https://doi.org/10.1016/0001-6160(78)90046-9",
+    "year": 1978,
+    "volume": "26",
+    "number": "6",
+    "pages": "951-962",
+    "bibkey": "Meyers1978A"
+  },
+  "J. D. Rittner, D. N. Seidman, K. L. Merkle, Grain-boundary dissociation by the emission of stacking faults. Phys. Rev. B 53, R4241–R4244": {
+    "title": "Grain-boundary dissociation by the emission of stacking faults",
+    "author": [
+      "J. D. Rittner",
+      "D. N. Seidman",
+      "K. L. Merkle"
+    ],
+    "journal": "Physical Review B",
+    "doi": "10.1103/physrevb.53.r4241",
+    "url": "https://doi.org/10.1103/physrevb.53.r4241",
+    "year": 1996,
+    "volume": "53",
+    "number": "8",
+    "pages": "R4241-R4244",
+    "bibkey": "Rittner1996Grainboundary"
+  },
+  "K. L. Merkle, Atomic-scale grain boundary relaxation modes in metals and ceramics. Microsc. Microanal. 3, 339–351": {
+    "title": "Atomic-Scale Grain Boundary Relaxation Modes in Metals and Ceramics",
+    "author": [
+      "K.L. Merkle"
+    ],
+    "journal": "Microscopy and Microanalysis",
+    "doi": "10.1017/s1431927697970264",
+    "url": "https://doi.org/10.1017/s1431927697970264",
+    "year": 1997,
+    "volume": "3",
+    "number": "4",
+    "pages": "339-351",
+    "bibkey": "Merkle1997AtomicScale"
+  },
+  "K. C. Chen, W. W. Wu, C. N. Liao, L. J. Chen, K. N. Tu, Observation of atomic diffusion at twin-modified grain boundaries in copper. Science 321, 1066–1069": {
+    "title": "Observation of Atomic Diffusion at Twin-Modified Grain Boundaries in Copper",
+    "author": [
+      "Kuan-Chia Chen",
+      "Wen-Wei Wu",
+      "Chien-Neng Liao",
+      "Lih-Juann Chen",
+      "K. N. Tu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1160777",
+    "url": "https://doi.org/10.1126/science.1160777",
+    "year": 2008,
+    "volume": "321",
+    "number": "5892",
+    "pages": "1066-1069",
+    "bibkey": "Chen2008Observation"
+  },
+  "W. L. Li, N. R. Tao, K. Lu, Fabrication of a gradient nano-micro-structured surface layer on bulk copper by means of a surface mechanical grinding treatment. Scr. Mater. 59, 546–549": {
+    "title": "Fabrication of a gradient nano-micro-structured surface layer on bulk copper by means of a surface mechanical grinding treatment",
+    "author": [
+      "W.L. Li",
+      "N.R. Tao",
+      "K. Lu"
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/j.scriptamat.2008.05.003",
+    "url": "https://doi.org/10.1016/j.scriptamat.2008.05.003",
+    "year": 2008,
+    "volume": "59",
+    "number": "5",
+    "pages": "546-549",
+    "bibkey": "Li2008Fabrication"
+  },
+  "D. Viladot, M. Véron, M. Gemmi, F. Peiró, J. Portillo, S. Estradé, J. Mendoza, N. Llorca-Isern, S. Nicolopoulos, Orientation and phase mapping in the transmission electron microscope using precession-assisted diffraction spot recognition: State-of-the-art results. J. Microsc. 252, 23–34": {
+    "title": "Orientation and phase mapping in the transmission electron microscope using precession‐assisted diffraction spot recognition: state‐of‐the‐art results",
+    "author": [
+      "D. VILADOT",
+      "M. VÉRON",
+      "M. GEMMI",
+      "F. PEIRÓ",
+      "J. PORTILLO",
+      "S. ESTRADÉ",
+      "J. MENDOZA",
+      "N. LLORCA‐ISERN",
+      "S. NICOLOPOULOS"
+    ],
+    "journal": "Journal of Microscopy",
+    "doi": "10.1111/jmi.12065",
+    "url": "https://doi.org/10.1111/jmi.12065",
+    "year": 2013,
+    "volume": "252",
+    "number": "1",
+    "pages": "23-34",
+    "bibkey": "VILADOT2013Orientation"
+  },
+  "K. Vijayan, X-ray analysis of stacking faults in ytterbium. J. Mater. Sci. Lett. 7, 993–994": {
+    "title": "X-ray analysis of stacking faults in ytterbium",
+    "author": [
+      "Kalyani Vijayan"
+    ],
+    "journal": "Journal of Materials Science Letters",
+    "doi": "10.1007/bf00720754",
+    "url": "https://doi.org/10.1007/bf00720754",
+    "year": 1988,
+    "volume": "7",
+    "number": "9",
+    "pages": "993-994",
+    "bibkey": "Vijayan1988Xray"
+  },
+  "J. A. Bearden, The wave-lengths of the silver, molybdenum, copper, iron and chromium K1 lines. Phys. Rev. 43, 92–97": {
+    "title": "The Wave-Lengths of the Silver, Molybdenum, Copper, Iron and Chromium<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>K</mml:mi><mml:mrow><mml:msub><mml:mrow><mml:mi>α</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>Lines",
+    "author": [
+      "J. A. Bearden"
+    ],
+    "journal": "Physical Review",
+    "doi": "10.1103/physrev.43.92",
+    "url": "https://doi.org/10.1103/physrev.43.92",
+    "year": 1933,
+    "volume": "43",
+    "number": "2",
+    "pages": "92-97",
+    "bibkey": "Bearden1933The"
+  },
+  "C. Saldana, A. H. King, S. Chandrasekar, Thermal stability and strength of deformation microstructures in pure copper. Acta Mater. 60, 4107–4116": {
+    "title": "Thermal stability and strength of deformation microstructures in pure copper",
+    "author": [
+      "C. Saldana",
+      "A.H. King",
+      "S. Chandrasekar"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2012.04.022",
+    "url": "https://doi.org/10.1016/j.actamat.2012.04.022",
+    "year": 2012,
+    "volume": "60",
+    "number": "10",
+    "pages": "4107-4116",
+    "bibkey": "Saldana2012Thermal"
+  },
+  "N. Lugo, N. Llorca, J. J. Suñol, J. M. Cabrera, Thermal stability of ultrafine grains size of pure copper obtained by equal-channel angular pressing. J. Mater. Sci. 45, 2264–2273": {
+    "title": "Thermal stability of ultrafine grains size of pure copper obtained by equal-channel angular pressing",
+    "author": [
+      "N. Lugo",
+      "N. Llorca",
+      "J. J. Suñol",
+      "J. M. Cabrera"
+    ],
+    "journal": "Journal of Materials Science",
+    "doi": "10.1007/s10853-009-4139-7",
+    "url": "https://doi.org/10.1007/s10853-009-4139-7",
+    "year": 2010,
+    "volume": "45",
+    "number": "9",
+    "pages": "2264-2273",
+    "bibkey": "Lugo2010Thermal"
+  },
+  "O. F. Higuera-Cobos, J. M. Cabrera, Mechanical, microstructural and electrical evolution of commercially pure copper processed by equal channel angular extrusion. Mater. Sci. Eng. A 571, 103–114": {
+    "title": "Mechanical, microstructural and electrical evolution of commercially pure copper processed by equal channel angular extrusion",
+    "author": [
+      "O.F. Higuera-Cobos",
+      "J.M. Cabrera"
+    ],
+    "journal": "Materials Science and Engineering: A",
+    "doi": "10.1016/j.msea.2013.01.076",
+    "url": "https://doi.org/10.1016/j.msea.2013.01.076",
+    "year": 2013,
+    "volume": "571",
+    "number": null,
+    "pages": "103-114",
+    "bibkey": "HigueraCobos2013Mechanical"
+  },
+  "C. F. Gu, C. H. J. Davies, Thermal stability of ultrafine-grained copper during high speed micro-extrusion. Mater. Sci. Eng. A 527, 1791–1799": {
+    "title": "Thermal stability of ultrafine-grained copper during high speed micro-extrusion",
+    "author": [
+      "C.F. Gu",
+      "C.H.J. Davies"
+    ],
+    "journal": "Materials Science and Engineering: A",
+    "doi": "10.1016/j.msea.2009.11.005",
+    "url": "https://doi.org/10.1016/j.msea.2009.11.005",
+    "year": 2010,
+    "volume": "527",
+    "number": "7-8",
+    "pages": "1791-1799",
+    "bibkey": "Gu2010Thermal"
+  },
+  "Y. Zhang, N. R. Tao, K. Lu, Mechanical properties and rolling behaviors of nano-grained copper with embedded nano-twin bundles. Acta Mater. 56, 2429–2440": {
+    "title": "Mechanical properties and rolling behaviors of nano-grained copper with embedded nano-twin bundles",
+    "author": [
+      "Y. Zhang",
+      "N.R. Tao",
+      "K. Lu"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2008.01.030",
+    "url": "https://doi.org/10.1016/j.actamat.2008.01.030",
+    "year": 2008,
+    "volume": "56",
+    "number": "11",
+    "pages": "2429-2440",
+    "bibkey": "Zhang2008Mechanical"
+  },
+  "P. Jenei, J. Gubicza, E. Y. Yoon, H. S. Kim, J. L. Lábár, High temperature thermal stability of pure copper and copper–carbon nanotube composites consolidated by high pressure torsion. Compos. Part A 51, 71–79": {
+    "title": "High temperature thermal stability of pure copper and copper–carbon nanotube composites consolidated by High Pressure Torsion",
+    "author": [
+      "P. Jenei",
+      "J. Gubicza",
+      "E.Y. Yoon",
+      "H.S. Kim",
+      "J.L. Lábár"
+    ],
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "doi": "10.1016/j.compositesa.2013.04.007",
+    "url": "https://doi.org/10.1016/j.compositesa.2013.04.007",
+    "year": 2013,
+    "volume": "51",
+    "number": null,
+    "pages": "71-79",
+    "bibkey": "Jenei2013High"
+  },
+  "A. Kumpmann, B. Günther, H.-D. Kunze, Thermal stability of ultrafine-grained metals and alloys. Mater. Sci. Eng. A 168, 165–169": {
+    "title": "Thermal stability of ultrafine-grained metals and alloys",
+    "author": [
+      "A. Kumpmann",
+      "B. Günther",
+      "H.-D. Kunze"
+    ],
+    "journal": "Materials Science and Engineering: A",
+    "doi": "10.1016/0921-5093(93)90722-q",
+    "url": "https://doi.org/10.1016/0921-5093(93)90722-q",
+    "year": 1993,
+    "volume": "168",
+    "number": "2",
+    "pages": "165-169",
+    "bibkey": "Kumpmann1993Thermal"
+  },
+  ".\n Citation: X. Li, X. Zhou, K. Lu, Rapid heating induced ultrahigh stability of nanograined copper. Sci. Adv. 6, eaaz8003": {
+    "title": "Rapid heating induced ultrahigh stability of nanograined copper",
+    "author": [
+      "X.Y. Li",
+      "X. Zhou",
+      "K. Lu"
+    ],
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aaz8003",
+    "url": "https://doi.org/10.1126/sciadv.aaz8003",
+    "year": 2020,
+    "volume": "6",
+    "number": "17",
+    "pages": "eaaz8003",
+    "bibkey": "Li2020Rapid"
+  }
+}

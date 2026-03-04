@@ -1,0 +1,31 @@
+[
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/d9e1e8ca90dd171581e35d8032f6411a2e33e6cb770b28f2664c72bf6d4180b9.jpg"
+    ],
+    "description": "FIG. 1. Longitude-sectional SEM images of the surface layers in the gradient nanograined Cu sample (Cu-1) before (a) and after tension (b), and the distributions of the measured transversal grain sizes from TEM observations at a depth of $1 \\sim 2 \\ \\mu \\mathrm { m }$ (c),(d) and $\\sim 3 0 ~ \\mu \\mathrm { m }$ (e),(f) from the surface, respectively. The dotted lines in (a),(b) represent the treated surfaces. (g),(h) Variations of the measured transversal grain size as a function of depth from the surface before and after tension in the samples Cu-1 and Cu-2, respectively. (i) Relative grain size changes $( \\Delta D / D _ { 0 } )$ a s a function of depth for the two samples. Error bars of grain size in (g), (h) are standard deviations of measurement data and that in (i) represent the typical variation ranges of $\\Delta D / D _ { 0 }$ ."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/11dc4fcd1f51f787d321102fbe07b7f04751ee0789452e1649d856a800eb94f8.jpg"
+    ],
+    "description": "FIG. 2. (a) Variations of the measured relative grain size change $( \\Delta D / D _ { 0 } )$ as a function of initial grain size $( D _ { 0 } )$ for Cu after tension with a strain of 0.31 for samples Cu-1 and Cu-2. Cu-1T represents the sample Cu-1 after thermal annealing for relaxing GBs (see text for details). Data from Cu-1T after tension with a strain of 0.3 are presented as stars. Data from the literatures are included as well from samples prepared by using IGC [18], SMGT [39], and cryomilling [40], respectively. The suppression of GB migration can be achieved with GB relaxation induced either mechanically (M-GBR) or thermally (T-GBR). Error bars are standard deviations $D _ { 0 }$ and typical variation ranges of $\\Delta D / D _ { 0 }$ . (b) Measured grain coarsening temperature $( T _ { \\mathrm { G C } } )$ as a function of $D _ { 0 }$ for Cu. Literature data for Cu processed by IGC [41] is included. Error bars indicate typical variation range of $T _ { \\mathrm { G C } }$ within the grain size span. (c) Variations of $\\Delta D / D _ { 0 }$ as a function of $D _ { 0 }$ for $\\mathrm { A g }$ (strain: 0.23), Cu (strain: 0.31), and Ni (strain: 0.25), respectively. Arrows indicate the deviating grain sizes for the three metals. Error bars represent the typical variation ranges of $\\Delta D / D _ { 0 }$ and the standard deviations of $D _ { 0 }$ ."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/7a5156f31c264f72dcddd039f54ee46da6c1bf5557a66a3dcc6950fd8fe94c9a.jpg"
+    ],
+    "description": "FIG. 3. A bright-field TEM image of nanograins at ${ \\sim } 4 ~ \\mu \\mathrm { m }$ deep from the surface in sample Cu-1 (a) and a high-resolution TEM image of deformation twins inside a nanograin (b). Deformation twins were noticed in circled grains in (a). (c) A bright-field TEM image at ${ \\sim } 2 8 \\ \\mu \\mathrm { m }$ deep from the surface in the tensioned sample Cu-1. GBs are outlined by dashed lines. (d) A bright-field TEM image showing nanograins at ${ \\sim } 2 \\ \\mu \\mathrm { m }$ deep from the surface in the Ni sample. (e) A high-resolution TEM image of a high density of stacking faults in a nanograin. GBs are outlined by dashed lines."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/8e71f245bb5a4dfd668f34cc1a8cef8abadecbb9a5f50eb0c85ce9a031da3bbc.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/5fcff7e8cf81a66d65981f83d42dc4a48c37ee8216526b86e377b0994dc307df.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/6eb00f3b44f411bb706f163129a59be5c221900d5934e012bcc27111d18cb85e.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/40ffd8425b5af12d5f241bd8896c04db4a205d6073bd8300d6fbbb89f09f5ce6.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/605efcc1f63b7214ec6a930c53aa037415d3f9adb371ad4c2e817cd0fcd715d5.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_db161dc817/images/af44db6970f4fc1f59e35aec4e3e98b7087798a42c9f400a5423e0a43341b835.jpg"
+    ],
+    "description": "FIG. 4. Bright-field TEM images (left) and grain size distributions (right) at ${ \\sim } 2 8 \\ \\mu \\mathrm { m }$ deep from the surface in the asprepared sample Cu-1 (a), Cu-1 after annealing [Cu-1T, (b)], and Cu-1T after tension (c), respectively. The corresponding selected area electron diffraction patterns are shown in insets. Deformation twins were noticed in circled grains in (c). Grain size distribution of the same region in sample Cu-1 after tension [light gray, (a)] is included for comparison."
+  }
+]

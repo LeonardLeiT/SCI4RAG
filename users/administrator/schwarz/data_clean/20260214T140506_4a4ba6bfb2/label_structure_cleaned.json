@@ -1,0 +1,567 @@
+[
+  {
+    "id": 0,
+    "category": "abstract",
+    "content": "AbstractÐNanostructured Materials (NsM) are materials with a microstructure the characteristic length scale of which is on the order of a few (typically 1±10) nanometers. NsM may be in or far away from thermodynamic equilibrium. NsM synthesized by supramolecular chemistry are examples of NsM in thermodynamic equilibrium. NsM consisting of nanometer-sized crystallites (e.g. of Au or NaCl) with dierent crystallographic orientations and/or chemical compositions are far away from thermodynamic equilibrium. The properties of NsM deviate from those of single crystals (or coarse-grained polycrystals) and/or glasses with the same average chemical composition. This deviation results from the reduced size and/or dimensionality of the nanometer-sized crystallites as well as from the numerous interfaces between adjacent crystallites. An attempt is made to summarize the basic physical concepts and the microstructural features of equilibrium and non-equilibrium NsM. $©$ 2000 Acta Metallurgica Inc. Published by Elsevier Science Ltd. All rights reserved."
+  },
+  {
+    "id": 1,
+    "category": "main_letter",
+    "content": "# 1. BASIC CONCEPTS"
+  },
+  {
+    "id": 2,
+    "category": "main_letter",
+    "content": "# 1.1. Categories of nanostructured materials"
+  },
+  {
+    "id": 3,
+    "category": "main_letter",
+    "content": "One of the very basic results of the physics and chemistry of solids is the insight that most properties of solids depend on the microstructure, i.e. the chemical composition, the arrangement of the atoms (the atomic structure) and the size of a solid in one, two or three dimensions. In other words, if one changes one or several of these parameters, the properties of a solid vary. The most well-known example of the correlation between the atomic structure and the properties of a bulk material is probably the spectacular variation in the hardness of carbon when it transforms from diamond to graphite. Comparable variations have been noted if the atomic structure of a solid deviates far from equilibrium or if its size is reduced to a few interatomic spacings in one, two or three dimensions. An example of the latter case is the change in color of CdS crystals if their size is reduced to a few nanometers [1]."
+  },
+  {
+    "id": 4,
+    "category": "main_letter",
+    "content": "The synthesis of materials and/or devices with new properties by means of the controlled manipu- lation of their microstructure on the atomic level has become an emerging interdisciplinary ®eld based on solid state physics, chemistry, biology and materials science. The materials and/or devices involved may be divided into the following three categories [2]."
+  },
+  {
+    "id": 5,
+    "category": "main_letter",
+    "content": "The ®rst category comprises materials and/or devices with reduced dimensions and/or dimensionality in the form of (isolated, substrate-supported or embedded) nanometer-sized particles, thin wires or thin ®lms. CVD, PVD, inert gas condensation, various aerosol techniques, precipitation from the vapor, from supersaturated liquids or solids (both crystalline and amorphous) appear to be the techniques most frequently used to generate this type of microstructure. Well-known examples of technological applications of materials the properties of which depend on this type of microstructure are catalysts and semiconductor devices utilizing single or multilayer quantum well structures."
+  },
+  {
+    "id": 6,
+    "category": "figure_url",
+    "content": "![](images/b7b54ea2ccbbd578e7ff542d034a7762161b1ca87f51f87c5581117159c8cd79.jpg)  \nFig. 1. Two-dimensional model of an $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ glass [3]."
+  },
+  {
+    "id": 7,
+    "category": "main_letter",
+    "content": "The second category comprises materials and/or devices in which the nanometer-sized microstructure is limited to a thin (nanometer-sized) surface region of a bulk material. PVD, CVD, ion implantation and laser beam treatments are the most widely applied procedures to modify the chemical composition and/or atomic structure of solid surfaces on a nanometer scale. Surfaces with enhanced corrosion resistance, hardness, wear resistance or protective coatings (e.g. by diamond) are examples taken from today's technology in which the properties of a thin surface layer are improved by means of creating a nanometer-sized microstructure in a thin surface region. An important subgroup of this category are materials, the surface region of which are structured laterally on a nanometer scale by ``writing'' a nanometer-sized structural pattern on the free surface. For example, patterns in the form of an array of nanometer-sized islands (e.g. quantum dots) connected by thin (nanometer scale) wires. Patterns of this type may be synthesized by lithography, by means of local probes (e.g. the tip of a tunneling microscope, near-®eld methods, focussed electron or ion beams) and/or surface precipitation processes. Processes and devices of this sort are expected to play a key role in the production of the next generation of electronic devices such as highly integrated circuits, terrabit memories, single electron transistors, quantum computers, etc."
+  },
+  {
+    "id": 8,
+    "category": "figure_url",
+    "content": "![](images/441c00f828b6446e97b5e6c15a619195b3d6ac6d272cde2d1a6ec11fe66e0ca0.jpg)  \nFig. 2. Two-dimensional model of a nanostructured material. The atoms in the centers of the crystals are indicated in black. The ones in the boundary core regions are represented as open circles [13]."
+  },
+  {
+    "id": 9,
+    "category": "main_letter",
+    "content": "In this paper we shall focus attention on the third category of bulk solids with a nanometer-scale microstructure. In fact, we shall focus on bulk solids in which the chemical composition, the atomic arrangement and/or the size of the building blocks (e.g. crystallites or atomic/molecular groups) forming the solid vary on a length scale of a few nanometers throughout the bulk."
+  },
+  {
+    "id": 10,
+    "category": "main_letter",
+    "content": "Two classes of such solids may be distinguished. In the ®rst class, the atomic structure and/or the chemical composition varies in space continuously throughout the solid on an atomic scale. Glasses, gels, supersaturated solid solutions or implanted materials are examples of this type (cf. Fig. 1). In many cases these types of solids are produced by quenching a high-temperature (equilibrium) structure, e.g. a melt or a solid solution to low temperatures at which the structure is far away from equilibrium."
+  },
+  {
+    "id": 11,
+    "category": "main_letter",
+    "content": "In the last two decades a second class of materials with a nanometer-sized microstructure has been synthesized and studied. These materials are assembled of nanometer-sized building blocksÐ mostly crystallitesÐas displayed in Fig. 2. These building blocks may dier in their atomic structure, their crystallographic orientation and/or their chemical composition. If the building blocks are crystallites, incoherent or coherent interfaces may be formed between them, depending on the atomic structure, the crystallographic orientation and/or the chemical composition of adjacent crystallites. In other words, materials assembled of nanometersized building blocks are microstructurally heterogeneous consisting of the building blocks (e.g. crystallites) and the regions between adjacent building blocks (e.g. grain boundaries). It is this inherently heterogeneous structure on a nanometer scale that is crucial for many of their properties and distinguishes them from glasses, gels, etc. that are microstructurally homogeneous (cf. Figs 1 and 2). Materials with a nanometer-sized microstructure are called ``Nanostructured Materials'' (NsM) orÐ synonymouslyÐnanophase materials, nanocrystalline materials or supramolecular solids. In this paper we shall focus on these ``Nanostructured Materials'' and use this term exclusively."
+  },
+  {
+    "id": 12,
+    "category": "main_letter",
+    "content": "The synthesis, characterization and processing of such NsM are part of an emerging and rapidly growing ®eld referred to as nanotechnology. R&D in this ®eld emphasizes scienti®c discoveries in generation of materials with controlled microstructural characteristics, research on their processing into bulk materials with engineered properties and technological functions, and introduction of new device concepts and manufacturing methods."
+  },
+  {
+    "id": 13,
+    "category": "main_letter",
+    "content": "# 1.2. Eects controlling the properties of nanostructured materials"
+  },
+  {
+    "id": 14,
+    "category": "main_letter",
+    "content": "As the properties of solids depend on size, atomic structure and chemical composition, NsM exhibit new properties due to one or several of the following eects."
+  },
+  {
+    "id": 15,
+    "category": "figure_url",
+    "content": "![](images/0324702f3039a55bbf23b3ed62d26a19bae55b3c50e423b1902c1e9ee30b8c0d.jpg)  \nFig. 3. Energy-band diagrams for undoped $\\mathrm { G a A s - A l } _ { x } \\mathrm { G a } _ { 1 - x } \\mathrm { A s }$ superlattices showing conduction and valence-band edges with heterostructure potential wells at $x = 0 . 3$ , $\\Delta E _ { \\mathrm { c } } \\simeq 3 0 0 \\mathrm { m e V }$ : The horizontal lines represent quantum-well discrete energy levels for electrons and holes con®ned in the GaAs layers [5]."
+  },
+  {
+    "id": 16,
+    "category": "main_letter",
+    "content": "1.2.1. Size eects. Size eects result if the characteristic size of the building blocks of the microstructure (e.g. the crystallite size, Fig. 2) is reduced to the point where critical length scales of physical phenomena (e.g. the mean free paths of electrons or phonons, a coherency length, a screening length, etc.) become comparable with the characteristic size of the building blocks of the microstructure. An example is shown in Fig. 3. If the thickness of the layers of a superlattice is comparable with the wavelength of the electrons at the Fermi edge, discrete energy levels for electrons and holes are formed in the quantum wells. Such size eects modifying the mechanical and optical properties are displayed in Figs 7(a) and (b).   \n1.2.2. Change of the dimensionality of the system. If a NsM consists of thin needle-shaped or ¯at, two-dimensional crystallites (cf. Fig. 6), only two or one dimension of the building blocks becomes comparable with the length scale of a physical phenomenon. In other words, in these cases the NsM becomes a two- or one-dimensional system with respect to this phenomenon.   \n1.2.3. Changes of the atomic structure. Changes in the atomic structure result if a high density of incoherent interfaces (Fig. 2)Ðor other lattice defects such as dislocations, vacancies, etc.Ðis incorporated. The cores of lattice defects represent a constrained state of solid matter diering structurally from (unconstrained) crystals and/or glasses. As a consequence, a solid containing a high density of defect cores diers structurally from a defect-free solid with the same (average) chemical composition. The boundaries in Fig. 2 represent an example of this eect: the mis®t between adjacent crystallites changes the atomic structure (e.g. the average atomic density, the nearest-neighbor coordination, etc.) in the boundary regions relative to the perfect crystal (cf. Section 2.1.3). At high defect densities the volume fraction of defect cores becomes comparable with the volume fraction of the crystalline regions. In fact, this is the case if the crystal diameter becomes comparable with the thickness of the interfaces, i.e. for crystal sizes on the order of one or a few nanometers as is the case in NsM."
+  },
+  {
+    "id": 17,
+    "category": "figure_url",
+    "content": "![](images/b58ca69339b6e8ee465e95c7f37da22713f9886e429159c302da18a7286a6c3d.jpg)  \nFig. 4. Schematic model of the structure of nanostructured Cu±Bi and W±Ga alloys. The open circles represent the Cu or W atoms, respectively, forming the nanometer-sized crystals. The black circles are the Bi or Ga atoms, respectively, incorporated in the boundaries at sites of enhanced local free volume. The atomic structure shown was deduced from EXAFS and X-ray diraction measurements [6].\n![](images/917595ee9078cf284b7b13a395bbbcc7a3d4f0656af3afc4264c14eb93d7e105.jpg)  \nFig. 5. Schematic model of nanocrystalline Ag±Fe alloys according to the data of MoÈ ssbauer spectroscopy. The alloys consist of a mixture of nanometer-sized $\\mathbf { A } \\mathbf { g }$ and Fe crystals (represented by open and full circles, respectively). In the (strained) interfacial regions between Ag and Fe crystals, solid solutions of Fe atoms in Ag crystallites, and Ag atoms in the Fe crystallites are formed although both components are immiscible in the liquid as well as in the solid state. Similar eects may occur in the grain boundaries between adjacent Fe and Ag crystals [7]."
+  },
+  {
+    "id": 18,
+    "category": "main_letter",
+    "content": "1.2.4. Alloying of components (e.g. elements) that are immiscible in the solid and/or the molten state. The following cases of this type of immiscible components in NsM may be distinguished: solute atoms (Fig. 4) with little solubility in the lattice of the crystallites frequently segregate to the boundary cores (e.g. the free energy of the system in several alloys is reduced if large solute atoms segregate to the boundary core). The second case of nanostructured alloys results if the crystallites of a NsM have dierent chemical compositions. Even if the constituents are immiscible in the crystalline and/or molten state (e.g. Fe and Ag), the formation of solid solutions in the boundary regions of the NsM has been noticed (Fig. 5) [7]."
+  },
+  {
+    "id": 19,
+    "category": "main_letter",
+    "content": "Finally, it may be pointed out that NsM are by no means limited to polycrystalline materials consisting of the type displayed in Fig. 2. In semicrystalline polymers, nanometer-sized microstructures are formed that consist of crystalline and non-crystalline regions diering in molecular structure and/ or chemical composition (Figs 19 and 20). Polymeric NsM will be discussed in Sections 2.1.8 and 2.1.9. NsM synthesized by supramolecular chemistry result if dierent types of molecular building blocks are self-assembled into a large variety of one-, two- or three-dimensional arrays (Figs 23±27). NsM of this type will be considered in Section 2.2."
+  },
+  {
+    "id": 20,
+    "category": "main_letter",
+    "content": "The remarkable potential the ®eld of NsM oers in the form of bulk materials, composites or coating materials to optoelectronic engineering, magnetic recording technologies, micro-manufacturing, bioengineering, etc. is recognized by industry. Large-scale programs, institutes and research networks have been initiated recently on these and other topics in the United States, Japan, EC, China and other countries."
+  },
+  {
+    "id": 21,
+    "category": "main_letter",
+    "content": "In order to keep this article within the length required, it will be limited to considering the micro- structure of equilibrium and non-equilibrium NsM. In other words, nanostructured devices, carbonbased nanostructures (e.g. fullerenes, nanotubes), high surface area (nanometer-sized) materials, suspensions of nanometer-sized crystals, thin ®lms and materials with nanostructured surface regions will not be discussed. Concerning recent review articles on NsM we refer to Refs [2, 4, 8±13]."
+  },
+  {
+    "id": 22,
+    "category": "main_letter",
+    "content": "# 2. MICROSTRUCTURES"
+  },
+  {
+    "id": 23,
+    "category": "main_letter",
+    "content": "Materials with nanometer-sized microstructures may be classi®ed according to their free energy into equilibrium NsM and NsM far away from thermodynamic equilibrium which will be called ``nonequilibrium NsM''."
+  },
+  {
+    "id": 24,
+    "category": "main_letter",
+    "content": "# 2.1. Non-equilibrium Nanostructured Materials"
+  },
+  {
+    "id": 25,
+    "category": "main_letter",
+    "content": "Non-equilibrium NsM are materials composed of structural elementsÐmostly crystallitesÐwith a characteristic size (at least in one direction) of a few nanometers (Fig. 2). In other words, non-equilibrium NsM are inherently heterogeneous on a nanometer scale consisting of nanometer-sized building blocks separated by boundary regions. The various types of non-equilibrium NsM dier by the characteristic features of their building blocks (e.g. crystallites with dierent or identical chemical composition, dierent or identical atomic structure, dierent or identical shape, size, etc.). However, the size, structure, etc. of the building blocks are not the only microstructural features distinguishing dierent NsM. In fact, the boundary regions between them play a similar role. The chemical composition, atomic structure, thickness, etc. of the boundary regions are equally crucial for the properties of NsM (e.g. Figs 2, 4 and 5). In other words, even if the building blocks, e.g. the crystallites of two NsM, have comparable size, chemical composition, etc., the properties of both NsM may deviate signi®cantly if their interfacial structures dier. Dierent interfacial structures may result if the two NsM have been synthesized by dierent procedures. For example, nanocrystalline Ni (crystal size about $1 0 \\mathrm { n m }$ , density about $9 4 \\%$ ) prepared by consolidation of Ni powder exhibited little $( < 3 \\% )$ ductility whereas nanocrystalline Ni (similar grain size and chemical composition) obtained by means of an electro-deposition process could be deformed extensively $( > 1 0 0 \\% )$ . The major dierence noticed between both materials was the energy stored in the interfacial regions suggesting dierent interfacial structures (cf. also Section 2.1.7). Numerous other examples emphasizing the signi®cance of the microstructure for the properties of NsM may be found in the literature [4±13]."
+  },
+  {
+    "id": 26,
+    "category": "figure_url",
+    "content": "![](images/2c6743ca74adeebff0a615b5ee93a7404526d3e26ceb85576844c759517c5af2.jpg)  \nFig. 6. Classi®cation schema for NsM according to their chemical composition and the dimensionality (shape) of the crystallites (structural elements) forming the NsM. The boundary regions of the ®rst and second family of NsM are indicated in black to emphasize the dierent atomic arrangements in the crystallites and in the boundaries. The chemical composition of the (black) boundary regions and the crystallites is identical in the ®rst family. In the second family, the (black) boundaries are the regions where two crystals of dierent chemical composition are joined together causing a steep concentration gradient [2]."
+  },
+  {
+    "id": 27,
+    "category": "main_letter",
+    "content": "One of the technologically attractive features of non-equilibrium NsM is the fact that their micro- structure (and properties) can be manipulatedÐas in all non-equilibrium systemsÐby the mode of preparation. This allows a wide variety of microstructures (and hence properties) to be generated. Naturally, the other side of the coin is that any technological application of NsM is only possible if one is able to fully characterize and control their microstructure, and if the correlation between their properties and their microstructure is well understood so that NsM with controlled properties can be produced reproducibly. This is one of the reasons for focussing a large portion of this article on the microstructure of NsM."
+  },
+  {
+    "id": 28,
+    "category": "figure_url",
+    "content": "![](images/c4f8cc49d606ab636d0a7bc492a64256ee6d6ac576f9b92fcffcebc9fc069daa.jpg)\n![](images/01ebd3b5d6e5e46cad5014e9ada67788cd2f9af4411e3c2a208fa464e9a0ec4c.jpg)  \nFig. 7. (a) Flow stress of $\\mathrm { N i } { - } 1 3 \\mathrm { a t . \\% }$ Ni alloys as a function of the size of the $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ precipitates. (b) Photoluminescence spectra of nanocrystalline ZnO with dierent crystal sizes in comparison with the bulk material. The detection wavelength was $5 5 0 \\mathrm { n m }$ [2]."
+  },
+  {
+    "id": 29,
+    "category": "main_letter",
+    "content": "2.1.1. Classi®cation of Nanostructured Materials. Let us ®rst consider non-polymeric NsM. Non-polymeric NsM consisting of nanometer-sized crystallites and interfaces may be classi®ed [2] according to their chemical composition and the shape (dimensionality) of their microstructural constituents (boundary regions and crystallites; Fig. 6). According to the shape of the crystallites, three categories of NsM may be distinguished: layer-shaped crystallites, rod-shaped crystallites (with layer thickness or rod diameters in the order of a few nano- meters), and NsM composed of equiaxed nanometer-sized crystallites. Depending on the chemical composition of the crystallites, the three categories of NsM may be grouped into four families. In the most simple case (®rst family, Fig. 6), all crystallites and interfacial regions have the same chemical composition. Examples of this family of NsM are semicrystalline polymers (consisting of stacked crystalline lamellae separated by non-crystalline regions; ®rst category in Fig. 6) or NsM made up of equiaxed nanometer-sized crystals, e.g. of Cu (third category). NsM belonging to the second family consist of crystallites with dierent chemical compositions (indicated in Fig. 6 by dierent thickness of the lines used for hatching). Quantum well (multilayer) structures are probably the most well-known examples of this type (®rst category). If the compositional variation occurs primarily between crystallites and the interfacial regions, the third family of NsM is obtained. In this case one type of atoms (molecules) segregates preferentially to the interfacial regions so that the structural modulation (crystals/interfaces) is coupled to the local chemical modulation. NsM consisting of nanometer-sized W crystals with Ga atoms segre- gated to the grain boundaries (Fig. 4) are an example of this type (third category). An interesting new type of such materials was recently produced by co-milling $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ and Ga. It turned out that this procedure resulted in nanometer-sized $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ crystals separated by a network of non-crystalline layers of Ga [14]. Depending on the Ga content, the thickness of the Ga boundaries between the ${ \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ crystals varies between less than a monolayer and up to about seven layers of Ga. The fourth family of NsM is formed by nanometer-sized crystallites (layers, rods or equiaxed crystallites) dispersed in a matrix of dierent chemical composition. Precipitation-hardened alloys belong in this group of NsM. Nanometer-sized $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ precipitates dispersed in a Ni matrixÐgenerated by annealing a supersaturated Ni±Al solid solutionÐare an example of such alloys. Most high-temperature materials used in jet engines of modern aircraft are based on precipitation-hardened $\\mathrm { N i } _ { 3 } \\mathrm { A l / N i }$ alloys [cf. Fig. 7(a)]."
+  },
+  {
+    "id": 30,
+    "category": "main_letter",
+    "content": "The NsM considered so far consisted mostly of crystalline components. However, in addition, NsM are known in which one or all constituents are noncrystalline. For example, semicrystalline polymers consist of alternating (nanometer thick) crystalline and non-crystalline layers (cf. Figs 19 and 20). The various types of microstructures that may be formed in polymeric NsM will be discussed in Section 2.1.8. Other NsM consisting of a crystalline and a non-crystalline structural component are partially crystallized glasses and nanocrystalline metal nitrides, carbides of the type $\\mathbf { M } _ { n } \\mathbf { N } _ { : }$ , $\\mathbf { M } _ { n } \\mathbf { C }$ meta $= \\mathrm { T i }$ , Zr, Nb, W, V) embedded in an amorphous matrix, e.g. a $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ matrix. Metal nitrides embedded in amorphous $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ have been prepared by high-frequency discharge, direct current discharge or plasma-induced chemical vapor deposition [15]. The remarkable feature of these materials is their hardness which seems to be com- parable with or higher than that of diamond. Elastic image forces are argued to require a very high stress to force dislocations to cut through the nanometer-sized nitride crystallites. This high stress may, however, not lead to fracture because any crack formed in one of the crystallites is suggested to be stopped by the ductile amorphous $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ matrix surrounding the cracked crystallite. Another family of technologically interesting NsM consisting of nanometer-sized crystallites embedded in an amorphous matrix is nanocrystalline magnetic materials. They are derived from crystallizing amorphous ribbons of (Fe, B)-based metallic glasses. Their microstructure is characterized by 10±25 nmsized grains of a b.c.c.-a-FeX phase consuming about $70 \\mathrm { - } 8 0 \\%$ of the total volume. This phase is homogeneously dispersed in an amorphous matrix. The two families of alloys showing the best performance characteristics are Fe±Cu±Nb±B±Si (FINEMET) and Fe±Zr±Cu±B±Si (NANOPERM). ``Finemet'' alloys have a saturation induction of about $1 . 2 \\mathrm { T }$ and their properties at high frequencies are comparable with the best Co-based amorphous metals. The outstanding features of ``Nanoperm'' alloys are the very low losses exhibited at low frequencies $\\left( < 1 0 0 \\ : \\mathrm { H z } \\right)$ oering potential for applications in electrical power distribution transformers."
+  },
+  {
+    "id": 31,
+    "category": "main_letter",
+    "content": "Spinodally decomposed glasses represent NsM in which all constituents are non-crystalline. Finally, crystalline or non-crystalline materials containing a high density of nanometer-sized voids (e.g. due to the $\\mathscr { X }$ -particle irradiation) are NsM, one component of which is a gas or vacuum. A well-known example of a NsM with a void-type structure is porous Si. Porous Si has attracted considerable attention because of its strong photoluminescence in visible light. Two fundamental features of bulk Si limit its use in optoelectronic devices: the centrosymmetric crystal structure prevents a linear electro-optical eect. Hence, Si cannot be used for light modulation. Secondly, the band gap of Si is indirect and lies in the infrared region $( E _ { \\mathrm { g } } \\sim 1 . 1 7 0 \\ : \\mathrm { e V } )$ . As a consequence, Si was considered unsuitable for lightemitting technologies. In 1990 it was reported that porous Si could luminesce. Two lines of thought were put forward to explain the eect: quantum con®nement and luminescence of chemical complexes attached to the free surface of the silicon crystallites. The quantum con®nement model proposes the carriers in porous Si to be con®ned to microcrystallites with a size of $1 { - } 4 \\mathrm { n m }$ formed due to the porosity of the Si. The chemical complexes capable of luminescing in the observed spectral range were proposed to be siloxene compounds, a complex of Si, H and O. Recently, ``hybrid models'' were discussed where both, the interior and the surface of the porous Si are involved in the photoluminescence."
+  },
+  {
+    "id": 32,
+    "category": "main_letter",
+    "content": "Obviously, the model of a non-equilibrium NsM considered so far (Fig. 2) is highly simpli®ed in the sense that it is based on a hard-sphere approach. Nonetheless, two characteristic features of a NsM are already borne out by this approach: the nanometer-sized crystallites are expected to exhibit size and/or dimensionality eects for the reasons given in the previous paragraph (Section 1.2). Moreover, several properties (e.g. diusion, internal friction, etc.) of a NsM should be controlled by the presence of a high density of grain and/or interphase boundaries. Indeed, these kinds of eects have been revealed by a large number of experimental studies in recent years (see, e.g. [52]). For the sake of brevity, this paper will be limited to discussing only one or very few experiments as a representative example for each case."
+  },
+  {
+    "id": 33,
+    "category": "main_letter",
+    "content": "2.1.2. Size eects. Figure 7(a) shows the dependence of the ¯ow stress of a nanocomposite consisting of nanometer-sized $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ crystallites dispersed in a matrix made up of a NiAl solid solution. The total volume fraction of $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ crystallites is the same for all $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ crystal sizes shown in Fig. 7(a); the only parameter varied is the size of the $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ crystallites. Figure 7(b) displays the blue shift in the luminescence spectra as a function of the crystal size for nanocrystalline ZnO (consisting of consolidated ${ \\mathrm { Z n O } }$ crystals separated by grain boundaries). The blue shift is a quantum size eect. If the crystallite size becomes comparable or smaller than the de Broglie wavelength of the charge carriers generated by the absorbed light, the con®nement increases the energy required for absorption. This energy increase shifts the absorption/luminescence spectra towards shorter wavelengths (blue)."
+  },
+  {
+    "id": 34,
+    "category": "figure_url",
+    "content": "![](images/eb1b584a7d4a984406991cf5a3dfa78379ce77c34cfe71aceb5b66c7ea5a0a40.jpg)  \nFig. 8. Comparison of the vibrational density of states $g ( \\nu )$ for nanocrystalline $\\mathrm { C u }$ (crystal size $8 . 2 \\mathring { \\mathrm { A } }$ , solid line) with those for a Lennard±Jones glass (molecular-dynamics simulation, dash±dotted line) and for the perfect f.c.c. crystal (dashed line); $\\nu$ is the phonon frequency [29]."
+  },
+  {
+    "id": 35,
+    "category": "figure_url",
+    "content": "![](images/5ee87199b8539df076e3f0a4dc65b801df1b2d7aa4cd6cdcb36bc89460b57231.jpg)  \nFig. 9. Comparison of the temperature dependence of the total free energy of nanocrystalline Cu (for dierent grain sizes as indicated in the ®gure) with a Lennard±Jones glass [29] and the perfect crystal.\n![](images/ae316b04e831919d7e9350d5b8a6a1d420a8b387a3da1d0c7469b69c5f4ee938.jpg)  \nFig. 10. Coordination number (measured by X-ray scattering) for nanocrystalline Pd (12 nm crystal size) relative to a Pd single crystal as a function of the interatomic spacings [18]. $N _ { \\mathrm { N S M } }$ and $N _ { \\mathrm { S C } }$ are the measured coordination numbers of the nanocrystalline Pd and of a Pd single crystal."
+  },
+  {
+    "id": 36,
+    "category": "main_letter",
+    "content": "Another eect related to the reduced size of the crystallites in NsM concerns the atomic structure of the interfaces. More precisely, the question: is the atomic structure of the interfaces between nanometer-sized crystallites dierent from the structure of the interfaces between crystals of in®nite size (same chemical composition, orientation, relationship, etc.)? So far, only a few speci®c cases have been studied experimentally and theoretically by means of molecular dynamics computations. The results of these studies may be summarized as follows: in metallic NsM, the low-temperature atomic structure of the boundaries of a NsM diers from the structure of the boundaries in a coarse polycrystal primarily by the rigid body translation. The deviating rigid body relaxation of both types of boundaries results from the dierent constraints in both materials: in coarse-grained polycrystals adjacent crystallites are free to minimize the boundary energy by a translational motion relative to one another (called rigid body relaxation). In a NsM the constraints exerted by the neighboring nanometer-sized crystallites limit the rigid body relax- ation more the smaller the crystallites are. Another crystallite size eect concerns the structural stability of NsM [28, 29]. The vibrational densities of state of a NsM and of the related glass, determined from lattice-dynamics simulations, exhibit low- and highfrequency modes not seen in the perfect crystal (Fig. 8). The low-frequency modes give rise to a low-temperature peak in the excess speci®c heat in both types of metastable microstructures. Freeenergy simulations of NsM and the related glass suggest that a phase transition from the nanocrystalline state to the glass should occur below a critical grain size. Figure 9 displays the dependence of the free energy of various NsM with dierent grain sizes. Obviously, below a crystal size of about 1.4 nm, NsM are unstable relative to the glass as they exhibit a higher free energy. A structural transformation consistent with these results was, in fact, reported for nanocrystalline Si prepared by glow discharge decomposition of silane: nanostructured Si was noticed by Raman spectroscopy to transform into amorphous Si if the crystal size was reduced below a critical value of a few nanometers [26, 27]."
+  },
+  {
+    "id": 37,
+    "category": "main_letter",
+    "content": "2.1.3. Reduced density and coordination in the boundaries. In the core of incoherent interfaces, the mis®t between crystallites joined together (Fig. 2) locally modi®es the atomic structure by reducing the atomic density and by altering the coordination between nearest-neighbor atoms relative to the perfect crystal. The reduced density (or enhanced free volume) in the boundaries is directly visible in highresolution electron micrographs [16] and has also been evidenced by MoÈ ssbauer spectroscopy. The MoÈ ssbauer spectra of the interfacial component of nanocrystalline Fe exhibit a pressure-induced reversible change in the isomer shift that is about one order of magnitude larger than that of the $\\mathscr { X }$ -Fe crystals and of glassy iron alloys [17]. The enhanced isomer shift indicates an enhanced compressibility of the boundary regions and thus a reduced interfacial density."
+  },
+  {
+    "id": 38,
+    "category": "main_letter",
+    "content": "The modi®ed nearest-neighbor coordination in the boundary regions relative to a perfect crystal (with the same chemical composition) has been revealed (Fig. 10) by measuring (X-ray diraction) the pair correlation functions of nanostructured Pd and of a Pd single crystal [18]. The same result was obtained by MoÈ ssbauer studies of $\\mathrm { F e F } _ { 2 }$ , $\\mathsf { \\alpha } _ { \\mathsf { X } } { \\mathrm { - F e } _ { 2 } \\mathsf { O } _ { 3 } }$ and $\\gamma { \\mathrm { - F e } } _ { 2 } { \\mathrm { O } } _ { 3 }$ . The grain boundary structure of these materials was found to consist of structural units the coordinations of which dier from the ones in the crystalline state [19, 20]."
+  },
+  {
+    "id": 39,
+    "category": "main_letter",
+    "content": "2.1.4. Chemical binding eects. The atomic structures of the boundary regions in NsM are expected to depend on the type of chemical binding forces. The following picture seems to emerge from the presently available experimental and theoretical studies on the correlation between chemical binding and the nature of the boundaries in NsM."
+  },
+  {
+    "id": 40,
+    "category": "main_letter",
+    "content": "In materials with directional bonds (e.g. Si, C), the boundary structure depends signi®cantly [21, 22] on the competition between local structural disorder in the boundary and localized variation in the hybridization of the bonds in the region of the interfaces. Silicon and carbon provide relatively simple cases for the physical understanding of the coupling between structural disorder and bonding modi®- cations. Silicon is a purely $\\mathsf { s p } ^ { 3 }$ bonded material. Diamond exhibits greater bond stiness combined with the ability to change hybridization in a disordered environment from $\\mathsf { s p } ^ { \\bar { 3 } }$ to $\\mathrm { s p } ^ { 2 }$ . The interplay between these two factors may be elucidated by comparing the dierent ways in which the two materials respond to structural disorder. Figures 11(a) and (b) compare the atomic structures of two grain boundaries in diamond and Si. In both materials, the (111) boundary [Fig. 11(b)] is clearly more ordered than the (100) boundary shown in Fig. 11(a). The dierent degrees of disorder in both types of boundaries are evidenced by the much lower energy of the (111) grain boundary relative to the (100) interface ( $\\approx 3 0 \\%$ in diamond and $\\approx 4 7 \\%$ in Si) [22]."
+  },
+  {
+    "id": 41,
+    "category": "figure_url",
+    "content": "![](images/f2a6b5e6b02835513d67f8de0db9b1cac1ee6ac2ee82230b0bd55c70007f2f52.jpg)  \nDiamond   \nSilicon   \n(100) £29 GB\n![](images/9cdc6a6064a9f80de656ad258922d16f6ea34cf68f2775709e5ea4d1b0cf037c.jpg)  \na\n![](images/b15bfd4e9e0f0170cac4bc25aa8208e9d15fe42319bd7ade2e02d44431a9d491.jpg)  \n(111)£31 GB   \n回\n![](images/16644c2d4d0b538ae9f8e3dcd097b3652f459aa8644efacf1502b1f567d5ac8a.jpg)\n![](images/74bb7dcfae7c8a99981f23501dd33d726944a47ecbca69bf822fd6648c605161.jpg)  \n回\n![](images/1b54a90eba98644de7ab42b3f9394765019bb82bb0a834eddef3eacfbaa4ae83.jpg)  \nFig. 11. Projected structures of the high-temperature relaxed (a) (100) S29 and (b) (111) S30 twist boundaries in diamond and Si [22]. All the nearest-neighbor bonds between grain boundary atoms are shown. (c) Distribution of bond angles (in arbitrary units) for the atoms in the two center planes of the above grain boundaries. For comparison the distributions for bulk amorphous carbon and silicon are also shown [21]."
+  },
+  {
+    "id": 42,
+    "category": "main_letter",
+    "content": "The average nearest-neighbor coordination, $\\langle C \\rangle$ , of the atoms in the two center planes of the diamond (100) and (111) grain boundaries are 3.16 and 3.50, respectively. These low values are indicative of a signi®cant fraction of grain boundary atoms being only threefold-coordinated (i.e. by $\\mathsf { s p } ^ { 2 }$ bonded). Eighty percent of all (100) grain boundary atoms are threefold-coordinated compared to ``only'' $5 0 \\%$ in the (111) grain boundary [22], whereas practically all other atoms are tetrahedrally coordinated. By contrast, in Si these two grain boundaries have $\\langle C \\rangle \\approx 4 . 0 2$ and 4.06, respectivelyÐ that is, close to the perfect tetrahedral coordination with only a few three- and ®vefold-coordinated Si atoms in the grain boundary unit cell [22]."
+  },
+  {
+    "id": 43,
+    "category": "main_letter",
+    "content": "These dierences are strikingly apparent in the related bond-angle distribution functions shown in Fig. 11(c). For example, the presence of equal fractions of three- and fourfold-coordinated C atoms and the high degree of structural ordering in the diamond (111) grain boundary give rise to two distinct peaks, one near the $\\mathsf { s p } ^ { 3 }$ bond angle of $1 0 9 . 4 7 ^ { \\circ }$ and the other near the $\\mathrm { s p } ^ { 2 }$ bond angle of $1 2 0 ^ { \\circ }$ . By comparison, in Si the $\\mathrm { s p } ^ { 2 }$ peak is completely absent. In contrast to the (111) grain boundary, the bondangle distribution function of the high-energy (100) grain boundary in both diamond and Si is similar to that of the corresponding bulk amorphous ma- terial. However, whereasÐin diamondÐthe peak is centered near the $\\mathrm { s p } ^ { 2 }$ bond angle, indicating the presence of mostly threefold-coordinated C atoms and signi®cant structural disordering, in Si the peak is centered at the tetrahedral bond angle."
+  },
+  {
+    "id": 44,
+    "category": "main_letter",
+    "content": "This comparison reveals that because in $\\mathrm { S i } \\ \\mathrm { s p } ^ { 2 } .$ - type bonding is not allowed, a large driving force exists for the initially threefold-coordinated atoms in the unrelaxed grain boundary to recover as much as possible their full fourfold coordinationÐeven at the cost of severe grain boundary disordering [Fig. 11(a)]. In contrast, diamond has only a small driving force for structural disordering [see also Fig. 11(a)], at the cost of signi®cant bond disordering."
+  },
+  {
+    "id": 45,
+    "category": "figure_url",
+    "content": "![](images/9af2ccb1175db7994296376a6fed30f3494916817c406a190ce614200f178315.jpg)  \nFig. 12. Cubic, three-dimensional periodic simulation cell containing four randomly oriented seed grains arranged on a f.c.c. lattice and embedded in the melt (schematic) [25]."
+  },
+  {
+    "id": 46,
+    "category": "figure_url",
+    "content": "![](images/b6e669a9a7851eb7f096deb5c9efed1ee8c6d31e335336b1de4fb6822ac6d4a0.jpg)\n![](images/71d2ef6c741d805ffcc1dd74cdbe05dae3af774a427831352a5fc5ce5fd06d33.jpg)\n![](images/8bc6d88a17ab95ad846a5e2d394fb052ddea7b45ad64dacb79337fe0dbaefdc6.jpg)  \nFig. 13. Positions of the atoms within a slice of thickness $0 . 5 a _ { 0 }$ cut out (parallel to the $X { - } Y$ plane, Fig. 12) of a nanocrystalline material [25]. The nanocrystalline material was generated by the procedure described in Fig. 12. The solid circles represent atoms with excess energies larger than $0 . 1 \\mathrm { e V }$ .   \nFig. 14. (a) Typical local radial distribution functions, $G ( r )$ , for the nanocrystalline Si (cf. Fig. 13) with a grain size of $5 . 4 \\mathrm { n m }$ . Shown is a comparison of these local radial distribution functions for the atoms in the grain boundary regions, the triple lines, the fourfold and sixfold point grain junctions, with the overall radial distribution function of bulk amorphous silicon [25]. (b) Angular distribution functions, $P ( \\cos \\theta )$ , for the same defected regions as in (a)."
+  },
+  {
+    "id": 47,
+    "category": "main_letter",
+    "content": "Based on these results, the number of threefoldcoordinated C atoms was estimated and was found to agree with recent Raman scattering experiments on nanocrystalline diamond grown from fullerene precursors [23]. The physical signi®cance of the similarity of the bond-angle distribution of the amorphous Si and the (100) S29 boundary [Figs 11(a) and (c)] was investigated further [24, 25] comparing the atomic arrangement in nanocrystalline Si averaged over many boundaries between nanometer-sized Si grains with dierent orientation relationships. The fully dense nanostructured Si was synthesized (molecular dynamics) by inserting small crystalline seeds with randomly preselected crystallographic orientations into a Si melt (Fig. 12). Subsequent cooling below the melting point of Si resulted in the growth of the inserted seed crystals to form equilibrated grain boundaries in a fully dense polycrystalline Si. The boundary structure (Fig. 13) may be compared with the structure of amorphous Si by comparing the radial and angular distribution functions of the various interfacial structural components (boundaries, triple lines, etc.) of the nanometer-sized Si with the radial and angular distribution functions of amorphous Si [Figs 14(a) and (b)]. The results obtained indicate that the atomic arrangement in the interfaces of Si is similar to the atomic arrangement of amorphous Si. In fact, these results suggest that nanometer-sized Si may be treated as a two-phase system consisting of an ordered crystalline phase (in the crystal interiors) connected by an amorphous-like intergranular phase."
+  },
+  {
+    "id": 48,
+    "category": "main_letter",
+    "content": "2.1.5. Temperature eects. Elevated temperatures seem to aect the microstructure of NsM by one or both of the following two types of processes:"
+  },
+  {
+    "id": 49,
+    "category": "main_letter",
+    "content": "2.1.5.1. Grain growth. Grain growth in NsM is primarily driven by the excess energy stored in the grain or interphase boundaries. Analogous to the growth of cells in soap froths, the boundaries move toward their centers of curvature and the rate of movement varies with the amount of curvature. The earliest theoretical considerations of the kinetics of normal grain growth assume a linear relationship between the rate of grain growth and the inverse grain size, which in turn is proportional to the radius of curvature of the grain boundaries [30, 31]. This assumption yields, under ideal conditions, the following equation for grain growth:"
+  },
+  {
+    "id": 50,
+    "category": "equation",
+    "content": "$$\nD ^ {2} - D _ {0} ^ {2} = k t \\tag {1}\n$$"
+  },
+  {
+    "id": 51,
+    "category": "main_letter",
+    "content": "where $D _ { 0 }$ and $D$ are the grain sizes at the beginning of the experiment and at time, t, respectively. $K$ is a constant that depends on temperature [cf. equation (3)]. A number of more recent theoretical treatments came to the same conclusion that normal grain growth should ideally occur in a parabolic manner [32]. However, this is rarely observed except for high-purity metals at high homologous temperatures. For practical purposes, the most widely used relationship [equation (2)] incorporates the empirical time exponent $n { \\le } 0 . 5$ which allows the description of isothermal grain growth that often does not ®t the ideal relationship modeled by equation (1):"
+  },
+  {
+    "id": 52,
+    "category": "equation",
+    "content": "$$\nD ^ {1 / n} - D _ {0} ^ {1 / n} = k ^ {\\prime} t \\quad \\text {o r} \\quad D = \\left(k ^ {\\prime} t + D _ {0} ^ {1 / n}\\right) ^ {n}. \\tag {2}\n$$"
+  },
+  {
+    "id": 53,
+    "category": "main_letter",
+    "content": "The rate constant $k$ (or $k ^ { \\prime }$ ) can be expressed in an Arrhenius-type equation:"
+  },
+  {
+    "id": 54,
+    "category": "equation",
+    "content": "$$\nk = k _ {0} \\exp \\{- Q / R T \\} \\tag {3}\n$$"
+  },
+  {
+    "id": 55,
+    "category": "main_letter",
+    "content": "where $Q$ is the activation enthalpy for isothermal grain growth, $R$ the molar gas constant and $k _ { 0 }$ a constant that is independent of the absolute temperature $T$ . The activation enthalpy, $Q$ , is often used to determine the microscopic mechanism which dominates the grain growth."
+  },
+  {
+    "id": 56,
+    "category": "main_letter",
+    "content": "Grain growth studies have been carried out for various NsM using TEM [33±37], DSC [38], X-ray diraction [37, 39] and Raman spectroscopy. The materials studied were prepared by crystallizing glasses [39±43, 50], sliding wear [35], inert gas condensation [33, 44, 45], electrodeposition [49], electron gun evaporation, mechanical milling [37, 46± 48, 53] and CVD. For recent reviews about grain growth in NsM we refer to Refs [9, 37, 45, 48]. Studies of the grain growth process in NsM produced by the crystallization of glasses have the attractive feature that pore-free nanocrystalline materials are obtained. Obviously, the synthesis of NsM by crystallization of glasses is limited to the speci®c chemical compositions that permit the preparation of the glassy state, e.g. by rapidly cooling, by a sol±gel process, etc. Moreover, only those glasses are suitable for grain growth studies in NsM that convert the glassy phase directly into a crystalline phase of the same chemical composition [51]. For example, a stable tetragonal (Fe, $\\mathrm { C o } ) Z \\mathrm { r } _ { 2 }$ phase forms directly from the ternary $\\mathrm { F e { \\mathrm { - } } C o { \\mathrm { - } } Z r }$ amorphous phase, while in the binary Fe±Zr alloys, the amorphous phase ®rst results in a metastable f.c.c. $\\mathrm { F e Z r } _ { 2 }$ phase which later transforms to the equilibrium tetragonal $\\mathrm { F e Z r } _ { 2 }$ phase. Grain growth studies were performed for both the stable and metastable phases and it was found that the grain size increases with annealing time [43]. It has also been noted that grain growth starts at a lower temperature in the nanocrystalline sample with smaller grains [42] and that grain growth is rapid above a certain temperature and becomes negligible for longer annealing times."
+  },
+  {
+    "id": 57,
+    "category": "main_letter",
+    "content": "As grain growth involves the transport of atoms across and presumably also along the boundaries, the activation energy of the process is frequently compared with that of grain boundary diusion. As may be seen from Table I in Ref. [48], the two activation energies agree reasonably well in most systems studied so far."
+  },
+  {
+    "id": 58,
+    "category": "main_letter",
+    "content": "Ganapathi et al. [35] tried to ®t their grain growth data on nanocrystalline Cu produced by sliding wear and observed an excellent ®t for values of $n$ of $1 / 2 , 1 / 3$ or 1/4. Thus, they concluded that it is dicult to identify the grain growth mechanism on the basis of the exponent $n$ alone, and that grain growth in nanocrystalline materials probably occurs in a manner similar to that in conventional polycrystalline materials."
+  },
+  {
+    "id": 59,
+    "category": "figure_url",
+    "content": "![](images/bf36de4ef80efbf35ba8def4b11e5371531f432b4eeb3dd9e57e89fecb0cfde8.jpg)  \nFig. 15. Time exponent for isothermal grain growth of various nanocrystalline materials as a function of the reduced annealing temperature [48]."
+  },
+  {
+    "id": 60,
+    "category": "main_letter",
+    "content": "In most of the studies involving nanocrystalline materials, the value of $n$ is dierent from the value of 0.5, deduced from the parabolic relationship for grain growth [equations (1) and (2)]. Thus, in addition to Zener drag (where a particle interacts with the grain boundary to reduce the energy of the boundary±particle system and restrains the boundary movement [73]), other mechanisms such as pinning of grain boundaries by pores, solute atoms or inclusions may also be operative. The fact that pores [33, 54] and impurity doping [55] have considerable eect on the grain growth characteristics was demonstrated in $\\mathrm { T i O } _ { 2 }$ . For an initial grain size of $1 4 \\mathrm { n m }$ , when the porosity was about $2 5 \\%$ , the grain size (after annealing for $2 0 \\mathrm { h }$ at $7 0 0 ^ { \\circ } \\mathrm { C } )$ was 30 nm [54]. When the porosity was reduced to about $1 0 \\%$ , the grain size for a similar annealing treatment was dramatically increased to $5 0 0 \\mathrm { n m }$ . The same authors have also demonstrated that sintering the same nanocrystalline material under pressure (1 GPa), or with appropriate dopants such as Y, can suppress the grain growth [56]."
+  },
+  {
+    "id": 61,
+    "category": "main_letter",
+    "content": "In general, n seems to change during grain growth and tends toward the ideal value of 0.5 as is found in high-purity materials or at high annealing temperatures (Fig. 15). The values obtained for $n$ from grain growth measurements seem to dependÐ at least in some systemsÐon the evaluation of the experimental data. For example, Krill and coworkers [53] re-evaluated Marlow and Koch's results [48]. The data ®t used by Marlow and Koch yielded $n = 0 . 3 2$ : Krill and co-workers showed that the same measurements can be equally well matched by an impurity drag model with a growth exponent of $n = 0 . 5$ : Another problem associated with grain growth in nanocrystalline samples containing impurities has recently been re-emphasized [70] although it is known to exist in principle in coarse-grained polycrystals as well [71]. During grain growth, the area available to the segregant is reduced. Thus, if all impurity atoms remain in (or close to) the boundaries, their concentration must increase which should manifest itself in an enhanced drag force (rather than being independent of grain size as is commonly assumed). Recent measurements using $\\mathrm { P d - } Z \\mathrm { r }$ solute solutions seem to con®rm the expected impurity drag enhancement [70]. Naturally, in NsM this eect will be enhanced relative to a coarse- grained polycrystal due to the large reduction of the boundary area during grain growth."
+  },
+  {
+    "id": 62,
+    "category": "main_letter",
+    "content": "Abnormal grain growth in NsM has been observed at room temperature or slightly above in some instances, e.g. in Cu, Ag, Pd [44, 72] and crystallized metallic glasses of the FINEMET type [50]. Similar to the observation of Hahn et al., Gertsman and Birringer [72] also noted that grain growth occurs preferentially in the denser materials. Anomalous grain growth has been suggested to be due to: (a) a certain non-uniformity of the grain size distribution in the as-prepared samples (so that the larger grains act as nuclei); and (b) impurity segregation. If the impurity distribution is spatially non-uniform, enhanced grain growth may occur in regions of lowest impurity content. The reason why such abnormal grain growth does not occur in many coarse-grained polycrystalline materials has been attributed to the enhanced grain boundary enthalpy (leading to high driving forces) and/or non-equilibrium grain boundary structures (leading to increased mobility of grain boundaries) in the nanocrystalline materials."
+  },
+  {
+    "id": 63,
+    "category": "main_letter",
+    "content": "2.1.5.2. Stability against grain growth. Several approaches for preventing grain growth have been proposed. On the one hand are those that aim to slow down the growth kinetics by reducing the driving force (the grain boundary free energy) or the grain boundary mobility. In these cases the material remains in an unstable state where small local rearrangements of the grain boundary planes can reduce the material's free energy, but the time interval and temperature required for signi®cant grain growth to take place are increased. The second type of stabilization aims at achieving a truly metastable state where each small variation of the total grain boundary area increases the free energy of the material. In this case a large energy barrier has to be overcome, e.g. by thermal activation, in order to start the evolution towards the equilibrium state, the single crystal."
+  },
+  {
+    "id": 64,
+    "category": "main_letter",
+    "content": "Inclusions of a second phase act as pinning sites for grain boundaries in essentially the same way as do pores during sintering: the total free energy of a segment of boundary intersecting an inclusion is reduced by the product of the cross-section of the inclusion and the speci®c boundary free energy. Zener (quoted by Smith [73]) derived a relation between the stable grain radius $R$ and the radius $r$ and volume fraction $f$ of the inclusions: $R / r \\approx 3 / 4 f .$ : This relationship implies that when a ®ne dispersion of small inclusions can be generated, then small volume fractions of inclusions can stabilize a microstructure with a very ®ne grain size. In the stable microstructure the location of each boundary corresponds to a local energy minimum, and the material is therefore in a metastable state. When the temperature is increased, grain growth will remain suppressed until the inclusions dissolve in the matrix or until they become mobile. A number of experimental investigations of this eect are reviewed in Refs [9, 74]. Retarded grain growth will also result from solute drag eects. In many solid solutions, solute atoms are known to segregate to the boundaries forming a solute cloud in the vicinity of the boundary."
+  },
+  {
+    "id": 65,
+    "category": "main_letter",
+    "content": "If the boundary migrates, three modes of motion may occur depending on the relative rates of boundary and solute-cloud mobility."
+  },
+  {
+    "id": 66,
+    "category": "main_letter",
+    "content": ". If the boundary migrates slowly{, it drags its solute cloud along with it, thus reducing the boundary mobility and, hence, grain growth.   \n. If the boundary migrates very fast, it breaks away from the solute atoms and moves freely.   \n. At intermediate migration rates, the boundary breaks loose locally from its cloud and this impurity-free segment bulges out. The resulting increase of the boundary area reduces the rate of motion of the impurity-free boundary segment and permits the impurity cloud to be formed again (``jerky motion'')."
+  },
+  {
+    "id": 67,
+    "category": "main_letter",
+    "content": "All three modes of boundary motion have been observed experimentally in coarse-grained polycrystals [75]. The ®rst two cases are likely to occur in NsM as well. In fact, pinning of the grain boundaries in nanocrystalline Ni solid by the $\\mathrm { N i } _ { 3 } \\mathrm { P }$ precipitates in a crystallized Ni±P amorphous alloy [36] and segregation of Si to grain boundaries in a Ni±Si solid solution [76] have been found to be re- sponsible for preventing grain growth in nanocrystalline phases. In addition to the kinetic factors discussed so far, energetic eects may also aect the growth rate of the crystallites in NsM. For example, Lu [42] studied the thermal stability of $7 { - } 4 8 ~ \\mathrm { n m }$ grains in a Ni±P alloy and concluded that samples with smaller grain sizes have enhanced thermal stabilities, suggesting that the grain growth temperatures and the activation energy for growth in a nanocrystalline solid are higher in comparison with coarser grains. This is attributed to the con®guration and the energetic state of the interfaces in the nanocrystalline materials."
+  },
+  {
+    "id": 68,
+    "category": "main_letter",
+    "content": "In general, the solute solubility in the core of grain boundaries diers considerably from the solubility in the interior of the crystals. Therefore, in thermodynamic equilibrium, the grain boundaries are enriched or depleted in solute. This can have two bene®cial eects on the stability of the microstructure. The ®rst eect is solute drag and was discussed in the previous paragraph. The second eect is a reduction of the driving force for grain growth. According to the Gibbs adsorption equation [77], the grain boundary free energy decreases when solute segregates to the boundary. Experimental evidence shows that the decrease can be substantial [78], and the theory indicates that in alloy systems with a large atomic size mismatch, the grain boundary free energy may even be reduced to zero [79± 81]."
+  },
+  {
+    "id": 69,
+    "category": "main_letter",
+    "content": "As a consequence of the solute enrichment at the grain boundaries and of the large speci®c grain boundary area, theory and experiment [82, 83] show that nanocrystalline materials also have an enhanced overall solubility for solute with a large heat of segregation."
+  },
+  {
+    "id": 70,
+    "category": "figure_url",
+    "content": "![](images/ed754612dc78e8862a49ba5866409c5095a50a3a6bd973136e4340a260a09255.jpg)  \n（a)\n![](images/b4feecd4f11d2d1d695e29916d0e95f7df69005457f5200a110bcdfbd3d17c3d.jpg)  \n(b)   \nFig. 16. (a) Temperature dependence of the volume expansion, $\\delta V$ (in units of the zero-temperature lattice parameter) per unit grain boundary area for the high-energy (100), $\\Sigma = 2 9$ grain boundary in silicon. The bulk glass transition temperature $T _ { \\mathrm { g } }$ and melting point $T _ { \\mathrm { m } }$ are indicated on the top axis. (b) Response to thermal cycling of the volume expansion $\\delta V$ for the (100), $\\Sigma = 2 9$ twist grain boundary, illustrating the reversibility of the transition between the con®ned amorphous and liquid grain boundary phases; $t$ is the simulation time [86]."
+  },
+  {
+    "id": 71,
+    "category": "main_letter",
+    "content": "The potential existence of alloy systems with a vanishing grain boundary free energy has led to speculations on the existence of a metastable nanocrystalline state in which grain growth requires that the nucleation barrier for the formation of a second phase be overcome by thermal activation [79±81]. While there is as yet no de®nite experimental proof of the existence of a metastable nanocrystalline state, there are a number of experimental observations that favor its existence. Y±Fe is an alloy system with a large atomic size dierence, suggesting a large enthalpy of grain boundary segregation. In Y±Fe alloys (prepared by inert gas condensation) Fe segregates to the grain boundaries [82]. In agreement with the theoretical predictions, the grain size of the alloy samples decreases as the alloy concentration is enhanced, and reaches values as small as 2 nm. Although alloys with a low Fe molar fraction, $x _ { \\mathrm { F e } }$ , undergo grain growth upon annealing, alloys with higher $x _ { \\mathrm { F e } }$ show little grain growth before the equilibrium phase $\\mathrm { Y F e } _ { 2 }$ nucleates, indicating that energetic rather than kinetic factors are responsible for the suppression of growth. A similar correlation between the onset of grain growth and the nucleation of the stable intermetallic phase has also been observed in $\\mathrm { \\bf N b { - } C u }$ alloy prepared by high-energy ball milling [84]. The grain size of mechanically alloyed $\\mathrm { P d - } Z \\mathrm { r }$ solid solutions has also been found to decrease with increasing solute concentration, and the heat release upon annealing indicates that solute $( Z \\mathrm { r } )$ segregates to the grain boundaries, thereby reducing the speci®c grain boundary energy and impeding grain growth [81]. It has also been demonstrated that alloying solute to ceramic nanometer-sized particles results in a drastic change in the grain-size density trajectory, with a substantially lower grain size in the densely sintered body [85]. Finally, the existence of stable liquid microstructures with a nanometer-scale structure and a large number of internal interfaces, the microemulsions, lends support to the expectation that solid microstructures can also be stabilized against growth at very ®ne grain sizes and elevated temperatures."
+  },
+  {
+    "id": 72,
+    "category": "main_letter",
+    "content": "In NsM consisting of nanometer-sized crystallites (TiN) embedded in an amorphous matrix (of amorphous $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 , }$ ), the rate of crystal growth was observed to decrease with crystal size [96]. In fact, if the crystal size was about 1 nm no measurable crystal growth occurred at temperatures below $1 2 0 0 ^ { \\circ } \\mathrm { C }$ (which is about $80 \\%$ of the decomposition temperature). If the crystal size was about $1 0 \\mathrm { n m }$ the grain growth started at $8 0 0 ^ { \\circ } \\mathrm { C }$ . The physical reasons for this ``inverse'' grain growth kinetics are not yet fully understood [96]. An attempt to rationalize the surprising stability in terms of the high cohesive energy of the amorphous/crystalline interface has been proposed."
+  },
+  {
+    "id": 73,
+    "category": "figure_url",
+    "content": "![](images/39eb7c90828fa990ee9632b9bdc1d68f163b81c4defa5fce793496fff23266ad.jpg)  \nFig. 17. Comparison of the bond-angle distribution functions, $P ( \\theta )$ , for the con®ned amorphous and con®ned grain boundary phases with those for bulk amorphous and supercooled liquid silicon, respectively. In perfect-crystal silicon at $T = { 0 } \\mathrm { { K } }$ , $P ( \\theta )$ exhibits a single $\\delta$ -function peak at the tetrahedral angle $\\theta _ { \\mathrm { t } } = 1 0 9 . 4 7 ^ { \\circ }$ [86].\n![](images/a7727520f135bc8aadb1058de75a6092b0b917360aa59bedf6618bf0d15d04bf.jpg)\n![](images/d194693291ce4f9047cc0721033e6a0904f2e8a5f98018b5613b3ba29393656c.jpg)\n![](images/c92fa9e26bb5c25c29fe2f455e1fa14a76cd72ae19e6ba0acd79ab7fcdb4fc10.jpg)  \nFig. 18. Sequential STM images of a nanostructured Pd surface, imaged with a tunneling voltage of $- 4 0 \\mathrm { m V }$ (tip negative) and a tunneling current of 6 nA. The area of $4 0 0 \\times 4 0 0 \\mathrm { n m } ^ { 2 }$ is scanned at 2.5 min/image. Typical roughness data for the as-prepared samples as shown here are: peak to valley $= 4 0 0 \\ \\mathrm { n m }$ , r.m.s. roughness $= 8 0 \\mathrm { n m }$ , average roughness $= 6 5 \\mathrm { n m }$ : (a) Image obtained from the ®rst scan. (b) Image from the ®fth scan (taken 10 min after the ®rst scan), indicating the initial movements of some randomly distributed grains around the voids. (c) Image from the seventh scan, taken 15 min after the ®rst scan. Grains were pictured to be moving dynamically in a worm-like fashion to yield channel-like grain boundaries [89]."
+  },
+  {
+    "id": 74,
+    "category": "main_letter",
+    "content": "2.1.5.3. Temperature induced variation in the atomic structure of the boundaries. A variation in the atomic structure of the boundaries of NsM as a function of temperature was recently reported for nanocrystalline Si. As was discussed in Section 2.1.4, the boundaries in nanocrystalline Si exhibit an amorphous-like structure (cf. Figs 13 and 14). This structure was found [24] to represent an equilibrium structure by contrast with bulk amorphous Si. If the nanometer-sized Si is heated to elevated temperatures, the amorphous structure seems to undergo (above a glass transition temperature $T _ { \\mathrm { g } } )$ a reversible and dynamical structural transformation from the structure of amorphous Si to liquid Si. By contrast with the bulk glass transition, however, this transition is continuous, fully reversible and thermally activated, starting at $T _ { \\mathrm { { g } } }$ and being complete at the equilibrium melting point $T _ { \\mathrm { m } }$ of Si, at which the entire nanometer-sized Si sample is liquid. Figure 16(b) shows the reversibility of the structural transition. A reversible temperature variation from 1600 to $9 0 0 ~ \\mathrm { K }$ and back to $1 6 0 0 \\mathrm { K }$ results in a reversible variation of the free volume $( \\delta V )$ of the boundary [86]. The temperature-dependent variation of $\\delta V$ is summarized in Fig. 16(a). Between $T _ { \\mathrm { { g } } }$ and the melting point of Si $( T _ { \\mathrm { m } } )$ , dV varies continuously and reversibly between the amorphous and the molten state of Si. In other words, a continuous, reversible phase transition exists between the amorphous Si and the liquid Si (continuous melting and solidi®cation). Figure 17 compares the angular correlation functions, $P ( \\theta )$ , of the boundaries in Si with the ones of bulk amorphous and liquid Si: at and below $T _ { \\mathrm { { g } } }$ [i.e. below $9 0 0 \\mathrm { K }$ , cf. Fig. 16(a)] the angular distribution func- tion of the boundaries is similar to that of bulk amorphous Si. The same applies at $1 6 0 0 \\mathrm { K }$ for liquid Si and the structure of the boundaries (Fig. 17)."
+  },
+  {
+    "id": 75,
+    "category": "main_letter",
+    "content": "2.1.6. Formation of non-equilibrium alloys. In several nanostructured alloys, the solute solubility in the boundary regions was noticed to deviate from the solute solubility in the crystal lattice. The dierent solubilities (and presumably other eects as well) lead to the formation of alloys in nanocrystalline materials which do not exist in coarse-grained polycrystals, as was pointed out in Section 1.2.4."
+  },
+  {
+    "id": 76,
+    "category": "figure_url",
+    "content": "![](images/19b183628c7bd7c5431b19f2fd67f1c3fcdec0cfc7d077ca441bfac16b443ee8.jpg)  \nFig. 19. Molecular folding in semicrystalline polymers resulting in stacks of lamellar crystals with a thickness of about $1 0 { - } 2 0 ~ \\mathrm { n m }$ separated by ``amorphous'' regions."
+  },
+  {
+    "id": 77,
+    "category": "figure_url",
+    "content": "![](images/1329278cac7f461af9253bbb94194853f073271d8873d25ae2ec6070f1d31a90.jpg)  \nFig. 20. (a) Stacked lamellar morphology in polyethylene (TEM bright ®eld). (b) Needle-like morphology in polybutene-1 (TEM bright ®eld). (c) Oriented micellar morphology in polyethylene terephthalate (TEM dark ®eld micrograph). (d) Shish-kebab morphology in isotactic polystyrene (TEM dark ®eld micrograph) [90]."
+  },
+  {
+    "id": 78,
+    "category": "main_letter",
+    "content": "2.1.7. Time±temperature history and preparation eects. The NsM discussed so far are a non-equilibrium state of condensed matter. Hence, their structure and properties depend not only on the chemical composition and the size/shape of the crystallites but also on the mode of preparation and the previous time±temperature history of the material. For example, the enthalpy stored in nanocrystalline Pt may be reduced during annealing [87] up to $50 \\%$ without grain growth (i.e. at constant crystal size and chemical composition). The reduction is presumably caused by atomic rearrangements in the boundary regions. Measurements of other properties of NsM (e.g. thermal expansion, speci®c heat, compressibility) and spectroscopic studies (e.g. by MoÈ ssbauer or positron lifetime spectroscopy) indicate structural dierences between chemically identical NsM with comparable crystallite sizes if these materials were prepared by dierent methods and/or if their previous time± temperature history was dierent (e.g. [88]). In fact, similar eects have been reported for other nonequilibrium states of condensed matter (e.g. glasses). The non-equilibrium character of NsM implies that any comparison of experimental observations is meaningful only if the specimens used have comparable crystal size, chemical composition, preparation mode and time±temperature history. Moreover, the non-equilibrium character of NsM renders them susceptible to structural modi®cations by the methods applied to study their structure [89]. An example is shown in Fig. 18.   \n2.1.8. Polymeric Nanostructured Materials. So far, the considerations have been limited to elemental or low molecular weight NsM, i.e. NsM formed by atoms/molecules that are more or less spherical in shape. A dierent situation arises if NsM are syn- thesized from high molecular weight polymers, i.e. long, ¯exible molecular chains."
+  },
+  {
+    "id": 79,
+    "category": "main_letter",
+    "content": "It is one of the remarkable features of semicrystalline polymers that a nanostructured morphology is always formed if these polymers are crystallized from the melt or from solution, unless crystallization occurs under high pressure or if high pressure annealing is applied subsequent to crystallization. However, if a polymer is crystallized from solution or from the melt under ambient pressure, multilayer structures consisting of stacks of polymer single crystals result (Fig. 19). Inside the crystals, the atoms forming the polymer chains arrange in a periodic three-dimensional (crystalline) fashion. The disordered interfacial regions between neighboring crystals (Fig. 19) consist of macromolecules folding back into the same crystal and of tie molecules that meander between neighboring crystals. The typical thicknesses of the crystal lamellae are of the order of $1 0 { - } 2 0 ~ \\mathrm { n m }$ . These relatively small crystal thicknesses have been interpreted in terms of a higher nucleation rate of chain-folded crystals relative to extended chain crystals or in terms of a frozen-in equilibrium structure: at the crystallization temperature, the excess entropy associated with the chain folds may reduce the Gibbs free energy of the chain-folded crystal below that of the extendedchain crystal. Hence, at the crystallization temperature, crystallization will result in chain-folded crystals rather than in extended-chain crystals. Estimates of the excess entropy associated with the chain folds lead to a thickness of the nucleating crystals of about $1 0 { - } 2 0 ~ \\mathrm { n m }$ . It may be pointed out that the nucleation of imperfect crystals during crystallization is not limited to polymeric materials. The excess entropy associated with vacancies, e.g. in elemental crystals, results in an equilibrium vacancy concentration at the melting temperature, i.e. in the nucleation of imperfect crystals. In metals, this equilibrium vacancy concentration at the melting temperature is typically about $1 0 ^ { - 4 }$ ."
+  },
+  {
+    "id": 80,
+    "category": "figure_url",
+    "content": "![](images/eb574d7790ed44c37dc28d8f825d260fb3628138d7f2c0fc4ba5add0e1570e2d.jpg)\n![](images/faeea27490c5448a8066ad20bdcd6dbb25b6bbf0f1e219fdd61a0058b431599a.jpg)  \nGaAs (311)B Substrate   \nFig. 21. (a) Growth model of buried quantum dots of InGaAs in AlGaAs [91]. (b) STM of the surface of a AlGaAs crystal. Underneath the surface small quantum dot crystals of $\\mathrm { I n } _ { 0 . 2 } \\mathrm { G a } _ { 0 . 4 } \\mathrm { A s }$ are buried (a). The crystallites are periodically arranged [91]."
+  },
+  {
+    "id": 81,
+    "category": "main_letter",
+    "content": "Chain folding may lead to rather complex nanometer-sized microstructures, depending on the crystallization conditions. Spherulites consisting of radially arranged twisted lamellae are preferred in unstrained melts. However, if the melt is strained during solidi®cation, dierent morphologies may result, depending on the strain rate and the crystallization temperature (i.e. the undercooling). High crystallization temperatures and small strain rates favor a stacked lamellar morphology [Fig. 20(a)], high temperatures combined with high strain rates result in needle-like arrangements [Fig. 20(b)]. Low temperatures and high strain rates lead to oriented micellar structures [Fig. 20(c)]. The transition between these morphologies is continuous and mixtures of them may also be obtained under suitable conditions [Fig. 20(d)]. The way to an additional variety of nanostructured morphologies was opened when multicomponent polymer systems, so-called polymer blends, were prepared. Polymer blends usually do not form spacially homogeneous solid solutions but separate on length scales ranging from a few nanometers to many micrometers. The following types of nanostructured morphologies of polymer blends are formed in blends made up of one crystallizable and one amorphous (non-crystallizable) component: (I) The spherulites of the crystallizable component grow in a matrix consisting mainly of the non-crystallizable polymer. (II) The non-crystallizable component may be incorporated into the interlamellar regions of the spherulites of the crystallizable polymer. The spherulites are space-®lling. (III) The non-crystallizable component may be included within the spherulites of the crystallizable polymer forming domains having dimensions larger than the interlamellar spacing. For blends of two crystallizable components, the four most common morphologies are: (I) Crystals of the two components are dispersed in an amorphous matrix. (II) One component crystallizes in a spherulitic morphology while the other crystallizes in a simpler mode, e.g. in the form of stacked crystals. (III) Both components exhibit a separate spherulitic structure. (IV) The two components crystallize simultaneously resulting in so-called mixed spherulites, which contain lamellae of both polymers."
+  },
+  {
+    "id": 82,
+    "category": "main_letter",
+    "content": "# 2.1.9. Self-organized{ nanostructured arrays"
+  },
+  {
+    "id": 83,
+    "category": "figure_url",
+    "content": "![](images/6ca28f6ee91249dde8ca0f042262d0f9b182f5fc394299c8726cd73f5edded48.jpg)  \nFig. 22. Electron micrographs of the morphologies of a copolymer consisting of polystyrene and polybutadiene blocks, as a function of the fraction of polystyrene blocks. The spacial arrangements of the polystyrene and polybutadiene in the solidi®ed polymer are indicated in the drawings above the micrographs [90]."
+  },
+  {
+    "id": 84,
+    "category": "main_letter",
+    "content": "2.1.9.1. Non-polymeric NsM. A modi®ed Stranski± Krastanov growth mechanism has been noticed to result in self-organized (periodic) arrays of nanometer-sized crystallites. If a thin InGaAs layer is grown on a AlGaAs substrate, the InGaAs layer disintegrates into small islands once it is thicker than a critical value [91]. These islands are spontaneously overgrown by a AlGaAs layer so that nanometer-sized InGaAs crystals buried in AlGaAs result (Fig. 21). The observations reported indicate that the size, morphology and the periodic arrangement of the buried islands are driven by a reduction in the total free energy of the system. The driving force for the periodic arrangement of the crystallites seems to be the reduction in the strain energy of the system (cf. Ref. [174])."
+  },
+  {
+    "id": 85,
+    "category": "main_letter",
+    "content": "2.1.9.2. Polymeric NsM. Block copolymers constitute a class of self-organized nanostructured materials. The macromolecules of a block copolymer consist of two or more chemically dierent sections that may be periodically or randomly arranged along the central backbone of the macromolecules and/or in the form of side branches. An example of a block copolymer is atactic polystyrene blocks alternating with blocks of polybutadiene or polyisoprene. The blocks are usually non-compatible and aggregate in separate phases on a nanometer scale if the copolymer is crystallized."
+  },
+  {
+    "id": 86,
+    "category": "main_letter",
+    "content": "As an example of the various self-organized nanostructured morphologies possible in such systems, Fig. 22 displays the morphologies formed in the system polystyrene/polybutadiene as a function of the relative polystyrene fraction. The large variety of nanostructured morphologies that may be obtained in polymers depending on the crystallization conditions (cf. Section 2.1.8) and the chemical structure of the macromolecules causes the properties of polymers to vary dramatically depending on the processing conditions."
+  },
+  {
+    "id": 87,
+    "category": "main_letter",
+    "content": "NsM formed by block copolymers seem to rep- resent (metastable) equilibrium structures despite the high excess energy stored in the interfaces between the structural constituents, e.g. the polystyrene and the polybutadiene regions. The formation of these interfaces results from the local accumulation of the compatible segments of the macromolecules. Hence, the only way to remove these interfaces would be to generate a solid solution of the dierent segments forming the block copolymer, e.g. a solid solution of polystyrene and polybutadiene. However, the solid solution has a higher free energy than the nanometer-scaled microstructure. Hence, due to the block structure of the macromolecule, the microstructure of lowest free energy that the system can form during crystallization, is a nanometer-sized arrangement of regions formed by chemically identical block segments. These regions are separated by interfaces. In other words, the nanometer-sized microstructure is already ``implanted'' into the system by way of the block copolymer synthesis of the macromolecules. The only way to avoid the high density of interfaces between the constituents would be to break the (covalent) bonds of the backbone of the polymer at the points where the polystyrene and polybutadiene blocks are joined together and by joining the segments of the same chemical structure into new macromolecules of pure polystyrene or polybutadiene."
+  },
+  {
+    "id": 88,
+    "category": "main_letter",
+    "content": "# 2.2. Equilibrium Nanostructured Materials"
+  },
+  {
+    "id": 89,
+    "category": "main_letter",
+    "content": "2.2.1. Supramolecular self-assembled structures."
+  },
+  {
+    "id": 90,
+    "category": "figure_url",
+    "content": "![](images/02caff8352924299cdaf30d4cf89a3fbf9187202d8b754256e8adcfdda91e113.jpg)  \nFig. 23. (a) Oligopyridine ligands with the ability to form helical structures. The ligands shown consist of two, three, four or ®ve 2,2-bipyridine units [98]. (b) Formation of enantiomeric double-stranded helicates from two to ®ve tetrahedrally coordinated metal ions [Cu(I), Ag(I), dotted circles]. (c) Structural model deduced from X-ray diraction studies.\n![](images/7996a48fd49cf92dd3ec01761033c290ececb1f9705dc488a92b3230ac83f5ba.jpg)  \nFig. 24. Self-organized triple-helical structure. The structure comprises three ligand molecules each of which contains three $^ { 2 , 2 ^ { \\prime } }$ -bipyridine units and three octahedrally coordinated Ni(II) ions [98, 100, 101]. Bottom: Structure of a trihelicate deduced by X-ray diraction."
+  },
+  {
+    "id": 91,
+    "category": "main_letter",
+    "content": "Supramolecules are oligomolecular species that result from the intermolecular association of a few components (receptors and substrates) following an inherent assembling pattern based on the principles of molecular recognition. Supramolecular selfassembly{ concerns the spontaneous association of either a few or a large number of components resulting in the generation of either discrete oligomolecular supermolecules or of extended polymolecular assemblies such as molecular layers, ®lms, membranes, etc. In other words, speci®c phases having well-de®ned microscopic molecular arrangements and related macroscopic characteristics [97]."
+  },
+  {
+    "id": 92,
+    "category": "figure_url",
+    "content": "![](images/548f40a5b7b7ffbb7d46c94ea97be59865aa769756d15d052c48f6abd300b618.jpg)  \nFig. 25. Top: Schematic diagram of the self-assembly of an inorganic lattice. The lattice consists of six linear molecules each of which contains three bonding sites. The molecules are held together by nine metal atoms attached to the bonding sites. Middle: Spontaneous formation of a $3 \\times 3$ lattice comprising six molecules each of which consists of two pyridine and two pyridazine groups. The bonding sites contain two nitrogen atoms. The molecules are held together by nine tetrahedrally binding $\\mathrm { A g ( I ) }$ ions [98]. Bottom: Structure of a lattice of this type deduced from X-ray diraction data [98].\n![](images/8a51bbf03f5ee752f915e6c1d66a8ca45f3d009beb4e1977505563f9efd54a39.jpg)  \nFig. 26. Self-assembly of a supramolecular ribbon from barbituric acid and 2,4,6-triaminopyrimidine units [97, 105]."
+  },
+  {
+    "id": 93,
+    "category": "main_letter",
+    "content": "Self-assembly seems to open the way to nanostructures, organized and functional species of nanometer-sized dimensions that bridge the gap between molecular events and macroscopic features of bulk materials. For a detailed discussion of this development and of future perspectives, we refer to Ref. [97]. The present review will be limited to outline only those aspects of the ®eld [97, 98] that are directly related to the synthesis of NsM."
+  },
+  {
+    "id": 94,
+    "category": "main_letter",
+    "content": "# 2.2.2. Self-assembled inorganic architectures"
+  },
+  {
+    "id": 95,
+    "category": "main_letter",
+    "content": "2.2.2.1. Multiple helical metal complexes. Selfassembled supramolecular structures may be generated if linear oligobipyridine ligands formed by two or up to ®ve $^ { 2 , 2 ^ { \\prime } }$ -bipyridine units are brought together with $\\mathrm { C u ( I ) }$ ions. In the presence of $\\operatorname { C u } ( \\mathrm { I } )$ ions, the ligands spontaneously assemble into double-stranded di- to pentahelicates [99] consisting of two ligand strands wrapped around one another, $\\mathrm { C u ( I ) }$ holding them together (Fig. 23). An important feature of this nanometer-sized structure is that it allows the attachment of substituents to the bipy units arranged in a helical fashion. If the $\\mathrm { C u ( I ) }$ ions are replaced by Ni(II) ions, a triple helix results consisting of three strands held together by three Ni(II) ions (Fig. 24)."
+  },
+  {
+    "id": 96,
+    "category": "main_letter",
+    "content": "2.2.3. Multicomponent self-assembly of nanometersized structures: racks, ladders, grids. Multicomponent self-assembly allows the spontaneous generation of well-de®ned three-dimensional molecular architectures in the form of racks, ladders or grids. They are formed by the complexation of linear ligands or extended units with metal ions in tetrahedral or octahedral sites. Figure 25 displays (as an example) a $3 \\times 3$ nm-sized grid made up of two pyridine groups and one bipyridazine unit connected by Ag(I) ions [102±104]."
+  },
+  {
+    "id": 97,
+    "category": "main_letter",
+    "content": "2.2.4. Self-assembled organic architectures. Selfassembly of organic architectures utilizes the following types of interaction between the components involved: electrostatic interaction, hydrogen bonding, van de Waals or donor±acceptor eects. If the self-assembling molecules incorporate speci®c optical, electrical, magnetic, etc. properties, their ordering on a nanometer scale induces a range of novel features."
+  },
+  {
+    "id": 98,
+    "category": "figure_url",
+    "content": "![](images/76060ae28f7c34724440a969123afe26e5e8bb853e74bebb74d930d8ca1fa99a.jpg)  \nFig. 27. Schematic diagram indicating some of the (many) possible nanometer-sized molecular structures to be synthesized by supramolecular polymer chemistry [107].\n![](images/90e4aa2abe39b2e612da74034dc7f7f45de207bbea8b0447b1e17c84400e27d3.jpg)  \nFig. 28. (a) Stable branched DNA molecule. (b) Sticky ends of the DNA molecules. (c) Assembly of four sticky-ended DNA molecules into a square-shaped pattern [108, 109]."
+  },
+  {
+    "id": 99,
+    "category": "main_letter",
+    "content": "Self-assembly by hydrogen bonding leads to twoor three-dimensional molecular architectures which often have a typical length scale of a few nanometers. The self-assembly of structures of this type requires the presence of hydrogen-bonding subunits the disposition of which determines the topology of the architecture. Ribbon, tape, rosette, cage-like and tubular morphologies have been synthesized. For example, Fig. 26 displays a supramolecular ribbon structure [105, 106]; with increasing control being achieved over the molecular design of the building subunits, a large variety of new two- and three-dimensional architectures will be realized."
+  },
+  {
+    "id": 100,
+    "category": "main_letter",
+    "content": "Supramolecular interactions play a crucial role in the formation of liquid crystals and in supramolecular polymer chemistry. The latter involves the designed manipulation of molecular interactions (e.g. hydrogen bonding, etc.) and recognition processes (receptor±substrate interaction) to generate main-chain or side-chain supramolecular polymers by self-assembly of complementary monomeric components."
+  },
+  {
+    "id": 101,
+    "category": "main_letter",
+    "content": "Figure 27 displays some of the dierent types of polymeric superstructures that represent supramolecular versions of various species and procedures of supramolecular polymer chemistry leading to materials with nanometer-sized microstructures. Recognition eects are expected to play a major role in the assembly and self-organization processes. In the case of macromolecules, the supramolecular association may be either intermolecular occurring between the large molecules, or intramolecular involving recognition sites located either in the main chain or in side-chain appendages. The controlled manipulation of the intermolecular interaction opens the way to the supramolecular engineering of NsM."
+  },
+  {
+    "id": 102,
+    "category": "main_letter",
+    "content": "2.2.5. Supramolecular materials and nanochemistry. The ability to control the way in which molecules associate allows the design of nanometersized molecular architectures. Some implications for nanotechnology appear to be obvious. For example, surfaces with molecular recognition units will dis- play selective surface binding leading to recognition-controlled adhesion. Components derived from biological structures are likely to yield biomaterials such as biomesogens, biominerals obtained by using supramolecular assemblies as support for inorganic particles in protein cages. Solid-state inorganic self-assembled structures present tunnels, cages and micropores where size, shape and spacing may be tailored to serve as selective hosts for nanometer-sized crystals, nano-wires or related entities. Self-assembly of inorganic architectures based on organometallic building blocks yield various types of frameworks such as Sb or Te chains, chains of metal complexes, honeycomb or diamond arrays, frameworks of metal chalcogenides with helical structures, networks of interlocked rings of inorganic and organic nature."
+  },
+  {
+    "id": 103,
+    "category": "main_letter",
+    "content": "By increasing the size of the entities, nanochemistry approaches the length scale of lithography and may thus turn out to be an important tool in producing the next generation of devices."
+  },
+  {
+    "id": 104,
+    "category": "figure_url",
+    "content": "![](images/f6829f34138e2c2acae1cfebc7d78e8e59371fb3f8dc34f4b358f8ce7dc7befd.jpg)\n![](images/9340f359a92b28a3a4272900c036f1831f78fc4e4b3571b8b21e66e0684deba3.jpg)  \nFig. 29. Cube and truncated octahedron assembled of DNA molecules [110, 111]."
+  },
+  {
+    "id": 105,
+    "category": "main_letter",
+    "content": "2.2.6. DNA self-assembled nanostructures. As was pointed out in the previous section, it is one of the basic results of organic chemistry that intermolecular interaction is based on ®xation, molecular recognition and coordination. In other words, molecular binding is highly selective implying a complementary geometry that lays the basis for molecular recognition. The control of newly synthesized molecular structures relies on this speci®city and geometric constraints between the partners held together by intermolecular interactions. With this criterion in mind, DNA is an extremely favorable ``construction material'' for nanoscale structures. It permits the informational character of macromolecules of biological systems to be utilized. In fact, the construction of sticky ®gures using branched DNA molecules as building blocks has been demon- strated to open the way to the synthesis of a large variety of DNA arrangements [108, 109]. The edges of these arrangements consist of double-helical DNA and the vertices correspond to the branch points of stable DNA branched junctions. This strategy is illustrated in Fig. 28. On the left-hand side the stable branched DNA molecule is displayed. The ®gure in the middle indicates the sticky ends. Four of these sticky-ended molecules are assembled into a quadrilateral (right-hand side of Fig. 28). The same technique has been applied to synthesize two- and three-dimensional periodic nanometer-sized DNA structures [110, 111] with prede-®ned topologies, e.g. cubes, truncated octahedrons, etc. (Fig. 29). In order to synthesize macroscopic periodic arrays made up of cubes, truncated octa- hedrons, etc. DNA motifs that are more rigid than branched junctions are required [112, 113]. Suitable structures of this type seem to be double crossover molecules. By attaching such molecules to the sides of DNA triangles and deltahedra, two- and threedimensional nanometer-sized structures may be synthesized."
+  },
+  {
+    "id": 106,
+    "category": "figure_url",
+    "content": "![](images/5105c667cbff4453b59b877fab96a34ad4b3600dc05f7b0e1c765e6d2c13f8d1.jpg)  \n(a)   \n(b)\nFig. 30. Transmission electron micrograph images of (a) the lamellar morphology, (b) the cubic phase with Ia3d symmetry viewed along its (111) zone axis, and (c) the hexagonal phase viewed along its (001) zone axis of the silica/surfactant nanostructured composites by co-assembly $ { \\mathrm { b a r s } } = 3 0  { \\mathrm { n m } }$  [121]."
+  },
+  {
+    "id": 107,
+    "category": "main_letter",
+    "content": "2.2.7. Template-assisted nanostructured materials and self-replication. The basic idea of templating is to position the components into predetermined con-®gurations so that subsequent reactions, deliberately performed on the pre-assembled species or occurring spontaneously within them, will lead to the generation of the desired nanoscale structure. The templating process may become self-replication if spontaneous reproduction of one of the initial species takes place by binding, positioning and condensation [114±116]."
+  },
+  {
+    "id": 108,
+    "category": "main_letter",
+    "content": "Inorganic and organic templating has been used for the generation of nanometer-sized polymer arrangements displaying molecular recognition through imprinting, i.e. a speci®c shape and sizeselective mark on the surface or in the bulk of the polymer. Imprinting into polymeric materials has been achieved by either a covalent or a noncovalent approach. The former uses the reversible covalent binding of the substrate to the monomer [117, 118]. In the latter, suitable functionalized monomers are left to prearrange around the substrate. Removal of the imprint molecule from the polymer leaves recognition sites that are complementary in geometry and functionality."
+  },
+  {
+    "id": 109,
+    "category": "main_letter",
+    "content": "Mesophase templating represents a special case that appears to be of considerable signi®cance for the development of this area. Silica precursors when mixed with surfactants result in polymerized silica ``casts'' or ``templates'' of commonly observed surfactant±water liquid crystals. Three dierent mesoporous geometries have been reported [119±122], each mirroring an underlying surfactant±water mesophase (Fig. 30). These mesoporous materials are constructed of walls of amorphous silica, only about $1 \\mathrm { n m }$ thick, organized about a repetitive arrangement of pores up to $1 0 \\mathrm { n m }$ in diameter. The resulting materials are locally amorphous (on atomic length scales) and periodic on larger length scales."
+  },
+  {
+    "id": 110,
+    "category": "main_letter",
+    "content": "The availability of highly controlled pores on the $1 { - } 1 0 ~ \\mathrm { n m }$ scale oers opportunities for creating unusual composites, with structures and properties unlike any that have been made to date. However, the eective use of mesoporous silicates requires two critical achievements: (i) controlling the mesophase pore structure; and (ii) synthesizing large monolithic and mesoporous ``building blocks'' for the construction of larger, viable composite materials. Although important information exists on some aspects of controlling the mesoporous structure [119, 123], large-scale structures have not yet been constructed."
+  },
+  {
+    "id": 111,
+    "category": "main_letter",
+    "content": "The synthesis scheme of silica-based mesostructured materials [119, 122, 123] using assemblies of surfactant molecules to template the condensation of inorganic species has been extended to include a wide variety of transition metal oxides [124] and, recently, cadmium sul®de and selenide semiconductors [125]. Although the exact mechanism for this type of mineralization is still controversial [122], this technique holds great promise as a synthetic scheme to produce nanostructured materials with novel thermal, electronic, optical, mechanical and selective molecular transport properties. Continuous mesoporous silicate ®lms can be grown on a variety of substrates [126], e.g. mica, graphite or block copolymers. In fact, nanostructured ${ \\mathrm { B a T i O } } _ { 3 }$ ®lms"
+  },
+  {
+    "id": 112,
+    "category": "reference",
+    "content": "have been grown on a polybutadiene±polystyrene triblock copolymer [127].\n # REFERENCES 1. Hengelein, A., Chem. Rev., 1998, 89, 1861.   \n2. Gleiter, H., Nanostruct. Mater., 1995, 6, 3.   \n3. Zachariasen, W., J. Am. chem. Soc., 1932, 54, 3841.   \n4. Gleiter, H., Nanostruct. Mater., 1992, 1, 1.   \n5. Grossard, A. C., Thin Solid Films, 1979, 57, 3.   \n6. Gleiter, H., in Mechanical Properties and Deformation Behaviour of Materials Having Ultra-Fine Microstructures, ed. M. Nastasi and D. M. Parkin, NATO Adv. Study Inst. Series E, Applied Science, Vol. 233. Kluwer, Dordrecht, 1993, p. 3.   \n7. Herr, U., Jing, J., Gonser, U. and Gleiter, H., Solid St. Commun., 1990, 76, 192.   \n8. Suryanarayana, C., Int. metall. Rev., 1995, 40, 41.   \n9. WeissmuÈ ller, J., in Synthesis and Processing of Nanocrystalline Powder, ed. D. L. Bourell. TMS, Warrendale, PA, 1996, p. 3.   \n10. Hdjipanayis, G. C. and Siegel, R. W., in Nanophase Materials, ed. G. C. Hdjipanayis and R. W. Siegel. Kluwer, Dordrecht, 1994.   \n11. Siegel, R. W., in Encyclopedia of Applied Physics, Vol. 11, ed. G. L. Trigg. VCH, Weinheim, Germany, 1994.   \n12. Dagani, R., Chem. Engng News, 1992, 70, 18.   \n13. Gleiter, H., Prog. Mater. Sci., 1998, 33, 223.   \n14. Konrad, H., WeissmuÈ ller, J., Hempelmann, J., Birringer, R., Karmonik, C. and Gleiter, H., Phys. Rev., 1998, B58, 2142.   \n15. Veprek, S., Nesladek, P., Niederhofer, A., Glatz, F., Jilek, M. and Sima, M., Surf. Coating Technol., 1998, 108±109, 138.   \n16. Merkle, K. L., Reddy, J. F., Wiley, C. L. and Smith, D. J., Phys. Rev. Lett., 1989, 59, 2887.   \n17. Trapp, S., Limbach, C. L., Gonser, H., Campbell, C. S. and Gleiter, H., Phys. Rev. Lett., 1995, 75, 3766.   \n18. LoÈ er, J., WeissmuÈ ller, J. and Gleiter, H., Nanostruct. Mater., 1994, 6, 567.   \n19. Ramasamy, S., Jiang, J., Gleiter, H., Birringer, R. and Gonser, U., Solid St. Commun., 1990, 74, 851.   \n20. Jing, J., Ph.D. thesis, University of the Saarland, FB 12.1, 1989.   \n21. Keblinski, P., Wolf, D., Cleri, F., Phillpot, S. R. and Gleiter, H., MRS Bull., 1998, 36.   \n22. Keblinski, P., Wolf, D., Phillpot, S. R. and Gleiter, H., J. Mater. Res., 1998, 13, 2077.   \n23. Erdemir, A., Bindal, C., Fenske, G. R., Zuiker, C., Krauss, A. R. and Gruen, D. M., Diamond Rel. Mater., 1996, 5, 923.   \n24. Keblinski, P., Phillpot, S. R., Wolf, D. and Gleiter, H., Phys. Lett. A, 1997, 226, 205.   \n25. Keblinski, P., Phillpot, S. R., Wolf, D. and Gleiter, H., Acta mater., 1997, 45, 987.   \n26. Iqbal, Z., Webb, A. P. and Veprek, S., Appl. Phys. Lett., 1980, 36, 163.   \n27. Veprek, S., Iqbal, Z., Oswald, H. R. and Webb, A. P., J. Phys., 1981, C14, 295.   \n28. Wolf, D., Wang, J., Phillpot, S. R. and Gleiter, H., Phys. Lett. A, 1995, 205, 274.   \n29. Wang, J., Wolf, D., Phillpot, S. R. and Gleiter, H., Phil. Mag. A, 1996, 73, 517.   \n30. Beck, P. A., Kremer, J. C., Demer, L. J. and Holzworth, M. L., Trans. Am. Inst. Min. Engrs, 1948, 175, 372.\n 31. Burke, J. E., Trans. Am. Inst. Min. Engrs, 1949, 180, 73.   \n32. Atkinson, H. V., Acta metall., 1988, 36, 469.   \n33. HoÈ ¯er, H. J. and Averback, R. S., Scripta metall. mater., 1990, 24, 2401.   \n34. Nieman, G. W. and Weertman, J. R., in Proc. M.E. Fine Symp., ed. P. K. Liaw, et al. TMS, Warrendale, PA, 1991, p. 243.   \n35. Ganapathi, S. K., Owen, D. M. and Chokshi, A. H., Scripta metall. mater., 1991, 25, 2699.   \n36. Boylan, K., Ostrander, D., Erb, U., Palumbo, G. and Aust, K. T., Scripta metall. mater., 1991, 25, 2711.   \n37. Malow, T. R. and Koch, C. C., Acta mater., 1997, 45, 2177.   \n38. Chen, L. C. and Spaepen, F., Nature, 1988, 336, 366.   \n39. Lu, K., Scripta metall. mater., 1991, 25, 2047.   \n40. Suryanarayana, C. and Froes, F. H., Nanostruct. Mater., 1993, 3, 147.   \n41. Lu, K., Wei, W. D. and Wang, J. T., J. appl. Phys., 1991, 69, 7345.   \n42. Lu, K., Nanostruct. Mater., 1993, 2, 643.   \n43. Spassov, T. and KoÈ ster, U., J. Mater. Sci., 1993, 28, 2789.   \n44. Kumpmann, A., GuÈ nther, B. and Kunze, H.-D., Mater. Sci. Engng, 1993, A168, 165.   \n45. Krill, C., Proc. 4th Conf. Nanostruct. Mater., Stockholm, 14±19 June 1998, p. 1.   \n46. Kawanishi, S., Isonishi, K. and Okazaki, K., Mater. Trans. JIM, 1993, 34, 49.   \n47. Isonishi, K. and Okazaki, K., J. Mater. Sci., 1993, 28, 3829.   \n48. Marlow, T. R. and Koch, C. C., in Synth. and Proc. of Nanocryst. Mat., ed. D. L. Bourell. TMS, Warrendale, PA, 1996, p. 33.   \n49. Erb, U., Nanostruct. Mater., 1995, 5±8, 533.   \n50. Jiang, J. Z., Nanostruct. Mater., 1997, 9, 245.   \n51. Ranganathan, S. and Suryanarayana, C., Mater. Sci. Forum, 1985, 3, 173.   \n52. WuÈ rschum, R., Revue MeÂtall., Science et GeÂnie des MateÂriaux, in press.   \n53. Michels, A., Krill, C. E., Natter, H. and Birringer, R., in Grain growth in polycrystalline materials III, ed. H. Weiland, B. L. Adams and A. D. Rollett. The Minerals, Metals and Materials Society, Warrendale, PA, 1998, p. 449.   \n54. Hahn, H., Logas, J. and Averback, R. S., J. Mater. Res., 1990, 5, 609.   \n55. Averback, R. S., HoÈ ¯er, H. J. and Tao, R., Mater. Sci. Engng, 1993, A166, 169.   \n56. Averback, R. S., Hahn, H., HoÈ ¯er, H. J., Logas, J. L. and Chen, T. C., in Interfaces Between Polymers, Metals and Ceramics, ed. B. M. DeKoven, et al., Mater. Res. Soc. Symp. Proc., Vol. 153, 1989, p. 3.   \n57. HoÈ ¯er, H. J. and Averback, R. S., Scripta metall. mater., 1990, 24, 2401.   \n58. Eastman, J. A., J. appl. Phys., 1994, 75, 770.   \n59. Guoxian, L., Zhichao, L. and Erde, W., J. Mater. Sci. Lett., 1995, 14, 533.   \n60. Isonishi, K. and Okazaki, K., J. Mater. Sci., 1993, 28, 3829.   \n61. Kawanishi, S., Isonishi, K. and Okazaki, K., Mater. Trans. JIM, 1993, 34, 49.   \n62. Tong, H. Y., Ding, B. Z., Jiang, H. G., Hu, Z. Q., Dong, L. and Zhou, Q., Mater. Lett., 1993, 16, 260.   \n63. Boylan, K., Ostrander, D., Erb, U., Palumbo, G. and Aust, K. T., Scripta metall. mater., 1991, 25, 2711.   \n64. Bansal, C., Gao, Z. Q. and Fultz, B., Nanostruct. Mater., 1995, 5, 327.   \n65. Gao, Z. Q. and Fultz, B., Nanostruct. Mater., 1994, 4, 939.\n 66. Gao, Z. Q. and Fultz, B., Nanostruct. Mater., 1993, 2, 231.   \n67. Ganapathi, S. K., Owen, D. M. and Chokshi, A. H., Scripta metall. mater., 1991, 25, 2699.   \n68. Gertsman, V. Y. and Birringer, R., Scripta metall. mater., 1994, 30, 577.   \n69. WeissmuÈ ller, J., LoÈ er, J. and Kleber, M., Nanostruct. Mater., 1995, 6, 105.   \n70. Michels, A., Krill, C. E., Ehrhard, H., Birringer, R. and Wu, D. T., Acta mater., 1999, 47, 2143.   \n71. Brook, R. J., Scripta metall., 1968, 2, 375.   \n72. Gertsman, V. Y. and Birringer, R., Scripta metall. mater., 1994, 30, 577.   \n73. Smith, C. S., Trans. Am. Inst. Min. Engrs, 1948, 175, 15.   \n74. Handwerker, C. A., Blendell, J. E. and Coble, R. L., in Science of Sintering, ed. D. P. Uskovic, H. Palmour III and R. M. Spriggs. Plenum Press, New York, 1989, p. 3.   \n75. Gleiter, H., Prog. Mater. Sci., 1972, 16, 138.   \n76. Knauth, P., Charal, A. and Gas, P., Scripta metall. mater., 1993, 28, 325.   \n77. Gibbs, J. W., in The Collected Works of J.W. Gibbs, Vol. I. Longmans, Green, New York, 1928, p. 55.   \n78. Hondros, E. D. and Seah, M. P., in Physical Metallurgy, 3rd edn, ed. R. W. Cahn and P. Haasen. Elsevier, Amsterdam, 1983, p. 855.   \n79. WeissmuÈ ller, J., Nanostruct. Mater., 1993, 3, 261.   \n80. WeissmuÈ ller, J., J. Mater. Res., 1994, 9, 4.   \n81. Krill, C. E., Klein, R., Janes, S. and Birringer, R., Mater. Sci. Forum, 1995, 179±181, 443.   \n82. WeissmuÈ ller, J., Krauss, W., Haubold, T., Birringer, R. and Gleiter, H., Nanostruct. Mater., 1992, 1, 439.   \n83. Terwilliger, C. D. and Chiang, Y.-M., Acta metall., 1995, 43, 319.   \n84. Abe, Y. R., Holzer, J. C. and Johnson, W. L., Mater. Res. Soc. Symp. Proc., 1992, 238, 721.   \n85. Terwilliger, C. D. and Chiang, Y. M., Nanostruct. Mater., 1994, 4, 651.   \n86. Keblinski, P., Wolf, D., Phillpot, S. R. and Gleiter, H., Phil. Mag. Lett., 1997, 76, 143.   \n87. Tschoepe, A., Birringer, R. and Gleiter, H., J. appl. Phys., 1992, 71, 5391.   \n88. WuÈ rschum, R., Reimann, K., Gruss, S., KuÈ bler, A., Scharwaechter, P., Frank, W., Kruse, O., Carstanjen, H. D. and Schaefer, H.-E., 1997, Phil Mag. B, 1997, 76, 407.   \n89. Ying, J. Y., Wang, G. H., Fuchs, H., Laschinski, R. and Gleiter, H., Mater. Lett., 1992, 15, 180.   \n90. Petermann, J., Bull. Inst. chem. Res. Kyoto University, 1991, 69, 84.   \n91. NoÈ tzel, R., Fukui, T. and Hasegawa, H., Phys. BlaÈtter, 1995, 51, 598.   \n92. Landauer, R., in Self-Organizing Systems, The Emergence of Order, ed. F. E. Yates. Plenum Press, New York, 1987, p. 435.   \n93. Haken, H., Synergetics. Springer, Berlin, 1978.   \n94. Haken, H., in Synergetics, Chaos, Order, Self-Organization, ed. M. Bushev. World Scienti®c, London, 1994.   \n95. Nicolis, G. and Prigogine, I., Self-Organization in Non-Equilibrium Systems. Wiley, New York, 1977.   \n96. Veprek, S., Nesladek, P., Niederhofer, A., MaÈ nnling, H. and Jilnek, M., TMS Annual Meeting 1999, San Diego, CA, February/March 1999, Invited Paper.   \n97. Lehn, J.-M., in Supramolecular Chemistry. VCH, Weinheim, Germany, 1995, p. 140.   \n98. Lehn, J.-M., Nova Acta Leopoldina, 1997, 76, 313.   \n99. Zarges, W., Hall, J., Lehn, J.-M. and Bolm, C., Helv. chim. Acta, 1991, 74, 1843.   \n00. KraÈ mer, R., Lehn, J.-M., DeCian, A. and Fischer, J., Angew. Chem., 1993, 105, 764.\n 101. KraÈ mer, R., Lehn, J.-M., DeCian, A. and Fischer, J., Angew. Chem. Int. Ed. Engl., 1993, 32, 703.   \n102. Kimura, E., Topics Curr. Chem., 1985, 128, 113.   \n103. Youinou, M.-T., Rahmouni, N., Fischer, J. and Osborn, J. A., Angew. Chem., 1992, 104, 771.   \n104. Youinou, M.-T., Rahmouni, N., Fischer, J. and Osborn, J. A., Angew. Chem. Int. Ed. Engl., 1992, 31, 733.   \n105. Lehn, J.-M., Mascal, M., DeCian, A. and Fischer, J., J. chem. Soc. Perkin Trans., 1992, 2, 461.   \n106. Zerkowski, J. A., Seto, C. T. and Whitesides, G. M., J. Am. chem. Soc., 1992, 114, 5473.   \n107. Lehn, J.-M., Makromol. Chem., Macromol. Symp., 1993, 69, 1.   \n108. Seeman, N. C., J. Theor. Biol., 1982, 99, 237.   \n109. Chen, J. and Seeman, N. C., Nature, 1991, 350, 631.   \n110. Zhang, Y. and Seeman, N. C., J. Am. chem. Soc., 1992, 114, 2656.   \n111. Zhang, Y. and Seeman, N. C., J. Am. chem. Soc., 1994, 116, 1661.   \n112. Fu, T.-J. and Seeman, N. C., Biochemistry, 1993, 32, 3211.   \n113. Shi, J. and Bergstrom, D. E., Angew. Chem. Int. Ed. Engl., 1997, 36, 111.   \n114. Dhal, P. K. and Arnold, F. H., J. Am. chem. Soc., 1991, 113, 7417.   \n115. Philip, D. and Stoddart, J. F., Synlett., 1991, 445.   \n116. Benniston, A. C. and Harriman, A., Synlett., 1993, 223.   \n117. Wul, G., ACS Symp. Ser., 1986, 308, 186.   \n118. Wul, G., TIBTECH, 1993, 11, 85.   \n119. Kresge, C. T., Leonowicz, M. E., Roth, W. J., Vartuli, J. C. and Beck, J. S., Nature, 1992, 359, 710.   \n120. Beck, J. S., Vartuli, J. C., Roth, W. J., Leonowicz, M. E., Kresge, C. T., Schmitt, K. D., Chu, C. T.-W., Olson, D. H., Sheppard, E. W., McCullen, S. B., Higgins, J. B. and Schlender, J. L., J. Am. Chem. Soc., 1992, 114, 10834.   \n121. McGehee, M. D., Gruner, S. M., Yao, N., Chun, C. M., Navrotsky, A. and Aksay, I. A., in Proc. 52nd Ann. Mtg MSA, ed. G. W. Bailey and A. J. Garret-Reed. San Francisco Press, San Francisco, CA, 1994, p. 448.   \n122. Monnier, A., SchuÈ th, F., Huo, Q., Kumar, D., Margolese, D., Maxwell, R. S., Stucky, G. D., Krishnamurthy, M., Petro, P., Firouzi, A., Janicke, M. and Chmelka, B. F., Science, 1993, 261, 1299.   \n123. Huo, Y., Margolese, D. I., Ciesla, U., Feng, P., Gier, T. E., Sieger, P., Leon, R., Petro, P. M., SchuÈ th, F. and Stucky, G. D., Nature, 1993, 365, 317.   \n124. Antonelli, D. M. and Ying, J. Y., Angew. Chem. Int. Ed. Engl., 1995, 34, 2014.   \n125. Braun, P. V., Osenar, P. and Strupp, S. I., Nature, 1996, 380, 325.   \n126. Aksay, I. A., Trau, M., Manne, S., Honma, I., Yao, N., Zhou, L., Fenter, P., Eisenberger, P. M. and Gruner, S. M., Science, 1996, 273, 892.   \n127. Aksay, I. A., in R&D Status and Trends in Nanoparticles, Nanostructured Materials and Nanodevices in U.S.. World Technology, Ed. Center, Baltimore, MD, 1997, p. 95.   \n128. Hub, H.-H., Hupfer, B., Koch, H. and Ringsdorf, H., Angew. Chem., 1980, 92, 962.   \n129. Hub, H.-H., Hupfer, B., Koch, H. and Ringsdorf, H., Angew. Chem. Int. Ed. Engl., 1980, 19, 938.   \n130. Gros, L., Ringsdorf, H. and Schupp, H., Angew. Chem. Int. Ed. Engl., 1981, 93, 311.   \n131. Gros, L., Ringsdorf, H. and Schupp, H., Angew. Chem. Int. Ed. Engl., 1981, 20, 305.   \n132. Ringsdorf, H., Schlarb, B. and Venzmer, J., Angew. Chem., 1988, 100, 117.\n 133. Ringsdorf, H., Schlarb, B. and Venzmer, J., Angew. Chem. Int. Ed. Engl., 1988, 27, 113.   \n134. Wegner, G., Chimica, 1982, 36, 63.   \n135. Paleos, C. M., Chem. Rev., 1985, 14, 45.   \n136. Rees, G. D. and Robinson, B. H., Adv. Mater., 1993, 5, 608.   \n137. Paleos, C. M. (ed.), Polymerization in Organized Media. Gordon & Breach, Philadelphia, PA, 1992.   \n138. Kobayashi, S. and Uyama, H., Polish J. Chem., 1994, 68, 417.   \n139. Mosbach, K., TIBS, 1994, 19, 9.   \n140. Vlatakis, G., Andersson, L. I., MuÈ ller, R. and Mosbach, K., Nature, 1993, 361, 645.   \n141. Moradian, A. and Mosbach, K., J. Mol. Recogn., 1989, 2, 167.   \n142. Sellergren, B. and Nilsson, K. G. I., Methods Mol. Cell Biol., 1989, 1, 59.   \n143. Orgel, L. E., Nature, 1992, 358, 203.   \n144. von Kiedrowski, G., Helbing, J., Wlotzka, B., Jordan, S., Mathen, M., Achilles, T., Sievers, D., Terfort, A. and Kahrs, B. C., Nachr. Chem. Tech. Lab., 1992, 40, 578.   \n145. Sievers, D. and von Kiedrowski, G., Nature, 1994, 369, 221.   \n146. von Kiedrowski, G., Angew. Chem., 1986, 98, 932.   \n147. von Kiedrowski, G., Angew. Chem. Int. Ed. Engl., 1986, 25, 932.   \n148. von Kiedrowski, G., Wlotzka, B. and Helbing, J., Angew. Chem., 1989, 101, 1259.   \n149. von Kiedrowski, G., Wlotzka, B. and Helbing, J., Angew. Chem. Int. Ed. Engl., 1989, 28, 1235.   \n150. Zielinski, W. S. and Orgel, L. E., Nature, 1987, 327, 346.   \n151. Tjivikua, T., Ballester, P. and Rebek Jr, J., J. Am. chem. Soc., 1990, 112, 1249.   \n152. Nowick, J. S., Feng, Q., Tjivikua, T., Ballester, P. and Rebek Jr, J., Acta chem. Soc., 1991, 113, 8831.   \n153. Famulok, M., Nowick, J. S. and Rebek Jr, J., Acta chem. scand., 1992, 46, 315.\n 154. Wintner, E. A., Conn, M. M. and Rebek Jr, J., Acc. Chem. Res., 1994, 27, 198.   \n155. Terfort, A. and von Kiedrowski, G., Angew. Chem., 1992, 104, 626.   \n156. Terfort, A. and von Kiedrowski, G., Angew. Chem. Int. Ed. Engl., 1992, 31, 654.   \n157. BoÈ hler, C., Bannwarth, W. and Luisi, P. L., Helv. chim. Acta, 1993, 76, 2313.   \n158. Beck, J. S., Chem. Mater., 1994, 6, 1816.   \n159. Davis, M. E., Nature, 1993, 364, 391.   \n160. Yang, H., Kuperman, A., Coombs, N., Mamiche-Afara, S. and Ozin, G. A., Nature, 1996, 379, 703.   \n161. Yang, H., Coombs, N., Solokov, I. and Ozin, G. A., Nature, 1996, 381, 589.   \n162. Aksay, I. A., Science, 1996, 273, 892.   \n163. Tanev, P. T., Chibwe, M. and Pinnavaia, T. J., Nature, 1994, 368, 321.   \n164. Antonelli, D. M. and Ying, J. Y., Angew. Chem. Int. Ed. Engl., 1996, 35, 426.   \n165. Antonelli, D. M., Nakahira, A. and Ying, J. Y., Inorg. Chem., 1996, 35, 3126.   \n166. Antonelli, D. M. and Ying, J. Y., Angew. Chem. Int. Ed. Engl., 1995, 34, 2014.   \n167. Antonelli, D. M. and Ying, J. Y., Chem. Mater., 1996, 8, 874.   \n168. Antonelli, D. M. and Ying, J. Y., Curr. Opin. Coll. Interfaces Sci., 1996, 1, 523.   \n169. Flanigen, E. M., Patton, R. L. and Wilson, S. T., Stud. Surf. Sci. Catal., 1988, 37, 13.   \n170. Chen, C.-Y., Burkette, S. L., Li, X.-H. and Davis, M. E., Microporous Mater., 1993, 2, 27.   \n171. Davis, M. E. and Lobo, R. F., Chem. Mater., 1992, 4, 756.   \n172. Tao, S. and Ying, J. Y., Nature, 1997, 398, 764.   \n173. Antonelli, D. M. and Ying, J. Y., Chem. Mater., 1996, 8, 874.   \n174. Pohl, K., Bartelt, M. C., de la Figuera, J., Bartelt, N. C., Hrbek, J. and Hwang, R. Q., Nature, 1999, 397, 238."
+  }
+]

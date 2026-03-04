@@ -1,0 +1,318 @@
+{
+  "J. R. Weertman, in Nanostructured Materials: Processing, Properties and Applications, edited by C. C. Koch (Andrews, Norwich, 2002), p.": {
+    "title": "Processing and mechanical behavior of nanocrystalline Fe",
+    "author": [
+      "G.E. Fougere",
+      "J.R. Weertman",
+      "R.W. Siegel"
+    ],
+    "journal": "Nanostructured Materials",
+    "doi": "10.1016/0965-9773(95)00021-6",
+    "url": "https://doi.org/10.1016/0965-9773(95)00021-6",
+    "year": 1995,
+    "volume": "5",
+    "number": "2",
+    "pages": "127-134",
+    "bibkey": "Fougere1995Processing"
+  },
+  "C. C. Koch, Scr. Mater. 49, 657": {
+    "title": "Optimization of strength and ductility in nanocrystalline and ultrafine grained metals",
+    "author": [
+      "C Koch"
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/s1359-6462(03)00394-4",
+    "url": "https://doi.org/10.1016/s1359-6462(03)00394-4",
+    "year": 2003,
+    "volume": "49",
+    "number": "7",
+    "pages": "657-662",
+    "bibkey": "Koch2003Optimization"
+  },
+  "E. Ma, Scr. Mater. 49, 663": {
+    "title": "Instabilities and ductility of nanocrystalline and ultrafine-grained metals",
+    "author": [
+      "E Ma"
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/s1359-6462(03)00396-8",
+    "url": "https://doi.org/10.1016/s1359-6462(03)00396-8",
+    "year": 2003,
+    "volume": "49",
+    "number": "7",
+    "pages": "663-668",
+    "bibkey": "Ma2003Instabilities"
+  },
+  "Q. Wei, D. Jia, K. T. Ramesh, and E. Ma, Appl. Phys. Lett. 81, 1240": {
+    "title": "Evolution and microstructure of shear bands in nanostructured Fe",
+    "author": [
+      "Q. Wei",
+      "D. Jia",
+      "K. T. Ramesh",
+      "E. Ma"
+    ],
+    "journal": "Applied Physics Letters",
+    "doi": "10.1063/1.1501158",
+    "url": "https://doi.org/10.1063/1.1501158",
+    "year": 2002,
+    "volume": "81",
+    "number": "7",
+    "pages": "1240-1242",
+    "bibkey": "Wei2002Evolution"
+  },
+  "Y. M. Wang, K. Wang, D. Pan, K. Lu, K. J. Hemker, and E. Ma, Scr. Mater. 48, 1581": {
+    "title": "Microsample tensile testing of nanocrystalline copper",
+    "author": [
+      "Y.M. Wang",
+      "K. Wang",
+      "D. Pan",
+      "K. Lu",
+      "K.J. Hemker",
+      "E. Ma"
+    ],
+    "journal": "Scripta Materialia",
+    "doi": "10.1016/s1359-6462(03)00159-3",
+    "url": "https://doi.org/10.1016/s1359-6462(03)00159-3",
+    "year": 2003,
+    "volume": "48",
+    "number": "12",
+    "pages": "1581-1586",
+    "bibkey": "Wang2003Microsample"
+  },
+  "Y. M. Wang, M. W. Chen, F. H. Zhou, and E. Ma, Nature (London) 419, 912": {
+    "title": "High tensile ductility in a nanostructured metal",
+    "author": [
+      "Yinmin Wang",
+      "Mingwei Chen",
+      "Fenghua Zhou",
+      "En Ma"
+    ],
+    "journal": "Nature",
+    "doi": "10.1038/nature01133",
+    "url": "https://doi.org/10.1038/nature01133",
+    "year": 2002,
+    "volume": "419",
+    "number": "6910",
+    "pages": "912-915",
+    "bibkey": "Wang2002High"
+  },
+  "Z. Budrovic, H. Van Swygenhoven, P. M. Derlet, S. Van Petegem, and B. Schmitt, Science 304, 273": {
+    "title": "Plastic Deformation with Reversible Peak Broadening in Nanocrystalline Nickel",
+    "author": [
+      "Zeljka Budrovic",
+      "Helena Van Swygenhoven",
+      "Peter M. Derlet",
+      "Steven Van Petegem",
+      "Bernd Schmitt"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1095071",
+    "url": "https://doi.org/10.1126/science.1095071",
+    "year": 2004,
+    "volume": "304",
+    "number": "5668",
+    "pages": "273-276",
+    "bibkey": "Budrovic2004Plastic"
+  },
+  "X. Zhang, A. Misra, H. Wang, M. Nastasi, J. D. Embury, T. E. Mitchell, R. G. Hoagland, and J. P. Hirth, Appl. Phys. Lett. 84, 1096": {
+    "title": "Nanoscale-twinning-induced strengthening in austenitic stainless steel thin films",
+    "author": [
+      "X. Zhang",
+      "A. Misra",
+      "H. Wang",
+      "M. Nastasi",
+      "J. D. Embury",
+      "T. E. Mitchell",
+      "R. G. Hoagland",
+      "J. P. Hirth"
+    ],
+    "journal": "Applied Physics Letters",
+    "doi": "10.1063/1.1647690",
+    "url": "https://doi.org/10.1063/1.1647690",
+    "year": 2004,
+    "volume": "84",
+    "number": "7",
+    "pages": "1096-1098",
+    "bibkey": "Zhang2004Nanoscaletwinninginduced"
+  },
+  ".   \n9L. Lu, Y. F. Shen, X. H. Chen, L. H. Qian, and K. Lu, Science 304, 422": {
+    "title": "Ultrahigh Strength and High Electrical Conductivity in Copper",
+    "author": [
+      "Lei Lu",
+      "Yongfeng Shen",
+      "Xianhua Chen",
+      "Lihua Qian",
+      "K. Lu"
+    ],
+    "journal": "Science",
+    "doi": "10.1126/science.1092905",
+    "url": "https://doi.org/10.1126/science.1092905",
+    "year": 2004,
+    "volume": "304",
+    "number": "5669",
+    "pages": "422-426",
+    "bibkey": "Lu2004Ultrahigh"
+  },
+  "J. W. Christian and S. Mahajan, Prog. Mater. Sci. 39, 1": {
+    "title": "Deformation twinning",
+    "author": [
+      "J.W. Christian",
+      "S. Mahajan"
+    ],
+    "journal": "Progress in Materials Science",
+    "doi": "10.1016/0079-6425(94)00007-7",
+    "url": "https://doi.org/10.1016/0079-6425(94)00007-7",
+    "year": 1995,
+    "volume": "39",
+    "number": "1-2",
+    "pages": "1-157",
+    "bibkey": "Christian1995Deformation"
+  },
+  ".   \nY. M. Wang, E. Ma, R. Z. Valiev, and Y. T. Zhu, Adv. Mater. (Weinheim, Ger.) 16, 328": {
+    "title": "Tough Nanostructured Metals at Cryogenic Temperatures",
+    "author": [
+      "Y. M. Wang",
+      "E. Ma",
+      "R. Z. Valiev",
+      "Y. T. Zhu"
+    ],
+    "journal": "Advanced Materials",
+    "doi": "10.1002/adma.200305679",
+    "url": "https://doi.org/10.1002/adma.200305679",
+    "year": 2004,
+    "volume": "16",
+    "number": "4",
+    "pages": "328-331",
+    "bibkey": "Wang2004Tough"
+  },
+  "Y. M. Wang, E. Ma, and M. W. Chen, Appl. Phys. Lett. 80, 2395": {
+    "title": "Erratum: Dephasing Rate in Dielectric Glasses at Ultralow Temperatures [Phys. Rev. Lett. 80, 2945 (1998)]",
+    "author": [
+      "A. L. Burin",
+      "Yu. Kagan",
+      "L. A. Maksimov",
+      "I. Ya. Polishchuk"
+    ],
+    "journal": "Physical Review Letters",
+    "doi": "10.1103/physrevlett.81.2395",
+    "url": "https://doi.org/10.1103/physrevlett.81.2395",
+    "year": 1998,
+    "volume": "81",
+    "number": "11",
+    "pages": "2395-2395",
+    "bibkey": "Burin1998Erratum"
+  },
+  "H. Li and F. Ebrahimi, Appl. Phys. Lett. 84, 4307": {
+    "title": "Transition of deformation and fracture behaviors in nanostructured face-centered-cubic metals",
+    "author": [
+      "Hongqi Li",
+      "Fereshteh Ebrahimi"
+    ],
+    "journal": "Applied Physics Letters",
+    "doi": "10.1063/1.1756198",
+    "url": "https://doi.org/10.1063/1.1756198",
+    "year": 2004,
+    "volume": "84",
+    "number": "21",
+    "pages": "4307-4309",
+    "bibkey": "Li2004Transition"
+  },
+  "A. Froseth, H. Van Swygenhoven, and P. M. Derlet, Acta Mater. 52, 2259": {
+    "title": "The influence of twins on the mechanical properties of nc-Al",
+    "author": [
+      "A. Frøseth",
+      "H. Van Swygenhoven",
+      "P.M. Derlet"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2004.01.017",
+    "url": "https://doi.org/10.1016/j.actamat.2004.01.017",
+    "year": 2004,
+    "volume": "52",
+    "number": "8",
+    "pages": "2259-2268",
+    "bibkey": "Frseth2004The"
+  },
+  ".   \n15W. D. Nix, (private communications).   \n16R. Z. Valiev, I. V. Alexandrov, Y. T. Zhu, and T. C. Lowe, J. Mater. Res. 17, 5": {
+    "title": "Paradox of Strength and Ductility in Metals Processed Bysevere Plastic Deformation",
+    "author": [
+      "R. Z. Valiev",
+      "I. V. Alexandrov",
+      "Y. T. Zhu",
+      "T. C. Lowe"
+    ],
+    "journal": "Journal of Materials Research",
+    "doi": "10.1557/jmr.2002.0002",
+    "url": "https://doi.org/10.1557/jmr.2002.0002",
+    "year": 2002,
+    "volume": "17",
+    "number": "1",
+    "pages": "5-8",
+    "bibkey": "Valiev2002Paradox"
+  },
+  ".   \n17M. Niewczas and J. D. Embury, in The Integration of Material. Process and Product Design edited by A. Zabaras, (Balkema, Rotterdam, 1999), p.": {
+    "title": "Approaching the theoretical strength in ductile copper",
+    "author": [
+      "M. Niewczas",
+      "J.D. Embury"
+    ],
+    "journal": "The Integration of Material, Process and Product Design",
+    "doi": "10.1201/9781003761945-12",
+    "url": "https://doi.org/10.1201/9781003761945-12",
+    "year": 2026,
+    "volume": null,
+    "number": null,
+    "pages": "71-76",
+    "bibkey": "Niewczas2026Approaching"
+  },
+  "18Y. M. Wang and E. Ma, Acta Mater. 52, 1699": {
+    "title": "Three strategies to achieve uniform tensile deformation in a nanostructured metal",
+    "author": [
+      "Y.M. Wang",
+      "E. Ma"
+    ],
+    "journal": "Acta Materialia",
+    "doi": "10.1016/j.actamat.2003.12.022",
+    "url": "https://doi.org/10.1016/j.actamat.2003.12.022",
+    "year": 2004,
+    "volume": "52",
+    "number": "6",
+    "pages": "1699-1709",
+    "bibkey": "Wang2004Three"
+  },
+  "K. M. Youssef, R. O. Scattergood, K. L. Murty, and C. C. Koch, Appl. Phys. Lett. 85, 929": {
+    "title": "Ultratough nanocrystalline copper with a narrow grain size distribution",
+    "author": [
+      "Khaled M. Youssef",
+      "Ronald O. Scattergood",
+      "K. Linga Murty",
+      "Carl C. Koch"
+    ],
+    "journal": "Applied Physics Letters",
+    "doi": "10.1063/1.1779342",
+    "url": "https://doi.org/10.1063/1.1779342",
+    "year": 2004,
+    "volume": "85",
+    "number": "6",
+    "pages": "929-931",
+    "bibkey": "Youssef2004Ultratough"
+  },
+  "H. J. Schneider-Munteau, K. Han, N. A. Bednar, C. A. Swenson, and R. Walsh, IEEE Trans. Appl. Supercondu. 14, 1153": {
+    "title": "Materials for 100 T Monocoil Magnets",
+    "author": [
+      "H.J. Schneider-Muntau",
+      "K. Han",
+      "N.A. Bednar",
+      "C.A. Swenson",
+      "R. Walsh"
+    ],
+    "journal": "IEEE Transactions on Appiled Superconductivity",
+    "doi": "10.1109/tasc.2004.830461",
+    "url": "https://doi.org/10.1109/tasc.2004.830461",
+    "year": 2004,
+    "volume": "14",
+    "number": "2",
+    "pages": "1153-1156",
+    "bibkey": "SchneiderMuntau2004Materials"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/f000591e2f114c829933a67150adcfdd1b4aae690c6099eac6428e77141b4d46.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/6bdba6091f5ad6a4467c9026afcbc6ffccc1feac223048a108dfdd1e76214f39.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/474bb5be61459c98adcb06bb70cc0a060bbc829527d4d7f44df6f94a65b134a5.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/4856d51bb6d53e7c79f0fe0789b0828c485117c79d542c33538b291c97e9ec9f.jpg"
+    ],
+    "description": "Fig. 1. (a) GB morphologies of SCs (Cu and Al) resembling $P _ { \\cdot }$ , $D$ and $G$ TPMSs in MD simulations constructed with grain lattice orientations following Σ9 GBs, i.e., $x$ [011], y [411], $\\mathscr { z }$ [122] vs. x [011], $y$ [411], $\\mathfrak { z }$ [122]. Atoms belong to grain lattice sites were removed. (b) Thermal stabilities exhibited by P-SC, $_ { D - S C }$ and $G$ -SC. Inset: MD calculated mean GB energies as a function of fraction of GB atoms in each SC. GB atoms are identified using common neighbor analyses (CNA) [12]. The apparent GB thickness $( d _ { \\tt G B } )$ is defined as the excess volume of GB atoms divided by the ideal area of TPMS GBs, which correlates with $\\mathbf { f } _ { \\mathrm { G B } }$ almost linearly $( d _ { G B } ( n m ) \\simeq 4 . 2 5 f _ { G B } )$ ) for both Cu and Al."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/bbce73a2fe8bad56ed91d7caf3a0ba98f8f2df097839c04e7aafd65c6971ade4.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/579f69dea843a46918ca84f24efab7ab9d8883f72b1c9b117e9333784096f293.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/b755ad61e26a0e1d0e6c21dbd09b40b997b32dac94ccd7629d69cc0a4504a071.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/2e7d4472b93144749757458d49fa3be0c5755c07ae81b7757bc85f7a7016ab46.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/8058c3548f72408d62eb723b5658ce0340b57aa7ef1e2494066a93bbfa6536aa.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/6c1c49a82bddbe72ec9f9685022f11731a1c3f4b5affbf78892a94120292a4a7.jpg"
+    ],
+    "description": "Fig. 2. Partition of GB area and MD calculated GB energies (Cu vs. Al) in α (111), $\\beta$ (111), $\\gamma$ (111) and δ (111) orientations for P-SCs of various sizes, AD (a - c) and ID (d - f)."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/22d57c9a7bb0454da401f17426238c6f5515cc2c1ef9f95b5b0194fe1bc5fe1e.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/6a08c11ea0fe806a6dced1f7501020fcfb829ee55f20c2a7afaf5ab24fb16a7d.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/2f56f2836a69b3627474d6fda7422aa2f3cdeeba4e6dd1d870329138c086383d.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/6d5974f97cf883895850cd789ee613f2e2ee7864a8f127b97949aefad3c15cac.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/653d4db9a44b92f65199cb8d790effd1a904e9d0496ac094023c9eee37e43400.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/a6579ae12ab1d235957b1282b270f12e74a9a09e29242215c9688496609b68c4.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/5ab1f3860c0fb0af12b0ee1d246200e38931d17a02789a31f1abcbeef760a4e8.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/212c0a882598945fdbc6db96e9c051b63c094123277b81af55a5f11b46b6eb76.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/a6dfbc3892b04504336f6546a9e39f503304c049f3064700adf5378ad27cc4c1.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/c6838b0e830edaa16ca1e17a75f94c15a4d526966bd62fcec94699ce57e7c63c.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/d23df4d3266a5b8774531dd5c005db6f984cfbdb2e6b67b0afd1b809b5cc39b4.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/4682842da1c29efa98c1f0679afec24263bcc0f96bdfd6cb5c3678a052b61e00.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/78a4a69d9667f5c2bc1aac3dce6892aa0d9016dcd31bc9894729c5094cb47128.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/71bb8c5d80e2e8eb806e4e7a32d08865f50f20f1aae89a448e0419e0c03188a6.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/3acc71bc4110baee04f133f6b2a6e93c0f2d9766ef13e1f48ed9f1a11828bbb6.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/2f398ca4ba373189565c06de40f124fa6ea42844154b1e756896f7551224a94c.jpg"
+    ],
+    "description": "Fig. 3. Destabilization process underlying grain growth or coarsening observed in MD simulations for P-SCs of ID and AD $( a = 2 \\times 9 a _ { 0 } )$ ), Cu (a, b) vs. Al (c, d). Plot on the left-hand side in each panel: thermal stability measured by profiles of atomic volume (Ω) as functions of temperature $( T )$ upon heating. Plot on the right-hand side of each panel: the [110] cross section views of MD snapshots at temperatures before and after destabilization $\\left( T _ { S } \\right)$ occurs. The ideal TPMS surface trace for each P-SC has been marked by atoms in red color. (a)"
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/d9f99021787f77c5bd8b9f06fc996f3451f150aa6e774cc8088477282cf8dfaa.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/14d3e0c87aa8cbe9a22e875624570fd5702d0d90a047681b09f0e578e2012309.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_d53ee3f059/images/c9aee0d9d3f592cc734875b3e6c0a2ddf9681298514af385575c04667bae5d33.jpg"
+    ],
+    "description": "Fig. 4. (a) A schematic destabilization model: P-TPMS vs. insphere within a cubic box the size of which is measured by a. (b) MD observed and theoretically predicted (Eq. (4)) size-dependent thermostability $( T _ { S } )$ for SCs Cu and Al of various supercell sizes, grain lattice orientations (Σ9, Σ27, AD, ID) and shapes (P, G and $D$ as in Fig. 1)."
+  }
+]

@@ -2,7 +2,7 @@ from src.service.document.load_document import load_Batch_PDF_files
 from src.service.document.parse.mineru.api.parser import mineru_parse, mineru_state
 
 username = "administrator"
-dataset_name = "test"
+dataset_name = "test2"
 
 # 1.Load PDF files
 pdf_files_data = load_Batch_PDF_files(username, dataset_name)

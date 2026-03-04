@@ -13,13 +13,14 @@ def save_json(data: dict, path: str, indent: int = 2, info = True) -> None:
         json.dump(data, f, indent=indent, ensure_ascii=False)
     if info:
         print(f"JSON saved to: {path}")
+
 def load_json(path: str) -> dict:
     """Load JSON file, return empty dict if not exists."""
     if not os.path.exists(path):
         return {}
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
-    
+      
 def load_document_metadata(username: str, dataset_name: str) -> dict:
     """
     Load the documents.json metadata file for a given user and dataset.
@@ -88,7 +89,7 @@ def load_PDF_file(username: str, dataset_name: str, file_path: str) -> dict:
 
     update_time = datetime.now().strftime("%a, %d %b %Y %H:%M")
     file_id = f"{datetime.now().strftime('%Y%m%dT%H%M%S')}_{secrets.token_hex(5)}"
-    file_name = os.path.basename(file_path)
+    file_name = os.path.splitext(os.path.basename(file_path))[0]
     file_size = os.path.getsize(file_path)
 
     file_meta = {

@@ -1,0 +1,6 @@
+[
+  {
+    "equation": "$$\nV (r) = \\frac {1}{r ^ {1 5}} + \\frac {1}{r ^ {3}} \\cos (k (r - 1. 2 5) - \\phi)\n$$",
+    "description": "The pair potential \\( V(r) \\) describes the effective interaction energy between two particles as a function of their separation \\( r \\). The functional form combines a steep, short-range repulsive term, given by \\( r^{-15} \\), with a longer-range oscillatory contribution, expressed as \\( r^{-3} \\cos(k(r - 1.25) - \\phi) \\). Here, \\( k \\) denotes the oscillation frequency, which controls the period of the potential wells, and \\( \\phi \\) represents a phase shift that determines the positions of the minima and maxima relative to the origin. The constant offset of 1.25 within the cosine argument shifts the oscillation pattern. The \\( r^{-3} \\) prefactor ensures the oscillation amplitude decays algebraically with distance. This structure models a repulsive core at very short separations, followed by a series of damped attractive wells, mimicking the Friedel oscillations characteristic of metallic systems."
+  }
+]

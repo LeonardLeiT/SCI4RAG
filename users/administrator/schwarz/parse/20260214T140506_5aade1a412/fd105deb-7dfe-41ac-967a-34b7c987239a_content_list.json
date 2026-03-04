@@ -1,0 +1,2317 @@
+[
+    {
+        "type": "text",
+        "text": "Stabilizing nanostructures in metals using grain and twin boundary architectures ",
+        "text_level": 1,
+        "bbox": [
+            243,
+            182,
+            878,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K. Lu1,2 ",
+        "bbox": [
+            243,
+            296,
+            304,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract | Forming alloys with impurity elements is a routine method for modifying the properties of metals. An alternative approach involves the incorporation of interfaces into the crystalline lattice to enhance the metal’s properties without changing its chemical composition. The introduction of high-density interfaces in nanostructured materials results in greatly improved strength and hardness; however, interfaces at the nanoscale show low stability. In this Review, I discuss recent developments in the stabilization of nanostructured metals by modifying the architectures of their interfaces. The amount, structure and distribution of several types of interfaces, such as high- and low-angle grain boundaries and twin boundaries, are discussed. I survey several examples of materials with nanotwinned and nanolaminated structures, as well as with gradient nanostructures, describing the techniques used to produce such samples and tracing their exceptional performances back to the nanoscale architectures of their interfaces. ",
+        "bbox": [
+            242,
+            320,
+            924,
+            508
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The traditional method for modifying the properties of metals is to alloy them with impurity elements to change their microstructure and/or their phase constitution. For example, the addition of carbon and manganese makes steels harder, and alloying steel with nickel and chromium makes it more resistant to corrosion1 . ",
+        "bbox": [
+            233,
+            526,
+            574,
+            609
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The incorporation of structural defects into crystalline lattices provides an alternative approach to the control of metal characteristics, with the additional advantage of leaving the chemical compositions unaltered. When a piece of iron sheet is repeatedly bent back and forth, it becomes progressively harder; this process is known as work-hardening. The hardening occurs because this treatment creates crystallographic defects such as point defects, dislocations and grain boundaries; these defects resist dislocation motion, making it more difficult for the metal to deform further. Such a ‘defectbased approach’ (that is, ‘alloying’ with defects instead of other chemical elements) offers the possibility to widely tune the properties of a metal. With the progressive exhaustion of natural resources, in particular of noble and rare-earth elements2 , the defect-based approach is becoming increasingly important for material sustainability. Moreover, as it does not require alloying, this method makes it easier to recycle and reuse materials. ",
+        "bbox": [
+            233,
+            611,
+            574,
+            877
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Out of the various possible defects, interfaces (planar defects) are the most studied in this methodology. As the structural units (for example, grains or phase domains) decrease in size towards the nanometre scale, ",
+        "bbox": [
+            233,
+            878,
+            574,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the number of interfaces increases and their effect is amplified to the point that some material properties are essentially determined by the nature of the interfaces, rather than by the crystalline lattice3,4 . The strength of metals with nanometre-sized grains can be an order of magnitude higher than that of their coarse-grained counterparts, owing to the very high density of grain boundaries4,5 ; thus, nanostructured aluminium can be stronger than normal steels6 . ",
+        "bbox": [
+            586,
+            526,
+            929,
+            652
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, metals with homogeneous nanometre-sized grains become brittle and show almost no tensile ductility, even in the case of metals that are ductile in their coarse-grained forms, such as copper and aluminium5,7 . In addition, the nanometre-sized grains are thermally unstable and show an increased tendency to undergo grain coarsening when compared with regular coarse grains8 . For nanograined pure copper, for example, grain coarsening occurs even at room temperature9 . The limited mechanical and thermal stabilities become an intrinsic ‘Achilles’ heel’ of nanograined metals, hindering the processing and the technological applications of this new material family. ",
+        "bbox": [
+            586,
+            653,
+            929,
+            835
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The past decade has witnessed significant progress in the stabilization of nanostructures in metals. Several types of low-energy interfaces, such as twin boundaries10,11, low-angle grain boundaries12,13 and different kinds of interphase boundaries (BOX 1) were found to be effective in altering the characteristics of various metals and, at the same time, in stabilizing the nanostructures. By ",
+        "bbox": [
+            586,
+            836,
+            929,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "REVIEWS ",
+        "bbox": [
+            626,
+            69,
+            931,
+            118
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "1Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, China. ",
+        "bbox": [
+            67,
+            753,
+            213,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "2Herbert Gleiter Institute of Nanoscience, Nanjing University of Science and Technology, Nanjing 210094, China. ",
+        "bbox": [
+            67,
+            822,
+            216,
+            879
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "lu@imr.ac.cn ",
+        "bbox": [
+            67,
+            883,
+            136,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Article number: 16019 ",
+        "bbox": [
+            67,
+            901,
+            171,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "doi:10.1038/natrevmats.2016.19 Published online 31 Mar 2016 ",
+        "bbox": [
+            67,
+            911,
+            220,
+            933
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            67,
+            962,
+            250,
+            973
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 | 1 ",
+        "bbox": [
+            783,
+            962,
+            929,
+            974
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "@ 2016 Macmillan Publishers Limited. Al rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Box 1 | Grain and interphase boundaries ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            83,
+            327,
+            95
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crystalline solids usually consist of a large number of grains separated by grain boundaries. Grain boundaries are generally classified in terms of the misorientation between two neighbouring grains (panel a) into high-angle grain boundaries, with misorientation angles larger than $1 5 ^ { \\circ }$ , and low-angle grain boundaries, with misorientation angles below $1 5 ^ { \\circ }$ . The structure of some low-angle grain boundaries can be described as an array of dislocations, as seen in the centre image. The excess energy of low-angle grain boundaries increases monotonically with the misorientation angle. A twin boundary is a special type of boundary, in which the arrangement of atoms on one side, the matrix, is the mirror reflection of the arrangement on the other side, the twin; the two are separated by the twin composition plane. The twin boundary energy is usually an order of magnitude smaller than the energy of the conventional high-angle grain boundaries. ",
+        "bbox": [
+            73,
+            103,
+            552,
+            255
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interfaces separating two crystals differing in composition, lattice structure or both are called interphase boundaries (panel b). They are usually divided into three classes depending on the degree of atomic matching or coherence across the interface. In incoherent interfaces, the atomic matching is sufficiently poor that there is no correspondence of atom planes and lines across the interface, even locally; in semi-coherent interfaces, the disregistry between the two crystal structures is accommodated by periodic misfit dislocations in the interface; finally, in fully coherent interfaces, there is continuity of atomic planes and lines across the interface between the two phases. Interphase boundary energies of coherent interfaces are the lowest $( 5 { - } 2 0 0 \\mathsf { m } ] \\mathsf { m } ^ { - 2 } )$ , followed by those of semi-coherent $( 2 0 0 { - } 8 0 0 \\mathrm { m J } \\mathrm { m } ^ { - 2 } )$ ) and incoherent interfaces $( 8 0 0 - 2 , 5 0 0 \\mathsf { m } ] \\mathsf { m } ^ { - 2 } ) ^ { 1 0 3 }$ . ",
+        "bbox": [
+            73,
+            255,
+            564,
+            397
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f268643732d4db3d4e64c632533901a48fbef85e52138c854254552674ed775e.jpg",
+        "image_caption": [
+            "a Grain boundary ",
+            "High-angle grain boundary "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            441,
+            235,
+            586
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b012c600200608a6adde61accb7914708cdbe8004a373ab1f902bfd711eb92e.jpg",
+        "image_caption": [
+            "Low-angle grain boundary "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            255,
+            437,
+            394,
+            585
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a4d86e0e9e0497f8f7c6269b1763681125ed4e703b7af0689d104d698c974fd.jpg",
+        "image_caption": [
+            "Twin boundary ",
+            "Matrix Twin "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            425,
+            437,
+            561,
+            584
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3a55eaf5c68018774ff584dc91ff7e0d8b7325ebedeefd658c2504fd5687d55.jpg",
+        "image_caption": [
+            "b Interphase boundary ",
+            "Incoherent "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            640,
+            228,
+            751
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/26bf09d332dee8cfb1cbceddb41b3cf4a7a41295fbde6f3b2b507767276e61ea.jpg",
+        "image_caption": [
+            "Semi-coherent "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            250,
+            636,
+            389,
+            755
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ecff726c023176038bf5122439a8aeac9684efc7934d80ae06b8ff0e2af3ef9.jpg",
+        "image_caption": [
+            "Coherent "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            425,
+            630,
+            554,
+            755
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "tailoring the structure and distribution of these interfaces at the nanoscale, unprecedented properties and property synergies can be obtained, opening new frontiers for the development of stable nanomaterials. ",
+        "bbox": [
+            233,
+            792,
+            574,
+            849
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this Review, I discuss recent developments in the stabilization of nanostructures in metals by means of interfacial architecture. Several interfaces in nanostructured metals are analysed to identify the effects of their quantity, structure and distribution on the global performance of the material. ",
+        "bbox": [
+            233,
+            850,
+            574,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Homogeneous nanograined structures ",
+        "text_level": 1,
+        "bbox": [
+            589,
+            76,
+            853,
+            90
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Strength and hardness. Homogeneous refinement of polycrystalline grains with conventional grain boundaries generally leads to hardening in metals and alloys4,5 . For example, the hardness and strength of pure nickel in the micrometre to submicrometre range (FIG. 1a) follow the empirical Hall–Petch relation14,15; that is, the strength increases with the inverse square root of the grain size, d. For grain sizes below $1 0 0 \\mathrm { n m }$ , most hardness data sit below the extrapolated Hall–Petch line. For even smaller grains (below $1 5 \\mathrm { n m }$ for pure Ni (REFS 16–18)), a hardness plateau or even a softening appears, although the experimental data are not fully consistent. The softening behaviour has been verified by measuring the hardness of electrodeposited fully dense Ni(W) solid solution with grain sizes of a few nanometres, in which the solution hardening of W is negligible19,20. ",
+        "bbox": [
+            586,
+            90,
+            929,
+            315
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Hall–Petch relation is a consequence of dislocation pile-ups in polycrystals. In grains with a diameter $d < 1 0 0 \\ \\mathrm { n m }$ , dislocation pile-up hardly exists; thus, this concept is no longer applicable for the description of the plastic flow. Instead, new strengthening mechanisms may be active, such as deformation by means of uncorrelated dislocations (an Orowan-type mechanism) or a whisker-type deformation behaviour with a 1/d dependence21–23. This latter mechanism seems to be consistent with the measured hardness in the range $d = 1 5 \\mathrm { - } 1 0 0 \\mathrm { n m }$ . Dislocation activity has been identified from microscopic observations of nanometre-sized grains24 and from measurements of strain-rate sensitivity in a number of nanograined metals5,25. ",
+        "bbox": [
+            586,
+            315,
+            929,
+            512
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The softening at extremely small grain sizes has been attributed to grain-boundary mechanisms that dominate the plastic deformation26,27. Although experimental observations of grain-boundary sliding and grain rotations are controversial, evidence of grain-boundary migration has been reported for several materials28–33. The mechanically driven grain-boundary migration leads to grain coarsening and to softening at ambient temperature under tension28–30, compression31 and indentation32,33 tests. The grain-boundary migration process can sustain very large strains $( > 1 0 0 \\% )$ in nanograined structures before cracking 30. Experimental observations and atomistic simulations suggest that in nanograined materials the numerous grain boundaries no longer only act as barriers to slip transmission, but they also become the primary facilitators for plastic deformation5 . ",
+        "bbox": [
+            586,
+            512,
+            929,
+            751
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ductility. Grain refinement usually leads to an increased ductility in polycrystalline metals with coarse grains (above $1 \\mu \\mathrm { m }$ ), but tensile ductility drops sharply if grain sizes are reduced to the submicrometre range. This happens even for those metals that are very ductile in their coarse-grained forms (FIG. 1b). Because strain measurements are sensitive to experimental conditions, such as strain rates and sample sizes, reported values of tensile ductility show some variability. However, a general observation is that the tensile uniform elongation before necking is very limited for $d < 1 0 0 \\mathrm { n m }$ , usually to below $5 \\%$ . The tensile brittleness of nanograined metals ",
+        "bbox": [
+            586,
+            765,
+            929,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            68,
+            21,
+            203,
+            40
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            68,
+            962,
+            77,
+            973
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "| MAY 2016 | VOLUME 1 ",
+        "bbox": [
+            80,
+            962,
+            211,
+            973
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "www.nature.com/natrevmats ",
+        "bbox": [
+            761,
+            964,
+            927,
+            973
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited.All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            638,
+            992
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a5b93e7c02d6aa1df6960dd5b85aa7961d31b782c8c7a1ff7251ee55f3943ee.jpg",
+        "image_caption": [
+            "a "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            78,
+            542,
+            333
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad9b0999de6f27416fbef42e7eecece2110560c3551d82b9a114dd31c0c311c2.jpg",
+        "image_caption": [
+            "b "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            329,
+            541,
+            584
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/19ec2f69c5c0df1dc8a2f4d4e476a8c394d818f4caf4f7af0663f3aab790ad5c.jpg",
+        "image_caption": [
+            "c ",
+            "Figure 1 | Grain-size effects on strength, ductility and thermal stability. a | Measured grain-size dependences of hardness $( H _ { v } )$ and yield strength (σ ) in pure nickel processed with different technique $^ { 1 3 , 7 7 , 7 8 , 1 0 4 - 1 0 9 }$ and in NiW alloys formed by electrodeposition17,18. The Hall–Petch plot from coarse-grained Ni was extrapolated in the refined scale (dashed line). b | Measured grain-size dependence of tensile uniform elongation110–116, showing the maximum limit before necking, for Ni, Cu, Fe and Al. c | Reduced temperature for grain coarsening $( T / T _ { \\mathrm { m } }$ , where $T _ { \\mathrm { m } }$ is the bulk equilibrium melting point) for the same pure metals as shown in panel b9,117–128. $\\mathbf { b } ^ { 9 , 1 1 7 - 1 2 8 }$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            78,
+            586,
+            541,
+            822
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "is consistent with the observed decrease in the resistance to fatigue-crack growth under cyclic loading of nano-grained samples, relative to their coarse-grained counterparts34. However, an improved fatigue life, as measured by the evolution of the stress (S) as a function of the number of cycles to failure (N) — an S–N-type plot — is obtained as a consequence of the high strength5 of the nanograined samples. ",
+        "bbox": [
+            586,
+            76,
+            929,
+            187
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tensile brittleness measured in homogeneous nanograined metals implies that the detected dislocation activity and grain-boundary migration are not effective in accommodating plastic strains under tension. Some observations, however, indicate that nanograined metals may not be intrinsically brittle. Large numbers of dimples have been observed in fracture surfaces of nanograined metals, which are a signature of substantial plastic deformation before failure35. Large plastic strains have been reported for other deformation modes such as compression and rolling36,37. Extensive investigations suggest that the tensile brittleness originates from the absence of work-hardening of nanometre-sized grains and from strain localization under tension, which results in early necking occurring immediately after yielding. If some work-hardening were provided and strain localization were suppressed, tensile ductility could be obtained in nanograined structures. ",
+        "bbox": [
+            586,
+            189,
+            929,
+            441
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thermal stability. A substantial driving force for grain coarsening is provided by the large amount of enthalpy that is stored in the high-density grain boundaries in nanograined materials. Thus, nanograins can grow at much lower temperatures than coarse grains8 , and significant grain growth has been observed even at room temperature for pure metals such as copper, aluminium and magnesium9 . The grain-coarsening temperature decreases for smaller grains, in particular those below $1 0 0 \\mathrm { n m }$ (FIG. 1c). As the grain size approaches $1 0 \\mathrm { n m }$ , the grain-coarsening temperature becomes as low as ${ \\sim } 0 . 1 5 T _ { \\mathrm { m } } ,$ where $T _ { \\mathrm { m } }$ is the equilibrium bulk melting point. The reduced thermal stability of nanograins not only limits their technological applications but also makes them difficult to process: the low grain-coarsening temperature complicates the processing of extremely fine-grained metals $\\left( < 1 0 \\mathrm { n m } \\right)$ , because the tiny grains are unstable at ambient temperature. ",
+        "bbox": [
+            586,
+            456,
+            929,
+            709
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Another consequence of the low stability of small grains is that when metals are heavily deformed, strain-induced grain refinement saturates at the submicrometre level if the strain exceeds a certain value (typically $5 \\mathrm { - } 3 0 ) ^ { 3 8 }$ . Additional straining does not further reduce the grain size because of the intrinsic instability of nano-sized (below $1 0 0 \\mathrm { n m }$ ) and submicrometre-sized (between 100 and $1 , 0 0 0 \\mathrm { n m }$ ) grains. Thus, strain-induced grain refinement ceases as a dynamic balance is reached between structure refinement and coarsening (and recovery) of the refined grains at ambient temperature. ",
+        "bbox": [
+            586,
+            709,
+            929,
+            864
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nanograined structures can be stabilized by proper alloying with kinetic or thermodynamic strategies9 . In kinetic stabilization, grain boundaries are pinned in various ways to decrease their mobility by using, for example, second-phase drag, solute drag and ",
+        "bbox": [
+            586,
+            864,
+            929,
+            934
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            794,
+            21,
+            927,
+            39
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            68,
+            962,
+            250,
+            973
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 | 3 ",
+        "bbox": [
+            781,
+            962,
+            929,
+            974
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Ppublishers Limited. All rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/856d916d89b16ed1732102963c395f86bf5fa712c16bb247047f2b8f7eb4bb5f.jpg",
+        "image_caption": [
+            "Box 2 | Dislocation–twin boundary interactions in face-centred cubic metals "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            72,
+            107,
+            566,
+            313
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In face-centred cubic metals, there are three possible types of interaction between dislocations and twin boundaries, classified on the basis of extended dislocations into $1 2 \\{ 1 1 1 \\} { < } 1 1 0 { > }$ slip systems45,46, as illustrated by the double Thompson tetrahedron in the image. ",
+        "bbox": [
+            73,
+            320,
+            554,
+            372
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• Slip transfer mode (hard mode I): both the slip plane and the Burgers vector, b, (the vector required to form a closed loop, known as a Burgers circuit, if an atom-to-atom path is taken in a crystal containing a dislocation) form an angle with the twin boundary. Similar to grain-boundary strengthening, the slip resistance is large and depends on the twin-boundary spacing, λ, as λ−1/2. ",
+            "• Confined-layer slip mode (hard mode II): the slip plane forms an angle with the twin boundary, but b is parallel to the twin boundary. The slip resistance is proportional to $\\lambda ^ { - 1 }$ ",
+            "• Twinning partial slip mode (soft mode): both the slip plane and b are parallel to the twin boundary. The slip resistance is low because of the reduced constraint from the relatively large grain sizes. "
+        ],
+        "bbox": [
+            73,
+            374,
+            564,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "chemical ordering. The effect of these modifications of the grain-boundary mobility in nanograined materials has been analysed with classical theories for different systems9,39. Thermodynamic stabilization lowers the specific grain-boundary energy by solute segregation of the grain boundaries, because the driving force of grain coarsening is proportional to the grain-boundary energy. The effects of solute segregation at grain boundaries on grain-boundary energy and on grainsize stability have been studied in detail40,41. For alloy systems with a large heat of segregation, the nanograined alloys are in a metastable state for a particular grain size, which decreases with increasing concentration of the solute element. A nanostructure stability map has been developed, allowing the design of stable nanostructured alloys42. Extremely stable nanograined structures have been synthesized in several alloys42. ",
+        "bbox": [
+            233,
+            540,
+            576,
+            778
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless, stabilizing nanograined structures by alloying to decrease the grain-boundary mobility or grain-boundary energy does not improve their mechanical stability (ductility). To enhance ductility, it is necessary to provide a mechanism of work-hardening and strain delocalization in the nanostructure. To improve thermal stability, more-stable boundaries need to be formed. Twin boundaries with nanoscale spacing are effective for both purposes. Low-angle grain boundaries and low-energy interphase boundaries are also viable solutions for nanostructure stabilization. In ",
+        "bbox": [
+            233,
+            778,
+            574,
+            934
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "addition, gradient nanostructures have been demonstrated to enhance the ductility of materials that have different types of boundaries. These nanostructures with distinctive interface architectures are presented in the following sections. ",
+        "bbox": [
+            586,
+            76,
+            929,
+            148
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nanotwinned structures ",
+        "text_level": 1,
+        "bbox": [
+            588,
+            159,
+            761,
+            173
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Twin boundaries with extremely low excess energy effectively hinder dislocation motion and can thus act as stable interfaces for strengthening metals. Early experiments indicated that the twin-boundary effect on hardness in copper alloys is quantitatively the same as that of grain boundaries43. Measurements and computer simulations verified that the twin-boundary strengthening can become dominant if the twin-boundary spacing is reduced to the nanometre range10,44. Superior properties have been demonstrated in nanotwinned materials, including engineered alloys and non-metallic systems. ",
+        "bbox": [
+            586,
+            175,
+            929,
+            343
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interaction of dislocations with twin boundaries. Nanotwinned materials are structurally characterized by relatively large grains (typically in the micrometre range) containing twin boundaries with thicknesses in the range of a few nanometres to a few tens of nanometres10,11. The presence of the nanoscale twin boundaries in the grains changes the dislocation glide behaviour considerably, because interactions between dislocations and TBs dominate the plastic deformation. In face-centred cubic (fcc) metals, there are three possible types of dislocation–twin-boundary interaction: slip transfer mode (hard mode I), confined-layer slip mode (hard mode II) and twinning partial slip mode (soft mode); they are classified on the basis of extended dislocations (for example, the combination of partial dislocations and stacking faults) into 12 $\\{ 1 1 1 \\} { < } 1 1 0 >$ slip systems45,46 (BOX 2). ",
+        "bbox": [
+            586,
+            356,
+            929,
+            595
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Different slip modes are usually associated with different dislocation sources, and the activation of any of these three slip modes is controlled by the loading conditions. In both hard modes, when dislocations (or segments) are on opposite sides of the twin boundary, the slip can interact with the twin boundary in different ways, depending on the nature of the material and on the applied strain47–49. The dislocations can cut across the twin boundary and transmit into the adjoining twin lamellae, be absorbed into the coherent TB, dissociate into different partial dislocations that glide into the twin and along the twin boundary, or form dislocation locks at the twin boundary. In extremely thin twins (a few nanometres thick), atomistic simulations have recently revealed another dislocation mechanism: this involves the collective motion of a type of jogged dislocation that spans multiple twins50,51. Thus, nanoscale twin boundaries seem not only to act as effective barriers to dislocation slip, but also to provide room for dislocation accumulation and storage. In this respect, they are fundamentally different from conventional grain boundaries, which show an insufficient ability to accumulate dislocations, often leading to plastic instability. ",
+        "bbox": [
+            586,
+            597,
+            929,
+            934
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            68,
+            21,
+            203,
+            40
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            68,
+            962,
+            77,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "| MAY 2016 | VOLUME 1 ",
+        "bbox": [
+            80,
+            962,
+            211,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "www.nature.com/natrevmats ",
+        "bbox": [
+            761,
+            962,
+            927,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited. All rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3816136db923bf95be4ea72f8bd2068c0aee2b45f5f13951bba8c24a4acda4df.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            76,
+            378,
+            283
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f72ca8f6ed8391fd0656a95f48040c0b0287d70d359874fd25c3456f6c44136.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            383,
+            76,
+            694,
+            283
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/055fbbc5e3b1e2788dfd7507350ccacb2db2281059917d7fce0c585dfcdaea77.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            697,
+            76,
+            929,
+            260
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4a1c69d354b9a555c28eb20c4196e5b521e6cb1b1da01afefd0a618b1e70a19.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            65,
+            276,
+            378,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3be6ab8e90eb8e422df0973661149910c1ae523ec8ae82c1d59a4b306363f39b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            379,
+            276,
+            690,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72cc57e281c9086329b4fe2c54de314b88d36fbb51ac1b2b25c11452d710dc81.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            697,
+            276,
+            929,
+            465
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d593e7be7f75783b79b8f55ae4625416937aa465b2542012691163adfd0bd527.jpg",
+        "image_caption": [
+            "Figure 2 | Nanoscale twins and twin-boundary strengthening. a–d | Comparison between twin-boundary and grain-boundary strengthening. Panel a shows the dependence of yield strength (σy) on twin thickness. Panel b shows tensile elongation to failure. Panel c shows the work-hardening coefficient. Panel d shows the rate sensitivity. The samples are randomly oriented nanotwinned Cu (REF. 53), parallel nanotwinned columnar Cu (REF. 57), and homogeneous coarse-grained (CG; dashed line in panel c) and nanograined Cu (REFS 10,52,54,56). e,f | Typical transmission electron microscopy images of randomly oriented equiaxed Cu grains containing edge-on nano-twins54 (panel e) and Cu with columnar grains with nanotwins parallel to the deposition plane57 (panel f). λ, twin thickness; GD, growth direction (directed perpendicular to the page for panel e). Panels a, c and e are adapted with permission from REF. 54, American Association for the Advancement of Science. Panels b and d are adapted with permission from REF. 10, American Association for the Advancement of Science. Panel f is adapted with permission from REF. 57, Elsevier. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            236,
+            494,
+            687,
+            515
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nanotwinned copper. In nanotwinned Cu, the twin thickness influences the tensile properties. In ultrafinegrained Cu containing intra-grain, nanoscale, randomly oriented edge-on twins synthesized by pulsed electrodeposition, the tensile yield strength increases with reducing twin thickness, λ, for $\\lambda > 1 5 \\mathrm { n m }$ . This is the same dependence as that of nanograined Cu on grain size; both samples follow the empirical Hall–Petch relationship10,52–54 (FIG. 2a). This means that nanoscale twin boundaries, by blocking dislocation motion, provide as much strengthening as conventional high-angle grain boundaries. Further decreasing λ results in a drop in strength, after a maximum strength is reached for $1 5 \\mathrm { n m }$ (REF. 54). Experiments and molecular dynamics simulations suggest that this maximum strength originates from a transition of the plastic deformation mechanism from dislocation slip transfer (hard mode I) to nucleation and gliding of twinning partials (soft mode)54,55. ",
+        "bbox": [
+            233,
+            681,
+            576,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A pronounced increase in the tensile elongationto-failure and work-hardening coefficients is observed upon decreasing λ, in contrast to the reduction of these quantities reported for smaller values of $d$ in nanograined metals11,54 (FIG. 2b,c). In particular, very high work-hardening is observed as $\\lambda$ drops to a few nanometres. The decrease in twin thickness promotes dislocation–twin-boundary interactions and creates more room for dislocation storage, leading to more pronounced strain hardening. An increasing strain-rate sensitivity was measured upon decreasing λ (REF. 56), analogous to what was obtained by grain refinement in Cu and Cu alloys52 (FIG. 2d). ",
+        "bbox": [
+            586,
+            681,
+            929,
+            863
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The material properties can also be changed through the nanotwin architecture. Strength and ductility of nanotwinned metals are influenced by the architecture of the nanotwins, in particular by their structural anisotropy. This was demonstrated in two types of nano-twinned Cu ",
+        "bbox": [
+            586,
+            864,
+            929,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            794,
+            21,
+            927,
+            40
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            68,
+            962,
+            250,
+            973
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 ",
+        "bbox": [
+            781,
+            962,
+            912,
+            974
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            915,
+            962,
+            927,
+            971
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Ppublishers Limited.All rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "samples with randomly oriented equiaxed grains containing edge-on nanotwins (FIG. 2e) and with columnar grains with nanotwins parallel to the deposition plane (FIG. 2f). The measured tensile yield strength increases with decreasing λ for both samples but in different ways57 (FIG. 2a). For the randomly oriented sample, the Hall–Petch type strength increase indicates that the dominant mechanism is slip transfer (hard mode I). For the columnar samples, strength values are smaller and are proportional to $\\lambda ^ { - 1 }$ ; the threading dislocation slip inside the lamellar channels dominates plastic deformation (hard model II). The work-hardening capacity and the uniform tensile ductility decrease at smaller grain sizes. The Cu samples with columnar grains undergo inhomogeneous deformation during uniaxial tension, in which grain boundaries experience much larger plastic strain than that sustained by grain interiors. ",
+        "bbox": [
+            233,
+            76,
+            576,
+            301
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Stress-controlled high-cycle fatigue life and fatigue limit (at the fatigue life of $1 0 ^ { 7 }$ cycles) of nanotwinned Cu are higher than those of coarse-grained Cu (REF. 58). Strain-controlled low-cycle fatigue life is also increased by the nanotwinned structure, and the endurance limit is higher than that of the coarse-grained and ultrafinegrained Cu (REF. 59). Owing to the threading dislocation propagation inside nanotwin lamellar channels, the cyclic stability is maintained after an initial cyclic-hardening stage, in contrast to the continuous cyclic softening observed in ultrafine-grained Cu. The saturation stress increases with increasing strain amplitude and decreasing λ; nanotwinned structures were found to be stable under high stress and different loading conditions (that is, compression, torsion and tension)60. ",
+        "bbox": [
+            233,
+            301,
+            574,
+            512
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because of the extremely low enthalpy stored in coherent twin boundaries, the thermal stability of nanotwins is superior to that of nanograined structures61. In type 330 stainless steel, twins with a thickness of $4 { - } 5 \\mathrm { n m }$ remained unchanged after annealing at $0 . 5 T _ { \\mathrm { m } }$ for 1 hour62. In a magneto-sputtered nanotwinned Cu film, no significant thickening of twin lamellae was detected after annealing at $0 . 8 T _ { \\mathrm { m } }$ (REF. 63). ",
+        "bbox": [
+            233,
+            512,
+            574,
+            625
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrical resistivity of coherent twin boundaries in Cu at room temperature is at least one order of magnitude smaller than that of grain boundaries; thus, an unprecedented combination of ultrahigh strength and high conductivity is obtained in nanotwinned Cu (REF. 11). The unique effect of nanotwin boundaries on the strength–conductivity synergy cannot be produced with other types of internal boundaries. Other benefits of the nanotwinned structures include a suppression of the electromigration-induced failure of Cu lines in integrated circuits, because the atomic transport driven by electrical current at grain boundaries is reduced by an order of magnitude by the presence of the nanotwins within Cu grains64. ",
+        "bbox": [
+            233,
+            625,
+            574,
+            808
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nanotwinned steels. Twinning can be obtained in metals by plastic deformation under appropriate conditions. Nanotwinned structures can be induced in a fraction of grains in austenitic steels by means of dynamic (highrate) plastic deformation, followed by thermal anneal-$\\mathrm { i n g } ^ { 6 5 , 6 6 }$ . The resulting single-phase duplex structure, with nanotwinned grains embedded in micrometre-sized recrystallized grains, has an enhanced strength–ductility ",
+        "bbox": [
+            233,
+            820,
+            574,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "synergy and high work-hardening rates compared with conventional austenitic and dual-phase steels. A combination of 1.0-GPa tensile strength with a $2 7 \\%$ elongation-to-failure was achieved in nanotwinned 316L stainless steel66. The superior characteristics originate from the presence of the nanotwinned austenitic grains, which possess a very high yield strength (about 2 GPa with $\\lambda { \\approx } 2 8 \\mathrm { n m }$ ) and, at the same time, considerable tensile ductility and work-hardening. At small tensile strains $( < 5 \\% )$ , the nanotwinned grains deform homogeneously with the surrounding recrystallized grains, without generating notable strain localization near their interfaces67 , unlike what happens in conventional dual-phase structures. Nanotwinned structures have been generated in several austenitic steels (for example, FeMn, FeMnC and austenitic stainless steels), which, in each case, resulted in enhanced properties66,68,69. Optimization of the quantity and distribution of the nanotwinned grains, together with other strengthening mechanisms, offers a promising approach for the improvement of the global mechanical performance of steels. ",
+        "bbox": [
+            586,
+            76,
+            929,
+            372
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nanotwinned superalloys. The main challenge for disc superalloys used in aircraft engines and land-based gas turbines, which mainly consist of $\\gamma$ -phase matrix and $\\gamma ^ { \\prime }$ precipitates (for example, $\\mathrm { N i } _ { 3 } \\mathrm { A l }$ -type with L12 structure), is the high temperature at which they must operate. Recently, a new cast-and-wrought disc NiCo superalloy system (TMW) based on nanotwin strengthening has been developed70. On increasing the Co concentration, the stacking fault energy of the Ni-based alloy decreases markedly, from 36 mJ $\\mathrm { m } ^ { - 2 }$ ( $1 5 \\%$ Co) to $2 0 \\mathrm { m }$ J $\\mathrm { m } ^ { - 2 }$ $2 5 \\%$ Co), resulting in the formation of numerous nanoscale annealing twins (with thickness as small as $1 0 \\mathrm { n m }$ ) after heat treatment. Owing to the high thermal stability of twin boundaries and to the temperature-insensitive twinning stress, the nanotwin strengthening is effective at elevated temperatures — up to $7 2 5 ^ { \\circ } \\mathrm { C } ,$ , about $0 . 5 T _ { \\mathrm { m } }$ . An improvement of about $7 6 ^ { \\circ } \\mathrm { C }$ in the operating temperature was obtained in the TMW alloy relative to the commercial superalloy U720Li for creep testing at $6 3 0 \\mathrm { M P a }$ . Remarkably, the nanotwin strengthening does not compromise other properties such as low-cycle fatigue life, crack-growth rate and hot workability71. ",
+        "bbox": [
+            586,
+            384,
+            929,
+            696
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nanotwins in cubic boron nitride and diamond. Different methods for the preparation of nanograined ceramics (such as boron nitride, BN) and diamond have been explored for many years, with the aim of increasing their hardness. Nevertheless, the degree of grain-size refinement is limited by the reduced thermal stability of refined grains under the high pressure and temperatures required during processing. For example, for cubic BN (c-BN), a minimum grain size of $1 4 \\mathrm { n m }$ with a hardness of 85 GPa was obtained at pressures of ${ \\sim } 2 0 \\mathrm { G P a }$ (REF. 72). For well-sintered nanograined diamonds, grain sizes are limited to $1 0 { - } 3 0 \\mathrm { n m }$ , and they have a low thermal stability compared with that of natural diamonds73. ",
+        "bbox": [
+            586,
+            709,
+            929,
+            891
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Structure refinement in superhard materials has been finally achieved owing to the use of nanotwinned structures. Twins with thicknesses as small as $3 . 8 \\mathrm { n m }$ have ",
+        "bbox": [
+            586,
+            892,
+            929,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            68,
+            21,
+            203,
+            40
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "6 | MAY 2016 | VOLUME 1 ",
+        "bbox": [
+            68,
+            962,
+            211,
+            973
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "www.nature.com/natrevmats ",
+        "bbox": [
+            761,
+            962,
+            927,
+            973
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited.All rights reserved ",
+        "bbox": [
+            357,
+            980,
+            638,
+            992
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "been created in bulk c-BN samples using BN precursor nanoparticles possessing onion-like nested structures with intrinsically puckered BN layers and numerous stacking faults. A record-high hardness was reported74 in these nanotwinned c-BN samples, exceeding $1 0 0 \\mathrm { G P a }$ , which is comparable to the optimal hardness of synthetic diamond. More recently, nanotwinned diamond has been synthesized by using a precursor of onion-like carbon nanoparticles. High-density multiple twins, with an average thickness of $5 \\mathrm { n m }$ , were formed in a diamond bulk sample synthesized at 20 GPa and $2 { , } 0 0 0 ^ { \\circ } \\mathrm { C } ^ { 7 5 }$ (FIG. 3a,b). A Vickers hardness of $2 0 0 \\mathrm { G P a }$ , even higher than that of natural diamond, was reported for synthetic bulk nanotwinned diamond, with a high fracture toughness of about $1 5 \\mathrm { M P a } \\mathrm { m } ^ { - 1 / 2 }$ . The in-air oxidation temperature is more than $2 0 0 ^ { \\circ } \\mathrm { C }$ higher than that of natural diamond. The reported record-high hardness and thermal stability were attributed to the presence of the high-density nanotwins, although the dislocation–twin boundary interaction does not dominate the plastic deformation in superhard ceramics and diamond. These unprecedented properties need to be verified by further measurements, and the role of nanotwins still has to be clarified through further experimental and analytical investigations. ",
+        "bbox": [
+            233,
+            76,
+            576,
+            429
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nanolaminated structures ",
+        "text_level": 1,
+        "bbox": [
+            233,
+            442,
+            418,
+            455
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nanolaminates with low-angle boundary. In metals with high stacking fault energies, such as Ni and Al, twin boundaries are difficult to form. Low-angle grain boundaries, which, similar to twin boundaries, can hinder dislocation motion, providing an alternative low-energy interface for the stabilization of nanostructures. Lowangle grain boundaries are normally formed through dislocation multiplication and interaction during plastic straining. ",
+        "bbox": [
+            233,
+            456,
+            574,
+            581
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Strain-induced dislocations are not randomly distributed but accumulate in dislocation boundaries (either geometrically necessary or incidental dislocation boundaries) that separate regions with relatively low ",
+        "bbox": [
+            233,
+            581,
+            574,
+            640
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/19f7faf8d08f49cbf8b0e1242225569f8941f936e417480220455f9adbc48c8d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            68,
+            670,
+            315,
+            856
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ee7f2d1e7878f2d030018128b15fc38a93f45d94731aa10d10dda60f669d53a.jpg",
+        "image_caption": [
+            "Figure 3 | Nanotwins in diamond. a | Transmission electron microscopy image of Nature Reviews | Ma nanotwinned structures in a diamond bulk sample synthesized at 20GPa and $2 { , } 0 0 0 ^ { \\circ } \\mathrm { C }$ . b | High-resolution transmission electron microscopy image of intersecting nanotwins (outlined by the square in panel a) viewed along the [101] zone axis. Twin boundaries are marked with arrows75. GB, grain boundary. Figure is from REF. 75, Nature Publishing Group. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            322,
+            670,
+            569,
+            856
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "dislocation densities76. The spacing and misorientations of these boundaries depend on strain, strain rates and strain gradient. The latter two parameters are crucial for the formation of low-angle grain boundaries. With increasing strain, the boundary spacing decreases and misorientation angles increase following a power–law relationship76,77. Increasing strain rates and/or lowering deformation temperatures result in the formation of more low-angle grain boundaries, because dislocation annihilation kinetics, and recovery and relaxation, are suppressed. For example, if Ni is compressed at a strain rate of $1 0 ^ { 2 } { - } 1 0 ^ { 3 } { \\sf s } ^ { - 1 }$ , very small boundary spacings with a large fraction of low-angle grain boundaries $( \\sim 7 0 \\% )$ ) are formed compared with what is obtained under lowrate deformation ( ${ \\sim } 2 0 \\%$ in cold rolling and torsion)78. Increasing the strain gradient, which is proportional to the density of stored geometrically necessary dislocations79, enhances dislocation storage and reduces boundary spacing. ",
+        "bbox": [
+            586,
+            76,
+            929,
+            343
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Using a surface mechanical grinding treatment on a pure Ni rod, a very high rate of shear deformation (up to $1 0 ^ { 4 } s ^ { - 1 }$ ) was imposed at the top surface layer $( \\sim 8 0 \\mu \\mathrm { m }$ thick) with high strain gradients $( 0 . 4 \\mathrm { - } 0 . 1 \\mu \\mathrm { m } ^ { - 1 } ) ^ { 1 3 }$ ; at a certain strain level, laminated structures with an average thickness of $2 0 \\mathrm { n m }$ were formed13. The interfaces between the adjoining lamellae were all low-angle grain boundaries, with misorientation angles typically below $1 0 ^ { \\circ }$ (FIG. 4a–c). This strongly textured nanolaminated structure is distinct from that obtained from conventional heavy deformation (submicrometre-sized elongated grains with mostly high-angle grain boundaries). With the same technique, similar nanolaminates were generated in the surface layer of a body-centred cubic (bcc) interstitial-free steel12. ",
+        "bbox": [
+            586,
+            343,
+            929,
+            553
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nanolaminated structures with low-angle grain boundaries are extremely hard owing to their very small thickness, and they are highly stable owing to the low-energy boundary state. The Vickers hardness of 20-nm laminates in Ni is about $6 . 4 \\mathrm { G P a }$ , which is higher than any value reported for Ni processed with heavy plastic deformation13. The hardness follows a Hall–Petch line if the lamellar thickness is taken as equivalent to the grain size, indicating that the nanospaced low-angle grain boundaries are as effective in resisting dislocation motion as conventional high-angle grain boundaries. The thermal stability of low-angle grain boundaries is also good: the onset temperature for the thickening of the nanolaminates $( { \\sim } 5 0 6 ^ { \\circ } \\mathrm { C } )$ ) is higher than the coarsening temperature of nanograins of comparable sizes $\\left( { \\sim } 4 4 3 ^ { \\circ } \\mathrm { C } \\right)$ ). The combination of hardness and stability of the nanolaminates with low-angle grain boundaries stands out from the general trend for refined structures13. ",
+        "bbox": [
+            586,
+            554,
+            929,
+            820
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The formation of boundaries at low-energy states (low-angle grain or twin boundaries) thus stabilizes nanostructures and hence aids structural refinement. Conventional plastic deformation refines grains of metals down to the submicrometre regime, with mostly high-angle boundaries. The stable structural sizes decrease to several tens of nanometres as most grain boundaries become low-angle. Even smaller lamellar ",
+        "bbox": [
+            586,
+            820,
+            929,
+            934
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            794,
+            21,
+            927,
+            39
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            68,
+            962,
+            250,
+            973
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 | 7 ",
+        "bbox": [
+            783,
+            962,
+            927,
+            974
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Ppublishers Limited. All rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/290e8cfc74ad88929e29cd1b1913e2f538862c938c97c57fec218475340fae39.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            75,
+            573,
+            315
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            318,
+            82,
+            329
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2669663b26b3b9074b4d52a4256aee1f9f258cc25a7a983ff631523d33fb95eb.jpg",
+        "image_caption": [
+            "Figure 4 | Nanolaminated structures in nickel and boundary energy effect onNature Reviews | Mat minimum structural size. a | A bright-field cross-sectional and longitude-sectional transmission electron microscopy (TEM) image of the nanolaminated structures in Ni (REF. 13). The schematic drawing shows the processing set-up and the sample orientation, in which V1 is the rotation velocity of the sample and V2 is the moving velocity of the tip. b | A high-resolution TEM image of the nanolaminated structure containing four lamellae (1, 2, 3 and 4)13. c | A Fourier-filtered image corresponding to the area in the rectangle in panel b, showing contiguity of the (111 ) atomic plane in lamella 2 to the (111) in lamella 3, with a misorientation angle of $3 ^ { \\circ }$ across the boundary, indicated by the dashed line. d | Correlation between minimum structural sizes reported in literature and the boundary energy for the elements and single-phase materials listed in the table, processed by means of various plastic deformation techniques and other methods12,13,54,66,74,75,121,129–139. The boundary energies for high-angle grain boundary $( \\gamma _ { \\scriptscriptstyle { \\mathrm { H A G B } } } )$ , low-angle grain boundary $( \\gamma _ { \\scriptscriptstyle \\mathrm { L A G B } } )$ , incoherent twin boundary $( \\gamma _ { _ { \\mathrm { | T B } } } )$ and coherent twin boundary $( \\gamma _ { \\scriptscriptstyle \\mathrm { C T B } } )$ are indicated. Note that $\\gamma _ { \\scriptscriptstyle \\mathrm { C T B } }$ values are only a few per cent of those for $\\gamma _ { \\mathrm { H A G B } }$ . Panels a, b and c are adapted with permission from REF. 13, American Association for the Advancement of Science. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            320,
+            574,
+            494
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8883ae88695d703088fdf659659bfcc41188243e04b9c53ae6a020248b0be5fb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Material</td><td>Grains</td><td>Laminates</td><td>Twins</td><td>Growth twins</td></tr><tr><td>Cu</td><td>●</td><td></td><td>○</td><td>○</td></tr><tr><td>Ni</td><td>●</td><td>○</td><td>○</td><td></td></tr><tr><td>Fe</td><td>●</td><td>○</td><td></td><td></td></tr><tr><td>Al</td><td>●</td><td></td><td></td><td></td></tr><tr><td>316L steel</td><td></td><td></td><td>■</td><td></td></tr><tr><td>Cu-Al</td><td></td><td></td><td>■</td><td></td></tr><tr><td>Cu-Zn</td><td></td><td></td><td>■</td><td></td></tr><tr><td>Fe-Mn</td><td></td><td></td><td>■</td><td></td></tr><tr><td>Diamond</td><td></td><td></td><td></td><td>▲</td></tr><tr><td>c-BN</td><td></td><td></td><td></td><td>▲</td></tr></table>",
+        "bbox": [
+            87,
+            502,
+            573,
+            710
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "spacing is induced (around $1 0 \\mathrm { n m }$ ) when incoherent twin boundaries are generated by plastic deformation in metals with low stacking-fault energies. The finest laminated structures, with characteristic sizes of a few nanometres, are formed with coherent twin boundaries that possess the lowest excess energy among these interfaces, as in the case of electrodeposited copper54 and diamond75. A clear, general trend is that the minimum achievable structural size in single-phase materials decreases on reducing the boundary energy (FIG. 4d). ",
+        "bbox": [
+            586,
+            76,
+            929,
+            219
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Nanolaminated composites. The formation of lowenergy interfaces is also crucial for the stabilization of multiphase nanostructures. Low-energy interphase boundaries are frequently formed during the precipitation of a second phase from a supersaturated solid solution; the thermodynamic driving force is a decrease in the volume free energy at the cost of an increase in interfacial energy. Hence, low-energy interphase boundaries are preferentially formed to minimize the total free energy. For example, when particles of Pb are precipitated from an Al(Pb) supersaturated solid solution, the nanometre-sized Pb particles with truncated shapes bounded by {111} and {100} facets exhibit a cube–cube relationship with the Al matrix, forming semi-coherent Pb/Al interfaces80. Owing to the lowenergy, semi-coherent interphase boundaries between particle and matrix, the nanostructure is significantly stabilized: the melting temperature of the Pb nanoparticles is increased to $4 0 ^ { \\circ } \\mathrm { C }$ above the equilibrium melting point of bulk Pb (REFS 81,82). ",
+        "bbox": [
+            586,
+            230,
+            929,
+            512
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Low-energy interphase boundaries are also formed under extreme mechanical straining of layered nanocomposites. Metalworking techniques can be used to create composites of different metals in bulk quantities for structural applications, but the resulting bimetal interfaces typically lack crystallographic order and are thus unstable. Using the technique of accumulative roll bonding on stacked Pb and Al foils, nanometre-thick multilayers can be fabricated with increasing strains. Layers of Pb are thinned down to about $2 0 \\mathrm { n m }$ and are sandwiched between Al nanolayers; semi-coherent epitaxial Pb/Al interfaces form, with a cubic–cubic orientation relationship83. The semi-coherent Pb/Al interfaces result in an elevated melting temperature of the Pb nanolayers. ",
+        "bbox": [
+            586,
+            512,
+            929,
+            723
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Nanolayered materials made of alternating layers of Cu and Nb have been fabricated in bulk form with the accumulative roll bonding technique84. By applying an increasing strain, the individual layer thickness was reduced from $2 \\mathrm { m m }$ to $2 0 \\mathrm { n m }$ (FIG. 5a). High-resolution transmission electron microscopy (TEM) micrographs of the preferred interfaces show that they are regularly ordered at the atomic level, as they were formed in near-equilibrium thermodynamic processes. Two types of regular zigzag atomic-scale facets were identified (FIG. 5b,c): $\\mathrm { \\{ 1 1 1 \\} C u / / \\{ 1 0 1 \\} N b }$ and $\\{ 0 0 1 \\} \\mathrm { C u } / / \\{ 0 1 1 \\} \\mathrm { N b }$ . This is a consequence of the faceted topology of the {3 38}Cu and $\\{ 1 1 2 \\} \\mathrm { N b }$ , and {112}Cu and {112}Nb crystallographic planes that are being joined85. Owing to the lattice mismatch between Cu and Nb, misfit ",
+        "bbox": [
+            586,
+            723,
+            929,
+            934
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            68,
+            21,
+            203,
+            40
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            68,
+            962,
+            77,
+            973
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "| MAY 2016 | VOLUME 1 ",
+        "bbox": [
+            80,
+            962,
+            211,
+            973
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "www.nature.com/natrevmats ",
+        "bbox": [
+            761,
+            962,
+            929,
+            974
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited.All rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/116a08fcd0c1603fefc01c1525b14943cfcec1ee7e7bb226b1f0666c955d3045.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            233,
+            74,
+            480,
+            242
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8f1ccd3c78a47a88b2a93ab0ea2f1333b7f4541bacb47894d253060f3064450.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            482,
+            74,
+            705,
+            242
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b531c027d18104683ea86f9bf0f8973b655114e0ba65635f17506bec6c98b9ea.jpg",
+        "image_caption": [
+            "Figure 5 | Bimetal nanolaminates made of copper–niobium. a | Typical transmission electron microscopy (TEM) image Nature Reviews | Materia of the Cu–Nb bimetal nanolaminates after extreme straining84,85. b,c | High-resolution TEM micrographs of preferred Cu/_ _ Nb interfaces formed in the bimetal nano-laminates: $\\{ \\overline { { 3 } } 3 8 \\} { < } 4 4 3 { > } \\mathrm { C u } / / \\{ 1 1 2 \\} { < } 1 1 0 { > } \\mathsf { N b }$ (panel b) and $\\lbrace { \\bar { 1 } } 1 2 \\rbrace { < } 1 1 1 > { \\mathsf { C u } } / /$ {112}<110>Nb (panel c) 85. Adapted with permission from REF. 85, Proceedings of the National Academy of Sciences. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            707,
+            74,
+            927,
+            242
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "dislocations are formed at the bimetal interfaces. The formation of these interfaces is supported by atomistic calculations, which show two energy minima, corresponding to the two types of observed interfaces. Experimental measurements show that the largescale low-energy interfaces make the nanocomposite extremely strong and, at the same time, very stable. The samples maintain their integrity upon treatment with further straining, elevated temperatures and light-ion irradiation. ",
+        "bbox": [
+            233,
+            329,
+            574,
+            469
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another example of nanostructure stabilization through the formation of low-energy interfaces is provided by severe drawing of a pearlitic steel wire86,87 (a lamellar structure composed of alternating iron and iron carbide layers). The carbide phase dissolves with increasing strain, transforming the initial two-phase pearlite structure into a carbon-supersaturated iron phase in the form of nanoscale columnar structures. Gibbs segregation of the supersaturated carbon from the iron subgrain boundaries reduces their interface energy, lowering the driving force for dynamic recovery and crystal coarsening. A stable cross-sectional subgrain size smaller than $1 0 \\mathrm { n m }$ is thereby obtained, leading to a record-high tensile strength of 7 GPa. ",
+        "bbox": [
+            233,
+            470,
+            574,
+            668
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gradient nanostructures ",
+        "text_level": 1,
+        "bbox": [
+            233,
+            681,
+            410,
+            693
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As discussed above, the observed tensile brittleness of nanograined metals originates from the superposition of strain localization and early necking, owing to the lack of work-hardening. To provide work-hardening and to delocalize strain in nanograined structures, a unique architecture was designed: a layer of nanograined material adheres to a ductile coarse-grained substrate of the same material; between them is positioned a transition layer with graded grain size30,88 (FIG. 6a). This architecture with a graded spatial variation of grain sizes (or grain-boundary density), which is elastically homogeneous but plastically exhibits a gradient, enables the delocalization of strains and work-hardening from the coarse-grained substrate. This principle applies to different grain morphologies (such as equiaxed, laminated and columnar) with various types of boundaries, including twin boundaries88. It results in plastic deformation ",
+        "bbox": [
+            233,
+            695,
+            574,
+            934
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "behaviours that are fundamentally different from those of the free-standing homogeneous nanograined and coarse-grained samples. ",
+        "bbox": [
+            586,
+            329,
+            927,
+            370
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The spatial variation of grain sizes can be generated by the controlled surface plastic deformation of bulk coarse-grained metals, using a gradient variation of strain and strain rate from the surface to the interior30,89,90. Several gradient deformation approaches (surface impact, surface grinding and surface rolling) have been developed to produce gradient nanograined (or nanotwinned or nanolaminated) structures in surface layers of bulk metals88. Nanometre-sized grains are generated by very high strain rates (up to ${ \\sim } 1 0 ^ { 4 } s ^ { - 1 }$ ) and strain gradients $( \\sim 0 . 5 \\mu \\mathrm { m } ^ { - 1 } )$ in the top surface layer — a treatment different from the conventional heavy plastic deformation of bulk metals with which submicrometre-sized grains are normally obtained. Alternatively, gradient nanostructures can be prepared by means of deposition processes (physical and chemical vapour deposition, or electrodeposition) with controlled deposition kinetics, which enable the grading of the spatial variation of microstructures and/or chemical compositions. ",
+        "bbox": [
+            586,
+            372,
+            929,
+            654
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mechanical behaviour. Uniaxial tensile tests performed on Cu ‘dog-bone’ shaped samples with a gauge diameter of 6 mm showed that the generation of a gradient nanograined skin (the grain sizes in the top $6 0 \\mathrm { - } \\mu \\mathrm { m }$ -thick layer were below $1 0 0 \\mathrm { n m }$ ) on top of a coarse-grained core can double the yield strength of the sample owing to the very strong surface layer30. Interestingly, the nanograined layer and the coarse-grained core were elongated coherently with a strain of ${ \\sim } 6 0 \\%$ before failure. This elongation-to-failure is comparable to that of coarse-grained Cu. If removed from the substrate, the free-standing nano-grained skin exhibits almost no tensile elongation. ",
+        "bbox": [
+            586,
+            667,
+            929,
+            850
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The gradient nanograined surface layer presents a unique strain delocalization mechanism that is optimal for enhancing fatigue properties of conventional materials under cyclic loading, as demonstrated in several recent studies91–93. Fatigue-crack initiation is suppressed by the hard and ductile nanograined skin, whereas the ",
+        "bbox": [
+            586,
+            850,
+            929,
+            934
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            794,
+            21,
+            927,
+            39
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            68,
+            962,
+            248,
+            973
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 ",
+        "bbox": [
+            783,
+            962,
+            912,
+            973
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            915,
+            962,
+            927,
+            971
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited.All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            638,
+            992
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c559599b8ce57246f3c734aadd008899deb52a5ed2a9b9db60876e770e85726.jpg",
+        "image_caption": [
+            "",
+            "b "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            78,
+            574,
+            407
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d9f1c399ee673576b36290b75acd9bd3013cad072f2e081d29d01f4bce512c0.jpg",
+        "image_caption": [
+            "Figure 6 | Strength–ductility synergy and strain softening and hardening of gradient nanograined structures. "
+        ],
+        "image_footnote": [
+            "a | The blue curve shows how the yield strength increases at the expense of ductility for homogeneous plastic Nature Reviews deformation of coarse-grained (CG) metals or for homogeneous refinement to nanometre-sized grains (NG). Similar strength–ductility trade-offs appear for random mixtures of coarse grains and nanograins $( \\mathsf { N G } + \\mathsf { C G } )$ . By contrast, a synergy between yield strength and ductility is achieved with gradient nanograined (GNG) structures (orange curve)98. b | Schematic representation of a sample with a gradient nanograined skin and variation of the hardness profiles as a function of the depth from the surface before and after straining100. Panel a is adapted with permission from REF. 98, American Association for the Advancement of Science. "
+        ],
+        "bbox": [
+            589,
+            126,
+            929,
+            407
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "soft coarse-grained interior effectively arrests crack propagation. The increase in the fatigue limit can be larger than $1 0 0 \\%$ for engineered alloys with a gradient nanograined surface layer. ",
+        "bbox": [
+            233,
+            540,
+            574,
+            595
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Superior strength–ductility combinations have been reported for several gradient nanograined and gradient nanotwinned materials94–96. In contrast to the traditional ‘banana curve’ for the trade-off between strength and ductility, which is characteristic of homogeneously deformed or homogeneous nanograined metals and of random mixtures of nano and coarse grains, the overall strength gain obtained using gradient nanostructuring is much more pronounced than the ductility loss97,98 (FIG. 6a). Finer nanograins or thicker gradient skins may push the strength–ductility line even further up99. ",
+        "bbox": [
+            233,
+            597,
+            576,
+            751
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plastic deformation mechanism. If a homogeneousgrained material is strained, plastic deformation sets in almost simultaneously in different grains, producing stress–strain localization between adjacent grains if they cannot deform in concert. When a material with a grain-size gradient is strained, deformation in coarse grains begins first and smaller grains deform at higher loads. With an increasing load, plastic deformation propagates from coarse-grained regions to finer and finer grains progressively, until it reaches the topmost nanograined layer. Intergranular stress between neighbouring grains of different sizes is effectively released ",
+        "bbox": [
+            233,
+            765,
+            574,
+            934
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and strain localization is suppressed, enabling the nanograined skin to undertake plastic deformation concurrently with the other parts of the sample98. ",
+        "bbox": [
+            586,
+            540,
+            929,
+            581
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The deformation of the nanograined layer is dominated by a mechanically driven grain-boundary migration, with concomitant grain coarsening and softening30. At the same time, deformed coarse grains are hardened by dislocations, providing work-hardening for the whole sample. Thus, strain hardening and grain-boundary migration-induced softening occur simultaneously in the gradient structure100 (FIG.  6b). In submicrometre-sized regions, neither hardening nor softening is induced, because the two mechanisms are balanced; this corresponds to the strain-induced saturation structures in which the density of dislocations and grain boundaries (grain size) reaches saturation38. The gradient microstructures constitute a unique system in which various plastic deformation mechanisms of largely different microstructures are concurrently activated; this is a combination that does not exist in homogeneous structures and in random mixtures of nano- and coarse grains. ",
+        "bbox": [
+            586,
+            581,
+            929,
+            851
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Other properties. During plastic deformation of metals under tension, buckling or drawing, obvious surface roughening (usually referred to as ‘orange peel’) takes place owing to the inhomogeneous deformation experienced by neighbouring grains with different ",
+        "bbox": [
+            586,
+            864,
+            929,
+            934
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            68,
+            21,
+            203,
+            39
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            68,
+            962,
+            85,
+            973
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "MAY 2016 | VOLUME 1 ",
+        "bbox": [
+            89,
+            962,
+            218,
+            973
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "www.nature.com/natrevmats ",
+        "bbox": [
+            761,
+            962,
+            927,
+            973
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited. All rights reserved. ",
+        "bbox": [
+            357,
+            980,
+            640,
+            992
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "crystallographic misorientations. Increased surface roughness can enhance stress concentration or even crack nucleation, which is detrimental to the processability of the metal. Owing to the extraordinary tensile ductility of gradient nanostructured surface layers, the inhomogeneous plastic deformation of neighbouring nanometre-sized grains is suppressed, and surface roughening or cracking is eliminated completely30,88. The surface roughness of pure Cu with a gradient nanograined surface layer remains in the submicrometre regime after tension, whereas it increases to a few micrometres in coarse-grained samples at the same strain30. ",
+        "bbox": [
+            233,
+            76,
+            576,
+            258
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Enhanced wear resistance has been reported in several metals and alloys with gradient nanostructured surface layers101, owing to the substantial surface hardening. Gradient nanostructures are also used to improve the cohesion between different materials and to promote the bonding of hard films and metals. Bonding between 304 stainless steel and an ultrahard thin film (for example, CrN, TiN or diamond-like carbon) is enhanced by using gradient nanostructured surface layers on the steel102. The wear resistance of the bonded films is also enhanced102. The stronger bonding originates from the elevated diffusivity in the gradient nanostructures, which aids the formation of metallurgical bonding. ",
+        "bbox": [
+            233,
+            259,
+            574,
+            443
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conclusions and perspective ",
+        "text_level": 1,
+        "bbox": [
+            233,
+            456,
+            438,
+            469
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "An interface is a unique lattice defect with a wide spectrum of possible structures and energy states. With the increasing awareness of the effect of interfaces on the performance of materials, traditional processing–structure–property relationships — the core of materials science — will be upgraded with the addition of the structure of interfaces, of which there are numerous variants. Research in the formation, structure and properties of interfaces at the nanoscale provides new challenges and opportunities for experimental, analytical and simulation studies. ",
+        "bbox": [
+            233,
+            470,
+            574,
+            625
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As highlighted throughout this Review, interface architecture at the nanoscale results in the stabilization of nanostructures and in the modification of the material characteristics, to a degree that goes beyond what can be obtained by traditional alloying. The properties and performances of nanostructured materials are determined not only by the number of interfaces but also by their structure and distribution. The formation of interfaces at low-energy states is the key to the stabilization of nanostructures and results in new mechanical properties and performances of nanomaterials. It can also be used to optimize the material physically (magnetic, electrical and thermal properties) and chemically, as well as to produce synergies of the different properties. ",
+        "bbox": [
+            586,
+            76,
+            929,
+            273
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Further innovation in processing techniques for tailoring the properties of low-energy boundaries is crucial for the future development of nanomaterials, especially for advancing the fundamental understanding of their structure–property relationships. For example, the self-assembly of low-energy boundaries during extreme straining of single- and multi-phase metals could inspire the development of hybrid processing techniques with scale-up capability for engineered materials. Incorporating the traditional alloying principles in the interface architecture strategy could provide wider opportunities for material optimization. ",
+        "bbox": [
+            586,
+            274,
+            929,
+            441
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To enhance material properties, the dimensions of grains are being made smaller and smaller by means of advanced physical and chemical approaches under extreme conditions; but our understanding of the mechanical response of interfaces at the nanoscale remains incomplete. It is challenging to characterize interfacial behaviours under different conditions in extremely fine structures (of the order of a few nanometres). Further reduction in the structural length scale towards its limit is technically challenging, but it will be exciting, as the structural characteristics and physical properties of crystalline states will be linked to those of amorphous and glassy states, and of related compounds. ",
+        "bbox": [
+            586,
+            442,
+            929,
+            626
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Pickering, F. P. in Materials Science Technology (eds Cahn, R. W., Haasen, P. & Kramer, E. J.) (Wiley, 2005). ",
+            "2. Allwood, J. M. & Cullen, J. M. Sustainable Materials: With Both Eyes Open (UIT Cambridge, 2012). ",
+            "3. Gleiter, H. Nanostructured materials: basic concepts and microstructure. Acta Mater. 48, 1–29 (2000). ",
+            "4. Gleiter, H. Nanocrystalline materials. Prog. Mater. Sci. 33, 223–315 (1989). ",
+            "5. Meyers, M. A., Mishra, A. & Benson, D. J. Mechanical properties of nanocrystalline materials. Prog. Mater. Sci. 51, 427–556 (2006). A comprehensive review article on mechanical properties of nanocrystalline materials. ",
+            "6. Liddicoat, P. V. et al. Nanostructural hierarchy increases the strength of aluminium alloys. Nat. Commun. 1, 63–79 (2010). ",
+            "7. Koch, C. C., Morris, D. G., Lu, K. & Inoue, A. Ductility of nanostructured materials. MRS Bull. 24, 54–58 (1999). ",
+            "8. Koch, C. C. Structural nanocrystalline materials: an overview. J. Mater. Sci. 42, 1403–1414 (2007). ",
+            "9. Koch, C., Scattergood, R., Darling, K. & Semones, J. Stabilization of nanocrystalline grain sizes by solute additions. J. Mater. Sci. 43, 7264–7272 (2008). A comprehensive review article on thermal stability of nanocrystalline materials. ",
+            "10. Lu, K., Lu, L. & Suresh, S. Strengthening materials by engineering coherent internal boundaries at the nanoscale. Science 324, 349–352 (2009). "
+        ],
+        "bbox": [
+            67,
+            658,
+            342,
+            932
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "A concise review article on strengthening strategies using coherent internal boundaries at the nanoscale. ",
+            "11. Lu, L., Shen, Y. F., Chen, X. H., Qian, L. H. & Lu, K. Ultrahigh strength and high electrical conductivity in copper. Science 304, 422–426 (2004). The first report on the nanotwinned materials and the nanotwin effect on strength and electrical conductivity. ",
+            "12. Liu, X. C., Zhang, H. W. & Lu, K. Formation of nanolaminated structure in an interstitial-free steel. Scr. Mater. 95, 54–57 (2015). ",
+            "13. Liu, X. C., Zhang, H. W. & Lu, K. Strain-induced ultrahard and ultrastable nanolaminated structure in nickel. Science 342, 337–340 (2013). The first report on discovery of the nanolaminated structures in pure metals. ",
+            "14. Hall, E. O. The deformation and ageing of mild steel: III. Discussion of results. Proc. Phys. Soc. B 64, 747–753 (1951). ",
+            "15. Petch, N. J. The cleavage strength of polycrystals. J. Iron Steel Inst. 174, 25–28 (1953). ",
+            "16. Erb, U. Electrodeposited nanocrystals: synthesis, properties and industrial applications. Nanostruct. Mater. 6, 533–538 (1995). ",
+            "17.Schuh.C.A..Nieh.I.G.& Yamasaki.I. Hall-Petch breakdown manifested in abrasive wear resistance of nanocrystalline nickel. Scr. Mater. 46, 735–740 (2002). "
+        ],
+        "bbox": [
+            361,
+            659,
+            635,
+            932
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "18. Schuh, C. A., Nieh, T. G. & Iwasaki, H. The effect of solid solution W additions on the mechanical properties of nanocrystalline Ni. Acta Mater. 51, 431–443 (2003). ",
+            "19. Detor, A. J. & Schuh, C. A. Tailoring and patterning the grain size of nanocrystalline alloys. Acta Mater. 55, 371–379 (2007). ",
+            "20. Trelewicz, J. R. & Schuh, C. A. The Hall–Petch breakdown in nanocrystalline metals: a crossover to glass-like deformation. Acta Mater. 55, 5948–5958 (2007). ",
+            "21. Kumar, K. S., Van Swygenhoven, H. & Suresh, S. Mechanical behaviorof nanocrvstalline metals and alloys. Acta Mater. 51, 5743–5774 (2003). ",
+            "22. Misra, A., Hirth, J. P. & Hoagland, R. G. Length-scaledependent deformation mechanisms in incoherent metallic multilayered composites. Acta Mater. 53, 4817–4824 (2005). ",
+            "23. Misra, A. & Thilly, L. Structural metals at extremes. MRS Bull. 35, 965–976 (2010). ",
+            "24. Hughes, D. A. & Hansen, N. Exploring the limit of dislocation based plasticity in nanostructured metals. Phys. Rev. Lett. 112, 135504 (2014). ",
+            "25. Wang, N., Wang, Z., Aust, K. T. & Erb, U. Room temperature creep behavior of nanocrystalline nickel produced by an electrodeposition technique. Mater. Sci. Eng. A 237, 150–158 (1997). ",
+            "26. Schiotz, J., Di Tolla, F. D. & Jacobsen, K. W. Softening of nanocrystalline metals at very small grain sizes. Nature 391, 561–563 (1998). "
+        ],
+        "bbox": [
+            653,
+            658,
+            927,
+            932
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            794,
+            21,
+            927,
+            40
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            68,
+            962,
+            250,
+            973
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 ",
+        "bbox": [
+            776,
+            962,
+            907,
+            973
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "| 11 ",
+        "bbox": [
+            912,
+            962,
+            927,
+            971
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited.All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            638,
+            992
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "27. Chokshi, A. H., Rosen, A., Karch, J. & Gleiter, H. On the validity of the Hall–Petch Relationship in nanocrystalline materials. Scr. Metall. 23, 1679–1684 (1989). ",
+            "28. Rupert, T. J., Gianola, D. S., Gan, Y. & Hemker, K. J. Experimental observations of stress-driven grain boundary migration. Science 326, 1686–1690 (2009). ",
+            "29. Gianola, D. S. et al. Stress-assisted discontinuous grain growth and its effect on the deformation behavior of nanocrystalline aluminum thin films. Acta Mater. 54, 2253–2263 (2006). ",
+            "30. Fang, T. H., Tao, N. R. & Lu, K. Revealing extraordinary intrinsic tensile plasticity in gradient nano-grained copper. Science 331, 1587–1590 (2011). The first report on gradient nanograined metals with extraordinary mechanical properties. ",
+            "31. Brandstetter, S., Zhang, K., Escuadro, A., Weertman, J. R. & Van Swygenhoven, H. Grain coarsening during compression of bulk nanocrystalline nickel and copper. Scr. Mater. 58, 61–64 (2008). ",
+            "32. Zhang, K., Weertman, J. R. & Eastman, J. A. Rapid stress-driven grain coarsening in nanocrystalline Cu at ambient and cryogenic temperatures. Appl. Phys. Lett. 87, 061921 (2005). ",
+            "33. Jin, M., Minor, A. M., Stach, E. A. & Morris, J. W. Jr Direct observation of deformation-induced grain growth during the nanoindentation of ultrafine-grained Al at room temperature. Acta Mater. 52, 5381–5387 (2004). ",
+            "34. Hanlon, T., Kwon, Y. N. & Suresh, S. Grain size effects on the fatigue response of nanocrystalline metals. Scr. Mater. 49, 675–680 (2003). ",
+            "35. Hasnaoui, A., Van Swygenhoven, H. & Derlet, P. M. Dimples on nanocrystalline fracture surfaces as evidence for shear plane formation. Science 300, 1550–1552 (2003). ",
+            "36. Wang, Y. M., Ma, E. & Chen, M. W. Enhanced tensile ductility and toughness in nanostructured Cu. Appl. Phys. Lett. 80, 2395–2397 (2002). ",
+            "37. Lu, L., Sui, M. L. & Lu, K. Superplastic extensibility of nanocrystalline copper at room temperature. Science 287, 1463–1466 (2000). ",
+            "38. Pippan, R. et al. Saturation of fragmentation during severe plastic deformation. Annu. Rev. Mater. Res. 40, 319–343 (2010). ",
+            "39. Darling, K. A. et al. Thermal stability of nanocrystalline nickel with yttrium additions. J. Mater. Res. 28, 1813–1819 (2013). ",
+            "40. Weissmuller, J. Alloy effects in nanostructures. Nanostruct. Mater. 3, 261–272 (1993). ",
+            "41. Kirchheim, R. Reducing grain boundary, dislocation line and vacancy formation energies by solute segregation. I. Theoretical background. Acta Mater. 55, 5129–5138 (2007). ",
+            "42. Chookajorn, T., Murdoch, H. A. & Schuh, C. A. Design of stable nanocrystalline alloys. Science 337, 951–954 (2012). ",
+            "43. Babyak, W. J. & Rhines, F. N. The relationship between the boundary area and hardness of recrystallized cartridge brass. Trans. Mettall. Soc. AIME 218, 21–23 (1960). ",
+            "44. Lu, L. & Lu, K. in Mechanical Properties of Nanocrystalline Materials (ed. Li, J. C. M.) (Pan Stanford, 2011). ",
+            "45. You, Z. et al. Plastic anisotropy and associated deformation mechanisms in nanotwinned metals. Acta Mater. 61, 217–227 (2013). ",
+            "46. Zhu, T. & Gao, H. Plastic deformation mechanism in nanotwinned metals: an insight from molecular dynamics and mechanistic modeling. Scr. Mater. 66, 843–848 (2012). ",
+            "47. Jin, Z. H. et al. The interaction mechanism of screw dislocations with coherent twin boundaries in different face-centred cubic metals. Scr. Mater. 54, 1163–1168 (2006). ",
+            "48. Jin, Z. H. et al. Interactions between non-screw lattice dislocations and coherent twin boundaries in facecentered cubic metals. Acta Mater. 56, 1126–1135 (2008). ",
+            "49. Zhu, T., Li, J., Samanta, A., Kim, H. G. & Suresh, S. Interfacial plasticity governs strain rate sensitivity and ductility in nanostructured metals. Proc. Natl Acad. Sci. USA 104, 3031–3036 (2007). ",
+            "50. Zhou, H. F., Li, X. Y., Qu, S. X., Yang, W. & Gao, H. J. A. Jogged dislocation governed strengthening mechanism in nanotwinned metals. Nano Lett. 14, 5075–5080 (2014). ",
+            "51. Zhou, H. F. & Gao, H. J. A plastic deformation mechanism by necklace dislocations near crack-like defects in nanotwinned metals. J. Appl. Mech. 82, 071015 (2015). "
+        ],
+        "bbox": [
+            68,
+            76,
+            344,
+            933
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "52. Chen, J., Lu, L. & Lu, K. Hardness and strain rate sensitivity of nanocrystalline Cu. Scr. Mater. 54, 1913–1918 (2006). ",
+            "53. Shen, Y. F., Lu, L., Lu, Q. H., Jin, Z. H. & Lu, K. Tensile properties of copper with nano-scale twins. Scr. Mater. 52, 989–994 (2005). ",
+            "54. Lu, L., Chen, X., Huang, X. & Lu, K. Revealing the maximum strength in nanotwinned copper. Science 323, 607–610 (2009). ",
+            "55. Li, X., Wei, Y., Lu, L., Lu, K. & Gao, H. Dislocation nucleation governed softening and maximum strength in nano-twinned metals. Nature 464, 877–880 (2010). ",
+            "56. Lu, L. et al. Nano-sized twins induce high rate sensitivity of flow stress in pure copper. Acta Mater. 53, 2169–2179 (2005). ",
+            "57. You, Z. S., Lu, L. & Lu, K. Tensile behavior of columnar grained Cu with preferentially oriented nanoscale twins. Acta Mater. 59, 6927–6937 (2011). ",
+            "58. Pan, Q. S., Lu, Q. H. & Lu, L. Fatigue behavior of columnar-grained Cu with preferentially oriented nanoscale twins. Acta Mater. 61, 1383–1393 (2013). ",
+            "59. Pan, Q. S. & Lu, L. Strain-controlled cyclic stability and properties of Cu with highly oriented nanoscale twins. Acta Mater. 81, 248–257 (2014). ",
+            "60. Hodge, A. M. et al. Twin stability in highly nanotwinned Cu under compression, torsion and tension. Scr. Mater. 66, 872–877 (2012). ",
+            "61. Zhang, X. & Misra, A. Superior thermal stability of coherent twin boundaries in nanotwinned metals. Scr. Mater. 66, 860–865 (2012). ",
+            "62. Zhang, X. et al. Thermal stability of sputter-deposited 330 austenitic stainless-steel thin films with nanoscale growth twins. Appl. Phys. Lett. 87, 233116 (2005). ",
+            "63. Anderoglu, O., Misra, A., Wang, H. & Zhang, X. Thermal stability of sputtered Cu films with nanoscale growth twins. J. Appl. Phys. 103, 094322 (2008). ",
+            "64. Chen, K.-C., Wu, W.-W., Liao, C.-N., Chen, L.-J. & Tu, K. N. Observation of atomic diffusion at twinmodified grain boundaries in copper. Science 321, 1066–1069 (2008). ",
+            "65. Lu, K., Yan, F. K., Wang, H. T. & Tao, N. R. Strengthening austenitic steels by using nanotwinned austenitic grains. Scr. Mater. 66, 878–883 (2012). ",
+            "66. Yan, F. K., Liu, G. Z., Tao, N. R. & Lu, K. Strength and ductility of 316L austenitic stainless steel strengthened by nano-scale twin bundles. Acta Mater. 60, 1059–1071 (2012). ",
+            "67. Yan, F. K. et al. Deformation mechanisms in an austenitic single-phase duplex microstructured steel with nanotwinned grains. Acta Mater. 81, 487–500 (2014). ",
+            "68. Wang, H. T., Tao, N. R. & Lu, K. Strengthening an austenitic Fe–Mn steel using nanotwinned austenitic grains. Acta Mater. 60, 4027–4040 (2012). ",
+            "69. Bouaziz, O., Barbier, D., Cugy, P. & Petigand, G. Effect of process parameters on a metallurgical route providing nano-structured single phase steel with high work-hardening. Adv. Eng. Mater. 14, 49–51 (2012). ",
+            "70. Yuan, Y. et al. A novel strategy for the design of advanced engineering alloys-strengthening turbine disk superalloys via twinning structures. Adv. Eng. Mater. 13, 296–300 (2011). ",
+            "71. Yuan, Y. et al. A new method to strengthen turbine disc superalloys at service temperatures. Scr. Mater. 66, 884–889 (2012). ",
+            "72. Solozhenko, V. L., Kurakevych, O. O. & Le Godec, Y. Creation of nanostructures by extreme conditions: highpressure synthesis of ultrahard nanocrystalline cubic boron nitride. Adv. Mater. 24, 1540–1544 (2012). ",
+            "73. Irifune, T., Kurio, A., Sakamoto, S., Inoue, T. & Sumiya, H. Materials: ultrahard polycrystalline diamond from graphite. Nature 421, 599–600 (2003). ",
+            "74. Tian, Y. et al. Ultrahard nanotwinned cubic boron nitride. Nature 493, 385–388 (2013). ",
+            "75. Huang, Q. et al. Nanotwinned diamond with unprecedented hardness and stability. Nature 510, 250–253 (2014). The first report on nanotwinned diamond and its unique properties. ",
+            "76. Hansen, N. New discoveries in deformed metals. Metall. Mater. Trans. A 32, 2917–2935 (2001). ",
+            "77. Hughes, D. A. & Hansen, N. Microstructure and strength of nickel at large strains. Acta Mater. 48, 2985–3004 (2000). ",
+            "78. Luo, Z. P., Zhang, H. W., Hansen, N. & Lu, K. Quantification of the microstructures of high purity nickel subjected to dynamic plastic deformation. Acta Mater. 60, 1322 (2012). ",
+            "79. Ashby, M. F. The deformation of plastically nonhomogeneous materials. Philos. Mag. 21, 399–424 (1970). "
+        ],
+        "bbox": [
+            361,
+            76,
+            635,
+            933
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "80. Zhang, D. L. & Cantor, B. Melting behaviour of In and Pb particles embedded in an Al matrix. Acta Metall. Mater. 39, 1595–1602 (1991). ",
+            "81. Sheng, H. W., Ren, G., Peng, L. M., Hu, Z. Q. & Lu, K. Superheating and melting-point depression of Pb nanoparticles embedded in Al matrices. Phil. Mag. Lett. 73, 179–186 (1996). ",
+            "82. Mei, Q. S. & Lu, K. Melting and superheating of crystalline solids: from bulk to nanocrystals. Prog. Mater. Sci. 52, 1175–1262 (2007). ",
+            "83. Zhang, L., Jin, Z. H., Zhang, L. H., Sui, M. L. & Lu, K. Superheating of confined Pb thin films. Phys. Rev. Lett. 85, 1484–1487 (2000). ",
+            "84. Zheng, S. et al. High-strength and thermally stable bulk nanolayered composites due to twin-induced interfaces. Nat. Commun. 4, 1696 (2013). ",
+            "85. Beyerlein, I. J. et al. Emergence of stable interfaces under extreme plastic deformation. Proc. Natl Acad. Sci. USA 111, 4386–4390 (2014). A concise summary of formation of low-energy bimetal boundaries under extreme straining. ",
+            "86. Li, Y. J. et al. Mechanisms of subgrain coarsening and its effect on the mechanical properties of carbonsupersaturated nanocrystalline hypereutectoid steel. Acta Mater. 84, 110–123 (2015). ",
+            "87. Li, Y. et al. Segregation stabilizes nanocrystalline bulk steel with near theoretical strength. Phys. Rev. Lett. 113, 106104 (2014). ",
+            "88. Lu, K. in Proc. 35th Riso Int. Symp. Mater. Sci. (eds Faster, S., Hansen, N., Juul Jensen, D., Ralph, B. & Sun, J.) 80–102 (Roskilde, 2014). A comprehensive review article on gradient nanostructures in metals. ",
+            "89. Lu, K. & Lu, J. Nanostructured surface layer on metallic materials induced by SMAT. Mater. Sci. Eng. A 375–377, 38–45 (2004). ",
+            "90. Lu, K. & Lu, J. Surface nanocrystallization (SNC) of metallic materials-presentation of the concept behind a new approach. J. Mater. Sci. Technol. 15, 193–197 (1999). ",
+            "91. Huang, H. W., Wang, Z. B., Lu, J. & Lu, K. Fatigue behaviors of AISI 316L stainless steel with a gradient nanostructured surface layer. Acta Mater. 87, 150–160 (2015). ",
+            "92. Yang, L., Tao, N. R., Lu, K. & Lu, L. Enhanced fatigue resistance of Cu with a gradient nanograined surface layer. Scr. Mater. 68, 801–804 (2013). ",
+            "93. Huang, H. W., Wang, Z. B., Yong, X. P. & Lu, K. Enhancing torsion fatigue behaviour of martensitic stainless steel by generating gradient nanograined layer via surface mechanical grinding treatment. Mater. Sci. Technol. 29, 1200–1205 (2012). ",
+            "94. Wu, X., Jiang, P., Chen, L., Yuan, F. & Zhu, Y. T. Extraordinary strain hardening by gradient structure. Proc. Natl Acad. Sci. USA 111, 7197–7201 (2014). ",
+            "95. Wei, Y. et al. Evading the strength–ductility trade-off dilemma in steel through gradient hierarchical nanotwins. Nat. Commun. 5, 3580 (2014). ",
+            "96. Kou, H., Lu, J. & Li, Y. High-strength and high-ductility nanostructured and amorphous metallic materials. Adv. Mater. 26, 5518–5524 (2014). ",
+            "97. Li, Y. S., Zhang, Y., Tao, N. R. & Lu, K. Effect of thermal annealing on mechanical properties of a nanostructured copper prepared by means of dynamic plastic deformation. Scr. Mater. 59, 475–478 (2008). ",
+            "98. Lu, K. Making strong nanomaterials ductile with gradients. Science 345, 1455–1456 (2014). ",
+            "99. Li, J. & Soh, A. K. Enhanced ductility of surface nanocrystallized materials by modulating grain size gradient. Model. Simul. Mater. Sci. 20, 085002 (2012). ",
+            "100. Fang, T. H., Tao, N. R. & Lu, K. Tension-induced softening and hardening in gradient nanograined surface layer in copper. Scr. Mater. 77, 17–20 (2014). ",
+            "101. Zhang, Y. S., Han, Z., Wang, K. & Lu, K. Friction and wear behaviors of nanocrystalline surface layer of pure copper. Wear 260, 942–948 (2006). ",
+            "102. Fu, T. et al. Mechanical properties of DLC coating sputter deposited on surface nanocrystallized 304 stainless steel. Surf. Coat. Technol. 207, 555–564 (2012). ",
+            "103. Howe, J. M. Interface in Materials (Wiley, 1997). ",
+            "104. Hughes, G. D., Smith, S. D., Pande, C. S., Johnson, H. R. & Armstrong, R. W. Hall–Petch strengthening for the microhardness of twelve nanometer grain diameter electrodeposited nickel. Scr. Metall. 20, 93–97 (1986). ",
+            "105. Zhang, H. W., Huang, X. & Hansen, N. Evolution of microstructural parameters and flow stresses toward limits in nickel deformed to ultra-high strains. Acta Mater. 56, 5451–5465 (2008). "
+        ],
+        "bbox": [
+            652,
+            76,
+            927,
+            933
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            0,
+            0,
+            36,
+            116
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            68,
+            21,
+            203,
+            40
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            68,
+            962,
+            84,
+            971
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "| MAY 2016 | VOLUME 1 ",
+        "bbox": [
+            90,
+            962,
+            216,
+            973
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "www.nature.com/natrevmats ",
+        "bbox": [
+            761,
+            964,
+            927,
+            971
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Publishers Limited.All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            638,
+            992
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "106. Ebrahimi, F., Bourne, G. R., Kelly, M. S. & Matthews, T. E. Mechanical properties of nanocrystalline nickel produced by electrodeposition. Nanostruct. Mater. 11, 343–350 (1999). ",
+            "107. Dalla Torre, F., Van Swygenhoven, H. & Victoria, M. Nanocrystalline electrodeposited Ni: microstructure and tensile properties. Acta Mater. 50, 3957–3970 (2002). ",
+            "108. Zhang, H. W., Lu, K., Pippan, R., Huang, X. & Hansen, N. Enhancement of strength and stability of nanostructured Ni by small amounts of solutes. Scr. Mater. 65, 481–484 (2011). ",
+            "109. Dalla Torre, F., Spätig, P., Schäublin, R. & Victoria, M. Deformation behaviour and microstructure of nanocrystalline electrodeposited and high pressure torsioned nickel. Acta Mater. 53, 2337–2349 (2005). ",
+            "110. Sanders, P. G., Eastman, J. A. & Weertman, J. R. Elastic and tensile behavior of nanocrystalline copper and palladium. Acta Mater. 45, 4019–4025 (1997). ",
+            "111. Wang, Y. M. et al. Microsample tensile testing of nanocrystalline copper. Scr. Mater. 48, 1581–1586 (2003). ",
+            "112. Cheng, S. et al. Tensile properties of in situ consolidated nanocrystalline Cu. Acta Mater. 53, 1521–1533 (2005). ",
+            "113. Zhao, Y. H., Bingert, J. E., Liao, X. Z. & Cui, B. Simultaneously increasing the ductility and strength of ultra-fine-grained pure copper. Adv. Mater. 18, 2949–2953 (2006). ",
+            "114. Ebrahimi, F., Zhai, Q. & Kong, D. Deformation and fracture of electrodeposited copper. Scr. Mater. 39, 315–321 (1998). ",
+            "115. Tsuji, N., Ito, Y., Saito, Y. & Minamino, Y. Strength and ductility of ultrafine grained aluminum and iron produced by ARB and annealing. Scr. Mater. 47, 893–899 (2002). ",
+            "116. Kamikawa, N., Huang, X., Tsuji, N. & Hansen, N. Strengthening mechanisms in nanostructured highpurity aluminium deformed to high strain and annealed. Acta Mater. 57, 4198–4208 (2009). ",
+            "117. Islamgaliev, R. K., Clmelik, F. & Kuzel, R. Thermal stability of submicron grained copper and nickel. Mater. Sci. Eng. A 237, 43–51 (1997). ",
+            "118. Sitarama Raju, K. et al. Microstructure evolution and hardness variation during annealing of equal channel "
+        ],
+        "bbox": [
+            68,
+            76,
+            344,
+            508
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "angular pressed ultra-fine grained nickel subjected to 12 passes. J. Mater. Sci. 46, 2662–2671 (2011). ",
+            "119. Zhilyaev, A., Nurislamova, G., Valiev, R., Baro, M. & Langdon, T. Thermal stability and microstructural evolution in ultrafine-grained nickel after equalchannel angular pressing (ECAP). Metall. Mater. Trans. A 33, 1865–1868 (2002). ",
+            "120. Schafler, E. & Pippan, R. Effect of thermal treatment on microstructure in high pressure torsion (HPT) deformed nickel. Mater. Sci. Eng. A 387–389, 799–804 (2004). ",
+            "121. Zhang, H. W., Huang, X., Pippan, R. & Hansen, N. Thermal behavior of Ni $( 9 9 . 9 6 7 \\%$ and $9 9 . 5 \\%$ purity) deformed to an ultra-high strain by high pressure torsion. Acta Mater. 58, 1698–1707 (2010). ",
+            "122. Oh-ishi, K., Horita, Z. & Smith, D. J. Fabrication and thermal stability of a nanocrystalline Ni. J. Mater. Res. 14, 4200–4207 (1999). ",
+            "123. Saldana, C., King, A. H. & Chandrasekar, S. Thermal stability and strength of deformation microstructures in pure copper. Acta Mater. 60, 4107–4116 (2012). ",
+            "124. Zhang, Y., Wang, J. T., Cheng, C. & Liu, J. Stored energy and recrystallization temperature in high purity copper after equal channel angular pressing. J. Mater. Sci. 43, 7326–7330 (2008). ",
+            "125. Molodova, X., Gottstein, G., Winning, M. & Hellmig, R. J. Thermal stability of ECAP processed pure copper. Mater. Sci. Eng. A 460, 204–213 (2007). ",
+            "126. Wang, Y. L., Lapovok, R., Wang, J. T., Qi, Y. S. & Estrin, Y. Thermal behavior of copper processed by ECAP with and without back pressure. Mater. Sci. Eng. A 628, 21–29 (2015). ",
+            "127. Lugo, N., Llorca, N., Suñol, J. J. & Cabrera, J. M. Thermal stability of ultrafine grains size of pure copper obtained by equal-channel angular pressing. J. Mater. Sci. 45, 2264–2273 (2010). ",
+            "128. Hasegawa, H. et al. Thermal stability of ultrafinegrained aluminum in the presence of Mg and Zr additions. Mater. Sci. Eng. A 265, 188–196 (1999). ",
+            "129. Mishra, A., Kad, B. K., Gregori, F. & Meyers, M. A. Microstructural evolution in copper subjected to severe plastic deformation: experiments and analysis. Acta Mater. 55, 13–28 (2007). ",
+            "130. Hebesberger, T., Stuwe, H. P., Vorhauer, A., Wetscher, F. & Pippan, R. Structure of Cu deformed by high pressure torsion. Acta Mater. 53, 393–402 (2005). "
+        ],
+        "bbox": [
+            363,
+            76,
+            635,
+            508
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "131. Li, Y. S., Tao, N. R. & Lu, K. Microstructural evolution and nanostructure formation in copper during dynamic plastic deformation at cryogenic temperatures. Acta Mater. 56, 230–241 (2008). ",
+            "132. Zhilyaev, A. P. et al. Experimental parameters influencing grain refinement and microstructural evolution during high-pressure torsion. Acta Mater. 51, 753–765 (2003). ",
+            "133. Liu, X. C., Zhang, H. W. & Lu, K. Formation of nanolaminated structure in nickel by means of surface mechanical grinding treatment. Acta Mater. 96, 24–36 (2015). ",
+            "134. Sus´-Ryszkowska, M., Wejrzanowski, T., Pakieła, Z. & Kurzydłowski, K. J. Microstructure of ECAP severely deformed iron and its mechanical properties. Mater. Sci. Eng. A 369, 151–156 (2004). ",
+            "135. Ivanisenko, Y., Valiev, R. Z. & Fecht, H. J. Grain boundary statistics in nano-structured iron produced by high pressure torsion. Mater. Sci. Eng. A 390, 159–165 (2005). ",
+            "136. Iwahashi, Y., Horita, Z. & Nemoto, M. The process of grain refinement in equal-channel angular pressing. Acta Mater. 46, 3317–3331 (1998). ",
+            "137. Xu, C., Horita, Z. & Langdon, T. G. The evolution of homogeneity in processing by high-pressure torsion. Acta Mater. 55, 203–212 (2007). ",
+            "138. Zhang, Y., Tao, N. R. & Lu, K. Effect of stacking-fault energy on deformation twin thickness in Cu–Al alloys. Scr. Mater. 60, 211–213 (2009). ",
+            "139. Xiao, G. H., Tao, N. R. & Lu, K. Effects of strain, strain rate and temperature on deformation twinning in a Cu–Zn alloy. Scr. Mater. 59, 975–978 (2008). "
+        ],
+        "bbox": [
+            653,
+            76,
+            927,
+            387
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            652,
+            396,
+            754,
+            405
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The author thanks the Ministry of Science and Technology of China (Grant 2012CB932201), the National Natural Science Foundation of China (Grants 51231006), the Danish-Chinese Center for Nanometals (Grants 51261130091 and DNRF86-5) and the Key Research Program of Chinese Academy of Sciences (Grant KGZD-EW-T06) for financial support, and X. C. Liu, X. Y. Li and L. Lu for discussions and assistance. ",
+        "bbox": [
+            650,
+            406,
+            929,
+            480
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing interests statement ",
+        "text_level": 1,
+        "bbox": [
+            652,
+            489,
+            816,
+            500
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The author declares no competing interests. ",
+        "bbox": [
+            652,
+            500,
+            853,
+            508
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "R E V I E W S ",
+        "bbox": [
+            794,
+            21,
+            927,
+            40
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "NATURE REVIEWS | MATERIALS ",
+        "bbox": [
+            68,
+            962,
+            248,
+            973
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "VOLUME 1 | MAY 2016 ",
+        "bbox": [
+            776,
+            962,
+            907,
+            973
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "| 13 ",
+        "bbox": [
+            912,
+            962,
+            927,
+            971
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "$\\circled{ C}$ 2016 Macmillan Ppublishers Limited.All rights reserved ",
+        "bbox": [
+            357,
+            982,
+            638,
+            992
+        ],
+        "page_idx": 12
+    }
+]

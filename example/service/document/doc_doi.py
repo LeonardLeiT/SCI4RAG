@@ -1,8 +1,9 @@
 from src.service.document.load_document import load_document_metadata
 from src.service.agent.article_information import identify_doi_info, identify_DOI, update_doc_info
+from src.service.agent.identify_title import identify_title
 
 username = "administrator"
-dataset_name = "test"
+dataset_name = "Schwarz"
 
 # 1.Load documents Information
 pdf_files_data = load_document_metadata(username, dataset_name)
@@ -17,7 +18,15 @@ i = 1
 for file_id, file_data in pdf_files_data.items():
     if file_data["doi"]:
         # print(file_data["doi"])
-        print(f"Processing {i}: {file_data['file_name']}")
+        # print(f"Processing {i}: {file_data['file_name']}")
+        # i += 1
         identify_doi_info(file_data)
-        i += 1
+
+
+# 4. Second Strategy for null doi
+for file_id, file_data in pdf_files_data.items():
+    if not file_data["doi"]:
+        print(f"Processing {file_data['file_name']}")
+        identify_title(file_data)
+
 update_doc_info(username, dataset_name)

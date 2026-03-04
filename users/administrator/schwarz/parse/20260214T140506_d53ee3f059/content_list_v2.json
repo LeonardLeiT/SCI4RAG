@@ -1,0 +1,2667 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Isotropic grain boundaries and size-dependent thermal stability of Schwarz crystals Cu and Al at nanoscales "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                206,
+                816,
+                247
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/53fb1e36ff8f2358526a786726b1d4d065e86990947329a8cfad67ccc49d7af8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                838,
+                185,
+                890,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dan Yang "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { a , b } _ { \\mathbb { \\Phi } ( \\mathbb { D } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Zhipeng Gao b,c , Fuling Tang a , Zhaohui Jin b,* "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                261,
+                569,
+                279
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a State Key Laboratory of Advanced Processing and Recycling of Non-ferrous Metals, School of Materials Science and Engineering, Lanzhou University of Technology, Lanzhou 730050, PR China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, 72 Wenhua Road, Shenyang 110016, PR China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c School of Materials Science and Engineering, University of Science and Technology of China, Shenyang 110016, PR China "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                286,
+                815,
+                331
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A R T I C L E I N F O "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                360,
+                194,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                384,
+                109,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schwarz crystal "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                395,
+                137,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Grain-boundary "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                406,
+                137,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thermal stability "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                418,
+                144,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Grain coarsening "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                428,
+                144,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular dynamics simulation "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                438,
+                211,
+                448
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A B S T R A C T "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                334,
+                360,
+                435,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schwarz crystals consisting of triply periodic minimal surface grain boundaries of different shapes were studied for face-centered cubic metals Al and Cu via atomistic modeling and simulations. The thermal stabilities of those curvy grain boundaries depend on shape, spacing between grain boundaries and how closely the grain boundary energies fulfill the isotropic condition. Schwarz crystals consisting of energetically less anisotropic grain boundaries are thermally more stable. Destabilization occurs when shapes of grain boundaries deviate significantly from the ideal minimal-surface morphologies. A thermodynamic model was proposed to describe the sizedependent thermal stability exhibited by primary Schwarz crystals at nanoscales. "
+                    }
+                ]
+            },
+            "bbox": [
+                332,
+                384,
+                937,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Processing, manufacturing, performance and reliability of engineering materials rely on thermally stable material microstructures. Grain boundaries (GBs) are the major elements of polycrystalline structures and they are kinetically mobile [1]. The structural stability of polycrystals depends on how to impinge the moment of GBs as well as the 3-dimentional (3D) collective network they formed such that grain growth or grain coarsening can be effectively inhibited. However, arresting grain growth or coarsening in polycrystalline metals remains challenging because GBs are highly diffusive and mobile at high temperatures, in particular, when grain sizes are below 100 nm [2–5]. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                506,
+                485,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recently, a class of new structure called Schwarz crystal (SC) has been revealed in polycrystals such as Cu [6,7]. The SC structure is unique because GB segments in conventional polycrystals (e.g., Kelvin crystals (KCs) [7]) have been entirely replaced by a GB morphology resembling mathematically a well-known minimal surface, i.e., a surface of vanishing mean curvature everywhere. Quadrupolar network of Σ3 {111} coherent twin boundaries (CTBs) contribute significantly to lock and hence stabilize the GB network. Driving forces promoting GB migration can be eliminated effectively at the zero mean-curvature GBs. Nucleating and propagating Shockley twinning partial dislocations from GB sites intersecting with twins may render the structure unstable. However, such processes are energetically demanding to operate. Therefore, triply periodic minimal surface (TPMS) GBs locked by twins "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                639,
+                485,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "are extremely stable to against thermal fluctuations or externally applied forces. As observed in both experiments and molecular dynamics (MD) simulations, grain coarsening can be inhibited up to temperatures close to the equilibrium melting point and the Hall-Petch relationship may hold up to limiting grain sizes of a few nanometers even for metals not readily-to-twin, such as Pt [8]. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                506,
+                937,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Microstructure elements of polycrystals in general are treated topologically as space-filling polyhedrons where GB segments connected by triple lines (triple junctions in 2D) meeting at quadruple points (fouredge junctions or nodes in 3D) constitute a GB network, analogous to soap froth or foams [9,10]. SCs, on the other hand, consist of smooth, continuous and non-self-intersecting interfaces of vanishing mean curvature - a geometrical subject different from that in traditional grain growth theory. So far, it remains intriguing to address the kinetics of GBs resembling minimal-surface morphologies. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                586,
+                937,
+                704
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To put forward more clearly, an illustrative situation has been shown in Fig. 1. The plots in Fig. 1(a) demonstrate three SCs of identical parent grain lattices and supercell sizes "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 8 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cu and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Al) in our MD simulations. However, the GBs in the three samples divide space in different ways according to mathematically well-known TPMS geometries, i.e., primary "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( P )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", diamond "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( D )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and gyroid (G), respectively [11] (see also supplemental). These TPMS configurations exhibit different thermal stabilities measured by temperatures at which GBs start to "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                704,
+                937,
+                810
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Scripta Materialia 259 (2025) 116572 "
+                    }
+                ]
+            },
+            "bbox": [
+                394,
+                42,
+                603,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ELSEVIER "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                74,
+                164,
+                163
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents lists available at ScienceDirect "
+                    }
+                ]
+            },
+            "bbox": [
+                379,
+                75,
+                621,
+                88
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Scripta Materialia "
+                    }
+                ]
+            },
+            "bbox": [
+                403,
+                105,
+                596,
+                127
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "journal homepage: www.journals.elsevier.com/scripta-materialia "
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                145,
+                709,
+                160
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "STRU PROPERTI Scripta Materialia A Letters Jounal "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                66,
+                937,
+                160
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Corresponding author. "
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                843,
+                203,
+                854
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail address: zhjin@imr.ac.cn (Z. Jin). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                856,
+                299,
+                867
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1016/j.scriptamat.2025.116572 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                876,
+                337,
+                887
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 3 November 2024; Received in revised form 14 January 2025; Accepted 17 January 2025 Available online 27 January 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                889,
+                601,
+                912
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "1359-6462 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\varphi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2025 Acta Materialia Inc. Published by Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                912,
+                937,
+                938
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "migrate or escape away from the initial and ideal TPMS boundaries. The P-SC is most stable "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 0 . 5 2 ~ T _ { \\mathrm { E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cu and ~ 0.62 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Al), the G-SC is less stable "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 0 . 4 1"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cu and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 0 . 5 9 ~ T _ { \\mathrm { E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Al) and the D-SC is the least stable "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 0 . 2 7 ~ T _ { \\mathrm { E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cu and ~ 0.48 TE for Al), as measured by a reduced temperature with respect to the thermal equilibrium melting point, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Table 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                65,
+                485,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our MD observations suggest that the thermal stability depends strongly on the shape of the embedded minimal surfaces. Geometrically, the GB surface area (S) is different, with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "S ( P ) { : } S ( D ) { : } S ( G ) = 1 { : } 1 . 0 3 1 { : } 1 . 0 4 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[11]. Assuming that TPMS GBs are isotropic, or, GB energies "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\gamma _ { G B } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are everywhere the same, the most unstable SC should be "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "G"
+                    },
+                    {
+                        "type": "text",
+                        "content": "rather than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is not the case in our MD simulations. On the other hand, our calculated GB energies (Fig. 1b) are significantly different, with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B } ( P ) <"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B } ( G ) < \\gamma _ { G B } ( D )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and they correlate almost linearly with the fraction of GB atoms or the GB thickness "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( d _ { \\tt G B } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". That is, the number of GB atoms "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( N _ { \\mathrm { G B } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are different due to that the shapes of the three GB morphologies are different, or, the negative Gaussian curvature are inequivalent for the three TPMS geometries. Therefore, neither smaller surface area means smaller fraction of GB atoms nor GB energies in average are nearly the same seems always true. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                145,
+                485,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "According to the theory of capillarity for a two-phase system at equilibrium, since at any point of a TPMS interface the mean curvature, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { K ( { \\bf n } ) = \\frac { 1 } { { \\mathrm R } _ { 1 } } + \\frac { 1 } { { \\mathrm R } _ { 2 } } } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the principal radii of curvature for a "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                329,
+                485,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "given point at the curvy surface and n is the unit normal vector at that point), is presumably zero, the pressure difference is essentially zero according to the Young-Laplace formula (or Gibbs-Thomson equation). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                65,
+                937,
+                105
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta P (\\mathbf {n}) = \\gamma_ {i} (\\mathbf {n}) K (\\mathbf {n}) = 0 \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/38b1269009eb11e9d08bec4ff23c6b87a107c46436a3a6e60aa46119232b4a9c.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                112,
+                937,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accordingly, regardless the n-dependence of interfacial energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { i } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "no interface motion should occur as the driving pressure for a moving interface vanishes everywhere at the interface. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                132,
+                937,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For a dynamic system, variations of local GB area or shape from equilibrium are inevitable. The mean curvature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K ( \\mathbf { n } , T , t )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as a function of temperature (T) and time (t) should undergo noticeable variations under thermal fluctuations such that Eq. (1) no longer holds. Similar to morphological evolution at surfaces which tend to develop Wulff shape in terms of the surface-tension plot "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\gamma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-plot) [15], the orientation dependence of the GB energies, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B } ( \\mathbf { n } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", needs to be considered. Inversely, to render a TPMS interface as stable as possible, it requires that GB energies should deviate not too much from the isotropic condition "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                171,
+                937,
+                303
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\gamma_ {G B} (\\mathbf {n}) = \\gamma_ {G B} ^ {0} = \\text {c o n s t .} \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/89261c5ffda9d329bcddf4b5d2d222aa38fdd02fd771072a60724c0252303bb9.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                310,
+                937,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thus, Eq. (2) provides a measure to evaluate thermal stabilities attainable for different SCs such as those shown in Fig. 1. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                331,
+                937,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The procedure in principle requires that the entire "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 D \\gamma _ { G B } ( \\mathbf { n } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-plot is "
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                358,
+                937,
+                370
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f000591e2f114c829933a67150adcfdd1b4aae690c6099eac6428e77141b4d46.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a）£9TPMS GBs"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                198,
+                440,
+                394,
+                596
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6bdba6091f5ad6a4467c9026afcbc6ffccc1feac223048a108dfdd1e76214f39.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                396,
+                438,
+                594,
+                598
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/474bb5be61459c98adcb06bb70cc0a060bbc829527d4d7f44df6f94a65b134a5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                596,
+                437,
+                796,
+                598
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4856d51bb6d53e7c79f0fe0789b0828c485117c79d542c33538b291c97e9ec9f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. (a) GB morphologies of SCs (Cu and Al) resembling "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P _ { \\cdot }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "G"
+                    },
+                    {
+                        "type": "text",
+                        "content": "TPMSs in MD simulations constructed with grain lattice orientations following Σ9 GBs, i.e., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[011], y [411], "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathscr { z }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[122] vs. x [011], "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[411], "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathfrak { z }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[122]. Atoms belong to grain lattice sites were removed. (b) Thermal stabilities exhibited by P-SC, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { D - S C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "G"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-SC. Inset: MD calculated mean GB energies as a function of fraction of GB atoms in each SC. GB atoms are identified using common neighbor analyses (CNA) [12]. The apparent GB thickness "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( d _ { \\tt G B } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is defined as the excess volume of GB atoms divided by the ideal area of TPMS GBs, which correlates with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { f } _ { \\mathrm { G B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "almost linearly "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( d _ { G B } ( n m ) \\simeq 4 . 2 5 f _ { G B } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") for both Cu and Al. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                297,
+                614,
+                643,
+                820
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Yang et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                126,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Scripta Materialia 259 (2025) 116572 "
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                42,
+                939,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                952,
+                502,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3c89064369f6dbb791e97748a404307ea7333b31a3512cabac532c4bf81b5809.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 MD calculated material properties, averaged GB energies and the fitted GB ’escapability’ measure (ε) according to Eq. (4) for different SCs of Cu and Al. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a EAM model [13]. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "b EAM (glue) model [14]. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">TE(K)</td><td rowspan=\"2\">Ω0(Å3/atom)</td><td colspan=\"3\">γGB(J/m2)</td><td rowspan=\"2\">Lm(eV/atom)</td><td colspan=\"3\">ε</td></tr><tr><td>P (ID)</td><td>P (AD)</td><td>D (Σ9)</td><td>P (ID)</td><td>P (AD)</td><td>D (Σ9)</td></tr><tr><td>Cu</td><td>1356a</td><td>12.047</td><td>1.1099</td><td>1.1723</td><td>1.4548</td><td>0.135</td><td>12.5</td><td>18</td><td>38.28</td></tr><tr><td>Al</td><td>890b</td><td>16.387</td><td>0.665</td><td>0.6578</td><td>0.9357</td><td>0.112</td><td>7.5</td><td>10</td><td>14.37</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                58,
+                90,
+                937,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "known which is however a trivial task even for MD calculations. To simplify the problem, we chose P-SCs to evaluate GB energies corresponding to the tangent planes for a few representative GB normal directions. The P-SC samples were constructed using two sets of Σ9 orientated parent lattice orientations, namely AD and ID, where notations of grain lattice orientations, i.e., A, I and D, refer the same as those in Ref. [7]. With such lattice orientations, a KC consisting of two truncated cuboctahedron grains will transform into a P-SC spontaneously at elevated temperatures [7]. Therefore, one may partition the entire P-TPMS GBs into eight equal-area sections to calculate more precisely the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B } ( \\mathbf { n } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corresponding to each {111} GB-plane normal, which can be categorized further into four groups, α, β, γ and δ, respectively, as illustrated in Fig. 2(a) & (d). Noticeable differences can be observed between AD and ID. As depicted in Fig. 2(b) - (c) and (e) - (f), the AD-oriented P-SC is more anisotropic than ID for both Cu and Al. In particular, values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and δ normal directions are significantly smaller than those in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "normal directions and the discrepancy tends to be enhanced as supercells become smaller. In contrast, in the ID-oriented structure, values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are more isotropic as can be seen in Fig. 2(e) - (f). "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                196,
+                485,
+                459
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The relevance between the isotropic condition and the limiting "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                461,
+                485,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "thermal stability can be justified by MD snapshots in Fig. 3. As temperature rises, the atomic volume gradually increases and drops down promptly at the destabilization temperature, TS. As depicted, the processes are triggered by GB migration (atoms highlighted in grey color) when substantial nonvanishing GB curvature begins to develop as T approaching "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { S }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The scenarios suggest that the occurrence of grain coarsening is essentially transient in such P-SCs. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                196,
+                937,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition, the thermal stability of those P-SCs also demonstrates a strong size dependence (Fig. 4a). The size-dependent thermal stability can be described based on following theoretical considerations under the assumption that all those general GBs fulfills the isotropic condition, Eq. (2). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                288,
+                937,
+                355
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(1) Thermal fluctuations become significant at high temperatures. When P-SC fluctuates, the shape of the SC deviates from the ideal minimal interface morphology such that it may either shrink or expand. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(2) Since the transformation from the KC to SC is spontaneous, to destabilize a SC, the deviation from the initial shape of SC must be larger than that measured by the KC. Thus, one may take the "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                366,
+                937,
+                460
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bbce73a2fe8bad56ed91d7caf3a0ba98f8f2df097839c04e7aafd65c6971ade4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                236,
+                500,
+                509,
+                679
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/579f69dea843a46918ca84f24efab7ab9d8883f72b1c9b117e9333784096f293.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                236,
+                706,
+                509,
+                883
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b755ad61e26a0e1d0e6c21dbd09b40b997b32dac94ccd7629d69cc0a4504a071.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                527,
+                498,
+                709,
+                595
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2e7d4472b93144749757458d49fa3be0c5755c07ae81b7757bc85f7a7016ab46.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                527,
+                598,
+                707,
+                696
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8058c3548f72408d62eb723b5658ce0340b57aa7ef1e2494066a93bbfa6536aa.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                527,
+                699,
+                709,
+                796
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6c1c49a82bddbe72ec9f9685022f11731a1c3f4b5affbf78892a94120292a4a7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Partition of GB area and MD calculated GB energies (Cu vs. Al) in α (111), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(111), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(111) and δ (111) orientations for P-SCs of various sizes, AD (a - c) and ID (d - f). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                527,
+                799,
+                709,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Yang et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                124,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Scripta Materialia 259 (2025) 116572 "
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                42,
+                939,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                952,
+                502,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/22d57c9a7bb0454da401f17426238c6f5515cc2c1ef9f95b5b0194fe1bc5fe1e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                161,
+                66,
+                347,
+                172
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6a08c11ea0fe806a6dced1f7501020fcfb829ee55f20c2a7afaf5ab24fb16a7d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                352,
+                74,
+                507,
+                168
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2f56f2836a69b3627474d6fda7422aa2f3cdeeba4e6dd1d870329138c086383d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                74,
+                670,
+                168
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6d5974f97cf883895850cd789ee613f2e2ee7864a8f127b97949aefad3c15cac.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                678,
+                74,
+                831,
+                168
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/653d4db9a44b92f65199cb8d790effd1a904e9d0496ac094023c9eee37e43400.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                163,
+                177,
+                347,
+                281
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a6579ae12ab1d235957b1282b270f12e74a9a09e29242215c9688496609b68c4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                354,
+                182,
+                507,
+                279
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5ab1f3860c0fb0af12b0ee1d246200e38931d17a02789a31f1abcbeef760a4e8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                182,
+                668,
+                279
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/212c0a882598945fdbc6db96e9c051b63c094123277b81af55a5f11b46b6eb76.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                678,
+                182,
+                833,
+                279
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a6dfbc3892b04504336f6546a9e39f503304c049f3064700adf5378ad27cc4c1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                164,
+                287,
+                349,
+                392
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c6838b0e830edaa16ca1e17a75f94c15a4d526966bd62fcec94699ce57e7c63c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                354,
+                295,
+                507,
+                388
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d23df4d3266a5b8774531dd5c005db6f984cfbdb2e6b67b0afd1b809b5cc39b4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                295,
+                670,
+                388
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4682842da1c29efa98c1f0679afec24263bcc0f96bdfd6cb5c3678a052b61e00.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                678,
+                295,
+                833,
+                388
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/78a4a69d9667f5c2bc1aac3dce6892aa0d9016dcd31bc9894729c5094cb47128.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                163,
+                397,
+                349,
+                501
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/71bb8c5d80e2e8eb806e4e7a32d08865f50f20f1aae89a448e0419e0c03188a6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                354,
+                404,
+                507,
+                499
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3acc71bc4110baee04f133f6b2a6e93c0f2d9766ef13e1f48ed9f1a11828bbb6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                404,
+                668,
+                499
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2f398ca4ba373189565c06de40f124fa6ea42844154b1e756896f7551224a94c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Destabilization process underlying grain growth or coarsening observed in MD simulations for P-SCs of ID and AD "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( a = 2 \\times 9 a _ { 0 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), Cu (a, b) vs. Al (c, d). Plot on the left-hand side in each panel: thermal stability measured by profiles of atomic volume (Ω) as functions of temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( T )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "upon heating. Plot on the right-hand side of each panel: the [110] cross section views of MD snapshots at temperatures before and after destabilization "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( T _ { S } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "occurs. The ideal TPMS surface trace for each P-SC has been marked by atoms in red color. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                678,
+                404,
+                833,
+                499
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d9f99021787f77c5bd8b9f06fc996f3451f150aa6e774cc8088477282cf8dfaa.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                95,
+                662,
+                223,
+                783
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/14d3e0c87aa8cbe9a22e875624570fd5702d0d90a047681b09f0e578e2012309.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                258,
+                583,
+                470,
+                715
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c9aee0d9d3f592cc734875b3e6c0a2ddf9681298514af385575c04667bae5d33.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. (a) A schematic destabilization model: P-TPMS vs. insphere within a cubic box the size of which is measured by a. (b) MD observed and theoretically predicted (Eq. (4)) size-dependent thermostability "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( T _ { S } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for SCs Cu and Al of various supercell sizes, grain lattice orientations (Σ9, Σ27, AD, ID) and shapes (P, G and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as in Fig. 1). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                258,
+                733,
+                473,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "inscribed sphere (or insphere) of a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "unit cell (cell size, a) as the reference state at which the SC must destabilize (Fig. 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                575,
+                937,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3) The additional amount of surface area between the insphere and the SC is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\delta A = \\lambda R ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", accompanied by an increment of volume "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\delta V ="
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\phi R ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R = a / 2 , \\lambda \\approx 1 . 3 5 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\phi \\approx 0 . 0 2 3 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. 4a). The increase in surface energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta E _ { S }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is simply given by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { G B } \\delta A"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The amount of change in volume energy, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta E _ { V _ { \\mathrm { i } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", on the other hand, can be measured by lattice strain energy associated with GB migration, which is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta E _ { V } = L \\Delta V"
+                    },
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L"
+                    },
+                    {
+                        "type": "text",
+                        "content": "has been introduced as a Tdependent strain energy per unit volume, "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                602,
+                937,
+                709
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "L (T) = f \\frac {L _ {m}}{\\Omega} \\left(\\frac {T _ {E} - T}{T}\\right) \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b93ad139c6d9ed13a84f54a067dd01367d0dedddf2e0417cc1adecdc559c1990.jpg"
+                }
+            },
+            "bbox": [
+                549,
+                716,
+                937,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L _ { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is latent heat per atom of bulk FCC lattice the thermal equilibrium melting point of which is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { E } } , \\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the atomic volume and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is a fraction measure. Eq. (3) applies because: (i) Like other GBs, the migration of a general GB is also a process producing lattice shear [16]. (ii) Rather than rigid interfaces, general GBs are diffusive or quasi-liquid like at high temperatures [17]. (iii) When it migrates, atomic motions at a general GB are re-orientation processes similar to a melting-then-freezing process but only occurs at GB sites locally [3,18,19]. "
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                754,
+                937,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(4) The additional work rendering a SC unstable depends on the counterbalance between surface and volume energies, so the critical condition at which a SC tends to destabilize is given by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "W ( T ) = \\Delta E _ { S } - \\Delta E _ { V } = 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". As such, the following equation can be "
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                873,
+                937,
+                926
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Yang et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                127,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Scripta Materialia 259 (2025) 116572 "
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                42,
+                939,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                950,
+                504,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "obtained quantifying the thermal stabilities "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( T _ { S } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of P-SCs of various sizes (a). "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                65,
+                487,
+                92
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "T _ {S} = T _ {E} / \\left(1 + \\frac {\\gamma_ {G B}}{a} \\cdot \\frac {\\varepsilon \\Omega}{L _ {m}}\\right) \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8526b3d5a4244eff05ce42ff7e591cbb364ed9c330ba9279f6f3d428905605f0.jpg"
+                }
+            },
+            "bbox": [
+                97,
+                99,
+                485,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where an adjustable parameter has been introduced due to the fraction measure f in Eq. (3). The values of ε for different sets of SCs can be fitted using the MD obtained size-dependent thermostability, the averaged GB energy underlying the isotropic assumption and other material properties listed in Table 1 as input. Therefore, the parameter ε can be considered as a material dependent GB ‘escapability’ measure, i.e., a larger ε means that the same set of P-TPMS GBs for a given material tends to destabilize in a relatively easier manner (see Cu vs. Al in Table 1). Figs. 4(b) and (c) show that our MD observed size-dependence of P-SCs can be well predicted using Eq. (4) for both Cu and Al. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                163,
+                485,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The applicability of Eq. (4) is not limited to P-SCs, but also to SCs of different shapes (Fig.1 and Fig. 4). The isotropic GB condition (Eq. (2)) is required to derive Eq. (4). As those with Σ9 GBs, P-SCs built with a range of grain lattice orientations and hence other general GBs, such as Σ27, are expected to show similar thermostabilities and size-dependence. Poor thermostabilities, on the other hand, are expected if GB energies are strongly anisotropic. For example, P-SCs built with Σ3 grain lattice orientations turn out belonging to such categories [6,7]. Besides of GB energies, the GB ‘escapability’ measure ε in Eq. (4) is also interesting. As shown above, this parameter correlates with variation of lattice strain energy promoting GB migration. Therefore, beside that according to Young-Laplace law, this parameter measures additional driving forces such as due to anisotropic elasticity of lattices [7]. Lower ε values are expected for elastically more isotropic metals, such as Al (Table 1 and Table S3). In other words, the local combination of grain lattice orientations (local texture) with more isotropic GB energies and isotropic elasticity are desirable to achieve thermally stable SCs. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                295,
+                487,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To summarize, SCs of TPMS GBs were studied for Al and Cu with atomistic modeling and simulations. Those consisting of energetically less anisotropic GBs are found thermally more stable. We proposed a simple thermodynamic model to describe the size-dependent thermal stabilities. The model should be applicable to a wide range of SCs, not only for FCC metals or alloys [6–8,20–22], but also for metals or alloys of other grain lattice structures or interfaces [23]. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                519,
+                485,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lastly, in contrast to twin-free SCs considered in our present paper, the prototype structures reported in Refs. [6,7] not only resemble the D-minimal surface, but also consist of quadrupolar coherent twins. Sections of GB partitioned by twins are in fact identical to each other such that the isotropic condition (Eq. (2)) applies effectively. An extension of Eq. (4) to those thermally extremely stable D-SCs has also been considered and the result will be published separately. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                611,
+                485,
+                704
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CRediT authorship contribution statement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                717,
+                337,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dan Yang: Writing – original draft, Visualization, Validation, Methodology, Formal analysis. Zhipeng Gao: Visualization, Validation, Investigation, Formal analysis. Fuling Tang: Validation, Supervision, Formal analysis. Zhaohui Jin: Writing – review & editing, Writing – original draft, Visualization, Validation, Supervision, Software, Project administration, Methodology, Investigation, Funding acquisition, Formal analysis, Conceptualization. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                744,
+                485,
+                836
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Declaration of competing interest "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                849,
+                280,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors declare that they have no known competing financial "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                875,
+                485,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "interests or personal relationships that could have appeared to influence the work reported in this paper. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                65,
+                937,
+                92
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                105,
+                633,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We are grateful for financial support of the Chinese Academy of Sciences (XDB0510000). DY is also supported by the Gansu Province Science and Technology Department (Grant No. 22ZD6GA008). MD computations were carried out partly at Siyuan-1 cluster, HPC, Shanghai Jiao Tong University (SJTU). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                131,
+                937,
+                197
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary materials "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                211,
+                675,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.scriptamat.2025.116572. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                237,
+                937,
+                263
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                277,
+                584,
+                288
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] G. Gottstein, L.S. Shvindlerman, Grain Boundary Migration in Metals: Thermodynamics, Kinetics, Applications, Second Edition, CRC Press, Boca Raton, 2009. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] H. Gleiter, Nanostructured materials: basic concepts and microstructure, Acta Mater 48 (2000) 1–29. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] E.R. Homer, E.A. Holm, S.M. Foiles, D.L. Olmsted, Trends in grain boundary mobility: survey of motion mechanisms, JOM 66 (2014) 114. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] K. Lu, Stabilizing nanostructures in metals using grain and twin boundary architectures, Nat. Rev. Mater. 1 (2016) 16019. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] Z.C. Cordero, B.E. Knight, C.A. Schuh, Six decades of the Hall-Petch effects - a survey of grain-size strengthening studies on pure metals, Int. Mater. Rev. 61 (2016) 495–512. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] X.Y. Li, Z.H. Jin, X. Zhou, K. Lu, Constrained minimal-interface structures in polycrystalline copper with extremely fine grains, Science 370 (2020) 831–836. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] Z.H. Jin, X.Y. Li, K. Lu, Formation of stable schwarz crystals in polycrystalline copper at the grain size limit, Phys. Rev. Lett. 127 (2021) 136101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] H.L. Fu, X. Zhou, Z.P. Gao, Z.H. Jin, X.Y. Li, K. Lu, Pt Schwarz crystals stabilized by minimal-surface grain boundaries and twins at the grain size limit, Acta Mater 276 (2024) 120007. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] S. Hyde, S. Andersson, K. Larsson, Z. Blum, T. Landh, S. Lidin, B.W. Ninham. The language of shape, the role of curvature in condensed matter: physics, chemistry and biology, Elsevier Science, 1997. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] I. Cantat, S. Cohen-Addad, F. Elias, F. Graner, R. Hohler, ¨ O. Pitois, F. Rouyer, A. Saint-Jalmes, S. Cox. Foams: structure and dynamics, 2013. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] P.J. Gandy, S. Bardhan, A.L. Mackay, J. Klinowski, Nodal surface approximations to the P, G, D and I-WP triply periodic minimal surfaces, Chem. Phys. Lett. 336 (2001) 187–195. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] A. Stukowski, Visualization and analysis of atomistic simulation data with OVITOthe open visualization tool, Model. Simul. Mater. Sci. Eng. 18 (2010) 015012. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] V. Borovikov, M.I. Mendelev, A.H. King, R. LeSar, Effect of stacking fault energy on mechanism of plastic deformation in nanotwinned FCC metals, Model. Simul. Mater. Sci. Eng. 23 (2015) 055003. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] X.Y. Liu, F. Ercolessi, J.B. Adams, Aluminium interatomic potential from density functional theory calculations with improved stacking fault energy, Model. Simul. Mat. Sci. Eng. 12 (2004) 665. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] D.W. Hoffman, J.W. Cahn, A vector thermodynamics for anisotropic surfaces, Sur. Sci. 31 (1972) 368–388. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] J.W. Cahn, J.E. Taylor, A unified approach to motion of grain boundaries, relative tangential translation along grain boundaries, and grain rotation, Acta Mater 52 (16) (2004) 4887–4898. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] R. Balluffi, Grain boundary diffusion mechanisms in metals, Metall. Mater. Trans. B 13 (1982) 527–553. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] R.W. Balluffi, S.M. Allen, W.C. Carter. Kinetics of Materials, John Wiley & Sons, Inc., 2005. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] M. Chandross, N. Argibay, Ultimate strength of metals, Phys. Rev. Lett. 124 (2020) 125501. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] W. Xu, B. Zhang, X.Y. Li, K. Lu, Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al-Mg alloys, Science 373 (2021) 683–687. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] L. Fang, Y.M. Zhong, B. Wang, W. Xu, X.Y. Li, K. Lu, Ultrahard and super-stable pure aluminum with Schwarz crystal structure, Mater. Res. Lett. 11 (2023) 662–669. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] H.L. Fu, X. Zhou, Z.P. Gao, Z.H. Jin, X.Y. Li, K. Lu, Effect of grain geometry on the stability of polycrystalline pt at the nanoscale, Phys. Rev. Lett. (2025) in press. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] H. Guan, H. Xie, Z.P. Luo, W.K. Bao, Z.S. You, Z.H. Jin, H.J. Jin, Ultrastrong spinodoid alloys enabled by electrochemical dealloying and refilling, PNAS 120 (2022) 221477312. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                301,
+                934,
+                863
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "D. Yang et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                126,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Scripta Materialia 259 (2025) 116572 "
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                42,
+                939,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                952,
+                504,
+                960
+            ]
+        }
+    ]
+]

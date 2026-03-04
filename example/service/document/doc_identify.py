@@ -4,7 +4,7 @@ from src.service.agent.identify_equation import identify_equation
 from src.service.document.load_document import load_document_metadata
 
 username = "administrator"
-dataset_name = "test"
+dataset_name = "Schwarz"
 print("Loading documents metadata...")
 
 # 1.Load documents Information

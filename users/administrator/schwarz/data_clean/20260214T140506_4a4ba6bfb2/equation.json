@@ -1,0 +1,14 @@
+[
+  {
+    "equation": "$$\nD ^ {2} - D _ {0} ^ {2} = k t \\tag {1}\n$$",
+    "description": "Equation (1) describes the kinetics of normal grain growth under ideal conditions, where the square of the instantaneous grain size \\(D\\) minus the square of the initial grain size \\(D_0\\) is proportional to the elapsed time \\(t\\). Here, \\(D_0\\) denotes the average grain size at the beginning of the isothermal annealing process, \\(D\\) represents the average grain size at time \\(t\\), and \\(k\\) is a temperature-dependent rate constant. This parabolic relationship arises from the assumption that the grain boundary migration rate is inversely proportional to the grain size, reflecting a curvature-driven growth mechanism where the driving force decreases as grains enlarge."
+  },
+  {
+    "equation": "$$\nD ^ {1 / n} - D _ {0} ^ {1 / n} = k ^ {\\prime} t \\quad \\text {o r} \\quad D = \\left(k ^ {\\prime} t + D _ {0} ^ {1 / n}\\right) ^ {n}. \\tag {2}\n$$",
+    "description": "Equation (2) provides a generalized empirical model for describing isothermal grain growth in materials, where the ideal parabolic growth law is often insufficient. In this formulation, \\(D\\) denotes the average grain size at time \\(t\\), and \\(D_0\\) represents the initial grain size at \\(t = 0\\). The parameter \\(k'\\) is a temperature-dependent rate constant, and \\(n\\) is an empirical time exponent, typically constrained to \\(n \\leq 0.5\\). The equation captures the relationship by stating that the difference between the \\(1/n\\)-th power of the current and initial grain sizes is proportional to the elapsed time. This power-law form allows the model to accommodate deviations from ideal parabolic growth kinetics, making it a versatile tool for fitting experimental grain growth data."
+  },
+  {
+    "equation": "$$\nk = k _ {0} \\exp \\{- Q / R T \\} \\tag {3}\n$$",
+    "description": "Equation (3) expresses the temperature dependence of the rate constant \\(k\\) for isothermal grain growth using an Arrhenius-type relationship. Here, \\(k_0\\) denotes a pre-exponential constant independent of temperature, \\(Q\\) represents the activation enthalpy for the grain growth process, \\(R\\) is the molar gas constant, and \\(T\\) is the absolute temperature. The equation captures the exponential increase in the rate constant with rising temperature, governed by the activation energy barrier \\(Q\\). The activation enthalpy \\(Q\\) is a critical parameter, as its magnitude is often used to infer the dominant microscopic mechanism controlling grain growth."
+  }
+]

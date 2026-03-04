@@ -1,0 +1,81 @@
+[
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/7cb5924b969b8cc7ab9b02bd0733f796afb394f6529a00e8ab7a7dbc7f21f87e.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/dccff559c848ea0819b498f1c9756479b47421f55f3996aa4858737b9f823d0d.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/4cb7610c399415db00ff7f1fc7abe9d93326b5c6e24279cd01261bf18c88d0e2.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/31e9d86275fd5379484796b6f0b039c0990a2d89867fd0207a64d678b6ad15ea.jpg"
+    ],
+    "description": "Fig. 1. Atomistic model of Weaire-Phelan crystal. (a) Dodecahedron (Dod) in cube lattice orientation and a pair of twinned Tetrakaidecahedron (Tet) with Σ3 {111} CTBs in between (right). (b) W-P packing with two Dod cells and three pairs of perpendicular Tet cells. (c) The W-P crystal subjected to 3D periodic boundary conditions. The supercell size of a W-P crystal is measured by a which is twice the grain size, d."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/a74cb70459a55fbe1e68b2b2c7c5801ec423311df3c56c7ca4dc8c865dda3c6e.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/6438c6093988fb2de954c125486cda88eb34a8c56185269b0daaaf4774856f06.jpg"
+    ],
+    "description": "Fig. 2. Transformation from (a) W-P crystal to (b) Euler crystal. A pair of twin Tets and a single Euler catenoid (Cat) of minimal surface are also shown on the righthand side in (a) and (b), respectively. The transformation temperature $\\left( T _ { W P - E } \\right)$ is about $4 5 0 ~ \\mathrm { K }$ for Cu with $d = 5$ nm. Atoms are colored using the CNA method, CTB atoms in red, lattice atoms in green and GB atoms in grey."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/3ffc69ba4af68811c5bc620f17875f7def0770c32fd4521bb5caf0b500e0a494.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/e1bd49ab7ad567d2acce85ff4ef7ebd518f8e635e5a812a313a04f41ded5d617.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/34e4617696c269b4d3beaf59720ec033fad691b267b135414a6af5e542d0b1b2.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/db7e122aeab9cc3492b3ccd198f7da1c2af54fb4cc83c48871a66a054aebfcca.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/631a2d1fcde95ba6d3a227da8a1441d519dc46696a770ba7ce9ecffd93f4b6cd.jpg"
+    ],
+    "description": "Fig. 3. Structural evolution of a Cu W-P crystal $\\dot { \\left. d \\right. } = 5 . 3 \\mathrm { n m } \\dot { \\left. \\right. }$ ) with Σ3 twin Tets. Cross-section views of structural evolution of (a) Dod0 (shifted by $( \\textstyle { \\frac { a } { 2 } } , \\frac { a } { 2 } , \\frac { a } { 2 } ) )$ and (b) Dod1, where the blue dashed lines mark the initial GB positions. Widths for Dod0 $( d _ { 0 } )$ and Dod1 $( d _ { 1 } )$ were measured by lateral spacing of Tets upon heating, as shown on the right. (c) The size dependent transformation temperature $\\left( T _ { W P - E } \\right)$ for W-P Cu. Atoms are colored using the CNA method, CTB atoms in red, lattice atoms in green and GB atoms in grey."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/5e381a4e90e035bea2c05cfa75dde51fbad9f1c37e16110d97f187212e0c2d9e.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/4743b677dd765d3cd7680448ad47e00adfd7f4660619d4b8b81c6ef647b06324.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/3837b79361d136f1b0efbdb93ecd248dc79432da9bcd51f1d648a7e5c7d8bf7b.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/8fda4d4c8f458f84c55ee92e7869f419184895432797ae5405d2a318dcbd90da.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/eb7e6b4dc6d32fcf9a8ac6b74d4856c0b24b680e81f82c687639c11466d0edce.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/710e5dd1352cf7b43408708ded661763a849a412408b96d6ff2f6f5fb32a679f.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/cd4588ac74f6e45cd5e26fadfd02a810b13db605b1b9015cec6a17cb770196a3.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/a6809f69fa966f9bc2ba2ab6e4781118eb4b6f2f12cdbbb46d145530c95e95eb.jpg"
+    ],
+    "description": "Fig. 4. Twin-fencing effects of Tets containing multiple CTBs for Cu. (a) W-P crystals $( a = 1 0 \\mathrm { n m } )$ ) with Σ3 CTB networks of different CTB densities, twin $\\times 2$ vs. twin $\\times 4 .$ . (b) MD obtained atomic volume and internal energy as function of temperature $( T )$ upon heating. (c) GB evolution associated with Dod0 (shifted by $( \\textstyle { \\frac { a } { 2 } } , \\frac { a } { 2 } , \\frac { a } { 2 } ) )$ and Dod1. The blue dashed lines represent initial GB positions in the W-P crystal (twin $\\times 4 \\AA$ ). CTB atoms are colored in red, lattice atoms in green and GB atoms in grey. Lateral spacing of Tets measures the variation of Dod upon heating. (d) The transformation temperature $\\left( T _ { W P - E } \\right)$ vs. twin density for Cu, Ni and Al W-P crystals of similar grain sizes $( d \\sim 5 \\ : \\mathrm { n m } )$ )."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/f3fe7d5091d71a174ff8c826c88117ea6c9cb2886a302fc7405c096a334e64a3.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/2e0dba9a0ab0f7bb6b1c3c153767c31b7f261453af43523468152346a2bc6728.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/5e2d6bc4f544f9e8cb1208f43a8c476d0969c4538c29260b8db77b625e5fd367.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/87654a3c535e941ec4e19e70470256c47b5a28dbb8294370c43aad83d3468c7a.jpg"
+    ],
+    "description": "Fig. 5. GB network in a Euler crystal and the schematic TLs and QPs. (a) GB morphology of a Euler crystal (CTB atoms in red and GB atoms in grey). (b) Schematic GB network. (c) Super QP as the GB anchor and (d) the schematic super QP with eight chains (TLs)."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/323dfb1a071496069f055c0f522f02ec358b2e0f5a363e3776ce654431771544.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/2ccc365f2a5af8f534fae0ec53de962bc387ed5d45bb3579344c7c54ccb3a594.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/aa88086d7ccd4f489542a744e550f898b78a48b944594fddcc1293b6e812c400.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/53964631a2e8c2a61417cab09d602372e97c098e7d41a046acb891000ebfab7f.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/002b5ac76e3d3f8813ab812b0c473513abe96fd3be96b3fe335441c118db11a4.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/76167a70eaf0ba8da1fc5b032087ae26a7ff62b21d01afbd4dcfc8854d04990a.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/aaa210452b3b39ecbb57fc92aec2bd9588d1e2c7185d2bdb009f6076e4447558.jpg"
+    ],
+    "description": "Fig. 6. (a) A W-P crystal $\\acute { \\iota } d = 5 . 3 \\mathrm { n m }$ ) constructed with pairs of twin Tets with Σ5 CTBs. Cross-section views of structural evolution of (b) Dod0 and (c) Dod1, where the blue dashed lines represent the initial GB positions (colors of atoms, cf. Fig. 2 and 3). Lateral spacing of Tets measures the variation of Dods upon heating (plots on left hand side)."
+  },
+  {
+    "figure": [
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/79efbea846d9bcc8cd2e3d10f98c350b72a594616513e24a838da2b298bbf56b.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/b3eb1d72cf3ebc4d6f655bd6d1f319a576bebea12ca8ef7f98b599cdbafa74d6.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/f12abc5fa5987528eb8341eb02999cc0bea0a21f2f41009692f0d568e570f740.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/8e299805e1abdb71a0b009dba61546bac658cb079bce4bbf59508efd1ffe4e00.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/c14781a4878fc1461ace740ee26690ef46910803a8eb066a27b1a69a8b657577.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/419410eb6c20fa3621631c28d09a6598c5f0a214a2d3dac990ee923407a90527.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/9ab26dbf5b4b5fe1272ff9ce81fa6a49dbcf2679bc595f5e1bc62b19f89cfa04.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/e1336c7e72e2dc4347c17b51eb5897beca0769ebe46359c05132959e47903d8f.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/6cedd2b7c031f288c0ffa49f59b871633cee2841ec7dc808f4f8941a8d68dffc.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/d39ede087ccb2731eb87c2f9f7fbb119397c038d91c9327e9cdc69d0673e8210.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/0d2da31ddca15b546d99edf0143562d23e4dec795cea8357e776e5b225bf8fbc.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/f963d3b13718c0ebca9b67eb3ee4ea8c4ff7adbba062b3701d8c6bfa3869fd41.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/53a9d74d0a6837d0f0393f108f902ccd76bec8a8a0d4835b1d44660d5ca14503.jpg",
+      "users/administrator/Schwarz/parse/20260214T140506_5712a2bf29/images/f8acca2954b8aba75f82e6ce4ccb6bd7d3b66f91402bf5f6d4439564e3ef08b9.jpg"
+    ],
+    "description": "Fig. 7. GB reactions in (a) a Euler crystal depends on (b) the combination of two types of Σ9 GBs (Σ9a and Σ9b). MD snapshots taken in (c) [110] direction and (d) in [1-10] direction at different temperatures."
+  }
+]

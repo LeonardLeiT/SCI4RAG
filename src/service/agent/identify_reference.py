@@ -23,28 +23,29 @@ def split_references(reference_text: str, characters: int = 20) -> List[Dict]:
         return []
 
     reference_text = reference_text.strip()
-    # Remove headers like "# REFERENCES" or "REFERENCES"
-    reference_text = re.sub(r'^\s*#?\s*references?\s*', '', reference_text, flags=re.IGNORECASE)
 
-    # Determine numbering style
-    style = None
-    if re.search(r'^\[\d+\]', reference_text):
-        style = 'bracket'
-        split_pattern = r'(?=\[\d+\])'
-        id_pattern = r'\[(\d+)\]\s*(.*)'
-    elif re.search(r'^\(\d+\)', reference_text):
-        style = 'paren'
-        split_pattern = r'(?=\(\d+\))'
-        id_pattern = r'\((\d+)\)\s*(.*)'
-    elif re.search(r'^\d+\.', reference_text):
-        style = 'dot'
-        split_pattern = r'(?=\d+\.)'
-        id_pattern = r'(\d+)\.\s*(.*)'
-    else:
-        # Unknown format
-        return []
+    # Remove headers like:
+    # "REFERENCES", "# REFERENCES", "References and Notes"
+    reference_text = re.sub(
+        r'^\s*#?\s*references?(?:\s+and\s+notes)?\s*',
+        '',
+        reference_text,
+        flags=re.IGNORECASE
+    )
 
+    # Normalize superscript numbering: $^{1}$ → [1]
+    reference_text = re.sub(r'\$\^\{(\d+)\}\$', r'[\1]', reference_text)
+
+    # Remove inline LaTeX math fragments: $...$
+    reference_text = re.sub(r'\$.*?\$', '', reference_text)
+
+    # Ensure numbering starts on new line (fix inline 5. 6.)
+    reference_text = re.sub(r'\s+(\d+\.)', r'\n\1', reference_text)
+
+    # Unified split rule
+    split_pattern = r'(?=\[\d+\]|\(\d+\)|\d+\.)'
     parts = re.split(split_pattern, reference_text)
+
     references = []
 
     for part in parts:
@@ -52,11 +53,29 @@ def split_references(reference_text: str, characters: int = 20) -> List[Dict]:
         if not part:
             continue
 
-        match = re.match(id_pattern, part, re.DOTALL)
+        match = re.match(
+            r'^\[(\d+)\]\s*(.*)|'
+            r'^\((\d+)\)\s*(.*)|'
+            r'^(\d+)\.\s*(.*)',
+            part,
+            re.DOTALL
+        )
+
         if not match:
             continue
 
-        ref_id, content = match.groups()
+        groups = match.groups()
+
+        if groups[0]:          # [1]
+            ref_id = groups[0]
+            content = groups[1]
+        elif groups[2]:        # (1)
+            ref_id = groups[2]
+            content = groups[3]
+        else:                  # 1.
+            ref_id = groups[4]
+            content = groups[5]
+
         content_clean = content.strip()
 
         # Only keep if number of words > min_words

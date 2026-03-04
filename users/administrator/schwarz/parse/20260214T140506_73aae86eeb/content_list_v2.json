@@ -1,0 +1,2861 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REPORT "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                64,
+                67,
+                151,
+                87
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "METALLURGY "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                59,
+                103,
+                161,
+                116
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al-Mg alloys "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                120,
+                581,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "W. Xu, B. Zhang, X. Y. Li*, K. Lu* "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                185,
+                247,
+                199
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "High atomic diffusivity in metals enables substantial tuneability of their structure and properties by tailoring the diffusional processes, but this causes their customized properties to be unstable at elevated temperatures. Eliminating diffusive interfaces by fabricating single crystals or heavily alloying helps to address this issue but does not inhibit atomic diffusion at high homologous temperatures. We discovered that the Schwarz crystal structure was effective at suppressing atomic diffusion in a supersaturated aluminum-magnesium alloy with extremely fine grains. By forming these stable structures, diffusion-controlled intermetallic precipitation from the nanosized grains and their coarsening were inhibited up to the equilibrium melting temperature, around which the apparent across-boundary diffusivity was reduced by about seven orders of magnitude. Developing advanced engineering alloys using the Schwarz crystal structure may lead to useful properties for high-temperature applications. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                212,
+                640,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Because of the nature of interatomic bonding, atomic diffusivity is notably higher in metals relative to that in ceramics and compounds with covalent or ionic bonds (1, 2). This feature enables substantial tuneability of structures at various length scales by tailoring the diffusion-controlled processes during the synthesis and subsequent treatments, resulting in a broad spectrum of properties and performance in metallic materials. For instance, Al alloys can be hardened with precipitation of intermetallic phases by aging around room temperature (3, 4). Strength and ductility of steels can be widely adjusted by manipulating diffusional phase transformations in thermomechanical treatments (5, 6). However, high atomic diffusivity makes structure and the customized properties of metals unstable when they are exposed to elevated temperatures or mechanical loading (7). Such instability becomes a major bottleneck in the development of metallic materials, greatly limiting their technological applications at high temperatures. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                379,
+                338,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Resisting diffusion of atoms in metals is challenging, especially at high temperatures. Heavily alloying a metal with foreign elements is limited by curbing lattice diffusion, as illustrated by the minor changes of diffusivity in the high-entropy alloys, in which several different metal elements are mixed together within a crystalline lattice (8, 9). Interfaces or grain boundaries (GBs) associated with more open structures are believed to be fast diffusion channels for atoms relative to the crystalline "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                711,
+                340,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "lattice (1, 10). Diffusion along GBs may be slowed down by optimizing the GB segregation of other elements (11-13). However, GB alloying is restricted by increasing tendencies of forming second phases with a higher degree of alloying (14, 15). "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                379,
+                642,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eliminating diffusive interfaces by forming single crystals is a standard strategy for reducing diffusivity, for example, as practiced in the fabrication of single-crystal blades of superalloys for high-temperature applications in turbo engines (16). Nonetheless, even in single-crystal metals, the high diffusivity cannot be restrained at high homologous temperatures. Substitutional diffusion and self-diffusion are known to be governed by the vacancy diffusion mechanism (1). The equilibrium vacancy concentration in crystalline lattice rises markedly at higher homologous temperatures, unavoidably elevating atomic diffusivity. "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                60,
+                939,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We recently discovered a metastable structure in pure Cu with extremely fine grains: a Schwarz crystal structure with minimal interfaces constrained by twin boundaries (17). Although it contains an extremely high density of interfaces, this structure exhibits a very high thermal stability against grain coarsening at high temperatures close to the melting point. Therefore, exploring whether this stable Schwarz crystal structure is capable of inhibiting diffusion of atoms in alloys at high temperatures is of great interest. "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                255,
+                939,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Al is a high-diffusivity metal, and Mg is one of its most diffusive alloying elements (18). We observed diffusion behaviors in a supersaturated "
+                    }
+                ]
+            },
+            "bbox": [
+                655,
+                421,
+                939,
+                462
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/48bd28c93ebd0c5d635cc82e3a3c32b443a628c590f98d2bd5d76a42610593ec.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                362,
+                484,
+                640,
+                705
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3f714028c4f662639ad87b600ba7326f08f11b510a24c5b24e809de84752f309.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                362,
+                707,
+                480,
+                837
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/de36a4d342b635b0b3dbd95c82410be40c711cfa426f861c16a3b8f4edd8bcf4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                480,
+                707,
+                596,
+                837
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b9acc85418998363331f9fa225742ab2d7b7a7015771a328463e7d6fc3ac008e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                645,
+                482,
+                935,
+                705
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/687847675e2f64d06b2a303cd694b1190d3e89897c98c59e12f72a0f9a545377.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                600,
+                707,
+                765,
+                837
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3ccc60b569d0edbd33e6bb9b8e7bb674b04af287d74b54d6e4ce221e8ba939a3.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Structure characterization of the as-prepared SC-8 sample. (A) Typical high-resolution TEM image showing nanosized grains outlined by white dashed lines. Inset is a corresponding selected area electron diffraction (SAED) pattern. (B) High-resolution high-angle annular dark-field (HAADF)-scanning transmission electron microscope (STEM) image of an aggregate in the manifold structure (fig. S3). Orange solid lines represent coherent twin boundaries (CTBs) and orange dashed lines are {111} planes. (C and D) Elemental mappings of Al and Mg. (E and F) High-resolution TEM images of a grain with a CTB (E) and a twin-free grain (F) with a beam direction along the [110] zone axis. Missing atoms at several corners are circled. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                767,
+                707,
+                934,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, China. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                891,
+                338,
+                924
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "*Corresponding author. Email: xyli@imr.ac.cn (X.Y.L.); lu@imr.ac.cn (K.L.) "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                924,
+                328,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                25,
+                146,
+                37
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Xu et al., Science 373, 683-687 (2021) 6 August 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                966,
+                347,
+                978
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 of 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                898,
+                966,
+                939,
+                978
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from https://www.science.org on July 28, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                944,
+                367,
+                964,
+                628
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Al-Mg alloy with a Schwarz crystal structure. Several diffusional processes, including precipitation of intermetallic phase, grain coarsening, and melting, were examined at different temperatures. We found that the Schwarz crystal structure was effective at suppressing atomic diffusion before structural melting. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                60,
+                338,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We deformed a thin foil of coarse-grained Al-15 weight percent (wt %) Mg alloy (Al-15% Mg) with a single phase of supersaturated Al (Mg) solid solution using a high-pressure torsion apparatus at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "77\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " under a hydrostatic pressure of 10 GPa. With the applied strain exceeding  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 20"
+                    },
+                    {
+                        "type": "text",
+                        "content": " the sample was structurally refined into the nanometer scale. Approximately equiaxed nanosized grains with random orientations were formed in the sample. The grain size distribution was uniform, with an average size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (sample SC-8; Fig. 1A). Electron diffraction and X-ray diffraction (XRD) analysis verified that the sample was a fully crystalline, face-centered cubic Al solid solution ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al) without any other phase. Composition analysis using energy-dispersive X-ray spectroscopy (EDS) displayed homogeneous distributions of Al and Mg atoms throughout the sample (Fig. 1, C and D). The measured "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                171,
+                342,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "lattice constant of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains from quantitative XRD was  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0.4119 \\pm 0.0001 \\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", corresponding to a  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " concentration of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 15.9 \\mathrm{wt} \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in terms of Vegard's law (19), which is close to the nominal composition. These results suggest that supersaturated  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " atoms were homogeneously distributed in the nanograined structure rather than clustering or segregating on GBs, as was documented in Al-Mg alloys deformed at room temperature (20). "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                60,
+                639,
+                199
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For comparison, we prepared another sample with larger grains from the same alloy using a smaller plastic strain ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 7.0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The sample consisted of equiaxed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains with random orientations (Fig. 2A and fig. S1). Grain sizes varied from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 100\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", with an average of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (sample NG-50). Distributions of Al and Mg atoms were homogeneous in the supersaturated grains (fig. S2) and identical to that in SC-8. The Mg content estimated from the lattice constant was  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 15.7\\mathrm{wt}\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " consistent with that in the SC-8 sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                199,
+                639,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to the obvious difference in grain size, the two samples had distinct structural characteristics. In the SC-8, we observed typical manifold structures of continuous networks consisted of irregularly shaped aggregates (fig. S3), akin to that in the Schwarz "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                366,
+                639,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "crystal Cu samples (17). The aggregates with smooth boundaries were made up of individual grains a few nanometers in size, among which twin relationships were often identified (Fig. 1B). Such manifold structures were not detected in the NG-50 sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                60,
+                937,
+                144
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Individual grains of the SC-8 sample exhibited diverse geometries with many faceted boundary planes (Fig. 1, E and F). Statistical measurements showed that  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 57\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of faceted boundaries were {111} atomic planes and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 26\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " were {100} planes. These frequencies are consistent with that in the Cu Schwarz crystal (17) and that of the truncated octahedron projected along the [110] axis (21), suggesting that the grain shapes resembled that of the truncated octahedron. Analogous to the Cu Schwarz crystal, atomic images at several corners of the grains were missing, as circled in Fig. 1E. Few faceted boundaries were seen in NG-50. GBs have wavy or curved high-angle boundaries (fig. S1), with morphologies similar to the so-called \"high-energy nonequilibrium GBs\" in the ultrafine-grained Al alloys (22). "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                144,
+                937,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the SC-8 sample, we frequently pictured twins in some tiny grains, whereas some grains were defect free (Fig. 1, E and F). Along the [110] axis, we found that  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 30\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of grains contained "
+                    }
+                ]
+            },
+            "bbox": [
+                655,
+                394,
+                937,
+                449
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e9a382b80e33f7a8a4dc89b32854dd2b07d63998019f4de2be0eef60ceb1aad3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                477,
+                286,
+                673
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0e72a0f0a885d873e507a1f6da5751074f9679f281e41fa19ad23d3bda2ab95e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                288,
+                478,
+                494,
+                671
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5c62343824598fa01e2ea2ae29b8e8bba32c8c769707a2824e061acd08faf169.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                495,
+                478,
+                745,
+                671
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/179442fc137bad8c94332666d9ef0daeda9d70bedb5841256b3ed0c9069324f5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                748,
+                478,
+                925,
+                671
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/455502bb560fc6448ad817eafeb5c8b5c085e11125c768f7fa86917fbec576b9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                74,
+                673,
+                492,
+                867
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/068d2f9d4bc3b3494c2c7842c244ebf88027c580db4a5559ffa7ee589dee9cdf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                495,
+                671,
+                747,
+                867
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b6727b9bbe2929e299339ee37969d437c321bff6113ea298147ac33a85c10097.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Structure evolution upon annealing. (A) Typical bright-field TEM image of the as-prepared NG-50 sample with a SAED pattern (inset). (B) HAADF-STEM image of the NG-50 sample annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "423\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 1 hour showing nanosized precipitates at GBs outlined by white dashed lines. (C) Bright-field TEM image of precipitates in the NG-50 annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "483\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 6 hours. Inset is an elemental "
+                    },
+                    {
+                        "type": "text",
+                        "content": "mapping of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of a precipitate. (D) Corresponding SAED pattern from (C) indexed with  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al. (E) XRD patterns of the as-prepared and the annealed samples as indicated. The inset depicts magnified patterns of the two annealed samples. (F and G) Typical bright-field TEM image with a SAED pattern of the SC-8 sample annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "483\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 6 hours. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                748,
+                673,
+                925,
+                867
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH | REPORT "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                25,
+                222,
+                37
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from https://www.science.org on July 28, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                367,
+                964,
+                628
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Xu et al., Science 373, 683-687 (2021) 6 August 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                968,
+                345,
+                978
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 of 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                898,
+                966,
+                937,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "one or more through-grain twins with fully coherent  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{111\\}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " twin boundaries in the as-prepared state. In the NG-50 sample, we did not see twins, as usually detected in ultrafine-grained Al alloys after plastic deformation. Because stacking fault energies for Al and its alloys are high (23), twinning might be possible only for extremely small grains when the shear stress is high enough. The critical grain size for the transition from full dislocation to partials can be calculated following classical dislocation theory (24) or in terms of the dislocation splitting distance. The estimated and observed sizes reported earlier were  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 10"
+                    },
+                    {
+                        "type": "text",
+                        "content": " to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (25). This explains why twinning was predominant in the SC-8 sample, which may induce relaxation of GBs (17, 26), whereas twinning was inhibited in the NG-50 sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                60,
+                338,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The as-prepared SC-8 Al-Mg sample was structurally characterized by Schwarz crystal structures similar to those in the Cu sample with comparable grain sizes. However, in sharp contrast to the Schwarz crystal structures, the nanostructures in the NG-50 sample were not different from those in conventional nanograined metals and alloys prepared from severe plastic deformation. With these two different nanostructures, we examined comparatively the diffusion-controlled processes in the supersaturated Al-Mg alloy to clarify the effects of the Schwarz crystal structures on atomic diffusion. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                310,
+                338,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For Al-15%Mg alloys, the equilibrium phases are  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2} < 700\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", a single  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al at 700 to 736 K, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al mixed with liquid at 736 to 855 K (fig. S4) (27). Several diffusional processes were expected in the supersaturated Al-Mg samples as annealed at different temperatures. In the NG-50 sample, precipitation of the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " phase along GBs of nanograins began as annealed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">423\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Fig. 2B) because of the much higher atomic diffusivity along GBs than that in the lattice (1). By raising annealing temperatures to 483 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "523\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the amount and sizes of precipitates increased with enlarged diffusivities both along GBs and in the lattice (Fig. 2, C and D). Coarsening of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains was observable simultaneously (Figs. 2C and 3). Increasing the annealing duration also promoted the precipitation reaction. More precipitates with larger sizes were formed by increasing the annealing duration from 1 to 6 hours at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "483\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Further, Mg content in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains was lowered by annealing to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 6.0\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "523\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", consistent with the measured lattice constant of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al (Fig. 3), suggesting that the supersaturated Mg atoms in Al grains diffuse out to supply formation of the precipitates. The precipitation behaviors and the onset temperatures in the NG-50 agree well with those reported in Al-Mg alloys of similar compositions [373 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "423\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (28, 29)]. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                503,
+                338,
+                919
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The lattice constant and Mg concentration of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains in the NG-50 increased with "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                919,
+                338,
+                947
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Stability of lattice constant and grain size. (A) Variation of measured lattice constant (a) from XRD analysis and Mg concentration from EDS analysis in the two samples as a function of annealing temperature (for a duration of 1 hour). The open square and open triangle represent the SC-8 and NG-50 sample annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "483\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 6 hours, respectively. (B) Variation of the average size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains in the two samples with annealing temperature.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " precipitate sizes in the NG-50 sample are included. Three regions of different phases in the equilibrium phase diagram (fig. S4) are colored. "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                62,
+                554,
+                326
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5c8e0e501a84a17c90a5e635af72e636525a5e23ccd2a823573ac08caefca644.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                573,
+                64,
+                937,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "annealing temperatures  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">523\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Fig. 3) because of the dissolution of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al_3Mg_2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " precipitates and diffusion of the dissolved  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " atoms back into  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Al grains. As temperature exceeded  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "700\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", precipitates were completely dissolved, forming a single  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Al phase with the same  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " concentration and lattice constant as that in the as-prepared state. Grains of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Al continued to coarsen with dissolution of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al_3Mg_2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Fig. 3). Grain sizes increased to the micrometer scale in the single-phase region with much enhanced atomic diffusivities of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and Al at high homologous temperatures. In terms of the measured increment in average grain sizes after annealing, we estimated the apparent across-boundary diffusivity at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "723\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " as being  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 7.7\\times 10^{-13}\\mathrm{m}^2\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is consistent with the documented lattice diffusivity of Al  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(1.1\\times 10^{-14}\\mathrm{m}^2\\mathrm{s}^{-1})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (30). "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                420,
+                639,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After annealing the SC-8 sample in the same temperature ranges, however, we observed a different scenario. After annealing at 373 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "723\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " no precipitation was detected at all in the SC-8 using transmission electron microscope (TEM) observations and XRD analysis (Fig. 2E). Microhardness of the sample remained unchanged after annealing at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "483\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 48 hours (fig. S5). The distributions of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and Al were as homogeneous as that in the as-prepared state (Fig. 4 and fig. S6). Only the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al phase with an unchanged lattice constant was identified in the annealed samples (Fig. 3), suggesting that  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " atoms stay in the supersaturated  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al nanograins without segregation or formation of intermetallic phases in the entire temperature range studied. "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                670,
+                639,
+                904
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The sizes of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains in the annealed sample remained stable in the SC-8 sample. Statistical measurements showed that the "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                904,
+                639,
+                945
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "average grain size of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al increased from 8 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10~\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " after annealing at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "673~\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 1 hour (Fig. 3), corresponding to a minor drop in microhardness from 4.8 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4.1\\mathrm{GPa}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (fig. S8). The average grain size increased to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 12\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " as annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "723\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 1 hour (Fig. 3 and fig. S7), whereas the geometry, lattice constant, and solute distribution of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains remained unchanged. High-resolution TEM observations denoted truncated octahedron-shaped grains in the annealed sample (fig. S9) that were not obviously different from that in the as-prepared state. Using the grain size change in the SC-8 sample annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "723\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", we estimated the apparent across-boundary diffusivity following the same equation as in the NG-50 sample:  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 1.5\\times 10^{-20}\\mathrm{m}^2\\mathrm{s}^{-1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", or about seven orders of magnitude lower than that in the NG-50 sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                420,
+                939,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The annealing-induced  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " precipitation from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al nanograins and their coarsening were inhibited in the SC-8 sample in the temperature range studied, differing sharply from that in the NG-50 and the ultrafine-grained Al-Mg alloys (20). Both the precipitation reaction and the GB migration process that govern grain coarsening were kinetically controlled by diffusion of both elements. The density of GBs in the SC-8 sample was several times higher than that in NG-50, and GBs are often believed to be fast diffusion channels for atoms. Therefore, these diffusional processes may be expected to be kinetically promoted in the SC-8 sample rather than being inhibited. However, the experimental observations were the opposite of this expectation. "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                683,
+                937,
+                917
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The huge difference in the obtained diffusivities between the two samples implies that "
+                    }
+                ]
+            },
+            "bbox": [
+                655,
+                919,
+                937,
+                947
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH | REPORT "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                25,
+                222,
+                38
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from https://www.science.org on July 28, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                367,
+                964,
+                628
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Xu et al., Science 373, 683-687 (2021) 6 August 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                968,
+                345,
+                978
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 of 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                898,
+                966,
+                937,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/82b1c195398e33b04ae19506bf0a99a9af42a999fadeaea2e2c07131bffc8fda.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                64,
+                350,
+                283
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a486759a619a3eef3ca1a2bdb5d253df772f047cd6d4097edf1224dc7be6b934.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                350,
+                64,
+                736,
+                317
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f4403666c7c7b8c683888a86ba6e16a30c86475e88e1d35ea6b2871eeeac002b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Elemental distributions upon annealing. (A to D) Typical bright-field TEM images and corresponding EDS elemental mappings of Mg in the SC-8 samples annealed at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "760\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " [(A) and (B)] and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "723\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " [(C) and (D)] for 1 hour, respectively. (E) EDS line scans of Mg "
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in the as-prepared and the annealed samples at various temperatures (as indicated) for 1 hour. (F) SEM image of the annealed NG-50 sample and EDS elemental mapping (inset) of the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " phase solidified from the melted region (arrow). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                738,
+                66,
+                920,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "atomic diffusion was markedly suppressed in the SC-8 sample with the stable Schwarz crystal structures. The melting processes of alloys are controlled by atomic diffusion and usually occur within a temperature range instead of at a specific temperature as in pure metals. The inhibited diffusion in the SC-8 sample is also verified by its melting behaviors. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                407,
+                338,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As the coarse-grained Al-15%Mg alloy was heated above the solidus temperature, segregation of Mg atoms was induced by fast diffusion of both elements. The rapid redistribution of Mg atoms led to a split in melting temperature: Mg-rich regions with lowered melting temperatures and Mg-poor regions with higher ones. With increasing temperatures, the Mgrich regions melted preferably and expanded by consuming the surrounding Mg-poor solids. This scenario is exactly what we observed in the NG-50 sample. We measured partial melting around GBs of Al grains as they were annealed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">736\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". After quenching, the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_{3}\\mathrm{Mg}_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " phase crystallized from the melted regions (Fig. 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                517,
+                338,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, when we annealed the SC-8 sample at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "760\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for 1 hour, we observed an  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al phase without detectable  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Al}_3\\mathrm{Mg}_2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". An increased fluctuation in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " distribution (within 6.6 to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30.3\\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") compared with that at lower annealing temperatures ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "723\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; Fig. 4) was induced, which is indicative of redistribution of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " atoms. The highest  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " concentration was below the eutectic composition ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "35.8\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and was not high enough to induce melting. The grain sizes increased to  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim 45\\mathrm{nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " after annealing, which was much smaller than that in the NG-50 sample. The lattice constant of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains dropped slightly with a depletion of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". We found partial melting only when the sample was annealed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">805\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (figs. S10 and "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                724,
+                340,
+                945
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S11),  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "69\\mathrm{K}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " higher than the solidus temperature and that of the NG-50 sample. The surprising elevation in melting temperature of the Al-Mg alloy in the SC-8 sample suggests that atomic diffusion was insufficient in the Schwarz crystal structures for inducing melting at the solidus temperature. "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                407,
+                639,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A Schwarz crystal is structurally characterized by minimal interfaces with zero mean curvature constrained by twin boundaries, which are extremely stable against thermal and mechanical loading. Molecular dynamic simulations have indicated that in Schwarz crystal structures (17), atoms at interfaces are constrained to vibrate about their rest positions to maintain the stable minimal interfaces at elevated temperatures even in vicinity of the melting point. The constraint is so effective that violent oscillation of atoms with large deviations from their rest positions is not allowed, limiting the local collective motion of atoms. In other words, the constraint greatly reduces the possibility for the interfacial atoms to escape from their rest positions. Therefore, the diffusion of atoms was inhibited in the entire temperature range studied because diffusion coefficients are proportional to the jumping probability (2). "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                503,
+                639,
+                794
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "With the extremely high density of GBs, the equilibrium vacancy concentration in the tiny  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Al grains would be so low that it would be difficult for a vacancy to be stabilized inside the grain. For substitutional diffusion processes, which are dominated by vacancy mechanisms (1, 2), lattice diffusion coefficients are proportional to the probability of finding a vacancy adjacent to the diffusing atoms. Therefore, lattice diffusion of Al and Mg atoms in the extremely fine grains is also inhibited. "
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                794,
+                639,
+                945
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our observations in this supersaturated Al-Mg alloy echo our earlier observation of inhibited coarsening of nanograins in pure Cu Schwarz crystal samples up to the melting point (17), which is a self-diffusion-controlled process. The diffusionless feature of the Schwarz crystal structure in metals is of great importance for understanding the fundamental diffusional processes in interfaces and the transport dynamics in solid states, especially at high temperatures. The Schwarz crystal seems to provide a robust barrier for arresting the diffusion of atoms in metals and substitutional alloys, boosting stability up to melting temperatures. This stability is much higher than that for conventional alloys. Developing advanced Al and other alloys using the Schwarz crystal structure should lead to materials with useful properties for high-temperature applications. "
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                407,
+                939,
+                671
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES AND NOTES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                655,
+                689,
+                809,
+                699
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. H. Mehrer, Diffusion in Solids: Fundamentals, Methods, Materials, Diffusion-Controlled Processes (Springer, 2007), vol. 155. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. D. A. Porter, K. E. Easterling, Phase Transformations in Metals and Alloys (CRC Press, 2009). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. I. Polmear, D. St. John, J. F. Nie, M. Qian, Light Alloys (Butterworth-Heinemann, 2017). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. M. Werinos et al., Acta Mater. 118, 296-305 (2016). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. M. Song et al., Acta Mater. 112, 361-377 (2016). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. F. P. Pickering, Constitution and Properties of Steels, vol. 7 of Materials Science and Technology, R. W. Cahn, P. Haasen, E. J. Kramer, Eds. (Wiley, 2005). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. M. Meyers, K. Chawla, Mechanical Behaviors of Materials (Cambridge Univ. Press, 2009). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Q. Ding et al., Nature 574, 223-227 (2019). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. K.-Y. Tsai, M.-H. Tsai, J.-W. Yeh, Acta Mater. 61, 4887-4897 (2013). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. S. V. Divinski, G. Reglitz, H. Rosner, Y. Estrin, G. Wilde, Acta Mater. 59, 1974-1985 (2011). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. J. Weissmüller, Nanostruct. Mater. 3, 261-272 (1993). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. R. Kirchheim, Acta Mater. 50, 413-419 (2002). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. C. C. Koch, R. O. Scattergood, K. A. Darling, J. E. Semones, J. Mater. Sci. 43, 7264-7272 (2008). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                657,
+                703,
+                935,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH | REPORT "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                25,
+                224,
+                37
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from https://www.science.org on July 28, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                367,
+                964,
+                626
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Xu et al., Science 373, 683-687 (2021) 6 August 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                968,
+                345,
+                978
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 of 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                898,
+                966,
+                937,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. T. Chookajorn, H. A. Murdoch, C. A. Schuh, Science 337, 951-954 (2012). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. D. Raabe et al., Curr. Opin. Solid State Mater. Sci. 18, 253-261 (2014). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. R. Reed, The Superalloys: Fundamentals and Applications (Cambridge Univ. Press, 2006). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. X. Y. Li, Z. H. Jin, X. Zhou, K. Lu, Science 370, 831-836 (2020). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Y. Du et al., Mater. Sci. Eng. 363, 140-151 (2003). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. A. R. Denton, N. W. Ashcroft, Phys. Rev. A 43, 3161-3164 (1991). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. X. Sauvage, N. Enikeev, R. Valiev, Y. Nasedkina, M. Murashkin, Acta Mater. 72, 125-136 (2014). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. C. Chieh, Acta Crystallogr. A 5, 946-952 (1979). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. K. Oh-ishi, Z. Horita, D. J. Smith, T. G. Langdon, J. Mater. Res. 16, 583-589 (2011). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. Y. Qi, R. K. Mishra, Phys. Rev. B Condens. Matter Mater. Phys. 75, 224105 (2007). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. E. Orowan, Symposium on Internal Stresses in Metals and Alloys (Institute of Metals, 1948), vol. 451. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                63,
+                338,
+                251
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. M. Chen et al., Science 300, 1275-1277 (2003). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. X. Zhou, X. Y. Li, K. Lu, Science 360, 526-530 (2018). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. H. Okamoto, T. Massalski, Binary Alloy Phase Diagrams (ASM International, 1990). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. M. J. Starink, A. Zahra, \"Precipitation kinetics of an Al-15% Mg alloy studied by microcalorimetry and TEM,\" in Materials Science Forum (Trans Tech Publications, 1996), vol. 217, pp. 795-800. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. S. Nebti, D. Hamana, G. Cizeron, Acta Metall. Mater. 43, 3583-3588 (1995). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. W. Zhong, M. S. Hooshmand, M. Ghazisaedi, W. Windl, J.-C. Zhao, Acta Mater. 189, 214-231 (2020). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                359,
+                63,
+                637,
+                193
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ACKNOWLEDGMENTS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                359,
+                207,
+                485,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We thank C. Y. Wu, B. Wang, and L. Fang for help with sample preparation and Z. H. Jin for discussion. Funding: This work was supported by the Ministry of Science & Technology of China (grant "
+                    }
+                ]
+            },
+            "bbox": [
+                357,
+                220,
+                632,
+                252
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "nos. 2017YFA0204401 and 2017YFA0700700) and the Chinese Academy of Sciences. Author contributions: X.Y.L. and K.L. developed the concept, designed the experiments, and supervised the projects. W.X. prepared the samples, characterized structures, and performed the measurements. W.X. and B.Z. performed the calculations. All authors discussed and analyzed the results. X.Y.L. and K.L. wrote the paper. Competing interests: The authors declare no competing interests. Data and materials availability: All data are available in the manuscript or the supplementary materials. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                657,
+                63,
+                937,
+                158
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUPPLEMENTARY MATERIALS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                659,
+                170,
+                811,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "science.sciencemag.org/content/373/6555/683/suppl/DC1 "
+                    }
+                ]
+            },
+            "bbox": [
+                657,
+                183,
+                910,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and Methods "
+                    }
+                ]
+            },
+            "bbox": [
+                659,
+                194,
+                757,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figs. S1 to S11 "
+                    }
+                ]
+            },
+            "bbox": [
+                659,
+                203,
+                721,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "References (31, 32) "
+                    }
+                ]
+            },
+            "bbox": [
+                659,
+                214,
+                743,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13 February 2021; accepted 1 July 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                659,
+                231,
+                824,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10.1126/science.abh0700 "
+                    }
+                ]
+            },
+            "bbox": [
+                659,
+                242,
+                765,
+                250
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH | REPORT "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                25,
+                222,
+                37
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from https://www.science.org on July 28, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                367,
+                962,
+                626
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Xu et al., Science 373, 683-687 (2021) 6 August 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                968,
+                345,
+                978
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 of 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                898,
+                968,
+                937,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al-Mg alloys "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                128,
+                158,
+                861,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "W. Xu, B. Zhang, X. Y. Li, and K. Lu "
+                    }
+                ]
+            },
+            "bbox": [
+                128,
+                198,
+                347,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Science, 373 (6555), . "
+                    }
+                ]
+            },
+            "bbox": [
+                128,
+                250,
+                263,
+                261
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1126/science.abh0700 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                263,
+                318,
+                273
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Locking structure to high temperature "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                153,
+                313,
+                401,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Because of atomic diffusion, metal alloys with nanometer-sized crystal grains do not retain their structure at high temperature. Xu et al. found that a minimum-interface structure allows a supersaturated aluminum-magnesium alloy to be retained at temperatures higher than the melting point. This system is known for high atomic diffusivity, highlighting the importance of the underlying interface structure. These observations have implications for designing structural alloys for high-temperature applications. —BG "
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                326,
+                861,
+                388
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "View the article online "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                128,
+                445,
+                274,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "https://www.science.org/doi/10.1126/science.abh0700 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                461,
+                455,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Permissions "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                474,
+                212,
+                485
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "https://www.science.org/help/reprints-and-permissions "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                488,
+                456,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Use of this article is subject to the Terms of service "
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                854,
+                413,
+                867
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Science "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                46,
+                219,
+                116
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Science (ISSN) is published by the American Association for the Advancement of Science. 1200 New York Avenue NW, Washington, DC 20005. The title Science is a registered trademark of AAAS. "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                884,
+                930,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Copyright © 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                911,
+                930,
+                936
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from https://www.science.org on July 28, 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                367,
+                962,
+                628
+            ]
+        }
+    ]
+]

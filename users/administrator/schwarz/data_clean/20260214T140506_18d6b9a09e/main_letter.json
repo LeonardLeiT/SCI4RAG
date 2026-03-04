@@ -1,0 +1,17 @@
+{
+  "title": "Stabilizing Supersaturation with Extreme Grain Refinement in Spinodal Aluminum Alloys",
+  "author": [
+    "Wei Xu",
+    "Yiming Zhong",
+    "Xiuyan Li",
+    "K. Lu"
+  ],
+  "journal": "Advanced Materials",
+  "doi": "10.1002/adma.202303650",
+  "abstract": "Supersaturated solid solutions can be formed in alloys from various non-equilibrium processes, but stabilizing the metastable phases against decomposition is challenging, particularly the spinodal decomposition that occurs via chemical fluctuations without energy barriers to nucleation. In this work, it is found that spinodal decomposition in supersaturated Al(Zn) solid solutions can be inhibited with straining-induced extreme grain refinement. For the refined supersaturated grains at the nanoscale, their spinodal decomposition is obviously resisted by the relaxed grain boundaries and reduced lattice defects. As grains are refined below $10\\mathrm{nm}$ the decomposition is completely inhibited, in which atomic diffusion is blocked by the stable Schwarz crystal structure with vacancy-free grains. Extreme grain refinement offers a general approach to stabilize supersaturated phases with broadened compositional windows for property modulation of alloys.",
+  "keywords": [],
+  "main_letter": {
+    "0": "# 1. Introduction",
+    "1": "Alloying with foreign components to form solid solutions is a vital approach to modulating the properties of metals, as being practiced since the Bronze Age. Indeed, most solid solutions of metals have solubility limits in equilibrium phase diagrams except for a few isomorphous systems with elements completely miscible.[1,2] Supersaturated solid solutions may be formed as excess amounts of solute atoms are trapped beyond the solubility limit through various non-equilibrium processes, such as rapidly quenching from high temperatures,[2] physical or chemical vapor depositions,[3,4] electrodeposition,[5] ball milling,[6] and so on. While supersaturation may broaden the property spectrums of alloys, solutions with excess solute atoms are thermodynamically"
+  }
+}

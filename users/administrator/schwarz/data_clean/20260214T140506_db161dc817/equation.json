@@ -1,0 +1,26 @@
+[
+  {
+    "equation": "$$\nD ^ {*} = \\frac {\\mu b}{\\sigma_ {y} \\left(D ^ {*}\\right) / m}, \\tag {1}\n$$",
+    "description": "Equation (1) defines the critical grain size, \\( D^{*} \\), below which the operation of full-dislocation sources becomes inhibited. In this expression, \\( \\mu \\) denotes the shear modulus, \\( b \\) is the magnitude of the Burgers vector for a full dislocation, and \\( m \\) is the Taylor factor, which is the reciprocal of the average Schmid factor for a polycrystal (typically taken as 3). The term \\( \\sigma_{y}(D^{*}) \\) represents the macroscopic yield strength, which itself is a function of the grain size. The equation embodies a self-consistent condition derived from the Orowan stress required to bow out a dislocation segment pinned at grain boundaries; it states that the critical size is proportional to the ratio of the dislocation line tension (scaled by \\( \\mu b \\)) to the resolved shear stress needed for plastic yielding."
+  },
+  {
+    "equation": "$( 1 / m = 1 / 2 )$",
+    "description": "The equation $( 1 / m = 1 / 2 )$ defines a specific condition for the inverse of the Schmid factor, $m$. Here, $m$ denotes the Schmid factor, which relates the applied stress to the resolved shear stress on a slip system. In this context, the equality $1/m = 1/2$ corresponds to the scenario where dislocation activity is confined to the single most favorably oriented slip system within a grain, resulting in the maximum possible resolved shear stress. This condition represents an upper bound for plastic deformation via full dislocation glide and is a key parameter in models describing the inhibition of dislocation nucleation at extremely small grain sizes."
+  },
+  {
+    "equation": "$D ^ { * * } { = } \\mu b / [ \\sigma _ { y } ( D ^ { * * } ) / 2 ]$",
+    "description": "The equation defines a critical grain size, \\( D^{**} \\), which represents the threshold below which the nucleation of full dislocations from grain boundaries is completely inhibited. In this expression, \\( \\mu \\) denotes the shear modulus, \\( b \\) is the magnitude of the Burgers vector, and \\( \\sigma_y(D^{**}) \\) is the yield strength of the material, which itself is a function of this critical grain size. The relationship captures a mechanical equilibrium condition where the stress required to bow out a dislocation loop on the most favorably oriented slip system, given by \\( \\mu b / (D^{**}/2) \\), is balanced against the material's yield strength at that specific grain size. Consequently, for grain sizes smaller than \\( D^{**} \\), the resolved shear stress becomes insufficient to operate full dislocation sources, leading to a transition in deformation mechanism where only partial dislocation emission can occur."
+  },
+  {
+    "equation": "$D ^ { * } = 7 7 , 7 0$",
+    "description": "The equation $D ^ { * } = 7 7 , 7 0$ presents a specific numerical result for a critical grain size parameter. Here, $D^{*}$ denotes the critical grain diameter below which the nucleation of full lattice dislocations from a grain boundary source is completely inhibited, as dislocation bowing on the most favorably oriented slip system becomes impossible. The value is given in nanometers, where the comma serves as a thousands separator; thus, $77,70$ represents 77.70 nm. This numerical outcome is calculated based on the measured yield strength of the nanograined metal in question, establishing a material-specific threshold that marks the transition in dominant deformation mechanisms from full dislocation activity to the emission of partial dislocations only."
+  },
+  {
+    "equation": "$D ^ { * * } = 4 0$",
+    "description": "The equation \\(D^{**} = 40\\) defines a critical grain size, \\(D^{**}\\), which has a value of 40 nm for the specific material under discussion. Here, \\(D^{**}\\) denotes the grain diameter below which the nucleation and propagation of full lattice dislocations on the most favorably oriented slip system become completely inhibited. For grain sizes smaller than this threshold, plastic deformation can only proceed via the emission of partial dislocations. The numerical value of 40 nm, expressed in nanometers, is a material-specific parameter calculated from experimental yield strength data, representing a key microstructural scale that governs the transition in the dominant deformation mechanism."
+  },
+  {
+    "equation": "$\\Delta D = 0$",
+    "description": "The equation $\\Delta D = 0$ defines the condition for a stable, non-coarsening grain structure under severe plastic deformation. Here, $\\Delta D$ represents the net change in average grain size over time. Setting this change to zero indicates a dynamic equilibrium where grain refinement processes are balanced by coarsening mechanisms, resulting in a steady-state grain size distribution. This condition is central to the analysis, as the calculated stable grain size $D^{**}$ is validated by experimentally measured grain sizes satisfying $\\Delta D = 0$."
+  }
+]

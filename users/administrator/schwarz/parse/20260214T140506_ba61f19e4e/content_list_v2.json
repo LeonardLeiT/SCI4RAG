@@ -1,0 +1,3409 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "M A T E R I A L S S C I E N C E "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                75,
+                235,
+                89
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapid heating induced ultrahigh stability of nanograined copper "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                97,
+                599,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X.Y. Li*, X. Zhou, K. Lu* "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                161,
+                234,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Inherent thermal and mechanical instability of nanograined materials bottlenecks their processing and technological applications. In addition to the traditional stabilization strategy, which is based on alloying, grain boundary relaxation was recently found to be effective in stabilizing nanograined pure metals. Grain boundary relaxation can be induced by deforming very fine nanograins below a critical size, typically several tens of nanometers. Here, we found that rapid heating may trigger intensive boundary relaxation of pure Cu nanograins with sizes up to submicrometers, a length scale with notable instability in metals. The rapidly heated Cu nanograins remain stable at temperatures as high as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\phantom { } 0 . 6 T _ { \\mathbf { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(melting point), even higher than the recrystallization temperature of deformed coarse-grained Cu. The thermally induced grain boundary relaxation originating from the generation of high-density nanotwins offers a alternative approach to stabilizing nanostructured materials. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                193,
+                797,
+                320
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Copyright © 2020 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC). "
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                78,
+                941,
+                250
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                351,
+                168,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Metals become hardened after plastic deformation but unstable at elevated temperatures as the deformation-introduced defects such as dislocations and grain boundaries (GBs) are eliminated through recovery and recrystallization. In metals with normal purity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 1 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "parts per million impurity), recrystallization typically starts at about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 4 ~ T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(melting point) (1, 2). The recrystallization temperature drops with increasing strains (density of defects) (3). The heavily deformed metals with an extremely high density of GBs and dislocations, i.e., nanograined or submicro-grained materials, may become unstable even at ambient temperature (1, 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                366,
+                491,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stabilizing the deformed metals is crucial for their technological applications, especially for nanostructured metals with bespoke properties. Alloying is traditionally used to retard recrystallization kinetics as solute atoms may suppress GB mobility (5–7). Adopting low energy boundaries such as twin boundaries and low-angle GBs, which are more reluctant to recrystallize (8–10), is an alternative stabilization strategy without changing material chemistry. Our recent study revealed that nanograined metals with random GBs can be stabilized through GB relaxation (11–13). Both thermal and mechanical stability of very fine nanograins in a number of facecentered cubic (fcc) metals are enhanced considerably, originating from a deformation-induced autonomous GB relaxation to lower energy states through emission of stacking faults or twins from the boundaries. Nevertheless, this effect is limited to nanograins below a critical size, usually several tens of nanometers. Stabilizing larger grains in pure metals is challenging indeed, e.g., the submicro-sized grains as usually obtained from plastic deformation techniques. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                511,
+                489,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In principle, GB relaxation might be alternatively triggered by thermal activation as twins can be formed through thermal annealing. For instance, in metals with low stacking fault energies such as Cu, austenitic stainless steels, and some Ni-based superalloys, twins appear frequently accompanying recrystallization of the deformed structures upon annealing at elevated temperatures (14–16). Annealing twins are used in so-called GB engineering for improving corrosion resistance and other properties of the materials in which plenty of "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                760,
+                491,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Σ3 or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Sigma 3 ^ { \\mathrm { n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "boundaries are iteratively generated by deformation and subsequent annealing (17, 18). Literature showed that in Cu with a purity of 99.9 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 . 9 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a deformation strain below "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", annealing twins are usually formed upon annealing at a temperature ranging from 473 to 523 K (19, 20). Unfortunately, this temperature window is well above that for nanograin coarsening in Cu, typically 393 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 0 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for grain sizes of 50 to 200 nm (11). In other words, as nanograins are heated, nanograin coarsening through GB migration occurs before formation of annealing twins. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                351,
+                939,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB migration is a thermal activation process that is heating rate dependent. Higher heating rates may shift the process to occur at higher temperatures. As demonstrated in submicro-grained Ni samples prepared from plastic deformation, grain coarsening temperature elevates from 420 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 0 ~ \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as heating rate increases from 0.3 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(21). In terms of the Kissinger equation for a thermally activated process such as grain coarsening, the onset temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( T _ { \\mathrm { x } } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is related to heating rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( H T )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { \\ln \\left( \\frac { \\mathrm { H T } } { { T _ { \\mathrm { x } } } ^ { 2 } } \\right) = - \\frac { E } { R T _ { \\mathrm { x } } } + } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "constant, where "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                484,
+                939,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "E"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the apparent activation energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ 7 2 . 5 \\mathrm { k J } / \\mathrm { m o l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cu (22)] and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the gas constant. Taking "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { x } } = 3 9 3 \\ : \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( I I )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at a heating rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { K } / \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", we obtained "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { x } } = 4 7 3 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at a rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 2 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", a temperature when annealing twins are formed in Cu (19, 20). As formation of annealing twins does not show obvious heating rate dependence (23), it is anticipated that nanograins be heated rapidly enough (above the critical rate) so that the onset temperature of GB migration exceeds that of twin formation and twinning may take place in nanograins before grain coarsening. Consequently, it is reasonable to assume that formation of annealing twins may trigger boundary relaxation of nanograins, as in the mechanically induced GB relaxation. This will be exploited in nanograined pure Cu in the present study. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                613,
+                941,
+                805
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESULTS AND DISCUSSION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                832,
+                691,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We prepared a gradient nanograined surface layer on a coarsegrained oxygen-free Cu bar specimen with a purity of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 . 9 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by using surface mechanical grinding treatment (SMGT) in liquid nitrogen (table S1). Randomly oriented grains with an average transversal size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 4 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and an aspect ratio of 1.7 are found in the topmost surface layer. The transversal grain sizes increased gradually "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                847,
+                939,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, 72 Wenhua Road, Shenyang 110016, China. *Corresponding author. Email: xyli@imr.ac.cn (X.Y.L.); lu@imr.ac.cn (K.L.) "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                898,
+                489,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S C I E N C E A D V A N C E S | R E S E A R C H A R T I C L E "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                37,
+                474,
+                54
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Li et al., Sci. Adv. 2020; 6 : eaaz8003 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                947,
+                324,
+                960
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 of 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                948,
+                939,
+                958
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                962,
+                335,
+                981,
+                662
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "with increasing depth, to about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "depth and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 0 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 ~ { \\mu \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "depth. A weak {111} 〈110〉 texture in the nanograined layer was identified. Deformed coarse-grained structures can be found underneath the nanostructured surface layer. The as-prepared gradient nanograined specimens were then heated at different rates to a preset temperature of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 3 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[formation temperature of annealing twins in coarse-grained Cu (19, 20)] and cooled down to ambient temperature immediately. Four heating rates (1, 80, 160, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 0 \\mathrm { K / m i n } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively) accurately controlled on a differential scanning calorimetry equipment were used to identify the rate effect on coarsening kinetics of nanograins. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                75,
+                491,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Upon heating the sample at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { K } / \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", nanograin coarsening with resultant micrometer-sized grains initiated in the subsurface layer deeper than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\pm 4 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", in which the as-prepared grains are larger than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 ~ \\mathrm { { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In contrast, the top "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\mathrm { - } \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-thick layer containing nanograins with an average size of 40 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "remains stable after annealing (Fig. 1A), as confirmed by transmission electron microscopy (TEM) observations. A few sporadic abnormally coarsened grains were detected in this layer. The stabilized nanograined surface layer, which is in agreement with our previous study, was attributed to the mechanically induced GB relaxation in this layer during the SMGT process (11). The instability temperature of the "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                236,
+                491,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 \\mathrm { - n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains after the mechanical GB relaxation is around 523 K "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\boldsymbol { { l } } \\boldsymbol { { l } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", coincident with our observations. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                76,
+                939,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Upon heating at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(above the estimated critical heating rate), the top surface layer with stable nanograins is thickened to about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 8 \\pm 9 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", corresponding to an original grain size span of 40 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Grain coarsening occurs in the subsurface layer with original grains larger than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Grain sizes of the coarsened layer are much smaller than that at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "owing to the reduced time for grain coarsening. Obviously, nanograins with sizes ranging from 60 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "that are unstable heated at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { K } / \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are stabilized at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". When heating rate is increased to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the stabilized nanograined layer is much thickened, covering a grain size span of 40 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the grain sizes in the coarsening layer are even smaller. Further increasing to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 0 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the thickness of the stabilized surface layer seems to be saturated, as in Fig. 1E. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                105,
+                939,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The stabilized nanograins in the surface layer were systematically characterized under TEM. At a depth of about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corresponding to the 80-nm grains in the as-prepared sample, no obvious difference was detected in grain size distribution and the average size, as well as in electron diffraction pattern after the rapid heating (at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; Figs. 1, A, B, and D, and 3A). In contrast, micro-sized grains with sharp boundaries are formed at the same depth at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { K } / \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. 1C). "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                294,
+                939,
+                398
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/569f2077eec1df6627345fc6f88d8bf7cf520c8fda5c4f8a37689b523fbb68df.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Nanograins stabilized by rapidly heating in Cu. (A) Typical cross-sectional SEM images of the gradient nanograined surface layer in the as-prepared Cu sample and that heated to 523 K at different rates (1, 80, and 160 K/min, respectively). (B to D) Typical TEM bright-field images of the nanostructures at a depth of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 2 5 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the surface [as indicated in (A), with an average grain size about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 8 0 } \\mathsf { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the as-prepared sample] in the as-prepared and the heated samples with different heating rates. Insets are corresponding selected area electron diffraction patterns. (E) The corresponding as-prepared grain size range in the stabilized surface layer of the gradient nanograined samples after heating to 523 K at different rates. Solid and hollow circles represent the upper and the lower limits of stable grain sizes observed, respectively. The dashed line represents the average grain size in the as-prepared sample "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( D ^ { * } \\sim 6 0 \\mathsf { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") upon annealing at 523 K from (10). Error bars are standard errors of the average grain size. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                132,
+                425,
+                863,
+                839
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S C I E N C E A D V A N C E S | R E S E A R C H A R T I C L E "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                37,
+                474,
+                54
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                962,
+                335,
+                981,
+                660
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Li et al., Sci. Adv. 2020; 6 : eaaz8003 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                947,
+                324,
+                960
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 of 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                948,
+                939,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Measured nanohardness at this depth is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 3 5 \\pm 0 . 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "GPa in the as-prepared sample. It increases slightly after rapid heating, being about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 2 0 \\pm 0 . 1 2 \\mathrm { G P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". These evidences confirmed no coarsening of nanograins with sizes of 40 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 5 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the top surface layer after rapid heating to 523 K. Such a size range is much wider than that in the as-prepared sample after the mechanical GB relaxation (40 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 \\mathrm { n m } \\dot { }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                75,
+                491,
+                164
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e9c53e91d4bda8f5e702800ef495cba9614c7df7dcf1423e01958b81046f8bfc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                193,
+                240,
+                329
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d3405901292e76a25229368fb0f9da785fa314c9c36e991683440c577323a0ad.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                240,
+                191,
+                358,
+                329
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6a2f33fa784f25568e42fa4c446439bd205613b93378efdd5636b7ef45b03a95.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                358,
+                191,
+                474,
+                329
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ba5df3222ca166bb94ba6447905623ea0d694c6ae0801f64dd4cdad07a0760e0.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                72,
+                330,
+                274,
+                402
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f2433cdcc30729221e531bbc3d307e076dd304c3dc3d529a1abbda55e4435a31.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Formation of copious nanotwins and faceted GBs in nanograins after rapid heating. (A) High-resolution TEM image of a typical nanograin in Fig. 1D with an atomic image of nanotwins in the nanograin (inset). (B and C) Typical distribution maps of the GB character of the as-prepared (B) and the rapidly heated [(C) at a rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 ~ { \\mathsf { K / m i n } } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "samples. Colored lines stand for different boundaries including twin boundaries (red), low-angle GBs (gray), ordinary high-angle GBs (black), and other special boundaries "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\Sigma < 2 9 _ { i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", other colors). (D and E) High-resolution TEM images of typical boundaries between nanograins in Fig. 1D; insets are magnified images of the red-outlined regions. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                274,
+                330,
+                474,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In other words, an extra stabilized grain size region from 60 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(red region in Fig. 1E) is resulted from the rapid heating. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                75,
+                939,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Comparing TEM images in Fig. 1 (B and D), we found twins in many nanograins (as circled) in the rapidly heated sample. By tilting the sample, twins appear in almost each nanograin, which seem to be emitted from GBs and terminated at the opposite boundaries. High-resolution TEM images (Fig. 2A) revealed numerous throughgrain twins in the nanograins with spacing varying from several to tens of nanometers. The morphology is analogous to that in nanograins after the mechanical GB relaxation (11, 12). Twin density in the nanograins is orders of magnitude higher than that observed in deformed coarse grains after recrystallization. Although twins exist in some very fine nanograins in the as-prepared sample (Fig. 1B), TEM-measured distribution maps of GB character showed that twin density increases considerably after rapid heating (Fig. 2, B and C). Statistical results showed that the fraction of Σ3 boundaries increases from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the as-prepared sample to about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after rapid heating (table S2). "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                105,
+                939,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The top surface layer was also analyzed by using micro-beam x-ray diffraction to estimate the twin probability () based on the diffraction peak asymmetry, a statistical measure of twin density (see Materials and Methods). From the obtained diffraction peak profiles of various "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( h k l )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "planes, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "value of the rapidly heated sample was calculated, being about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 3 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", meaning one twin in every 73 (111) planes, roughly consistent with the TEM observations. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "value "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( 0 . 1 5 \\% \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is one order magnitude lower in the as-prepared sample. Although this estimation involves relatively large errors, the much higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "value confirmed an obvious increase in twin density after rapid heating. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                338,
+                939,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The above evidences point to the fact that, during rapid heating, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 \\mathrm { - n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains do not show obvious coarsening. Instead, "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                498,
+                939,
+                527
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3556048a56a3b6f9362b6f8a9a4a5ea9649a6b31dc4f319858a65b5ca314132b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                191,
+                544,
+                457,
+                865
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6835d22364b1804f4f916f58be8fce04ca6d7f90fd13cd3a9690a86f009134dd.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Thermal stability comparison for nanograins before and after rapid heating. (A) Grain size distributions from statistical TEM measurements for the as-prepared and the rapidly heated samples with thermally induced GB relaxation (T-GBR) with an average as-prepared grain size "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 8 0 \\mathsf { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "annealed at different temperatures from 673 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 2 3 \\mathbb { K } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "(B) Variations of measured grain size with annealing temperature for two nanograined structures with the as-prepared average grain size of 80 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mathsf { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. Blue symbols and lines represent the as-prepared samples and red ones represent the T-GBR samples after rapid heating. Measured nanohardness data of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 8 0 - } \\mathsf { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "samples after annealing at various temperatures are also included. Error bars indicate the SDs of the average grain size. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                459,
+                544,
+                803,
+                865
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S C I E N C E A D V A N C E S | R E S E A R C H A R T I C L E "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                37,
+                474,
+                52
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                962,
+                335,
+                981,
+                660
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Li et al., Sci. Adv. 2020; 6 : eaaz8003 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                947,
+                324,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 of 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                948,
+                939,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "high-density twins are generated inside the nanograins. This behavior differs distinctly from the obvious coarsening without twinning in nanograins of the same size heated at low rates (Fig. 1C). It verifies our prediction that the coarsening process of nanograins is postponed by rapid heating to higher temperatures so that annealing twins form in advance. Annealing twins are usually believed to form during GB migration of the recrystallization process in the deformed coarse-grained Cu to decrease the overall excess energy of GBs (24, 25). Clearly, in the present case, twinning occurs without grain coarsening or recrystallization in the nanograins during rapid heating. The twinning decoupled from the GB migration process seems to be in accordance with the “pop-out” stacking fault model for reorienting GBs so as to facilitate dislocation absorption (26). "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                75,
+                489,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Previous experimental and simulation investigations in several fcc metals indicated that generation of twins or stacking faults from GBs, both evolving emission of partial dislocations, may induce GB dissociation (27, 28). It provides a general approach to GB relaxation for lowering the energy state, especially in those metals with low stacking fault energy such as Cu. Zooming in on boundaries of the nanograins of the rapidly annealed samples under high-resolution TEM, we observed that many GBs are associated with twins, which become faceted, forming steps of (111) planes of several nanometers in length. As shown in the high-resolution images in Fig. 2 (D and E), the steps are connected by other (111) planes, forming zigzag configurations. Obviously, after rapid heating, boundaries of nanograins tend to rearrange themselves to low excess energy states. This observation is in accordance with a previous study in which formation of nanometer-scale twins from a GB lowers its excess energy in Cu, slowing down the atomic diffusion along the GBs adjacent to the triple point where they meet a twin boundary (29). Hence, we may conclude that boundary relaxation of nanograins is induced in the surface layer by heating at high heating rates, analogous to that by mechanical activation via straining. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                265,
+                489,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thermal stability of nanograins with sizes ranging from 50 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 0 ~ \\mathrm { { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after thermally induced GB relaxation was determined by subsequent annealing at various temperatures from 573 to 873 K held for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\ \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". For nanograins with an average size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 ~ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. 3A), no obvious grain size change was noticed below 773  K (fig. S1). At "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 2 3 \\ \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", grain coarsening became apparent. Nanohardness of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 \\mathrm { - n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains after annealing at 773 K increases slightly to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 4 \\ : \\mathrm { G P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It drops to 1.20 GPa upon annealing at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 7 3 \\ \\mathrm { K } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", indicative of apparent grain coarsening. From the measured grain size variation at various annealing temperatures, onset coarsening temperature for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 \\mathrm { - n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains was determined to be about 810 K, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 0 . 6 T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                556,
+                489,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thermal stability of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mathrm { - n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains at a depth of about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the surface after rapid heating was also examined. Because of the mechanical GB relaxation during the SMGT process, the instability temperature of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mathrm { - n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains in the as-prepared state is about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 0 ~ \\mathrm { K } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", higher than that of the 80-nm grains. However, after the thermally induced GB relaxation, their thermal stability is further elevated. Obvious grain coarsening starts at about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 1 0 \\mathrm { K } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", very close to that of the 80-nm grains as shown in Fig. 3B. Similarly, we measured the onset grain coarsening temperature of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 0 – \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grains (at a depth of about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the surface) after the thermal GB relaxation, which is about 810 K. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                731,
+                489,
+                888
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As shown in Fig. 4, the instability temperature of nanograins after thermally induced GB relaxation seems to be independent of grain size within a range of 50 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 0 ~ \\mathrm { { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", distinct from the strong grain size "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                891,
+                489,
+                935
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1476feab8dd4042ce4c91537405dca7d098ffef42a6fa2de1d602ae1c87b6f9d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Ultrahigh thermal stability of nanograined Cu with thermally induced GB relaxation. Measured grain coarsening (instability) temperatures as a function of initial average grain size in Cu. Literature data (gray symbols and line) are included for pure Cu processed from various techniques including strain machining, equal channel angle pressing, dynamic plastic deformation, high-pressure torsion, cold rolling, SMGT, and inert gas condensation. Blue circles represent the nanograins after the mechanically induced GB relaxation (M-GBR) during SMGT process (34–40). Red stars represent the nanograins after the T-GBR from the present study. Error bars indicate the variation range of measured instability temperatures within a grain size span. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                506,
+                76,
+                936,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "dependence of the instability temperature in the samples after the mechanical GB relaxation. The grain size span stabilized by thermal GB relaxation is much wider, extending to the submicrometer scale, a typical length scale with notable instability in metals and the typical saturation size of metals and alloys undergone heavy plastic deformation. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                468,
+                939,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The nanograins after thermal GB relaxation exhibit an extraordinary high thermal stability with an onset coarsening temperature at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 0 . 6 T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It is not only higher than that of the Cu nanograins after mechanical GB relaxation (about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 4 5 ~ T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") but also about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 8 0 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "higher than the conventional recrystallization temperature of deformed coarse-grained Cu "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 . 4 ~ T _ { \\mathrm { m } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It implies that a more stable state is achieved in the thermally relaxed boundaries of nanograins than the conventional GBs of deformed coarse-grained Cu. The remarkable stability difference of GBs may be inferred from a much higher twin density in the rapidly heated nanograins, of which the boundaries are more intensively relaxed. The nature of the thermally relaxed GBs and their properties at elevated temperatures will be of significance to study. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                556,
+                939,
+                744
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CONCLUSIONS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                508,
+                775,
+                607,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The thermally induced GB relaxation originates from generation of twins from boundaries of nanograins during rapid heating. In principle, this novel stabilization strategy will be applicable to other nanostructured materials with low stacking energies including the engineering alloys such as austenitic stainless steels and Ni-based superalloys. Therefore, it is of particular significance for advancing nanostructured materials for high-temperature applications. Annealing twins are difficult to form in materials with high stacking fault energies such as Al and Ni; principles and techniques to stabilizing those nanostructured materials need further investigations. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                789,
+                939,
+                933
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S C I E N C E A D V A N C E S | R E S E A R C H A R T I C L E "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                38,
+                471,
+                52
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Li et al., Sci. Adv. 2020; 6 : eaaz8003 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                948,
+                323,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 of 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                948,
+                939,
+                958
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                964,
+                337,
+                979,
+                660
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MATERIALS AND METHODS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                75,
+                244,
+                89
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Sample preparation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                89,
+                203,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pure "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(99.97 weight "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in purity) was annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 2 hours to form recrystallized structures. The Cu rods with a diameter of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were processed by using SMGT (30) in liquid nitrogen at 77 K with processing parameters listed in table S1. For each sample, the SMGT process was repeated 10 times to achieve a thick and uniform gradient nanograined surface layer. The processed surface is very smooth with a roughness of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { R a } = 0 . 3 \\ \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". No surface crack was identified in the as-prepared SMGT samples. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                104,
+                491,
+                220
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Structure characterization "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                236,
+                247,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Structural characterization of the samples was carried out on scanning electron microscopes (FEI Verios 460) and transmission electron microscopes (FEI Tecnai F20 and FEI Talos F200X), respectively. Texture components in the surface layer of the as-SMGT Cu samples were determined by using electron backscatter diffraction equipped in scanning electron microscopes. The characteristics of GBs were analyzed through the orientation mapping in the transmission electron microscope for different samples, which were conducted by using a NanoMEGAS (Brussels, Belgium) hardware and an ASTAR system. Detailed information about this technique can be found in (31). Briefly, a region of interest in the foil sample was scanned by a nanosized electron beam with a very fine step size ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 6 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in this study) in TEM diffraction mode, and the electron diffraction pattern (EDP) at each scanned point was acquired at a high speed by a fast CCD (charge-coupled device) camera. Then, each EDP is auto-indexed via cross-correlation matching techniques with precalculated EDP templates, and the orientation of grains could be identified. We counted the fraction of Σ1, Σ3, and Σ5-29 boundaries and the triple junctions connected with Σ3 and Σ5-29 boundaries. We found that the fraction of special low-energy GBs increases evidently after the rapid heating, as listed in table S2. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                250,
+                489,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cross-sectional sample preparation for scanning electron microscopy (SEM) and TEM observations follows the ordinary route of cutting, mechanical polishing, and final electrochemical polishing or thinning. The final finishing was accomplished by electrochemical method using an electrolyte consisting of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alcohol, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "phosphorus acid, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "deionized water at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cu. Before cutting, the processed surface was protected by a thin Cu layer made by using electrodeposition. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                570,
+                489,
+                687
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapid heating treatment "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                701,
+                235,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The rapid heating treatments were carried out in a PerkinElmer differential scanning calorimetry equipment with a temperature control accuracy of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 0 . 1 \\mathrm { ~ K ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The as-SMGT samples were heated to a preset temperature of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 3 \\ \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at different heating rates and cooled down to room temperature immediately for SEM and TEM observations. Four heating rates are selected: 1, 80, 160, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 0 ~ \\mathrm { K / m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". We also performed the treatments by rapid heating the as-SMGT samples to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 3 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and maintaining the temperature for 15 min. We found that the grain sizes of the subsurface coarsened layer increase with the holding time. However, the holding time has no obvious effect on the nanograined structures in the top surface layer. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                715,
+                489,
+                876
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We performed another test on the temperature effect on the thermally induced GB relaxation. We heated the as-prepared samples rapidly (at a rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 0 ~ \\mathrm { K / m i n } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") to 393 K and held for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\mathrm { { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This temperature is below the lowest formation temperature of "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                876,
+                491,
+                933
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "annealing twins in pure Cu (473 K). The rapidly heated sample was then annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 3 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", held for 15 min; we observed violent coarsening of the nanograins of 60 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 0 ~ \\mathrm { { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in size to about a few micrometers in the top surface layer, as shown in fig. S2. It verified that rapid heating below the formation temperature of annealing twins does not induce GB relaxation in the nanograins. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                75,
+                939,
+                164
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thermal stability measurements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                178,
+                740,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thermal stability of the as-SMGT and the rapidly heated Cu samples was determined by annealing at different preset temperatures and holding for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 ~ \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in a tube furnace under a protective Ar atmosphere and with a temperature control accuracy of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 2 \\mathrm { ~ K ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". After annealing, the samples were cooled down for SEM and TEM observations. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                191,
+                939,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray diffraction analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                294,
+                686,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We estimated the twin density in the top "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mathrm { - } \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-depth layer in the gradient nanograined Cu before and after rapid heating to 523 K by x-ray diffraction (XRD) (micro-area x-ray diffractometry) using a Co-K ray. A scanning step of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 5 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was applied to record the XRD pattern in the 2 range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the x-ray spot size is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in diameter. The XRD patterns of the as-prepared sample and the rapidly heated samples are shown in fig. S3. Values of twin probability, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta _ { : }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", have been estimated from the observed peak asymmetry according to the relation (32) "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                309,
+                939,
+                440
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\beta = \\frac {\\Delta . C . G . \\left(2 \\theta_ {1 1 1} ^ {\\circ}\\right) - \\Delta . C . G . \\left(2 \\theta_ {2 0 0} ^ {\\circ}\\right)}{1 1 \\tan \\theta_ {1 1 1} + 1 4 . 6 \\tan \\theta_ {2 0 0}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c7e69269a7e2a9c550b43474244fcbc63857f11da757c7aacc637f350f75b95c.jpg"
+                }
+            },
+            "bbox": [
+                595,
+                455,
+                850,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta . C . G . ( 2 \\Theta _ { \\mathrm { h k l } } ^ { \\circ } ) = ( 2 \\Theta _ { C . G . } ^ { \\circ } - 2 \\Theta _ { \\mathrm { m a x } } ^ { \\circ } ) _ { \\mathrm { h k l } } , 2 \\Theta _ { \\mathrm { h k l } } ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "values correspond to the peak maximum, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\boldsymbol { \\Theta } _ { C . G . } ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the centers of gravity of the pointcounted profiles, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\boldsymbol { \\Theta } _ { \\mathrm { m a x } } ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "have been determined from the chartrecorded profiles using the midpoint chord extrapolation method (33). The calculated value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the rapidly heated sample is about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 3 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", meaning one twin in every 73 (111) planes. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "value of the as-prepared sample is about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", i.e., one twin in every 667 (111) planes. Such results manifest that twin density in the rapidly heated sample is notable higher than that in the as-prepared sample. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                503,
+                939,
+                645
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Nanohardness measurements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                658,
+                723,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nanohardness tests of the samples were performed on a Hysitron Triboindenter. Measurement conditions include a preset load of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 0 \\mu \\mathrm { N } _ { : }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", a loading and unloading rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 0 \\mu \\mathrm { N } / s ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a holding time of 2 s. Nanohardness values were averaged with at least 10 indentations. The spacing between two neighboring indents is above "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\mu \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to avoid the overlapping effect. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                671,
+                939,
+                761
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUPPLEMENTARY MATERIALS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                785,
+                723,
+                798
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary material for this article is available at http://advances.sciencemag.org/cgi/ content/full/6/17/eaaz8003/DC1 "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                800,
+                919,
+                822
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES AND NOTES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                845,
+                688,
+                858
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. K. Lu, Stabilizing nanostructures in metals using grain and twin boundary architectures. Nat. Rev. Mater. 1, 16019 (2016). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. C. C. Koch, Structural nanocrystalline materials: An overview. J. Mater. Sci. 42, 1403–1414 (2007). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Y. Zhang, J. T. Wang, C. Cheng, J. Q. Liu, Stored energy and recrystallization temperature in high purity copper after equal channel angular pressing. J. Mater. Sci. 43, 7326–7330 (2008). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                861,
+                937,
+                932
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S C I E N C E A D V A N C E S | R E S E A R C H A R T I C L E "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                37,
+                474,
+                52
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Li et al., Sci. Adv. 2020; 6 : eaaz8003 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                947,
+                324,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 of 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                948,
+                939,
+                958
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                962,
+                335,
+                981,
+                660
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Y. Huang, S. Sabbaghianrad, A. I. Almazrouee, K. J. Al-Fadhalah, S. N. Alhajeri, T. G. Langdon, The significance of self-annealing at room temperature in high purity copper processed by high-pressure torsion. Mater. Sci. Eng. A 656, 55–66 (2016). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. J. Weissmüller, Alloy effects in nanostructures. Nanostruct. Mater. 3, 261–272 (1993). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. R. Kirchheim, Grain coarsening inhibited by solute segregation. Acta Mater. 50, 413–419 (2002). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. T. Chookajorn, H. A. Murdoch, C. A. Schuh, Design of stable nanocrystalline alloys. Science 337, 951–954 (2012). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. X. Zhang, A. Misra, Superior thermal stability of coherent twin boundaries in nanotwinned metals. Scr. Mater. 66, 860–865 (2012). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Q. Li, J. Cho, S. Xue, X. Sun, Y. Zhang, Z. Shang, H. Wang, X. Zhang, High temperature thermal and mechanical stability of high-strength nanotwinned Al alloys. Acta Mater. 165, 142–152 (2019). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. X. C. Liu, H. W. Zhang, K. Lu, Strain-induced ultrahard and ultrastable nanolaminated structure in nickel. Science 342, 337–340 (2013). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. X. Zhou, X. Y. Li, K. Lu, Enhanced thermal stability of nanograined metals below a critical grain size. Science 360, 526–530 (2018). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. X. Zhou, X. Y. Li, K. Lu, Size dependence of grain boundary migration in metals under mechanical loading. Phys. Rev. Lett. 122, 126101 (2019). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. X. Li, K. Lu, Improving sustainability with simpler alloys. Science 364, 733–734 (2019). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. D. P. Field, L. T. Bradford, M. M. Nowell, T. M. Lillo, The role of annealing twins during recrystallization of Cu. Acta Mater. 55, 4233–4241 (2007). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. A. Belyakov, T. Sakai, H. Miura, R. Kaibyshev, K. Tsuzaki, Continuous recrystallization in austenitic stainless steel after large strain deformation. Acta Mater. 50, 1547–1557 (2002). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Y. C. Lin, X.-Y. Wu, X.-M. Chen, J. Chen, D.-X. Wen, J.-L. Zhang, L.-T. Li, EBSD study of a hot deformed nickel-based superalloy. J. Alloys Compd. 640, 101–113 (2015). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. M. Michiuchi, H. Kokawa, Z. J. Wang, Y. S. Sato, K. Sakai, Twin-induced grain boundary engineering for 316 austenitic stainless steel. Acta Mater. 54, 5179–5187 (2006). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. M. Kumar, A. J. Schwartz, W. E. King, Microstructural evolution during grain boundary engineering of low to medium stacking fault energy fcc materials. Acta Mater. 50, 2599–2612 (2002). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. G. Anand, K. Barai, R. Madhavan, P. P. Chattopadhyay, Evolution of annealing texture in cryo-rolled copper. Mater. Sci. Eng. A 638, 114–120 (2015). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. A. Nye, A. C. Leff, C. M. Barr, M. L. Taheri, Direct observation of recrystallization mechanisms during annealing of Cu in low and high strain conditions. Scr. Mater. 146, 308–311 (2018). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. B. Oberdorfer, E. M. Steyskal, W. Sprengel, R. Pippan, M. Zehetbauer, W. Puff, R. Würschum, Recrystallization kinetics of ultrafine-grained Ni studied by dilatometry. J. Alloys Compd. 509, S309–S311 (2011). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. A. Mishra, B. K. Kad, F. Gregori, M. A. Meyers, Microstructural evolution in copper subjected to severe plastic deformation: Experiments and analysis. Acta Mater. 55, 13–28 (2007). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. Y. Jin, B. Lin, A. D. Rollett, G. S. Rohrer, M. Bernacki, N. Bozzolo, Thermo-mechanical factors influencing annealing twin development in nickel during recrystallization. J. Mater. Sci. 50, 5191–5203 (2015). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. H. Gleiter, The formation of annealing twins. Acta Metall. 17, 1421–1428 (1969). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. W. Wang, F. Brisset, A. L. Helbert, D. Solas, I. Drouelle, M. H. Mathon, T. Baudin, Influence of stored energy on twin formation during primary recrystallization. Mater. Sci. Eng. A 589, 112–118 (2014). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. M. A. Meyers, L. E. Murr, A model for the formation of annealing twins in F.C.C. metals and alloys. Acta Metall. 26, 951–962 (1978). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                76,
+                488,
+                706
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. J. D. Rittner, D. N. Seidman, K. L. Merkle, Grain-boundary dissociation by the emission of stacking faults. Phys. Rev. B 53, R4241–R4244 (1996). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. K. L. Merkle, Atomic-scale grain boundary relaxation modes in metals and ceramics. Microsc. Microanal. 3, 339–351 (1997). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. K. C. Chen, W. W. Wu, C. N. Liao, L. J. Chen, K. N. Tu, Observation of atomic diffusion at twin-modified grain boundaries in copper. Science 321, 1066–1069 (2008). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. W. L. Li, N. R. Tao, K. Lu, Fabrication of a gradient nano-micro-structured surface layer on bulk copper by means of a surface mechanical grinding treatment. Scr. Mater. 59, 546–549 (2008). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "31. D. Viladot, M. Véron, M. Gemmi, F. Peiró, J. Portillo, S. Estradé, J. Mendoza, N. Llorca-Isern, S. Nicolopoulos, Orientation and phase mapping in the transmission electron microscope using precession-assisted diffraction spot recognition: State-of-the-art results. J. Microsc. 252, 23–34 (2013). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "32. K. Vijayan, X-ray analysis of stacking faults in ytterbium. J. Mater. Sci. Lett. 7, 993–994 (1988). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "33. J. A. Bearden, The wave-lengths of the silver, molybdenum, copper, iron and chromium K1 lines. Phys. Rev. 43, 92–97 (1933). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "34. C. Saldana, A. H. King, S. Chandrasekar, Thermal stability and strength of deformation microstructures in pure copper. Acta Mater. 60, 4107–4116 (2012). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "35. N. Lugo, N. Llorca, J. J. Suñol, J. M. Cabrera, Thermal stability of ultrafine grains size of pure copper obtained by equal-channel angular pressing. J. Mater. Sci. 45, 2264–2273 (2010). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "36. O. F. Higuera-Cobos, J. M. Cabrera, Mechanical, microstructural and electrical evolution of commercially pure copper processed by equal channel angular extrusion. Mater. Sci. Eng. A 571, 103–114 (2013). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "37. C. F. Gu, C. H. J. Davies, Thermal stability of ultrafine-grained copper during high speed micro-extrusion. Mater. Sci. Eng. A 527, 1791–1799 (2010). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "38. Y. Zhang, N. R. Tao, K. Lu, Mechanical properties and rolling behaviors of nano-grained copper with embedded nano-twin bundles. Acta Mater. 56, 2429–2440 (2008). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "39. P. Jenei, J. Gubicza, E. Y. Yoon, H. S. Kim, J. L. Lábár, High temperature thermal stability of pure copper and copper–carbon nanotube composites consolidated by high pressure torsion. Compos. Part A 51, 71–79 (2013). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "40. A. Kumpmann, B. Günther, H.-D. Kunze, Thermal stability of ultrafine-grained metals and alloys. Mater. Sci. Eng. A 168, 165–169 (1993). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                76,
+                937,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                493,
+                602,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding: We are grateful for the financial support of the Ministry of Science and Technology of China (2017YFA0204401 and 2017YFA0700700), the National Science Foundation of China (grant no. 51231006), and the Chinese Academy of Sciences (grant no. zdyz201701). Author contributions: X.Y.L. and K.L. initiated the investigation. X.Y.L. and X.Z. prepared the samples and performed the experiments. X.Y.L., X.Z., and K.L. analyzed the data and wrote the paper. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                503,
+                937,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Competing interests: The authors declare that they have no competing interests. Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                564,
+                937,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Submitted 10 October 2019 "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                623,
+                636,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted 3 February 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                636,
+                629,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                648,
+                617,
+                658
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10.1126/sciadv.aaz8003 "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                660,
+                617,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Citation: X. Li, X. Zhou, K. Lu, Rapid heating induced ultrahigh stability of nanograined copper. Sci. Adv. 6, eaaz8003 (2020). "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                683,
+                939,
+                706
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S C I E N C E A D V A N C E S | R E S E A R C H A R T I C L E "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                37,
+                473,
+                52
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                961,
+                335,
+                981,
+                660
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Li et al., Sci. Adv. 2020; 6 : eaaz8003 24 April 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                948,
+                324,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 of 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                948,
+                939,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ScienceAdvances "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                114,
+                91,
+                417,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapid heating induced ultrahigh stability of nanograined copper "
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                162,
+                634,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X.Y. Li, X. Zhou and K. Lu "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                183,
+                277,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Sci Adv 6 (17), eaaz8003. "
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                232,
+                274,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1126/sciadv.aaz8003 "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                244,
+                297,
+                255
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ARTICLE TOOLS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                338,
+                215,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "http://advances.sciencemag.org/content/6/17/eaaz8003 "
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                338,
+                646,
+                353
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUPPLEMENTARY MATERIALS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                386,
+                223,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "http://advances.sciencemag.org/content/suppl/2020/04/20/6.17.eaaz8003.DC1 "
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                386,
+                782,
+                400
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                129,
+                441,
+                202,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This article cites 40 articles, 5 of which you can access for free http://advances.sciencemag.org/content/6/17/eaaz8003#BIBL "
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                441,
+                688,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PERMISSIONS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                129,
+                489,
+                203,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "http://www.sciencemag.org/help/reprints-and-permissions "
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                490,
+                658,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Use of this article is subject to the Terms of Service "
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                808,
+                427,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Science Advances (ISSN 2375-2548) is published by the American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS. "
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                842,
+                855,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Copyright "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2020 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC). "
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                871,
+                846,
+                906
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded from http://advances.sciencemag.org/ on April 24, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                962,
+                335,
+                981,
+                660
+            ]
+        }
+    ]
+]

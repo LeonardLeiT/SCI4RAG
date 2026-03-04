@@ -1,0 +1,4931 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/374911784 "
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                83,
+                565,
+                92
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Strengthening-softening transition and maximum strength in Schwarz nanocrystals "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                62,
+                107,
+                860,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Article  in  Nano Materials Science · October 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                170,
+                294,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1016/j.nanoms.2023.09.006 "
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                184,
+                181,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CITATION "
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                222,
+                102,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                233,
+                75,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "READS "
+                    }
+                ]
+            },
+            "bbox": [
+                496,
+                222,
+                526,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "112 "
+                    }
+                ]
+            },
+            "bbox": [
+                496,
+                233,
+                520,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 authors, including: "
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                263,
+                164,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a2894c6174127d343260cebcbd9764e2898afb639bc2c82be544b29613a1ddb5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                284,
+                101,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hanzheng Xing "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                285,
+                181,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tsinghua University "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                298,
+                203,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9 PUBLICATIONS   214 CITATIONS "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                311,
+                239,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SEE PROFILE "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                332,
+                171,
+                340
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4c3fb7bdb35ad236f662c72f20605f827dd9e06aebfbe15371a22ac39e27074f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                501,
+                286,
+                530,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jiaxi Jiang "
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                285,
+                595,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tsinghua University "
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                298,
+                636,
+                308
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18 PUBLICATIONS   576 CITATIONS "
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                311,
+                676,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SEE PROFILE "
+                    }
+                ]
+            },
+            "bbox": [
+                553,
+                332,
+                604,
+                340
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8939442dac4628256c12d1692d3b207f8c29c24bff743932c975a3001d2e4d7f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                359,
+                101,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Xiaoyan Li "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                360,
+                159,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tsinghua University "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                373,
+                203,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "108 PUBLICATIONS   8,610 CITATIONS "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                386,
+                257,
+                396
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SEE PROFILE "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                407,
+                171,
+                415
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                824,
+                36,
+                949,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "All content following this page was uploaded by Hanzheng Xing on 18 October 2024. "
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                952,
+                459,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "The user has reguested enhancement of the dowploaded file "
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                972,
+                299,
+                980
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Strengthening-softening transition and maximum strength in Schwarz nanocrystals "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                206,
+                672,
+                249
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/32afdd4b7a82face4c3deaa750ed68784a8791d499195cb776ad6354c7ba6891.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                838,
+                208,
+                890,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hanzheng Xing a , Jiaxi Jiang a , Yujia Wang a,b , Yongpan Zeng a , Xiaoyan Li a, "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                262,
+                670,
+                279
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a Center for Advanced Mechanics and Materials, Applied Mechanics Laboratory, Department of Engineering Mechanics, Tsinghua University, Beijing, 100084, China "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore, 138632, Singapore "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                287,
+                800,
+                310
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A R T I C L E I N F O "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                339,
+                193,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                364,
+                109,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schwarz nanocrystal "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                375,
+                159,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Curved grain boundary "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                385,
+                173,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Atomistic simulation "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                395,
+                161,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Grain size effect "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                407,
+                139,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Maximum strength "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                418,
+                152,
+                428
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A B S T R A C T "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                334,
+                339,
+                435,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recently, a Schwarz crystal structure with curved grain boundaries (GBs) constrained by twin-boundary (TB) networks was discovered in nanocrystalline Cu through experiments and atomistic simulations. Nanocrystalline Cu with nanosized Schwarz crystals exhibited high strength and excellent thermal stability. However, the grainsize effect and associated deformation mechanisms of Schwarz nanocrystals remain unknown. Here, we performed large-scale atomistic simulations to investigate the deformation behaviors and grain-size effect of nanocrystalline Cu with Schwarz crystals. Our simulations showed that similar to regular nanocrystals, Schwarz nanocrystals exhibit a strengthening-softening transition with decreasing grain size. The critical grain size in Schwarz nanocrystals is smaller than that in regular nanocrystals, leading to a maximum strength higher than that of regular nanocrystals. Our simulations revealed that the softening in Schwarz nanocrystals mainly originates from TB migration (or detwinning) and annihilation of GBs, rather than GB-mediated processes (including GB migration, sliding and diffusion) dominating the softening in regular nanocrystals. Quantitative analyses of simulation data further showed that compared with those in regular nanocrystals, the GB-mediated processes in Schwarz nanocrystals are suppressed, which is related to the low volume fraction of amorphous-like GBs and constraints of TB networks. The smaller critical grain size arises from the suppression of GB-mediated processes. "
+                    }
+                ]
+            },
+            "bbox": [
+                332,
+                363,
+                939,
+                534
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                569,
+                164,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The mechanical properties of nanocrystalline metals are mainly determined by their microstructures and mean grain size [1,2]. As the– grain size decreases, the strength of nanocrystalline metals first increases– and then decreases gradually, exhibiting a strengthening-softening transition [2 4]. Thus, there exists a critical grain size– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "correspond-– ing to a maximum strength [2 4]. When the grain size is larger than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the grain boundaries (GBs) block the dislocation motion, leading to strengthening described by the well-known Hall Petch effect [1 4].– – When the grain size is smaller than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", GB-mediated processes (including GB migration, sliding and diffusion) dominate plastic deformation, resulting in softening (referred to as the inverse Hall Petch effect) [1 4]. Recent study showed that such softening can also be interpreted by the intergranular damage due to the dominance of grain boundary diffusion [5]. Nanocrystalline metals exhibit high strength, but their ductility is sacrificed since dislocation activities are limited in nanosized grains [2, 6]. To improve the ductility of nanocrystalline metals, a high density of nanoscale twins bounded by twin boundaries (TBs) has been introduced "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                596,
+                485,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "into micron- or submicron-sized grains to synthesize nanotwinned metals [7 11]. TBs not only block the dislocation motion but also store certain mobile dislocations [8,11 14]. Consequently, nanotwinned metals exhibit a combination of high strength, good ductility [8,10,11] and remarkable fatigue resistance [15,16]. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                569,
+                937,
+                635
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Due to the presence of nanosized grains, nanocrystalline metals generally suffer from grain coarsening when the temperature is elevated. For extremely fine grains, grain growth occurs even at ambient temperature. Previous experimental studies have shown that the grain coarsening temperature generally decreases with grain refinement [17]. Once the grains of nanocrystalline metals grow, their strengths are significantly reduced. Therefore, improving the thermal stability of nanocrystalline metals and simultaneously ensuring high strength is of great importance. Most recently, a Schwarz crystal with curved GBs constrained by coherent TB (CTB) networks was discovered in nanocrystalline Cu through experiments and molecular dynamics (MD) simulations [18]. The curved GB resembles the Schwarz D-surface, which is a type of triply periodic minimal surface. Nanocrystalline samples with a Schwarz crystal structure (referred to as Schwarz nanocrystals) exhibited excellent "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                636,
+                937,
+                819
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                42,
+                618,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "IALS8 E 米材 料 斗科 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                80,
+                164,
+                158
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents lists available at ScienceDirect "
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                76,
+                620,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science "
+                    }
+                ]
+            },
+            "bbox": [
+                376,
+                107,
+                623,
+                124
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": " journal homepage: www.keaipublishing.com/cn/journals/nano-materials-science/ "
+                    }
+                ]
+            },
+            "bbox": [
+                240,
+                145,
+                759,
+                158
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science Valume41erue3.Jon+1) "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                66,
+                937,
+                161
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Corresponding author. "
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                844,
+                201,
+                856
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail address: xiaoyanlithu@tsinghua.edu.cn (X. Li). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                856,
+                364,
+                867
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1016/j.nanoms.2023.09.006 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                876,
+                317,
+                887
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 12 July 2023; Accepted 18 September 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                889,
+                349,
+                901
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Available online 16 October 2023 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                902,
+                245,
+                912
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2589-9651/© 2023 Chongqing University. Publishing services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                912,
+                937,
+                925
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                926,
+                452,
+                936
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "thermal stability. Schwarz nanocrystals with extremely fine grains remained stable even when the temperature approached the melting– point temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( T _ { \\mathrm { m } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Cu Schwarz nanocrystals with grain sizes of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "nm exhibited a high strength of 1.57 GPa. Recent experimental studies have shown that atomic diffusion in supersaturated Al Mg alloys is effectively suppressed due to the presence of Schwarz crystals [19]. MD simulations revealed that the excellent thermal stability of Schwarz nanocrystals is attributed to the constraining effects of CTB networks and that the minimum stable grain size is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 3 ~ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[18,20]. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                65,
+                485,
+                182
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Undoubtedly, the mechanical behaviors and properties of Schwarz nanocrystals are closely associated with their grain size. To date, the grain-size effect and associated deformation mechanisms of nanocrystalline metals with Schwarz crystal structures remain unknown. In this work, we performed a series of large-scale MD simulations via the large-scale atomic/molecular massively parallel simulator (LAMMPS) [21] to investigate the plastic deformation behaviors and grain-size effect of nanocrystalline Cu with Schwarz crystal structure. During MD simu-– lations, the interatomic interaction was described by an embedded atom method potential [22], which can capture a variety of mechanical properties and behaviors of Cu well [11 13,22] and has been recognized as one of most accurate and reliable empirical potentials for Cu. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                184,
+                485,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                358,
+                137,
+                369
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1. Construction and equilibration of simulated samples with Schwarz crystal structure "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                384,
+                460,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To construct a simulated unit cell, we first set up the five singlecrystalline cubic blocks with side length of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sqrt { 2 } d"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(d, grain size) and specific orientations in Table S1, and then truncated these blocks according to the plane equations of CTBs and the approximate equation of Schwarz D-surface. Finally, we placed the truncated blocks into the corresponding parts shown in Fig. S1 and obtained a typical unit cell. Fig. S1 shows different views of atomistic configuration of unit cell of Schwarz crystal we constructed. We further constructed the overall simulated sample by periodically arranging the unit cell in form of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\times 2 \\times 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The grain size d of simulated Schwarz crystal varies from 2.33 nm to 15.41 nm. All the simulated samples were equilibrated by energy minimization and subsequent dynamics relaxation. During dynamics relaxation, all the samples were first relaxed for 500 ps at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 \\mathrm { K } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and then underwent a thermal treatment (including heating to 600 K, holding for 500 ps at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 0 ~ \\mathrm { K } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and cooling to 300 K), and were re-relaxed for 100 ps at 300 K. The rate of temperature change during heating and cooling is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 ~ \\mathrm { K } / \\mathrm { p s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". During dynamics relaxation, the time step was set as 1 fs, and an isothermalisobaric (NPT) ensemble [23] was utilized to control the temperature and to keep the pressure to be zero. Throughout MD simulations, periodic boundary conditions were imposed in all three directions of simulated samples. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                423,
+                485,
+                702
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2. Calculations for grain-boundary energy of simulated samples with Schwarz crystal structure "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                723,
+                458,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The GB energies "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { \\mathtt { G B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of all the simulated Schwarz crystals with different grain sizes at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathrm { ~ 0 ~ K ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were calculated by using the following expression, "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                762,
+                485,
+                803
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\gamma_ {\\mathrm {G B}} = \\frac {E _ {\\mathrm {t o t}} - N _ {\\mathrm {F C C}} E _ {0} - A _ {\\mathrm {C T B}} \\gamma_ {\\mathrm {C T B}}}{A _ {\\mathrm {G B}}} \\tag {1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b84058aa40f043527090ffe7e9448a0c89031a754533696a442d535150ee5c2f.jpg"
+                }
+            },
+            "bbox": [
+                57,
+                812,
+                485,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { t o t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the total potential energy of simulated sample, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { \\mathrm { F C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the number of FCC atom, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the cohesive energy ( 3.54 eV/atom) [22], "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { \\mathrm { C T B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the area of CTB, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { \\mathrm { G B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the area of GB and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\gamma _ { \\mathrm { T B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the CTB energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 2 . 2 \\mathrm { m J } / \\mathrm { m } ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[22]. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                849,
+                485,
+                902
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3. Atomistic simulations for thermal stability of Schwarz crystal "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                66,
+                885,
+                79
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We performed MD simulations for heating of all the simulated Schwarz crystal samples with different grain size. During heating, the time step was set as 2.5 fs, and the temperature was controlled via an NPT ensemble [23] to increase from 300 K to 1500 K with an interval of 1 K at a very slow rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 ~ \\mathrm { K } / \\mathrm { n s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Such precise temperature control is used to capture the critical temperature for grain coarsening and/or melting. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                92,
+                937,
+                171
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.4. Atomistic simulations for uniaxial tension of Schwarz crystal "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                187,
+                884,
+                201
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During simulations, all the samples were stretched to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "strain along the tensile direction "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-axis) at a constant strain rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\times 1 0 ^ { 8 } s ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". During simulations, the time step was set as 1.0 fs, and the NPT ensemble [23] was used to keep the temperature at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 \\mathrm { ~ K ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and to control the stresses along the directions normal to tensile direction to be zero. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                214,
+                937,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.5. Atomistic simulations for the creep of Schwarz crystal with curved GBs and Wigner-Seitz crystal with regular straight GBs "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                295,
+                927,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To compare the GB diffusion between curved and straight GBs, we constructed the simulated nanocrystalline samples with regular straight GBs [24] by periodically arranging the Wigner-Seitz unit cell in form of 2 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times 2 \\times 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The constructed nanocrystalline samples have varied grain size "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 9 3 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 5 6 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The grains in the Wigner-Seitz crystal have random lattice orientations, but the misorientation between neighboring grains is large enough to ensure nearly all the GBs to be high-angle GB. We first equilibrated the Wigner-Seitz crystals via energy minimization and subsequent dynamics relaxation at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 ~ \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 200 ps. During relaxation, we used an NPT ensemble [23] to keep the temperature at 300 K and to control the pressure to be zero. Fig. S3 shows the atomic configuration of typical Wigner-Seitz crystal with mean grain size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 9 3 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". To mimic the creep, we stretched all the simulated samples along z axis under different constant temperatures (720 K, 840 K, 960 K and 1080 K) and constant applied stresses (0 MPa, 120 MPa, 180 MPa, 240 MPa, 300 MPa, 360 MPa, 420 MPa, 480 MPa, 540 MPa, 600 MPa and 660 MPa). Each creep simulation was run for 400 ps. Before each creep simulation, the equilibrated samples were relaxed for 200 ps as the temperature was controlled to increase from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 ~ \\mathrm { ~ K ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to a target creep temperature. Throughout MD simulations, periodic boundary conditions were imposed in all three directions of simulated samples. During the creep simulations, we used the following equation to calculate the diffusion coefficient "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( D )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of simulated sample at the elevated temperature, "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                335,
+                937,
+                639
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D = \\frac {\\left\\langle \\left| \\mathbf {r} (t) - \\mathbf {r} (0) \\right| ^ {2} \\right\\rangle}{6 t} \\tag {2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c1e317230e31c7c9940c81d27a8d32c46bf47bcae8b510c430e5a89e72d270ad.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                648,
+                937,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where r(t) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf r } ( 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the position of atom at time t and initial time, respectively, and the angle brackets represent the statistical average. For three-dimension polycrystals, the diffusivity calculated by Eq. (2) is actually an effective diffusivity, which is a mixture of GB diffusivity and lattice diffusivity. According to the classic Maxwell-Garnett equation, recent studies have demonstrated that the GB diffusivity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { \\tt G B }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is approximately proportional to the effective diffusivity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[25], i.e., "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                684,
+                937,
+                778
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D \\approx \\frac {2 \\delta}{d - \\delta} D _ {\\mathrm {G B}} \\tag {3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7298d4976c3874b509f685b769c877bb60af0c9b61badbf05c74e2490a3cd3c5.jpg"
+                }
+            },
+            "bbox": [
+                509,
+                786,
+                937,
+                812
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the GB width and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the mean grain size. Generally, the GB width in atomic configuration of polycrystal is taken as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\ \\mathrm { \\ n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". We calculated the GB diffusivity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { \\mathrm { G B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Schwarz and Wigner-Seitz nanocrystals by combining Eqs. (2) and (3). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                822,
+                937,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. S4 shows a comparison of our calculated GB diffusivities at different temperatures with those from previous experiments [26] and "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                876,
+                937,
+                902
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "321 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                950,
+                507,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MD simulations [24]. It is seen from Fig. S4 that for given temperature, the GB diffusivities of nanocrystalline metals are higher than those of coarse-grained counterparts. Enhanced GB diffusivities in nanocrystalline metals are associated with structural relaxation, grain growth and local excess free volume [27]. The GB diffusivities from our calculations on nanocrystals are in the high-temperature regime, are close to those from previous MD simulations [24] and are comparable to those extrapolated from the experimental measurements in the low-temperature regime [26]. These comparisons indicate that our calculated GB diffusivities are reliable and reasonable. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                65,
+                485,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. S5 shows the variation of the creep strain rate of simulated Schwarz nanocrystal with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with the applied stress at the temperature of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 6 0 ~ \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It is seen that the creep strain rate has a pow-law relationship with the applied stress. In the low-, moderate- and highstress regime, the stress exponent is up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 0 5 \\pm 0 . 1 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 2 9 \\pm 0 . 0 3 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 6 9 \\pm 0 . 2 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. These results are consistent with those from previous MD simulations [24]. According to the Mukherjee-Bird-Dorn equation, the stress exponent in the low-stress regime implies that plastic deformation of Schwarz nanocrystals under the low applied stress is dominated by Coble creep where GB diffusion is a controlling mechanism. Furthermore, we used the following Coble equation to further estimate the creep strain rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { \\varepsilon } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the low-stress regime, "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                197,
+                485,
+                369
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\dot {\\varepsilon} _ {\\mathrm {c}} = A _ {\\mathrm {C}} \\frac {\\delta}{d ^ {3}} \\frac {\\sigma \\Omega_ {\\mathrm {c}}}{k _ {\\mathrm {B}} T} D _ {\\mathrm {G B}} \\tag {4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3167e26e325868b3c40825a1278f3bd52bad1c205b8896ca64569845aa415c56.jpg"
+                }
+            },
+            "bbox": [
+                57,
+                378,
+                485,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { \\mathsf { C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is a geometric pre-factor, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the grain boundary width, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Omega _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the atomic volume and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the applied stress. The estimations were obtained by plugging "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { \\mathsf { C } } = 1 4 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Ref. [28]), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Omega _ { \\mathrm { c } } = 8 . 7 8 \\times 1 0 ^ { - 3 0 } \\ \\mathrm { m } ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Ref. [29]), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\delta = 1 { \\mathrm { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T = 9 6 0 ~ \\mathrm { K }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T = 9 6 0 \\mathrm { K } , k _ { \\mathrm { B } } = 1 . 3 8 1 \\times 1 0 ^ { - 2 3 } \\mathrm { J } / \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { \\tt G B }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(from our MD simulations) into Eq. (4). In the low-stress regime, the creep strain rates from our MD simulations are close to the estimations based on the Coble equation (dash line in Fig. S5). "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                414,
+                485,
+                520
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.6. Construction, equilibration and tension of mixed samples with both Schwarz and Wigner-Seitz crystals "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                540,
+                467,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the experimental nanocrystalline metals with Schwarz crystals, Schwarz nanocrystals only occupy a certain volume fraction of the entire polycrystals. Indeed, nanocrystalline metals consist of a mixture of both Schwarz and regular nanocrystals. Therefore, we first constructed five typical samples by mixing the Schwarz nanocrystal with regular nanocrystal (represented by Wigner-Seitz crystal), and then investigated their mechanical properties, deformation mechanisms and thermal stabilities. The mixed samples were first equilibrated by conjugate gradient method and then relaxed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 ~ \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 200 ps using an NPT ensemble. The time step was set as 1 fs. After relaxation, the samples with grain size of 4.67 nm maintained a mixture feature of Schwarz and Wigner-Seitz nanocrystals. Throughout simulation, periodic conditions were imposed in all three directions of mixed samples. Fig. S7 shows the relaxed atomic configurations of pure Schwarz sample, Wigner-Seitz sample and five mixed samples with grain size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The mixed samples have the Schwarz-crystal volume fraction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 7 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Furthermore, to investigate the grain size effect of mixed samples with different Schwarz-crystal volume fractions, we constructed the mixed samples with different grain sizes of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 0 4 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 9 3 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Notably, mixed samples with grain size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 0 4 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "underwent grain coarsening and GB annihilation during relaxation, indicating their thermodynamic instability at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 \\mathrm { K }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". We further performed uniaxial tensile simulations for mixed samples with grain size of 4.67 nm and 6.93 nm. All mixed samples were stretched to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 1 5 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "strain along the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\mathscr { z } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-axis at a constant strain rate of 5 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times \\ : 1 0 ^ { 8 } \\ : s ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The time step was set as 1 fs. The NPT ensemble was used to maintain the temperature at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 \\mathrm { ~ K ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and zero pressure in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y"
+                    },
+                    {
+                        "type": "text",
+                        "content": "directions. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                581,
+                485,
+                935
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                66,
+                581,
+                76
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. Construction of atomic configurations of Schwarz nanocrystal "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                92,
+                890,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As illustrated by Fig. 1 and S1, the equilibrium unit cell of polycrystalline metals with Schwarz crystal consists of 15 parts that are separated by the CTBs or Schwarz D-surface. The approximate equation of the Schwarz D-surface is expressed as [30]. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                118,
+                937,
+                170
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\sin \\left(\\frac {\\pi x}{\\sqrt {2} d}\\right) \\sin \\left(\\frac {\\pi y}{\\sqrt {2} d}\\right) \\sin \\left(\\frac {\\pi z}{\\sqrt {2} d}\\right) + \\sin \\left(\\frac {\\pi x}{\\sqrt {2} d}\\right) \\cos \\left(\\frac {\\pi y}{\\sqrt {2} d}\\right) \\cos \\left(\\frac {\\pi z}{\\sqrt {2} d}\\right) \\\\ + \\cos \\left(\\frac {\\pi x}{\\sqrt {2} d}\\right) \\sin \\left(\\frac {\\pi y}{\\sqrt {2} d}\\right) \\cos \\left(\\frac {\\pi z}{\\sqrt {2} d}\\right) + \\cos \\left(\\frac {\\pi x}{\\sqrt {2} d}\\right) \\cos \\left(\\frac {\\pi y}{\\sqrt {2} d}\\right) \\sin \\left(\\frac {\\pi z}{\\sqrt {2} d}\\right) = 0 \\tag {5} \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3e32a17d67387db1bb95f2bc9546096d974ca8cb6c610a3abea29877f8fa2ce2.jpg"
+                }
+            },
+            "bbox": [
+                512,
+                181,
+                937,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x , y ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\mathscr { z } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are the coordinates and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the aperture of the Schwarz D-surface (Fig. 1) and represents the grain size of the Schwarz crystal. These separate parts have five different lattice orientations, which are listed in Table S1. The curved GBs in the Schwarz crystal are generated due to the misorientations between neighboring grains with different twin lattice orientations (i.e., T1, T2, T3, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "listed in Table S1). This implies that the curved GBs are constrained by CTB networks. We first constructed the unit cell of Schwarz crystal and the simulated polycrystals with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\times 2 \\times 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "unit cells and various grain sizes. Fig. 1 shows the atomic configurations of the simulated Schwarz crystal with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 4 . 6 7 \\ : \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after equilibration and its unit cell, GB structure and CTB networks. The curved GB structure shown in Fig. 1d resembles the Schwarz D-surface described by Eq. (5). The atomic configuration, GB structure and CTB networks of the unit cell of our Schwarz crystal are nearly the same as those of the Schwarz crystal transformed from extended Kelvin polycrystals from recent MD simulations [18] using different interatomic potential. It is noted that our simulated Schwarz crystals are constructed by referring the geometrical features of Schwarz nanocrystals reported in recent pioneering MD simulations [18] and by using the approximate equation (i.e. Eq. (5)) of the Schwarz D-surface to truncate some grains. Such construction process is different from the evolution from the extended Kelvin nanocrystals used in recent MD simulations [18]. The extended Kelvin nanocrystals consist of some truncated-octahedral-shaped grains with the same size and low-energy grain facets [18]. During evolution, the {111} grain facets (i.e. CTBs) remain stable against thermal fluctuation, while other grain facets participate in the formation of curved GB-network of Schwarz crystals [18]. In recent MD simulations, the entire evolution from the extended Kelvin nanocrystals to Schwarz nanocrystals generally took "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 2 0 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ns [18]. However, the equilibration of initial samples in our MD simulations took hundreds of picoseconds, since our initial atomic configurations are closer to the equilibrium states, compared with the Kelvin nanocrystals used in previous MD simulations [18]. Using our construction approach, we can easily generate the simulated Schwarz samples with different grain sizes and further investigate the grain size effect in Schwarz nanocrystals. During MD simulations, we adopted common neighbor analysis [31] to identify the local crystalline order of atoms and defects during deformation. Atoms with face-centered-cubic (FCC) order are painted in green, atoms with hexagonal-close-packed (HCP) order are painted in red, and the disordered atoms are painted in gray.– "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                258,
+                937,
+                786
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After obtaining the equilibrium configurations, we calculated the GB– energies γ of all the simulated Schwarz crystals at 0 K. The calculated GB energies are in the range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 4 . 1 { - } 9 0 2 . 5 \\mathrm { m J / m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is close to that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 3 0 { - } 8 8 0 \\ \\mathrm { m J / m ^ { 2 } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from recent MD simulations [18]. Notably, the GB energy is independent of the grain size (Fig. S2). We also calculated elastic constants "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( c _ { 1 1 } , c _ { 2 2 } , c _ { 4 4 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Poisson's ratio and the bulk modulus) at 0 K and the associated Zener ratios "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { ( A _ { z } = \\frac { 2 c _ { 4 4 } } { c _ { 1 1 } - c _ { 2 2 } } ) } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2c44 ) of the simulated Schwarz crystal unit cell with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Table S2 compares the calculated elastic constants and Zener ratio of our simulated unit cell and previous simulated unit cell. All the calculated values of our simulated unit cell are close to those from previous MD simulations [18]. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                786,
+                937,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "322 "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                950,
+                510,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7dfbd39cd6a147bb0a1ace93dbb161de3d86d94c23778440da8e627c69b93b80.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                73,
+                492,
+                365
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/97ea74d3b511648b3b69a16b468828419676ce9a038ba1d4a28e732d5acda916.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                68,
+                675,
+                204
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0c7a83f30bf8ddd3fc91b445793eb128606958efbcf33dba27049420aa95d1ee.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                694,
+                70,
+                870,
+                204
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c4fd580d9a7eee292532c29c2185ddcb88624214f28a44695774a784b89b5136.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                532,
+                235,
+                702,
+                370
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/60e93705b8477fb877ce488533819e42850335bb696e85a2702acb8c195d0bd7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Atomic configurations and GB structures of nanocrystalline samples with Schwarz crystals. (a) Atomic configuration of simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after equilibration. The FCC atoms are transparent, and the GBs are replaced by a translucent surface. The part in the yellow box represents a unit cell. (b) Full-atom configuration of unit cell. (c) Atomic configurations of GB and CTB networks in the unit cell. (d) Curved surface representation of GB structure of unit cell. This curved GB resembles the Schwarz D-surface described by Eq. (5). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                707,
+                234,
+                862,
+                363
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. Thermal stability of Schwarz nanocrystal "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                459,
+                322,
+                471
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recent experimental studies and MD simulations [18,20] investigated the thermal stability of nanocrystalline Cu with Schwarz crystal and showed that a Schwarz crystal with minimum grain size up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 3 ~ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "remains stable even at a temperature close to the melting point "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1357 K) of Cu. Note that the interatomic potential used in our MD simulations is different from that used in previous MD simulations [18,20]. Here, we further validate the dependence of the thermal stability of the Schwarz crystal on the grain size by performing MD simulations based on the interatomic potential [22] and our constructed sample. Fig. 2a shows the variation in potential energy per atom with temperature during heating of all simulated samples. The potential energy of all the simulated samples suddenly jumps at a specific temperature during heating. Such a jump means that the overall Schwarz crystal structure becomes thermally unstable due to grain coarsening or melting (i.e., transforming into an amorphous state). The temperature at the energy jump is taken as the critical temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( T _ { \\mathrm { c } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which characterizes the thermal stability of materials. Fig. 2b shows the critical temperature as a function of the grain size of samples from our MD simulations and previous experiments and MD simulations [18,20]. As shown in Fig. 2b, our simulation results are in good agreement with those from previous experimental measurements and MD simulations [18,20]. The minimum grain size of the stable Schwarz crystal near "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is as large as 3.82 nm. The critical temperatures "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of simulated samples with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 2 . 3 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 0 4 ~ \\mathrm { { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are lower than the melting point. In these samples, the fraction of FCC atoms sharply increases at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while the fractions of atoms on both GB and CTB suddenly decrease at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as exemplified by Fig. 2c. It implies that the grain coarsening occurs in these samples. Such grain coarsening is associated with the migration or vanishing of GBs and CTBs, as evidenced by the insets in Fig. 2c. When the grain size is up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 8 2 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and even larger, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is close to the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In the simulated samples with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d \\geq 3 . 8 2  { \\mathrm { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the fraction of GB atoms suddenly increases to nearly "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while both FCC and CTB atoms almost disappear completely (Fig. 2d). It implies that the Schwarz crystal structure transforms into the amorphous structure (insets in Fig. 2d) at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "i.e. the crystal structure melts with the collapse of GBs "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                485,
+                485,
+                933
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and CTBs. It is noted that for the simulated samples with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d \\geq 3 . 8 2  { \\mathrm { n m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the CTBs always remain stable before and even near melting and have a certain constraints on the curved GBs [18], so that no grain coarsening occurs before melting. It suggests that excellent thermal stability of Schwarz nanocrystals is associated with the stable CTBs and their constraints on the curved GBs. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                459,
+                937,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By combining two kinds of nanocrystals shown in Figs. S7a and b, we constructed the mixed samples containing both Schwarz and Wigner-Seitz nanocrystals with grain size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 9 3 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. S8a). We further investigated the thermal stabilities of these mixed sample by heating them and compared them with pure Wigner-Seitz or Schwarz samples. Periodic conditions were imposed in all three directions of simulated sample. The time step was set as 2.5 fs. The temperature was increased from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 0 \\mathrm { ~ K ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at a very slow rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 ~ \\mathrm { K } / \\mathrm { n s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "using an NPT ensemble. Fig. S8b shows the variation in potential energy per atom of simulated samples with temperature during heating. At a critical temperature (i.e. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the simulated sample experienced a significant change– in potential energy, indicating the onset of its melting or instability. Notably, the critical temperature of mixed sample is lower than pure Wigner-Seitz or Schwarz samples with the same grain size. Figs. S8c 8e presents a sequence of snapshots of mixed sample with grain size of 6.93– nm at different temperatures. Around the critical temperature of 788 K, GBs in Wigner-Seitz parts start to migrate, leading to the subsequent– grain coarsening (indicated by black arrows in Figs. S8d 8e). The CTB– networks in Schwarz parts gradually collapse with the diminishing of CTBs (indicated by dashed lines in Figs. S8d 8e), leading to further annihilation of GBs in Schwarz parts. Figs. S8f 8h present a sequence of snapshots of pure Wigner-Seitz sample. Around the critical temperature of 914 K, GB migration leads to grain coarsening. Thus, the mixed sample has a worse thermal stability than pure Schwarz or Wigner-Seitz nanocrystals, due to the existence of high-energy interface between Schwarz and Wigner-Seitz parts. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                538,
+                937,
+                881
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3. Deformation behaviors and grain-size effect "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                897,
+                786,
+                910
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To investigate the deformation behaviors and grain-size effects of "
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                923,
+                937,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "323 "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                952,
+                509,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/961f00c8be77e557211b56cb915491528e0e5f2ded392da33955aa673aba0b66.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                68,
+                495,
+                288
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d4f7ec8f8efdd50a951fe36e11d9d8f6671cd1d563cf4287cedda664664f8a2d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                68,
+                858,
+                284
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2de3883d2e687520fb4d5fa847700de4c87054657631434f29d596064228cf1b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                311,
+                495,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3c9973cfd10cc596fad401ab7ae544fc1361507df3d884af29454ccf44de9a9a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Thermal stability of simulated samples. (a) Variation in potential energy per atom with heating temperature in Schwarz crystals. (b) Critical temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "normalized by the melting temperature as a function of grain size. (c), (d) Evolution of fractions of FCC, GB and CTB atoms during heating of simulated samples with d "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= 3 . 0 4 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Insets show two snapshots of simulated samples before and after grain coarsening or melting. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                504,
+                311,
+                870,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a57ee522b35397c784726dfa1d73630e17188bed1f8bfbee23688fdb18b5c785.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                638,
+                500,
+                858
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6be2acd0bcadea7d6f29f2314ca90efad2b5a9988d633e0a4c8a7ac02af40ec5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Tensile stress strain curves and calculated strength of simulated samples with different grain sizes. (a) Tensile stress strain curves of Schwarz crystals with different grain sizes. (b) Variation in tensile strength with grain size. The red dashed line is obtained by fitting our simulation data with the Hall Petch equation, while the black solid line is from previous experiments [18]. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                636,
+                870,
+                858
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "324 "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                952,
+                509,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schwarz crystals, we carried out MD simulations for uniaxial tension of Schwarz crystals with different grain sizes and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\times 2 \\times 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "unit cells. Fig. 3a shows the tensile stress strain curves of all the simulated samples. Under tension, all the samples first undergo linear elastic deformation and then sustain plastic yielding, followed by plastic flow. In the flow regime, the stress exhibits a certain fluctuation as the strain increases, which is related to dislocation activities or GB-mediated processes. We take the average over the stress from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 1 5 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "strain as the strength of the simulated sample and plot the variation in strength with the grain size in Fig. 3b. For comparison, we also include some relevant data of nanocrystalline Cu with regular GBs or Schwarz crystals from previous MD simulations [4,18] and experiments [18] in Fig. 3b. For given grain sizes, the strength of our simulated sample is higher than those of previous nanoindentation experiments [18] and MD simulations [4,18] since the– strain rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 \\times 1 0 ^ { 8 } \\overline { { s } } ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "used in our MD simulations is much higher than those in previous nanoindentation experiments "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( < 1 0 ^ { - 1 } \\ s ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and MD simulations "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 ^ { 5 } – 1 0 ^ { 7 } \\ s ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Interestingly, as the grain size decreases gradually, the strength of the Schwarz crystal first increases and then– decreases, indicating a strengthening-to-softening transition. The critical grain size for strengthening-softening transition of nanocrystalline Cu with Schwarz crystals can be estimated in the range of 5.37 6.93 nm. This trend is very similar to the variation in strength with mean grain size– in nanocrystalline Cu with regular straight GBs from previous MD sim-– ulations [4] using the same strain rate as our MD simulations. Notably, the critical grain size "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 5 . 3 7 - 6 . 9 3 \\ n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the nanocrystalline sample with Schwarz crystals is smaller than that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 1 0 { - } 1 5 \\ \\mathrm { n m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the counterpart with regular straight GBs. More remarkably, due to the reduction in the critical grain size, the maximum strength of the Schwarz crystal is as high as 3.14 GPa, which is higher than those of regular nanocrystalline Cu "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 2 . 2 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "GPa) [4] and gradient nanograined Cu (~2.0 GPa) [32]. We subsequently explain this shift in the critical grain size in the Schwarz– crystal by analyzing the deformation-mechanism transition with a reduction in the grain size. Furthermore, we fit our simulation data in the strengthening regime via the Hall Petch equation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { \\sigma _ { \\mathrm { y } } = \\sigma _ { 0 } + \\frac { k } { \\sqrt { d } } } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(where – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { \\mathrm { y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the strength, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the frictional stress required to move dislocations and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is a material constant) and obtain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma _ { 0 } = 1 . 1 8 7 \\mathrm { G P a }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k = 5 . 1 4 2"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { G P a } \\ \\mathrm { m } ^ { 1 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". As shown in Fig. 3b, our data agree well with the Hall Petch equation. Notably, the strengthening data of nanocrystalline samples with regular GBs from previous MD simulations [4] also agree well with the Hall Petch relationship we fitted. These results indicate that the strengthening of nanocrystalline samples with regular GBs or Schwarz crystals originates from GBs blocking dislocation motion. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                65,
+                485,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4a-c capture a sequence of snapshots of the simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 3 . 8 2 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(smaller than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "under tension, while Fig. 4d-f presents the corresponding dislocation structures. During deformation, some preexisting CTBs disappear gradually due to detwinning (involving successive slip of partials on CTBs and the resultant CTB migration), leading to the annihilation of the curved GBs constrained by these CTBs and the coarsening of relevant grains. More details about the annihilation of GBs– and CTBs are subsequently given. Fig. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 g { - } \\mathbf { i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "presents a sequence of snapshots of the simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 1 2 . 3 0 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(larger than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "during tension, while Fig. 4j l shows the corresponding dislocation structures. During plastic deformation, all the curved GBs remain nearly intact, and most of the pre-existing CTBs are still complete. This implies the intrinsic stability of CTBs during plastic deformation [33] and their constraints on– the curved GBs. A large number of Shockley partial dislocations nucleate and then slip on different slip planes and interact with each other– (Fig. 4j l). Undoubtedly, both the GBs and CTB networks block the motion of these dislocations, contributing to the strengthening. The simulation results in Fig. 4a l indicate that for nanocrystalline samples with Schwarz crystals, when "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d < d _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the interfacial activities (including CTB migration and annihilation of GBs and CTBs) dominate the plastic deformation; otherwise, the nucleation and slip of dislocations is a controlling deformation mechanism. More details about the deformation of two representative simulated samples mentioned above are available in Movies S1-S2. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                624,
+                485,
+                925
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\mathrm { m } { - } 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "captures a detailed process of annihilation of GBs and CTBs during plastic deformation of a Schwarz crystal with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d < d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". During deformation, partial dislocations nucleate from the intersections between CTBs and curved GBs and then glide on the CTBs, leading to CTB migration and further thinning of twin domains (i.e., detwinning). Notably, curved GBs are generated due to misorientations between neighboring grains with different twin lattice orientations in Table S1. Once the twin domains on both sides of the curved GBs lose the twin orientations and convert to the matrix orientations with detwinning, the curved GBs annihilate spontaneously (Fig. 4o). As the CTBs disappear, the curved GBs constrained by these CTBs vanish gradually. This process prevails in all Schwarz crystals with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d < d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Previous studies on the plastic deformation of nanotwinned metals indicated that dislocation nucleation from the CTB-GB intersection and subsequent detwinning induce a significant decrease in strength with a reduction in twin thickness [8,13]. Similarly, for Schwarz crystals with curved GBs and CTB networks, dislocation nucleation from the CTB-GB intersection and subsequent detwinning inevitably contribute to softening. Simultaneously, as the curved GBs and CTB networks gradually annihilate, the dislocation motion within the grain interior is not blocked by GBs and CTBs, leading to further softening. Therefore, the softening in Schwarz crystal with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d < d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is attributed to dislocation nucleation from CTB-GB intersection, subsequent detwinning (or CTB migration) and further annihilation of GBs and CTBs. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                65,
+                936,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Furthermore, we performed uniaxial tensile simulations for mixed samples with grain size of 4.67 nm and 6.93 nm. Figs. S9a and b show the stress-strain curves of all simulated samples with grain size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 6 7 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 9 3 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. The average stress from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "strain was taken as the strength of sample. Fig. S9c shows the variation in strength of mixed sample with Schwarz-crystal volume fraction. For a given grain size, the strength increases nonlinearly with the increase in Schwarzcrystal volume fraction. When the Schwarz-crystal volume fraction is relatively small (especially, smaller than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), the strength of mixed sample is slightly higher than that of Wigner-Seitz nanocrystal. However, when the Schwarz-crystal volume fraction is larger than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", both strength and associated tangent slope of strength with respect to Schwarz-crystal volume fraction increase significantly with the increasing of Schwarz-crystal volume fraction. We attributed this nonlinear variation to the underlying deformation mechanisms in the mixed samples. As shown by the snapshots shown in Fig. S10, dislocation nucleation and slip predominantly occurred in the Wigner-Seitz parts of mixed sample with Schwarz-crystal volume fraction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", while the similar dislocation activities mainly took place in the Schwarz parts of mixed sample with Schwarz-crystal volume fraction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 7 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Therefore, the strength of mixed sample with Schwarz-crystal volume fraction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is comparable to pure Wigner-Seitz nanocrystal, while the strength of mixed sample with Schwarz-crystal volume fraction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 7 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is significantly enhanced due to a pronounced strengthening in Schwarz– part (i.e. both curved GB and CTB networks effectively block dislocation– motion). Similar phenomena were observed from the mixed samples with Schwarz-crystal volume fractions of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Figs. S11a 11d) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Figs. S11e 11h). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                382,
+                936,
+                750
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                766,
+                601,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our MD simulations revealed that the strengthening mechanism in the Schwarz crystal is the GBs blocking dislocation motion, while the softening is mainly attributed to CTB migration and annihilation of GBs and CTBs. Notably, the strengthening mechanism in the Schwarz crystal is the same as that in nanocrystalline metals with regular GBs, but the softening mechanism is distinct from that (i.e., GB-mediated processes,– – including GB sliding, diffusion and migration) in nanocrystalline metals with regular GBs. As indicated by Fig. 3b, the critical grain size– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 . 3 7 - 6 . 9 3 ~ \\mathrm { n m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in Schwarz crystal is smaller than that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 { - } 1 5 ~ \\mathrm { n m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in nanocrystalline samples with regular GBs. For Schwarz crystals with smaller grain sizes (i.e., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d < 1 0 { - } 1 5 \\ \\mathrm { n m } "
+                    },
+                    {
+                        "type": "text",
+                        "content": "), the volume fraction of GBs "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                791,
+                936,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                489,
+                952,
+                507,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9f88c52cfc24316ea030ae5ee654c7a2de37cf4a7283f942615fdbdfa2dfce2f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                60,
+                70,
+                230,
+                195
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7c610044bc316551ec1a2bf2cafa87f80a50023a2fa270a9e69e9eafb770983f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                245,
+                70,
+                415,
+                196
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/715d352f29202bc34ef7c4350d1c2f7b7803de41bfaf8a9036f84be04a3ba9fe.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                433,
+                68,
+                600,
+                196
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8e841753530a67223f140112ec37801b15cb2dade482a6fa3b0326e5f0a46f39.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                211,
+                231,
+                337
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ad9793558f1db66c2e0159a841a91cb933df669db15fa0230b64ba0a4e590f32.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                248,
+                211,
+                416,
+                337
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/93c2138f9c66f4a882116d6cda96b0bcf4c9351dd027cfc34e6d2d7ee3d2085b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                433,
+                211,
+                601,
+                337
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a6967563e2a03656871b85a600e6c1db204ac9447a4c9727d19998a03f8cbe78.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                354,
+                235,
+                486
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5e9dc3e39eda1fb4ec6b80c3fd00e6422fa943ac3c0f093855c05ac868b2363d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                248,
+                354,
+                420,
+                485
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2f6d5b4b0bf649257fdc731f8514aac47dde0c95792f28f6c81ce4555b7c128a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                433,
+                353,
+                603,
+                486
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7ed56666111a58f9d91d2b6a52bc9ca196a83df17167a9fc51cc153720df4e73.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                504,
+                235,
+                648
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9c659424ae75ccdee5df6e4ce80c3f181096aea486703ccf5be0beea911df23b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                248,
+                504,
+                420,
+                648
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a97d674e93b0019a78cf5641c224cf70b7b63783535e24b1eb65a65ef523478d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                433,
+                503,
+                603,
+                648
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c21bc3d69fdab2dc7b896d3ddbb10fc1f092f8858f932b3c0e0ab22239a838ca.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                65,
+                667,
+                189,
+                762
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0e0d6ba60ad1ec5b5b9104bbe93ab7e11dedf69dcddfa59d8e71956a02731289.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                198,
+                667,
+                317,
+                761
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2515570d0e192faa6ea2f6dc7df17cf98241ff96b2dbea8f3d71b181f6a26596.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                334,
+                665,
+                473,
+                762
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/33332bcfcb71320ae278053dc3cc9bb5782bdc61672ece391ba05f8c438e2d66.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                480,
+                670,
+                601,
+                750
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/770137ae7c720718816df4684487563721bd3b20a601ebadc501d4ac8c6e22cc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                68,
+                765,
+                189,
+                876
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2297d03a87ebc55a25f8d49bfb43464c90f8e6fd110e802d6a61b5349498d917.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                200,
+                764,
+                319,
+                875
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fdb70228b611b1488b344568a1e42929752bbaeec98c55cd0c556121460efe89.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "annihilatedGB "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Deformation behaviors and mechanisms of Schwarz crystal. (a) (c) A sequence of snapshots of simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 3 . 8 2 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "under different strains. (d) (f) Dislocation structures in simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 3 . 8 2 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "during plastic deformation. (g) (i) A sequence of snapshots of simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 1 2 . 3 0 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "under different strains. (j) (l) Dislocation structures in simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "12.30 nm during plastic deformation. (m) (o) Annihilation of curved GBs due to detwinning in the simulated sample with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 3 . 8 2 \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The right pictures represent the rear view of the left pictures. The dashed lines in the lower pictures correspond to the CTBs shown in the upper pictures. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                334,
+                764,
+                473,
+                875
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "326 "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                952,
+                509,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bb7cf889687b271a509939e3fb054ace0a411e344604d50ca72f18b4447b5e90.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                66,
+                458,
+                259
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4e578510e524c2fef85b3d4487b113dd17f2ba7cd2f4493faa95f3b697e29a4d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                283,
+                458,
+                479
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a341cfb4dcf42b472113070b43d59ea1a3cc7a2fb7876bc3d1e099e6565a9614.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "（c）"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Comparison between GB-mediated processes of Schwarz and Wigner Seitz nanocrystals. (a) Variation in the volume fraction of GBs with the grain size. The data points are from our MD simulations. Red and green dashed lines are calculated by multiplying the area of the Schwarz D-surface or CTB with GB width "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 1 \\mathrm { n m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or CTB width "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 . 2 1 \\ \\mathrm { n m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively, and then dividing by the overall volume of Schwarz crystal. (b) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ < } D _ { \\mathrm { m i n } } ^ { 2 } { > }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of two kinds of crystals with different grain sizes as a function of the applied strain. (c) Dependence of GB diffusivity of two kinds of crystals with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 8 . 5 6 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on the temperature and applied stress. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D ^ { \\mathrm { r e f } } \\left( 1 0 ^ { - 1 1 } \\mathrm { m } ^ { 2 } / s \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") is used to ensure that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { \\mathrm { G B } } / D ^ { \\mathrm { r e f } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is dimensionless. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                470,
+                87,
+                873,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "significantly increases with decreasing grain size (Fig. 5a), therefore, GBmediated processes inevitably take place and contribute to plastic deformation. However, for a given grain size, the volume fraction of amorphous-like GBs in Schwarz nanocrystals is lower than that in regular– nanocrystals (Fig. 5a). Subsequently, we further investigated the GBmediated processes in Schwarz crystals and the influence of grain size on these processes. For comparison, we also constructed Wigner Seitz nanocrystals with regular straight GBs, which is a typical polycrystalline– configuration and generally used to investigate GB behaviors [24]. We performed MD simulations of the uniaxial tension and creep of Schwarz and Wigner Seitz nanocrystals to compare the influences of GB structures on GB-mediated processes in these two kinds of nanocrystals. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                587,
+                485,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Generally, atomic-level deformation can be decomposed into affine plastic deformation and nonaffine atomic rearrangement [32]. The affine deformation involves ordered transformation and is related to dislocation slip and twinning processes, while the nonaffine deformation is related to the activities of amorphous-like GBs, such as GB migration and sliding. The nonaffine deformation is described by the nonaffine squared displacement "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { i } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                746,
+                485,
+                838
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "D _ {i} ^ {2} = \\sum_ {j = 1} ^ {n _ {i}} \\left| \\mathbf {d} _ {i j} - \\mathbf {J} _ {i} \\mathbf {d} _ {i j} ^ {0} \\right| ^ {2} \\tag {6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9daf6b1e9bea9516feee4b61f62c4a560b1e366b470f210a51bdd410048ccdb1.jpg"
+                }
+            },
+            "bbox": [
+                57,
+                848,
+                485,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf d } _ { i j } ^ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf { d } } _ { i j }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "represent the distance vector between atoms i and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "j"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the undeformed and current states, respectively, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n _ { i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the total number of neighboring atoms around atom i, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf J } _ { i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the affine deformation tensor "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                889,
+                487,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "of atom i and is determined by minimizing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { i } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The average minimum of– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { i } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "over all the atoms "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( < D _ { \\mathrm { m i n } } ^ { 2 } > )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") can be used to measure the extent of GB migration and sliding. Fig. 5b shows the variations in the average non-– affine squared displacement "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ < } D _ { \\mathrm { m i n } } ^ { 2 } { > }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Schwarz and Wigner Seitz nanocrystals with different grain sizes under tension. For the given grain– size, the Schwarz nanocrystal has a lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ < } D _ { \\mathrm { m i n } } ^ { 2 } { > }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than the Wigner Seitz nanocrystal throughout tension (Fig. 5b). This result suggests that compared with the Wigner Seitz nanocrystal, GB migration and sliding are suppressed in the Schwarz nanocrystal, especially around the critical grain size. This can be explained by the fact that the volume fraction of GBs is relatively low in Schwarz nanocrystals (Fig. 5a). Moreover, the curved GBs are constrained by CTB networks. If the curved GBs migrate or slide, coordinated deformation of the CTB networks is required. Thus, the constraint of CTB networks to some extent restricts the migration and– sliding of curved GBs. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                587,
+                937,
+                784
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Furthermore, we calculated the GB diffusivity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { \\mathrm { G B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of Schwarz and Wigner Seitz nanocrystals with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 8 . 5 6 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "under the applied stress "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from creep simulations. Fig. 5c shows the dependence of GB diffusivity in– two kinds of nanocrystals on the applied stress "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sigma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and temperature T. For a given applied stress and temperature, the GB diffusivity in Schwarz nanocrystals is lower than that in Wigner Seitz nanocrystals. We further fitted the creep simulation data of simulated samples with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d = 8 . 5 6 \\ \\mathrm { n m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "based on the Arrhenius equation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r } { D _ { \\mathrm { G B } } = D _ { 0 } \\exp \\left( { - \\frac { Q _ { 0 } - \\alpha \\Omega \\sigma } { k _ { B } T } } \\right) } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to characterize the features of GB diffusion. In the Arrhenius equation, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is a preexponential factor, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the activation energy, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is a constant less than "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                785,
+                937,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "327 "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                952,
+                507,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "one and associated with applied stress, – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the activation volume, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "k _ { B }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is Boltzmann's constant. The numerical fitting gave the values of feature parameters "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and αΩ for GB diffusion. The activation energy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q _ { 0 } ^ { \\mathsf { W } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the Wigner Seitz nanocrystal is as high as 0.52 eV, which is close to– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 0 \\mathrm { e V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for nanocrystalline Cu [34]. Notably, the activation energy– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q _ { 0 } ^ { S }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the Schwarz nanocrystal is as high as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 0 ~ \\mathrm { e V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q _ { 0 } ^ { \\mathsf { W } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the Wigner Seitz nanocrystal, implying that it is more difficult to activate GB diffusion in Schwarz nanocrystals than in Wigner Seitz nanocrystals. The simulation results in Fig. 5 indicate that the GB-mediated processes (including GB migration, sliding and diffusion) in the Schwarz nanocrystals with grain sizes around "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are significantly suppressed, which is related to the low volume fraction of curved GBs and the constraint of CTB networks. Thus, when the strengthening mechanism continues to predominate and extends to smaller grain sizes, the strength of Schwarz nanocrystals with grain sizes around "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "continues to rise with decreasing grain size, leading to a maximum strength around "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "d _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. 3b). "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                65,
+                485,
+                276
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                293,
+                161,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In summary, we performed large-scale MD simulations to investigate the GB structure, thermal stability, deformation behaviors and grain-size effect of nanocrystalline Cu with Schwarz crystal structure. The results regarding the GB structure and thermal stability from our MD simulations agree well with those from recent experimental studies and MD simulations [18,20]. Our MD simulations further showed that the critical grain size for the strengthening-softening transition in Schwarz nanocrystals is smaller than that in regular nanocrystals, leading to higher strength than regular nanocrystals. The decrease in the critical grain size is associated with the suppression of the GB-mediated processes in Schwarz nanocrystals. Our simulations also revealed that softening in Schwarz nanocrystals is attributed to detwinning (or CTB migration) and annihilation of GBs and CTBs instead of the dominant softening mechanism (i.e., GB-mediated processes) in regular nanocrystals. Our current study provides a fundamental understanding of the plastic deformation and grain-size effect of nanocrystalline metals with Schwarz crystal structure, which guides the design and fabrication of new nanostructured metals with high strength and excellent thermal stability. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                319,
+                485,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Author contribution statement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                573,
+                258,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X.L conceived and supervised the research. H.X and J.J. performed the molecular dynamics simulations. H.X, J.J and X.L wrote the manuscript. All the authors contributed to data analysis, scientific discussion and the revision of the manuscript. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                598,
+                485,
+                651
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Declaration of competing interest "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                679,
+                278,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Xiaoyan Li is an editorial board membe for [Nano Materials Science] and was not involved in the editorial review or the decision to publish this article. All authors declare that there are no competing interests. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                704,
+                485,
+                745
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                761,
+                181,
+                774
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X.L. gratefully acknowledges the financial support from National Natural Science Foundation of China (Grants Nos. 12325203, 91963117, and 11921002). All the simulations were performed on the TianHe-1 supercomputer at the National Supercomputer Center in Tianjin. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                786,
+                485,
+                839
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Appendix A. Supplementary data "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                857,
+                278,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplementary data to this article can be found online at https ://doi.org/10.1016/j.nanoms.2023.09.006. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                883,
+                485,
+                909
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                66,
+                584,
+                76
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] C. Suryanarayana, D. Mukhopadhyay, S.N. Patankar, F.H. Froes, Grain size effects in– nanocrystalline materials, J. Mater. Res. 7 (1992) 2114 2118. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] M.A. Meyers, A. Mishra, D. Benson, Mechanical properties of nanocrystalline– materials, J. Prog. Mater. Sci. 51 (2006) 427 556. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] J. Schiotz, F.D. Di Tolla, K.W. Jacobsen, Softening of nanocrystalline metals at very– small grain sizes, Nature 391 (1998) 561 563. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] J. Schiotz, K.W. Jacobsen, A maximum in the strength of nanocrystalline copper, Science 301 (2003) 1357 1359. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] W. Zhang, Y. Gao, Z. Feng, X. Wang, S. Zhang, L. Huang, Z. Huang, L. Jiang, Ductility limit diagrams for superplasticity and forging of high temperature– polycrystalline materials, Acta Mater. 198 (2020) 378 386. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] K. Lu, L. Lu, S. Suresh, Strengthening materials by engineering coherent internal– boundaries at the nanoscale, Science 324 (2009) 349 352. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] L. Lu, Y. Shen, X. Chen, L. Qian, K. Lu, Ultrahigh strength and high electrical– conductivity in copper, Science 304 (2004) 422 426. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] L. Lu, X. Chen, X. Huang, K. Lu, Revealing the maximum strength in nanotwinned– copper, Science 323 (2009) 607 610. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] D. Bufford, H. Wang, X. Zhang, High strength, epitaxial nanotwinned Ag films, Acta– Mater. 59 (2011) 93 101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] A. Singh, L. Tang, M. Dao, L. Lu, S. Suresh, Fracture toughness and fatigue crack growth characteristics of nanotwinned copper, Acta Mater. 59 (2011) 2437 2446.– "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] Y.M. Wang, F. Sansoz, T. LaGrange, R.T. Ott, J. Marian, T.W. Barbee Jr., A.V. Hamza, Defective twin boundaries in nanotwinned metals, Nat. Mater. 12 (2013) 697 702. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] T. Zhu, J. Li, A. Samanta, H.G. Kim, S. Suresh, Interfacial plasticity governs strain rate sensitivity and ductility in nanostructured metals, Proc. Natl. Acad. Sci. U. S. A.– 104 (2007) 3031 3036. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] X. Li, Y. Wei, L. Lu, K. Lu, H. Gao, Dislocation nucleation governed softening and maximum strength in nano-twinned metals, Nature 464 (2010) 877 880.– "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] L. Sun, X. He, J. Lu, Nanotwinned and hierarchical nanotwinned metals: a review of experimental, computational and theoretical efforts, npj Comput. Mater. 4 (2018)– 1 18. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] Q. Pan, Q. Lu, L. Lu, Fatigue behavior of columnar-grained Cu with preferentially oriented nanoscale twins, Acta Mater. 61 (2013) 1383 1393. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] F. Cui, Q. Pan, N. Tao, L. Lu, Enhanced high-cycle fatigue resistance of 304 austenitic stainless steel with nanotwinned grains, Inter. J. Fatigue 143 (2021)– 105994. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] X. Zhou, X. Li, K. Lu, Enhanced thermal stability of nanograined metals below a– critical grain size, Science 360 (2018) 526 530. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] X. Li, Z. Jin, X. Zhou, K. Lu, Constrained minimal-interface structures in– – polycrystalline copper with extremely fine grains, Science 370 (2020) 831 836. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] W. Xu, B. Zhang, X. Li, K. Lu, Suppressing atomic diffusion with the Schwarz crystal structure in supersaturated Al Mg alloys, Science 373 (2021) 683 687. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] Z. Jin, X. Li, K. Lu, Formation of stable schwarz crystals in polycrystalline copper at– the grain size limit, Phys. Rev. Lett. 127 (2021) 136101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] S. Plimpton, Fast parallel algorithms for short-range molecular dynamics, J. Comput. Phys. 117 (1995) 1 19. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] Y. Mishin, M.J. Mehl, D.A. Papaconstantopoulos, A.F. Voter, J.D. Kress, Structural stability and lattice defects in copper: Ab initio, tight-binding, and embedded-atom– calculations, Phys. Rev. B 63 (2001) 224106. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] M. Parrinello, A. Rahman, Polymorphic transitions in single crystals: a new molecular dynamics method, J. Appl. Phys. 52 (1981) 7182 7190. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[24] Y. Wang, A. Ishii, S. Ogata, Transition of creep mechanism in nanocrystalline metals, Phys. Rev. B 84 (2011) 224102. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[25] Y. Wang, G. Gao, S. Ogata, Atomistic understanding of diffusion kinetics in– nanocrystals from molecular dynamics simulations, Phys. Rev. B 88 (2013) 115413. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[26] J. Horvath, R. Birringer, H. Gleiter, Diffusion in nanocrystalline material, Solid State– Commun. 62 (1987) 319 322. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[27] R. Wurschum, S. Herth, U. Brossmann, Diffusion in nanocrystalline metals and alloys-A status report, Adv. Eng. Mater. 5 (2003) 365 372.– "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[28] V. Yamakov, D. Wolf, S.R. Phillpot, H. Gleiter, Grain-boundary diffusion creep in nanocrystalline palladium by molecular-dynamics simulation, Acta Mater. 50 (2002) 61 73. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[29] R. Raghavan, J.M. Wheeler, D. Esqu-e-De los Ojos, K. Thomas, E. Almandoz,– G.G. Fuentes, J. Michler, Mechanical behavior of Cu/TiN multilayers at ambient and elevated temperatures: stress-assisted diffusion of Cu, Mater. Sci. Eng., A 620 (2015) 375 382.– "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[30] M. Wohlgemuth, N. Yufa, J. Hoffman, E.L. Thomas, Triply periodic bicontinuous cubic microdomain morphologies by symmetries, Macromolecules 34 (2001)– 6083 6089. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[31] J.D. Honeycutt, H.C. Andersen, Molecular dynamics study of melting and freezing– of small Lennard-Jones clusters, J. Chem. Phys. 91 (1987) 4950 4963. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[32] P. Cao, The strongest size in gradient nanograined metals, Nano Lett. 20 (2020) 1440 1446. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[33] L. Wang, Y. Zhang, Z. Zeng, H. Zhou, J. He, P. Liu, M. Chen, J. Han, D.J. Srolovitz,– J. Teng, Y. Guo, G. Yang, D. Kong, E. Ma, Y. Hu, B. Yin, X. Huang, Z. Zhang, T. Zhu, X. Han, Tracking the sliding of grain boundaries at the atomic scale, Science 375 (2022) 1261 1265. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[34] X.-S. Yang, Y.-J. Wang, H.-R. Zhai, G.-Y. Wang, Y.-J. Su, L.H. Dai, S. Ogata, T.- Y. Zhang, Time-, stress-, and temperature-dependent deformation in nanostructured copper: creep tests and simulations, J. Mech. Phys. Solid. 94 (2016) 191 206. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                90,
+                934,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Xing et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                122,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nano Materials Science 6 (2024) 320 328 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "328 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                952,
+                510,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "View publication stats "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                987,
+                149,
+                994
+            ]
+        }
+    ]
+]
