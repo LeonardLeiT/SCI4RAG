@@ -10,7 +10,7 @@
     "method": "api",
     "name": "aliyun",
     "modelType": "text-embedding-v1",
-    "apiKey": "sk-1d3d800c76c64af8834be177b5c10519"
+    "apiKey": "sk-8d6de96d52bd4370a0500289d5cadcff"
   },
 
   "mineru": {

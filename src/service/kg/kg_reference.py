@@ -1,6 +1,7 @@
 from src.service.document.load_document import load_document_metadata, load_json
 from pathlib import Path
 import networkx as nx
+import os
 
 def kg_to_networkx(kg):
     G = nx.DiGraph()
@@ -118,6 +119,14 @@ def construct_kg_ref(username: str, dataset_name: str):
         "edge_type": "citation"
     }
 
+    G = kg_to_networkx(kg)
+    path = f"users/{username}/{dataset_name}/graph"
+    os.makedirs(path, exist_ok=True)  # create folder if it doesn't exist
+
+    nx.write_gexf(
+        G,
+        f"{path}/citation_graph.gexf"
+    )
     return kg
 
 
@@ -129,9 +138,5 @@ if __name__ == "__main__":
     kg = construct_kg_ref(username, dataset_name)
     print(kg )
 
-    G = kg_to_networkx(kg)
-    nx.write_gexf(
-        G,
-        f"users/{username}/{dataset_name}/citation_graph.gexf"
-    )
+
 

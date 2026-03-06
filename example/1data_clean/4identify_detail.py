@@ -7,7 +7,7 @@ username = "administrator"
 dataset_name = "test"
 
 # Step 4: Identify Equations and References
-# Run:  python -m example.service.1data_clean.4identify_detail
+# Run:  python -m example.1data_clean.4identify_detail
 
 # 1.Load documents Information
 pdf_files_data = load_document_metadata(username, dataset_name)

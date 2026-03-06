@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-02-08">
+  <meta lastmodifieddate="2026-03-06">
     <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
     <attributes mode="static" class="edge">
-      <attribute id="6" title="relation" type="string" />
+      <attribute id="8" title="relation" type="string" />
     </attributes>
     <attributes mode="static" class="node">
       <attribute id="0" title="title" type="string" />
@@ -13,84 +13,96 @@
       <attribute id="2" title="journal" type="string" />
       <attribute id="3" title="author" type="string" />
       <attribute id="4" title="url" type="string" />
-      <attribute id="5" title="type" type="string" />
+      <attribute id="5" title="doi" type="string" />
+      <attribute id="6" title="cited_count" type="long" />
+      <attribute id="7" title="size" type="long" />
     </attributes>
     <nodes>
-      <node id="10.1103/physrevlett.127.136101" label="10.1103/physrevlett.127.136101">
+      <node id="Jin2021Formation" label="Jin2021Formation">
         <attvalues>
           <attvalue for="0" value="Formation of Stable Schwarz Crystals in Polycrystalline Copper at the Grain Size Limit" />
           <attvalue for="1" value="2021" />
           <attvalue for="2" value="Physical Review Letters" />
           <attvalue for="3" value="Jin, Zhaohui; Li, Xiuyan; Lu, K." />
           <attvalue for="4" value="https://doi.org/10.1103/physrevlett.127.136101" />
-          <attvalue for="5" value="paper" />
+          <attvalue for="5" value="10.1103/physrevlett.127.136101" />
+          <attvalue for="6" value="2" />
+          <attvalue for="7" value="2" />
         </attvalues>
       </node>
-      <node id="10.1021/acs.nanolett.5c02044" label="10.1021/acs.nanolett.5c02044">
+      <node id="Lei2025Free" label="Lei2025Free">
         <attvalues>
           <attvalue for="0" value="Free Energy Criterion for Thermal Stability of Schwarz Nanocrystals" />
           <attvalue for="1" value="2025" />
           <attvalue for="2" value="Nano Letters" />
           <attvalue for="3" value="Lei, Ting; Liu, Feng; Wu, Xiaolei; Wang, Yunjiang" />
           <attvalue for="4" value="https://doi.org/10.1021/acs.nanolett.5c02044" />
-          <attvalue for="5" value="paper" />
+          <attvalue for="5" value="10.1021/acs.nanolett.5c02044" />
+          <attvalue for="6" value="0" />
+          <attvalue for="7" value="0" />
         </attvalues>
       </node>
-      <node id="10.1126/science.1092905" label="10.1126/science.1092905">
+      <node id="Lu2004Ultrahigh" label="Lu2004Ultrahigh">
         <attvalues>
           <attvalue for="0" value="Ultrahigh Strength and High Electrical Conductivity in Copper" />
           <attvalue for="1" value="2004" />
           <attvalue for="2" value="Science" />
-          <attvalue for="3" value="Lu, Lei; Shen, Yongfeng; Chen, Xianhua; Qian, Lihua; Lu, K." />
+          <attvalue for="3" value="Lei Lu; Yongfeng Shen; Xianhua Chen; Lihua Qian; K. Lu" />
           <attvalue for="4" value="https://doi.org/10.1126/science.1092905" />
-          <attvalue for="5" value="paper" />
+          <attvalue for="5" value="10.1126/science.1092905" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
         </attvalues>
       </node>
-      <node id="10.1126/science.aal5166" label="10.1126/science.aal5166">
+      <node id="Hu2017Grain" label="Hu2017Grain">
         <attvalues>
           <attvalue for="0" value="Grain boundary stability governs hardening and softening in extremely fine nanograined metals" />
           <attvalue for="1" value="2017" />
           <attvalue for="2" value="Science" />
-          <attvalue for="3" value="Hu, J.; Shi, Y. N.; Sauvage, X.; Sha, G.; Lu, K." />
+          <attvalue for="3" value="J. Hu; Y. N. Shi; X. Sauvage; G. Sha; K. Lu" />
           <attvalue for="4" value="https://doi.org/10.1126/science.aal5166" />
-          <attvalue for="5" value="paper" />
+          <attvalue for="5" value="10.1126/science.aal5166" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
         </attvalues>
       </node>
-      <node id="10.1016/j.actamat.2024.120007" label="10.1016/j.actamat.2024.120007">
+      <node id="Fu2024Pt" label="Fu2024Pt">
         <attvalues>
           <attvalue for="0" value="Pt Schwarz crystals stabilized by minimal-surface grain boundaries and twins at the grain size limit" />
           <attvalue for="1" value="2024" />
           <attvalue for="2" value="Acta Materialia" />
-          <attvalue for="3" value="Fu, H.L.; Zhou, X.; Gao, Z.P.; Jin, Z.H.; Li, X.Y.; Lu, K." />
+          <attvalue for="3" value="H.L. Fu; X. Zhou; Z.P. Gao; Z.H. Jin; X.Y. Li; K. Lu" />
           <attvalue for="4" value="https://doi.org/10.1016/j.actamat.2024.120007" />
-          <attvalue for="5" value="paper" />
+          <attvalue for="5" value="10.1016/j.actamat.2024.120007" />
+          <attvalue for="6" value="1" />
+          <attvalue for="7" value="1" />
         </attvalues>
       </node>
     </nodes>
     <edges>
-      <edge source="10.1021/acs.nanolett.5c02044" target="10.1126/science.1092905" id="0">
+      <edge source="Lei2025Free" target="Lu2004Ultrahigh" id="0">
         <attvalues>
-          <attvalue for="6" value="citation" />
+          <attvalue for="8" value="citation" />
         </attvalues>
       </edge>
-      <edge source="10.1021/acs.nanolett.5c02044" target="10.1126/science.aal5166" id="1">
+      <edge source="Lei2025Free" target="Hu2017Grain" id="1">
         <attvalues>
-          <attvalue for="6" value="citation" />
+          <attvalue for="8" value="citation" />
         </attvalues>
       </edge>
-      <edge source="10.1021/acs.nanolett.5c02044" target="10.1103/physrevlett.127.136101" id="2">
+      <edge source="Lei2025Free" target="Jin2021Formation" id="2">
         <attvalues>
-          <attvalue for="6" value="citation" />
+          <attvalue for="8" value="citation" />
         </attvalues>
       </edge>
-      <edge source="10.1021/acs.nanolett.5c02044" target="10.1016/j.actamat.2024.120007" id="3">
+      <edge source="Lei2025Free" target="Fu2024Pt" id="3">
         <attvalues>
-          <attvalue for="6" value="citation" />
+          <attvalue for="8" value="citation" />
         </attvalues>
       </edge>
-      <edge source="10.1016/j.actamat.2024.120007" target="10.1103/physrevlett.127.136101" id="4">
+      <edge source="Fu2024Pt" target="Jin2021Formation" id="4">
         <attvalues>
-          <attvalue for="6" value="citation" />
+          <attvalue for="8" value="citation" />
         </attvalues>
       </edge>
     </edges>

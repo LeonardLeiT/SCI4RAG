@@ -603,9 +603,10 @@ def combile_doc_json(file_data: dict) -> str:
     username, dataset_name = parse_path_info(file_data["file_path"])
     base = Path("users") / username / dataset_name / "data_clean" / file_data["file_id"]
 
-    doc_json_path = base / "main_letter.json"
+    # doc_json_path = base / "main_letter.json"
     label_path = base / "label_structure_cleaned.json"
     doi_path = base / "doi.json"
+    md_path = base / "document.md"
 
     if not label_path.exists() or not doi_path.exists():
         print(f"[WARN] Missing clean files for {file_data['file_id']}")
@@ -614,17 +615,46 @@ def combile_doc_json(file_data: dict) -> str:
     label_info = load_json(label_path)
     doi_info = load_json(doi_path)
 
-    doc_json = {
-        "title": doi_info.get("title", ""),
-        "author": doi_info.get("author", ""),
-        "journal": doi_info.get("journal", ""),
-        "doi": doi_info.get("doi", ""),
-        "abstract": "",
-        "keywords": [],
-        "main_letter": {},
-    }
+    # doc_json = {
+    #     "title": doi_info.get("title", ""),
+    #     "author": doi_info.get("author", ""),
+    #     "journal": doi_info.get("journal", ""),
+    #     "doi": doi_info.get("doi", ""),
+    #     "abstract": "",
+    #     "keywords": [],
+    #     "main_letter": {},
+    # }
 
-    jdx = 0
+    # jdx = 0
+    # for idx, chunk in enumerate(label_info):
+    #     category = chunk.get("category")
+    #     content = chunk.get("content", "")
+
+    #     if not content:
+    #         continue
+
+    #     if category == "abstract":
+    #         doc_json["abstract"] = content
+
+    #     elif category == "main_letter" or category == "equation":
+    #         doc_json["main_letter"][jdx] = content
+    #         jdx += 1
+
+    # save_json(doc_json, doc_json_path)
+
+    def authors_to_str(authors):
+        if not authors:
+            return ""
+        if isinstance(authors, list):
+            return "; ".join(authors)
+        return str(authors)
+
+    # ---------- build markdown ----------
+    md_content = f" ## {doi_info.get('title', '')}\n\n"
+    md_content += f"**Author:** {authors_to_str(doi_info.get('author', ''))}\n\n"
+    md_content += f"**Journal:** {doi_info.get('journal', '')}\n\n"
+    md_content += f"**DOI:** {doi_info.get('doi', '')}\n\n"
+
     for idx, chunk in enumerate(label_info):
         category = chunk.get("category")
         content = chunk.get("content", "")
@@ -633,12 +663,19 @@ def combile_doc_json(file_data: dict) -> str:
             continue
 
         if category == "abstract":
-            doc_json["abstract"] = content
+            md_content += "### Abstract\n\n"
+            md_content += content + "\n\n"
+            md_content += "### Main Text\n\n"
 
         elif category == "main_letter" or category == "equation":
-            doc_json["main_letter"][jdx] = content
-            jdx += 1
+            if content[0] == "#":
+                md_content += "##" + content + "\n\n"
+            else:
+                md_content += content + "\n\n"
 
-    save_json(doc_json, doc_json_path)
+    # ---------- save md ----------
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write(md_content)
+        print(f"[INFO] Save markdown to: {md_path}")
 
     return file_data

@@ -6,7 +6,7 @@ username = "administrator"
 dataset_name = "test"
 
 # Step 2: Get Doi and Doi Information
-# Run:  python -m example.service.1data_clean.2identify_doi
+# Run:  python -m example.1data_clean.2identify_doi
 
 # 1.Load documents Information
 pdf_files_data = load_document_metadata(username, dataset_name)

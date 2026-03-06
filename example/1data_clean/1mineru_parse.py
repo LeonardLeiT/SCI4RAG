@@ -4,7 +4,7 @@ from src.service.document.parse.mineru.api.parser import mineru_parse, mineru_st
 username = "administrator"
 dataset_name = "test"
 # Step 1: Load PDF and Use MinuerU to Parse
-# Run:  python -m example.service.1data_clean.1mineru_parse
+# Run:  python -m example.1data_clean.1mineru_parse
 
 # 1.Load PDF files
 pdf_files_data = load_Batch_PDF_files(username, dataset_name)

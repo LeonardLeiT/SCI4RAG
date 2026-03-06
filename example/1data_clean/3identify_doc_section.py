@@ -5,7 +5,7 @@ username = "administrator"
 dataset_name = "test"
 
 # Step 3: Identify Main Sections and Combine Documents
-# Run:  python -m example.service.1data_clean.3identify_doc_section
+# Run:  python -m example.1data_clean.3identify_doc_section
 
 # 1.Load documents Information
 pdf_files_data = load_document_metadata(username, dataset_name)

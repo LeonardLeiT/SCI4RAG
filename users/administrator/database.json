@@ -1,8 +1,0 @@
-{
-    "Schwarz": {
-        "customName": "Schwarz",
-        "numDocs": 14,
-        "modelName": "Aliyun",
-        "modelType": "text-embedding-v1"
-    }
-}
