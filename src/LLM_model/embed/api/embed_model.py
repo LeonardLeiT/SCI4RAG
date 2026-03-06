@@ -9,15 +9,10 @@ from langchain_community.embeddings import (
 BASE_DIR = Path(__file__).resolve().parent
 DATA_FILE = BASE_DIR / "api_key"
 
-def load_api_key(chatmodel="aliyun"):
+def load_api_key():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
-
-    if chatmodel not in data:
-        raise KeyError(f"API key for '{chatmodel}' not found")
-
-    return data[chatmodel]
-
+    return data
 # Define provider-specific constructor functions
 def aliyun_embed_llm(modelType, apiKey):
     return DashScopeEmbeddings(
@@ -38,9 +33,12 @@ embedding_provider_map = {
 }
 
 # Unified getter function
-def get_embed_model(embedmodel = "aliyun", modelType ="text-embedding-v1"):
-    key = load_api_key(embedmodel)
-    return embedding_provider_map[embedmodel](modelType = modelType, apiKey = key)
+def get_embed_model():
+    data = load_api_key()
+    embedmodel = data["embed"]
+    modelType = data["modelType"]
+    apiKey = data["apiKey"]
+    return embedding_provider_map[embedmodel](modelType = modelType, apiKey = apiKey)
 
 if __name__ == "__main__":
     print(get_embed_model())

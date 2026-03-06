@@ -1,12 +1,5 @@
-import sys
-from pathlib import Path
 from langchain_core.messages import HumanMessage, SystemMessage
-# Add the project root directory to the Python path
-project_root = str(Path(__file__).parent.parent)
-print(project_root)
-sys.path.append(project_root)
-
-from LLM_model.chat.api.llm_model import get_chat_model
+from src.LLM_model.chat.api.llm_model import get_chat_model
 
 class SimplePipeline:
     def __init__(

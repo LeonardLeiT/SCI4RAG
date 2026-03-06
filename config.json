@@ -2,12 +2,19 @@
   "chatmodel": {
     "method": "api",   
     "name": "deepseek",
-    "modelType": "deepseek-chat"
+    "modelType": "deepseek-chat",
+    "apiKey": "sk-65b285de1caf4751ad30ed94b76a2c47"
   },
 
   "embedmodel": {
     "method": "api",
     "name": "aliyun",
-    "modelType": "text-embedding-v1"
+    "modelType": "text-embedding-v1",
+    "apiKey": "sk-1d3d800c76c64af8834be177b5c10519"
+  },
+
+  "mineru": {
+    "method": "api",
+    "apiKey": "eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiI5OTYwMDA0MSIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTc2OTY5NzYzMSwiY2xpZW50SWQiOiJsa3pkeDU3bnZ5MjJqa3BxOXgydyIsInBob25lIjoiIiwib3BlbklkIjpudWxsLCJ1dWlkIjoiYTM2MTIyYmEtOTMwZi00NjM1LWE4OTUtYzQ1YWUwYjc1OTEwIiwiZW1haWwiOiIiLCJleHAiOjE3NzA5MDcyMzF9.hbu8MWSq9m1KdbvIeoFcMT1Iyvv9zyt45mY6UQh6ZAXgOWuXZXkjz0-t6D2QX6ZLSi7yPTYmWwJoer8wQt-QEw"
   }
 }

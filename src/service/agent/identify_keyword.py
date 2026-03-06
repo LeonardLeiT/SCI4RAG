@@ -149,4 +149,3 @@ def identify_keywords(file_data: dict) -> dict:
         main_letter['keywords'] = keywords
         save_json(doi_info, doi_path)
         save_json(main_letter, letter_path)
-

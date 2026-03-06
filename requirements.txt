@@ -1,6 +1,7 @@
-langgraph==1.0.7
+langchain==1.2.10
 langchain_openai==1.1.7
 langchain_community==0.4.1
+langchain-chroma==1.1.0
 dashscope==1.25.10
 bs4==0.0.2
 networkx==3.4.2

@@ -54,9 +54,7 @@ SchwarzRAG 是基于深度文档理解构建的智能检索系统，专注于 Sc
 
 ## 🔎 系统架构
 
-<div align="center" style="margin: 10px 0;">
-<img src="figure/System Architecture-2025-03-23-1328.svg" width="60%"/>
-</div>
+![alt text](Figure/Architecture.png)
 
 ## 🎬 技术路线
 

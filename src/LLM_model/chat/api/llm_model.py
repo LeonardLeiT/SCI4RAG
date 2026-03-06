@@ -6,14 +6,10 @@ from langchain_openai import ChatOpenAI
 BASE_DIR = Path(__file__).resolve().parent
 DATA_FILE = BASE_DIR / "api_key"
 
-def load_api_key(chatmodel="deepseek"):
+def load_api_key():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
-
-    if chatmodel not in data:
-        raise KeyError(f"API key for '{chatmodel}' not found")
-
-    return data[chatmodel]
+    return data
 
 # Define provider-specific constructor functions
 def aliyun_chat_llm(modelType, apiKey, temperature=1.0, max_tokens=4096):
@@ -46,9 +42,14 @@ chat_provider_map = {
 }
 
 # Unified getter function
-def get_chat_model(chatmodel = "deepseek", modelType ="deepseek-chat", temperature=0.7, max_tokens=4096):
-    key = load_api_key(chatmodel)
+def get_chat_model(temperature=0.7, max_tokens=4096):
+    data = load_api_key()
+    chatmodel = data["llm"]
+    modelType = data["modelType"]
+    key = data["apikey"]
     return chat_provider_map[chatmodel](modelType = modelType, apiKey = key, temperature=temperature, max_tokens=max_tokens)
 
-if __name__ == "__main__":  
+if __name__ == "__main__": 
+    data = load_api_key()
+    print(data['llm'])
     print(get_chat_model())

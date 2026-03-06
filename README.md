@@ -78,9 +78,7 @@ pip install -r requirements.txt
 
 ## 🔎 System Architecture
 
-<div align="center" style="margin: 10px 0;">
-<img src="Figure/System Architecture-2025-03-23-1328.svg" width="60%"/>
-</div>
+![alt text](Figure/Architecture.png)
 
 ## 🎬 Technical Roadmap
 

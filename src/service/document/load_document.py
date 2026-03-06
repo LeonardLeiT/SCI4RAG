@@ -6,7 +6,6 @@ from pathlib import Path
 from glob import glob
 from datetime import datetime
 
-
 def save_json(data: dict, path: str, indent: int = 2, info = True) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:

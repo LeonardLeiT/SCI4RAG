@@ -2,8 +2,8 @@ import os
 import json
 from pathlib import Path
 from langchain_chroma import Chroma
-from .embed_model import get_embedding_model
-from .load_document import load_and_chunk_documents
+from src.LLM_model.embed.api.embed_model import get_embed_model
+from src.service.document.chunk_document import load_and_chunk_documents
 
 DATA_FILE = 'database.json'
 
@@ -83,7 +83,7 @@ def delete_documents_vector(vector_store, source_name: str):
 def get_vector_store(all_splits, embeddings=None, user_id="system", store_name='Lei'):
     """Initialize and return the vector store"""
     if embeddings is None:
-        embeddings = get_embedding_model()
+        embeddings = get_embed_model()
     vector_store = initialize_vector_store(embeddings, user_id, store_name)
     existing_sources, new_docs = check_documents_exist(vector_store, all_splits)
     if new_docs:
@@ -102,8 +102,7 @@ def document_embedding(sources, user_name="12", dataset_name='embedded', embeddi
         return False
     
 if __name__ == "__main__":
-    from langchain.schema import Document
-    from load_document import load_and_chunk_documents
+    from langchain_core.documents import Document
     
     # embed = get_embedding_model('12', '12')
     # initialize_vector_store(embed, '12', 'embedded')

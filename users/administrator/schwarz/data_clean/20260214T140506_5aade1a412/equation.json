@@ -1,6 +1,0 @@
-[
-  {
-    "equation": "$d = 1 5 \\mathrm { - } 1 0 0 \\mathrm { n m }$",
-    "description": "The equation \\(d = 15\\mathrm{-}100\\ \\mathrm{nm}\\) defines the specific grain diameter range under discussion, where the symbol \\(d\\) denotes the average grain size. This interval represents a critical transition regime in nanocrystalline materials, situated below the conventional Hall–Petch domain. Within this range, the classical dislocation pile-up model ceases to be applicable, and alternative deformation mechanisms—such as an Orowan-type process or a whisker-type behavior exhibiting a \\(1/d\\) strengthening dependence—become operative. The specified bounds are empirically supported, as the measured mechanical properties, particularly hardness, are consistent with the predicted scaling laws for grain sizes between 15 and 100 nanometers."
-  }
-]

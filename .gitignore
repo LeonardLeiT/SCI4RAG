@@ -6,3 +6,5 @@
 !*.txt
 !*.json
 !*LICENSE
+!*Architecture.png
+!*.gexf
