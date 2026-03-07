@@ -46,7 +46,7 @@ def get_chat_model(temperature=0.7, max_tokens=4096):
     data = load_api_key()
     chatmodel = data["llm"]
     modelType = data["modelType"]
-    key = data["apikey"]
+    key = data["apiKey"]
     return chat_provider_map[chatmodel](modelType = modelType, apiKey = key, temperature=temperature, max_tokens=max_tokens)
 
 if __name__ == "__main__": 

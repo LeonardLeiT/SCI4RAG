@@ -7,14 +7,12 @@ class SimplePipeline:
         prompt: str = "Your name is SchwarzRag. You are a helpful assistant. Provide a detailed and comprehensive answer.",
         temperature: float = 0.7,
         max_tokens: int = 4096,
-        use_stream: bool = True,
         username="administrator",
     ):
         """Initialize the Simple pipeline."""
         self.prompt = prompt
         self.temperature = temperature
         self.max_tokens = max_tokens
-        self.use_stream = use_stream
         self.username = username
 
         self.llm = get_chat_model(
@@ -22,32 +20,33 @@ class SimplePipeline:
             max_tokens=self.max_tokens
         )
 
-    def query(self, query: str):
-        messages = [
+    def build_messages(self, query: str):
+        """Construct prompt messages."""
+        return [
             SystemMessage(content=self.prompt),
             HumanMessage(content=query),
         ]
 
-        full_response = ""
-        if self.use_stream:
-            for chunk in self.llm.stream(messages):
-                full_response += chunk.content
-                yield chunk.content
+    def query(self, query: str):
+        """Non-streaming response."""
+        messages = self.build_messages(query)
+        response = self.llm.invoke(messages)
+        return response.content
 
-        else:
-            response = self.llm.invoke(messages)
-            return response.content
-
+    def query_stream(self, query: str):
+        """Streaming response."""
+        messages = self.build_messages(query)
+        for chunk in self.llm.stream(messages):
+            yield chunk.content
 
 if __name__ == "__main__":
     pipeline = SimplePipeline(
         temperature=0.7,
         max_tokens=4096,
-        use_stream=True,
     )
     # targer_id = "83d7fcb6-7e32-4023-ac8f-4e27ccfb5abe"
     user_input = 'Can you search in the web'
     print("Response: ", end="", flush=True)
-    for chunk in pipeline.query(user_input):
+    for chunk in pipeline.query_stream(user_input):
         print(chunk, end="", flush=True)
     print("")

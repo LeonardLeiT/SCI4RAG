@@ -1,5 +1,4 @@
-from langchain_openai import ChatOpenAI
-from llm_model import get_chat_model
+from src.LLM_model.chat.api.llm_model import get_chat_model
 
 def rewrite_query_search(query: str, llm = get_chat_model()) -> list:
     # Define the prompt to rewrite the query into 3 key points, with an example to guide the model
