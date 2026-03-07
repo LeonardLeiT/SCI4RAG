@@ -1,9 +1,9 @@
 <h1 align="center">SchwarzRAG</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_zh.md">简体中文</a>
-</p>
+</p> -->
 
 <details open>
 <summary><b>📕 Table of Contents</b></summary>
@@ -11,15 +11,10 @@
 - 💡 [Project Overview](#-project-overview)
 - 🔥 [Latest Updates](#-latest-updates)
 - 🌟 [Quick Start](#-quick-start) 
-- 🌟 [Key Features](#-key-features)
-- 🔎 [System Architecture](#-system-architecture)
-- 🎬 [Technical Roadmap](#-technical-roadmap)
-- 📚 [Documentation](#-documentation)
-- 📜 [Roadmap](#-roadmap)
+- 🎉 [Key Features](#-key-features)
+- 📜 [System Architecture](#-system-architecture)
+- 🔎 [Technical Roadmap](#-technical-roadmap)
 - 🙌 [Contributing](#-contributing)
-- 🤝 [Partnership](#-partnership)
-- 👥 [Community](#-community)
-
 
 </details>
 
@@ -29,9 +24,7 @@ SchwarzRAG is an intelligent retrieval system built on deep document understandi
 
 ## 🔥 Latest Updates
 
-- 2024-03-23 Integrated Schwarz Crystal literature with embedding technology to establish domain knowledge base
-- 2024-03-22 Implemented Windows-based Ollama+DeepSeek+Ragflow local deployment solution
-- 2024-03-21 Completed Linux deployment of DeepSeek-R1-Distill-Qwen-7B model via FastAPI with Langchain integration and WebDemo
+- 2026-03-07 complete text vector database construction and data clean; finish the fundamental functionality of the system like knowledge retrieval, web searching, and information query.
 
 ## 🌟 Quick Start
 
@@ -55,26 +48,45 @@ Install dependencies ``requirements.txt``:
 pip install -r requirements.txt
 ```
 
+if using **api mode**, you can use the following command to start the server:
+
+First, open the ``config.json`` file and add your API key:
+
+```json
+{
+  "chatmodel": {
+    "method": "api",   
+    "name": "deepseek",
+    "modelType": "deepseek-chat",
+    "apiKey": "your_api_key"
+  },
+
+  "embedmodel": {
+    "method": "api",
+    "name": "aliyun",
+    "modelType": "text-embedding-v1",
+    "apiKey": "your_api_key"
+  }
+}
+```
+
+And run ```config.py``` to setting your API key
+
 ## 🌟 Key Features
 
-### 🍭 Precision Input & Output
+### 🍭 Data Clean and Extract
 
-- Extract critical insights from complex unstructured data formats using deep document understanding
+- After paersing, the files inputted by the user will be turned into markdown format, which still exsit many noise. This step will help to clean the data and extract the essential information.
 
-### 🌱 Trustworthy Knowledge Provenance
+### 🌱 Scientific Evolution Knowledge Graph
 
-- Construct domain-specific knowledge system for Schwarz Crystal
-- Provide citation traceability with document snapshots and source verification
+- Construct Citation-Aware Scientific Knowledge Graph
+- Based citation traceability with scientific letter, combine the knowledge graph and the citation graph.
 
-### 🍔 Multi-source Compatibility
+### 🍔 Multi-Retrieve Strategy
 
-- Support Word, PPT, Excel, TXT, PDF formats
-- Process heterogeneous data including images, scanned copies, web pages, and structured data
+- Support multiple retrieval strategies, and analyze the relevance of the retrieved information.
 
-### 🛀 Intelligent Workflow
-
-- Flexible configuration of LLMs and vector models
-- Provide RESTful APIs and visualization interface
 
 ## 🔎 System Architecture
 
@@ -82,11 +94,13 @@ pip install -r requirements.txt
 
 ## 🎬 Technical Roadmap
 
-### 📝 Full Open-Source Low-Code Solution (Initial Phase)
+### 📝 Data Parse and Clean (Initial Step)
 
-- Infrastructure: Ollama + RAGFlow
-- Base Model: DeepSeek-R1-8B
-- Rapid prototyping and validation
+- Parse model: MinerU
+- Doi Agent
+- Identify Agent for scientific articles
+
+![alt text](Figure/data_clean.png)
 
 ### 🚀 Localized High-Code Solution (Target Phase)
 
@@ -95,17 +109,6 @@ pip install -r requirements.txt
 - Web App: Gradio/Streamlit interfaces
 - Data Processing: RAGFlow Parser engine
 
-## 📚 Documentation
-
-- [Low-Code Quick Start](#) (Coming Soon)
-- [High-Code Development Guide](#) (Coming Soon)
-- [API Reference](#) (Documentation in Progress)
-- [Domain Knowledge Graph Whitepaper](#) (Coming Soon)
-
-## 📜 Roadmap
-
-View development plan: [SchwarzRAG Roadmap](#) (Coming Soon)
-
 ## 🙌 Contributing
 
 SchwarzRAG thrives through open-source collaboration. We welcome:
@@ -113,17 +116,3 @@ SchwarzRAG thrives through open-source collaboration. We welcome:
 - Domain knowledge expansion
 - System testing & issue reporting
 - Documentation translation & refinement
-
-## 🤝 Partnership
-
-- [Technical Consultation](#)
-- [Academic Collaboration](#)
-- [Enterprise Customization](#)
-
-See [Contribution Guidelines](#) (Coming Soon)
-
-## 👥 Community
-
-Stay updated and get support:
-- WeChat: Scan official account QR code (Coming Soon)
-- Email: ****************.com

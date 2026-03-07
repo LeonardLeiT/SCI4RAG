@@ -40,3 +40,13 @@ if mineru:
             f"src/service/document/parse/mineru/api/api_key"
             )
         save_json({"mineru": apiKey}, mineru_path)
+
+# 4. Create web search model of Google
+Google = data['google_web_search']
+if Google:
+    if Google['method'] == "api":
+        apiKey = Google['apiKey']
+        web_path = Path(
+            f"src/service/retrieve/api_key"
+            )
+        save_json({"Google": apiKey}, web_path)
